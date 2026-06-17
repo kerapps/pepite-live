@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>Pépite</title>
+  <link>index.html</link>
+  <description>Undiscovered gems for people who build with AI</description>
+    <item>
+      <title>Pépite · 2026-06-17 · Agent</title>
+      <link>issues/2026-06-17.html</link>
+      <guid isPermaLink="false">pepite-2026-06-17</guid>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 +0000</pubDate>
+      <description>8 things worth your attention today, surfaced by momentum and freshness rather than press-release volume. (Set ANTHROPIC_API_KEY for the written-up, human version.)
+
+• AI coding agents taught robots how to install GPUs and cut zip-ties (Ars Technica AI)
+
+• Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons (The Decoder)
+
+• NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning (TechCrunch AI)
+
+• Launch HN: Adam (YC W25) – Open-Source AI CAD (Hacker News)
+
+• Plaer1/junction (GitHub)
+
+• vercel/eve (GitHub)
+
+• Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust (Hacker News)
+
+• ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues (arXiv)</description>
+    </item>
+    <item>
+      <title>Pépite · 2026-06-16 · Gpt</title>
+      <link>issues/2026-06-16.html</link>
+      <guid isPermaLink="false">pepite-2026-06-16</guid>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 +0000</pubDate>
+      <description>8 things worth your attention today, surfaced by momentum and freshness rather than press-release volume. (Set ANTHROPIC_API_KEY for the written-up, human version.)
+
+• Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek (The Decoder)
+
+• SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic (The Decoder)
+
+• Android 17 launches with new multitasking tools as Google expands Gemini features (TechCrunch AI)
+
+• GPT‑NL: a sovereign language model for the Netherlands (Hacker News)
+
+• GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz (Hacker News)
+
+• Running local models is good now (Hacker News)
+
+• alchaincyf/fanbox (GitHub)
+
+• Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio (arXiv)</description>
+    </item>
+    <item>
+      <title>Pépite · 2026-06-15 · Gpu</title>
+      <link>issues/2026-06-15.html</link>
+      <guid isPermaLink="false">pepite-2026-06-15</guid>
+      <pubDate>Mon, 15 Jun 2026 07:00:00 +0000</pubDate>
+      <description>8 things worth your attention today, surfaced by momentum and freshness rather than press-release volume. (Set ANTHROPIC_API_KEY for the written-up, human version.)
+
+• Salesforce acquires AI customer service platform Fin for $3.6 billion (TechCrunch AI)
+
+• The US government may be asking Anthropic the impossible by demanding unhackable LLMs (The Decoder)
+
+• As AI agents become employees, NewCore emerges with $66M to give them identities (TechCrunch AI)
+
+• Show HN: machine0 – Persistent NixOS VMs You Control from the CLI (Hacker News)
+
+• Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? (Hacker News)
+
+• orange2ai/renwei-writing (GitHub)
+
+• DanMcInerney/architect-loop (GitHub)
+
+• Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model (Hacker News)</description>
+    </item>
+    <item>
+      <title>Pépite · 2026-06-13 · Agent</title>
+      <link>issues/2026-06-13.html</link>
+      <guid isPermaLink="false">pepite-2026-06-13</guid>
+      <pubDate>Sat, 13 Jun 2026 07:00:00 +0000</pubDate>
+      <description>8 things worth your attention today, surfaced by momentum and freshness rather than press-release volume. (Set ANTHROPIC_API_KEY for the written-up, human version.)
+
+• Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file (The Decoder)
+
+• Open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token (The Decoder)
+
+• US government forces Anthropic to disable Claude Fable 5 and Mythos 5 for all customers worldwide (The Decoder)
+
+• eli-labz/Third-Eye (GitHub)
+
+• superloglabs/superlog (GitHub)
+
+• Making a vintage LLM from scratch (Hacker News)
+
+• MTG Bench: Testing how well LLMs can play Magic (Hacker News)
+
+• Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation (arXiv)</description>
+    </item>
+    <item>
+      <title>Pépite · 2026-06-12 · Labs fight on price, not power</title>
+      <link>issues/2026-06-12.html</link>
+      <guid isPermaLink="false">pepite-2026-06-12</guid>
+      <pubDate>Fri, 12 Jun 2026 07:00:00 +0000</pubDate>
+      <description>Three things you must know today, then the good stuff underneath. The labs are fighting on price now, not just power. OpenAI loosened the limits on Codex. Anthropic shipped a model that costs double for 5.7 percent more. Mistral is raising at a €20 billion valuation. The pattern under all of it is simple. The race is moving from what models can do to what they cost. Below the news, the usual gems. Tools that make your agent behave.
+
+• OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent (The Decoder)
+
+• Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance (The Decoder)
+
+• Mistral is rumored to be raising €3B at €20B valuation (TechCrunch AI)
+
+• DietrichGebert/ponytail (GitHub)
+
+• Kimi K2.7-Code: open-source coding model with better token efficiency (Hacker News)
+
+• Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents (Hacker News)
+
+• amElnagdy/guard-skills (GitHub)
+
+• Reward Modeling for Multi-Agent Orchestration (arXiv)</description>
+    </item>
+</channel></rss>

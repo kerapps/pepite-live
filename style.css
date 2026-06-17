@@ -1,0 +1,60 @@
+:root{
+  --bg:#0c0d10; --panel:#15171c; --panel2:#1b1e25; --line:#262a33;
+  --ink:#e8eaed; --muted:#9aa0aa; --faint:#6b7280; --accent:#7dd3a0;
+  --accent2:#86a7ff; --paper:#c4a6ff; --repo:#7dd3a0; --disc:#ffb86b; --post:#86a7ff;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:16px/1.62 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased}
+a{color:var(--accent2);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:720px;margin:0 auto;padding:40px 22px 80px}
+.site-head{border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:30px}
+.brand{font-size:26px;font-weight:700;color:var(--ink);letter-spacing:-.4px}
+.brand:hover{text-decoration:none}
+.tagline{color:var(--muted);font-size:14px;margin-top:3px}
+.site-head nav{margin-top:12px;font-size:13px;color:var(--faint)}
+.site-head nav a{color:var(--muted)}
+.issue-date{color:var(--faint);font-size:13px;letter-spacing:.4px;text-transform:uppercase;margin-bottom:6px}
+.issue-title{font-size:27px;line-height:1.25;letter-spacing:-.5px;margin:0 0 18px}
+.issue-title a{color:var(--ink)}
+.intro{color:var(--muted);font-size:17px;margin:0 0 26px}
+.tip{background:linear-gradient(180deg,var(--panel2),var(--panel));
+  border:1px solid var(--line);border-left:3px solid var(--accent);
+  border-radius:10px;padding:14px 16px;margin:0 0 30px}
+.tip-label{color:var(--accent);font-size:12px;text-transform:uppercase;letter-spacing:.6px;font-weight:600;margin-bottom:4px}
+.tip-body{color:var(--ink);font-size:15px}
+.deepdive{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:22px 24px;margin:0 0 34px}
+.dd-label{color:var(--paper);font-size:12px;text-transform:uppercase;letter-spacing:.6px;font-weight:600;margin-bottom:10px}
+.deepdive p{color:var(--ink);margin:0 0 12px}
+.picks{display:flex;flex-direction:column;gap:18px}
+.pick{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px 20px}
+.pick.must{border-color:var(--accent);box-shadow:inset 3px 0 0 var(--accent)}
+.pick-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:8px;font-size:12.5px;color:var(--faint)}
+.badge{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;padding:2px 8px;border-radius:20px;background:var(--panel2)}
+.badge-paper{color:var(--paper);box-shadow:inset 0 0 0 1px var(--paper)}
+.badge-repo{color:var(--repo);box-shadow:inset 0 0 0 1px var(--repo)}
+.badge-discussion{color:var(--disc);box-shadow:inset 0 0 0 1px var(--disc)}
+.badge-post{color:var(--post);box-shadow:inset 0 0 0 1px var(--post)}
+.badge-deep{color:var(--paper);box-shadow:inset 0 0 0 1px var(--paper);margin-left:8px}
+.badge-must{color:var(--bg);background:var(--accent);font-weight:700;letter-spacing:.4px}
+.metrics{margin-left:auto;color:var(--muted);font-variant-numeric:tabular-nums}
+.pick-title{font-size:18px;line-height:1.35;margin:0 0 8px}
+.pick-title a{color:var(--ink)}
+.blurb{color:var(--muted);margin:0 0 10px;font-size:15px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font-size:11.5px;color:var(--faint);background:var(--panel2);border:1px solid var(--line);border-radius:6px;padding:2px 8px}
+.archive{list-style:none;padding:0}
+.archive li{padding:9px 0;border-bottom:1px solid var(--line);color:var(--muted)}
+.site-foot{margin-top:46px;padding-top:20px;border-top:1px solid var(--line);color:var(--faint);font-size:13px}
+@media(max-width:480px){.wrap{padding:26px 16px 60px}.metrics{margin-left:0;width:100%}}
+body.compact{font-size:15px}
+body.compact .wrap{padding:26px 18px 56px;max-width:680px}
+body.compact .picks{gap:12px}
+body.compact .pick{padding:13px 15px}
+body.compact .intro{font-size:15.5px;margin-bottom:18px}
+body.compact .issue-title{font-size:23px}
+body.compact .pick-title{font-size:16.5px}
+body.compact .tip{padding:12px 14px;margin-bottom:22px}
+body.compact .blurb{font-size:14px}
