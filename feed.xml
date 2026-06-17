@@ -4,11 +4,11 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
-      <title>Pépite · 2026-06-17 · Agent</title>
+      <title>Pépite · 2026-06-17 · Agents</title>
       <link>issues/2026-06-17.html</link>
       <guid isPermaLink="false">pepite-2026-06-17</guid>
       <pubDate>Wed, 17 Jun 2026 07:00:00 +0000</pubDate>
-      <description>8 things worth your attention today, surfaced by momentum and freshness rather than press-release volume. (Set ANTHROPIC_API_KEY for the written-up, human version.)
+      <description>A few things worth a builder's attention today. Leading today: AI coding agents taught robots how to install GPUs and cut zip-ties. Then a few tools and repos worth a builder's time.
 
 • AI coding agents taught robots how to install GPUs and cut zip-ties (Ars Technica AI)
 
@@ -18,11 +18,11 @@
 
 • Launch HN: Adam (YC W25) – Open-Source AI CAD (Hacker News)
 
-• Plaer1/junction (GitHub)
-
-• vercel/eve (GitHub)
-
 • Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust (Hacker News)
+
+• cobusgreyling/loop-engineering (GitHub)
+
+• chaitanyagiri/munder-difflin (GitHub)
 
 • ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues (arXiv)</description>
     </item>
