@@ -4,17 +4,23 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
-      <title>Exploring the AI Landscape with Burrow and FastContext</title>
+      <title>AI Agents Everywhere: From Your Mac to Photoshop</title>
       <link>issues/2026-06-18.html</link>
       <guid isPermaLink="false">pepite-2026-06-18</guid>
       <pubDate>Thu, 18 Jun 2026 07:00:00 +0000</pubDate>
-      <description>Today's newsletter dives into tools like Burrow and FastContext, offering practical value for Mac users and coding agents alike. Whether you're managing system health or optimizing repository navigation, these tools are here to streamline your workflows.
+      <description>AI agents are quietly infiltrating everything from your creative suite to your local disk cleaner. Today’s finds highlight tools that promise to declutter both your hard drive and your codebase. But not all promises are what they seem.
+
+• Adobe adds AI agents to Photoshop, Premiere, and more Creative Cloud apps (The Decoder)
+
+• Yann LeCun warns AI labs like OpenAI and Anthropic face a "big bubble explosion" (The Decoder)
 
 • Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint (The Decoder)
 
 • [AINews] Midjourney Medical: scan your organs like you step on a scale (Latent Space)
 
-• Nvidia research shows robots that train themselves through AI coding agents (The Decoder)
+• NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI (TechCrunch AI)
+
+• How to turn off AI in your Google Docs (TechCrunch AI)
 
 • caezium/Burrow (GitHub)
 
@@ -24,7 +30,13 @@
 
 • DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models (arXiv)
 
-• After Months of War, Trump Says Iran Has Right to Nuclear Program (Hacker News)</description>
+• Structured Inference with Large Language Gibbs (arXiv)
+
+• GLM-5.2 is probably the most powerful text-only open weights LLM (Simon Willison)
+
+• After Months of War, Trump Says Iran Has Right to Nuclear Program (Hacker News)
+
+• Is it agentic enough? Benchmarking open models on your own tooling (Hugging Face)</description>
     </item>
     <item>
       <title>Pépite · 2026-06-16 · Gpt</title>
