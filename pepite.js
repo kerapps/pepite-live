@@ -19,12 +19,22 @@ function render(){
 }
 function filters(){
  var btns=document.querySelectorAll(".filter-btn");if(!btns.length)return;
+ var fg=document.querySelector(".feed-grid");
+ function show(c,on){c.style.display=on?"":"none";return on?1:0}
  btns.forEach(function(b){b.onclick=function(){
    btns.forEach(function(x){x.classList.remove("on")});b.classList.add("on");
    var f=b.getAttribute("data-f"),cells=document.querySelectorAll(".masonry .cell"),shown=0;
-   cells.forEach(function(c){var ok=(f==="all"||c.getAttribute("data-t")===f);c.style.display=ok?"":"none";if(ok)shown++});
+   if(f==="all"){
+     if(fg)fg.style.display="";
+     cells.forEach(function(c){shown+=show(c,!c.hasAttribute("data-top"))});
+   }else{
+     if(fg)fg.style.display="none";
+     cells.forEach(function(c){shown+=show(c,c.getAttribute("data-topic")===f)});
+   }
    var nr=document.getElementById("noresults");if(nr)nr.hidden=shown>0;
  }});
+ // initial "All" view: the newspaper carries lead/wire, so hide their grid twins
+ document.querySelectorAll(".masonry .cell[data-top]").forEach(function(c){c.style.display="none"});
 }
 if(document.readyState!=="loading"){render();filters()}else{document.addEventListener("DOMContentLoaded",function(){render();filters()})}
 })();

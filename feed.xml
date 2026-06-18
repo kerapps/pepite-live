@@ -4,23 +4,19 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
-      <title>AI Agents in Everything from Creative Cloud to Code Exploration</title>
+      <title>Streamline Your Mac and Decouple AI Contexts</title>
       <link>issues/2026-06-18.html</link>
       <guid isPermaLink="false">pepite-2026-06-18</guid>
       <pubDate>Thu, 18 Jun 2026 07:00:00 +0000</pubDate>
-      <description>Today's spotlight is on AI agents creeping into every corner of our digital lives—from cleaning your Mac to helping out in Photoshop. While Adobe is making AI a collaborative artist, Microsoft focuses on efficient code exploration. Whether it's cleaning up, creating, or coding, there's an agent for that.
+      <description>Today's focus is on smarter agents, both human and AI. From MacOS maintenance with AI interactions to reshaping how coding agents handle context, these tools and ideas push efficiency and adaptability in our workflows.
+
+• General Intuition in talks to raise $300M at around $2B valuation (TechCrunch AI)
 
 • Adobe adds AI agents to Photoshop, Premiere, and more Creative Cloud apps (The Decoder)
 
 • Yann LeCun warns AI labs like OpenAI and Anthropic face a "big bubble explosion" (The Decoder)
 
 • Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint (The Decoder)
-
-• [AINews] Midjourney Medical: scan your organs like you step on a scale (Latent Space)
-
-• NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI (TechCrunch AI)
-
-• How to turn off AI in your Google Docs (TechCrunch AI)
 
 • caezium/Burrow (GitHub)
 
@@ -32,11 +28,15 @@
 
 • Structured Inference with Large Language Gibbs (arXiv)
 
-• GLM-5.2 is probably the most powerful text-only open weights LLM (Simon Willison)
-
 • After Months of War, Trump Says Iran Has Right to Nuclear Program (Hacker News)
 
-• Is it agentic enough? Benchmarking open models on your own tooling (Hugging Face)</description>
+• GLM-5.2 is probably the most powerful text-only open weights LLM (Simon Willison)
+
+• Is it agentic enough? Benchmarking open models on your own tooling (Hugging Face)
+
+• Show HN: Mira – Open-source and self-hosted AI code reviewer (Hacker News)
+
+• Beyond LoRA: Can you beat the most popular fine-tuning technique? (Hugging Face)</description>
     </item>
     <item>
       <title>Pépite · 2026-06-16 · Gpt</title>
