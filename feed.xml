@@ -4,6 +4,29 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Exploring the AI Landscape with Burrow and FastContext</title>
+      <link>issues/2026-06-18.html</link>
+      <guid isPermaLink="false">pepite-2026-06-18</guid>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0000</pubDate>
+      <description>Today's newsletter dives into tools like Burrow and FastContext, offering practical value for Mac users and coding agents alike. Whether you're managing system health or optimizing repository navigation, these tools are here to streamline your workflows.
+
+• Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint (The Decoder)
+
+• [AINews] Midjourney Medical: scan your organs like you step on a scale (Latent Space)
+
+• Nvidia research shows robots that train themselves through AI coding agents (The Decoder)
+
+• caezium/Burrow (GitHub)
+
+• microsoft/fastcontext (GitHub)
+
+• Native Active Perception as Reasoning for Omni-Modal Understanding (arXiv)
+
+• DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models (arXiv)
+
+• After Months of War, Trump Says Iran Has Right to Nuclear Program (Hacker News)</description>
+    </item>
+    <item>
       <title>Pépite · 2026-06-16 · Gpt</title>
       <link>issues/2026-06-16.html</link>
       <guid isPermaLink="false">pepite-2026-06-16</guid>
