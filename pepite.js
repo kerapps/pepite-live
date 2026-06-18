@@ -19,16 +19,18 @@ function render(){
 }
 function filters(){
  var btns=document.querySelectorAll(".filter-btn");if(!btns.length)return;
- var fg=document.querySelector(".feed-grid");
- function show(c,on){c.style.display=on?"":"none";return on?1:0}
+ // the hero band (top 3) + the tip banner belong to the "All" view; a topic
+ // filter hides them so only the matching wire items show (no duplicates).
+ var hero=[document.querySelector(".top3"),document.querySelector(".tipbox.wide")];
+ function show(c,on){if(c)c.style.display=on?"":"none";return on?1:0}
  btns.forEach(function(b){b.onclick=function(){
    btns.forEach(function(x){x.classList.remove("on")});b.classList.add("on");
    var f=b.getAttribute("data-f"),cells=document.querySelectorAll(".masonry .cell"),shown=0;
    if(f==="all"){
-     if(fg)fg.style.display="";
+     hero.forEach(function(h){show(h,true)});
      cells.forEach(function(c){shown+=show(c,!c.hasAttribute("data-top"))});
    }else{
-     if(fg)fg.style.display="none";
+     hero.forEach(function(h){show(h,false)});
      cells.forEach(function(c){shown+=show(c,c.getAttribute("data-topic")===f)});
    }
    var nr=document.getElementById("noresults");if(nr)nr.hidden=shown>0;
