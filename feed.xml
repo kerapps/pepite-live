@@ -4,64 +4,64 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work</title>
+      <link>https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/</link>
+      <guid isPermaLink="false">pepite-ef1cc3a7e9c92f90</guid>
+      <pubDate>Fri, 19 Jun 2026 22:40:14 +0000</pubDate>
+      <category>models</category>
+      <description>History keeps reminding us that controlling cybersecurity software is a fool’s errand. Governments face this with Anthropic's Mythos models, which bans try to corral. Spoiler: it doesn't typically work. The irony: regulations just might make these tools more coveted. Lesson? Focus on managing the risks, not stifling the innovation.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic</title>
+      <link>https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/</link>
+      <guid isPermaLink="false">pepite-fb49f531fef3afad</guid>
+      <pubDate>Fri, 19 Jun 2026 17:54:14 +0000</pubDate>
+      <category>models</category>
+      <description>Top minds are on the move as John Jumper leaps from Google Deepmind to Anthropic. These defections reflect a reshuffling of AI expertise that's traditionally stayed put. It's a reminder that the industry's seismic shifts can sometimes go down to talent over tech. Anthropic might get a short-term intellectual windfall.
+
+— via The Decoder</description>
+    </item>
+    <item>
       <title>OpenAI researchers show small doses of "beneficial trait" training make AI models broadly safer and harder to manipulate</title>
       <link>https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/</link>
       <guid isPermaLink="false">pepite-334d795971c26e52</guid>
       <pubDate>Fri, 19 Jun 2026 10:08:27 +0000</pubDate>
       <category>research</category>
-      <description>OpenAI's claim on fine-tuning through 'beneficial trait' training could be a stride toward safer models. It sounds promising, especially for varied domain applications — better deception detection is nothing to sniff at. But the details and the differences from Anthropic's methods remain complex; this is early-stage and accompanying trade-offs aren't entirely clear.
+      <description>OpenAI's new strategy of minimal beneficial trait reinforcement shows how minor tweaks can bring major safety shifts. By focusing on trait optimization, they've improved across tons of benchmarks, indicating a safer model pathway. It differs from Anthropic’s moral-heavy constitution, leaving builders potential tools but little roadmap.
 
 — via The Decoder</description>
     </item>
     <item>
-      <title>Website "In the Weights" shows whether AI models know who you are</title>
-      <link>https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/</link>
-      <guid isPermaLink="false">pepite-f5231b340ed8c6e2</guid>
-      <pubDate>Fri, 19 Jun 2026 08:24:50 +0000</pubDate>
+      <title>Is the US government’s Anthropic ban accidentally helping the brand?</title>
+      <link>https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/</link>
+      <guid isPermaLink="false">pepite-6a2b919cb1a0c3ed</guid>
+      <pubDate>Fri, 19 Jun 2026 16:08:17 +0000</pubDate>
       <category>models</category>
-      <description>Curious if an AI model "knows" you? 'In the Weights' explores which figures models recall best from their training, teasing out potential biases in model 'memory.' Fascinating for the curious and the paranoid alike, but knowing Mozart scores high doesn’t equate to practical utility in your day-to-day workings.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>A startup claims it broke through a bottleneck that’s holding back LLMs</title>
-      <link>https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/</link>
-      <guid isPermaLink="false">pepite-3edefbad1086d45d</guid>
-      <pubDate>Fri, 19 Jun 2026 10:40:24 +0000</pubDate>
-      <category>models</category>
-      <description>Subquadratic claims a key breakthrough for LLMs but details are sparse, fueling skepticism. If true, this could reshape efficiencies, yet without specifics, it's hype until proven otherwise. Keep an eye on those 'receipts' as they surface.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December</title>
-      <link>https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe</link>
-      <guid isPermaLink="false">pepite-d5ea50af72e7cc98</guid>
-      <pubDate>Fri, 19 Jun 2026 05:53:54 +0000</pubDate>
-      <category>models</category>
-      <description>GLM vs. GPT rivalry heats up with GLM-5.2's favorable reviews. Vibe checks are one thing, but hardcore tests are another; wait for the latter before dusting off your GPT scripts. Yet, if open models’ alignment with specific needs excites you, it's one to track.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>ChatGPT's new health upgrade beats doctor-written answers, OpenAI says</title>
-      <link>https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/</link>
-      <guid isPermaLink="false">pepite-08eaedcc2c0655c8</guid>
-      <pubDate>Thu, 18 Jun 2026 19:17:00 +0000</pubDate>
-      <category>models</category>
-      <description>Don't take OpenAI's claim that GPT-5.5 beats doctors at health queries at face value. While 'improved accuracy' sounds promising, its veracity outside controlled environments remains ambiguous. Always vet against multiple sources in medically sensitive applications.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI is bringing on some big guns in the lead-up to its IPO</title>
-      <link>https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/</link>
-      <guid isPermaLink="false">pepite-d9be48ef082529c7</guid>
-      <pubDate>Thu, 18 Jun 2026 19:59:22 +0000</pubDate>
-      <category>finance</category>
-      <description>OpenAI’s heavyweight hires precede its IPO, including key players from Google DeepMind and former policy officials. This signals more than just tech prowess; it's OpenAI flexing its strategic muscles. Stay tuned for the business shifts likely to follow.
+      <description>Anthropic's forced retreat on Mythos 5 due to USA bans might ironically bolster its allure. National security spins can cast these models as more impactful than intended. Beware: the attractor at play can sometimes boost brand intrigue more than intended functionality-wise.
 
 — via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care</title>
+      <link>https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</link>
+      <guid isPermaLink="false">pepite-23237cfc68c793e2</guid>
+      <pubDate>Fri, 19 Jun 2026 16:01:03 +0000</pubDate>
+      <category>models</category>
+      <description>The ban on Anthropic’s Fable 5 sheds light on how regulatory threats can sometimes fuel growth, rather than inhibit it. Numbers don’t always lie, but in tech, they might mislead. Even with national bans at play, the notion of forbidden tech tends to spike interest.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Norway bans generative AI tools in elementary schools to protect kids' basic learning skills</title>
+      <link>https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/</link>
+      <guid isPermaLink="false">pepite-69970487fc3e50b1</guid>
+      <pubDate>Fri, 19 Jun 2026 18:45:10 +0000</pubDate>
+      <category>other</category>
+      <description>Norway banning generative AI in schools is more about control than progress and raises questions on educational intents. An era where fundamentals of learning face competition with AI prompts a balance of old and new, education style. A cautious, if not slightly regressive, step.
+
+— via The Decoder</description>
     </item>
     <item>
       <title>Show HN: Talos – Open-source WASM interpreter for Lean</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">pepite-9f9a76ef7a7709f7</guid>
       <pubDate>Thu, 18 Jun 2026 13:10:44 +0000</pubDate>
       <category>repos</category>
-      <description>Talos could be a game-changer for those wrestling with AI-generated code. Formal verification for WebAssembly in Lean is a bold step toward ensuring your code does what it's supposed to, mathematically so. But it's niche and leans heavily on Lean itself. If you're in that space, it might just be the tool you need to bolster your code's integrity without adding a new layer of complexity.
+      <description>Talos aims to demystify WebAssembly verification through Lean, making formal proofs for WASM modules not just a pipe dream. With AI-generated code flooding production, ensuring these snippets do what you expect is critical. Talos doesn't offer shiny dashboards, but it does promise rigor. Catch: If you're not ready to dive into formal methods, it might feel like learning coffee from scratch.
 
 — via Hacker News</description>
     </item>
@@ -79,7 +79,7 @@
       <guid isPermaLink="false">pepite-85b69f922773970c</guid>
       <pubDate>Fri, 29 May 2026 09:13:26 +0000</pubDate>
       <category>repos</category>
-      <description>jdevalk’s specification.website untangles the web's standards maze into a single, human-readable resource. If you're managing compliance across diverse web protocols, this can save you time and headaches. It’s a handy manual, but don’t expect it to solve your specific implementation issues — it’s a guide, not a wrench.
+      <description>Software standards are a labyrinth, and jdevalk/specification.website attempts to map them. This collection aggregates everything from HTML to security headers, trying to give developers a holistic view. It’s the encyclopedia nobody reads cover-to-cover unless they're architecting the web. Catch: aggregating isn't automating—putting it into practice still falls on you.
 
 — via GitHub</description>
     </item>
@@ -89,9 +89,19 @@
       <guid isPermaLink="false">pepite-396a3d575ae91cf3</guid>
       <pubDate>Wed, 03 Jun 2026 18:55:02 +0000</pubDate>
       <category>repos</category>
-      <description>sandboxd is lowering the bar for deploying isolated cloud dev environments. For AI app builders looking to offer quick, secure sandboxes akin to what big players like Replit provide, this open-source tool gives you a leg up without locking into proprietary systems. The simplicity is great; just know that 'one command' setups often invite configuration surprises down the line.
+      <description>Sandboxd promises the allure of instant app deployment, offering isolated dev environments like magic on one machine. It’s like hosting your own Replit, minus a few paywalls. Ideal for those who want self-hosted flexibility. The rub is: you’ll need a solid server and some time to configure it just right.
 
 — via GitHub</description>
+    </item>
+    <item>
+      <title>Quoting Sean Lynch</title>
+      <link>https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything</link>
+      <guid isPermaLink="false">pepite-9045a6c6cb66c989</guid>
+      <pubDate>Fri, 19 Jun 2026 22:45:49 +0000</pubDate>
+      <category>agents</category>
+      <description>MCP's unexpected benefit for AI agents? It separates authentication from context windows—a small-seeming change with large implications. It gives AI systems the chance to handle longer-running operations without throwing context-switch tantrums. But keep in mind, as Sean Lynch implies, it's not a panacea—it’s a narrow but effective solution.
+
+— via Simon Willison</description>
     </item>
     <item>
       <title>Multi-Task Bayesian In-Context Learning</title>
@@ -99,7 +109,7 @@
       <guid isPermaLink="false">pepite-47cc5d9b4ebc0bd2</guid>
       <pubDate>Thu, 18 Jun 2026 17:50:10 +0000</pubDate>
       <category>research</category>
-      <description>Multi-Task Bayesian In-Context Learning tackles distribution shifts more gracefully. Bridging Bayesian inference with in-context models can sound like overkill for standard LLMs, but it holds promise for those facing unpredictable input variations. Be warned, though: it's an academic leap with practical constraints still being ironed out.
+      <description>Counterfactual reasoning is the cornerstone of DeepSWIP, pushing neural logic systems beyond mere association. By using single-world semantics, it bridges that ever-tricky reality gap between causation and correlation. This technique can help sharpen AI inference under diverse conditions, though being exact demands some serious neural-grounding skills.
 
 — via arXiv</description>
     </item>
@@ -109,7 +119,7 @@
       <guid isPermaLink="false">pepite-ac5cb1ab6b0ec624</guid>
       <pubDate>Thu, 18 Jun 2026 17:39:56 +0000</pubDate>
       <category>research</category>
-      <description>StylisticBias offers an intriguing benchmark for measuring social biases in MLLMs. By controlling variables more precisely, it sheds light on how models judge based on superficial traits. It's a crucial tool if bias correction is on your list, yet as with any benchmark, it's a diagnostic rather than a cure.
+      <description>StylisticBias digs into multimodal biases within language models with a new benchmark. It wrangles the typical muddle of identity vs. attribute impact into clearer comparative data. Fairness in AI perception sounds noble, but massively scaling this to real-world scenarios isn't trivial. Start small and specific to see real gains.
 
 — via arXiv</description>
     </item>
@@ -119,27 +129,17 @@
       <guid isPermaLink="false">pepite-3874b25aca1fe3f7</guid>
       <pubDate>Thu, 18 Jun 2026 17:39:00 +0000</pubDate>
       <category>research</category>
-      <description>DeepSWIP enhances neural probabilistic logic programs with counterfactual reasoning. Ideal for those already into neuro-symbolic systems, it offers precision through causal semantics. But expect a steep learning curve; marrying neural perception with causal logic isn't for the faint of heart.
+      <description>DeepSWIP gives neural probabilistic logic a counterfactual dimension, based on intervention logic. It transforms standard approaches into more causal reasoning frameworks, critical for AI reasoning in complex scenarios. If neural nets make you nervous, this offers a structured escape route—but it’s new ground with rough edges.
 
 — via arXiv</description>
     </item>
     <item>
-      <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
-      <link>https://simonwillison.net/2026/Jun/17/glm-52/</link>
-      <guid isPermaLink="false">pepite-cdbae5587f4853d1</guid>
-      <pubDate>Thu, 18 Jun 2026 15:58:09 +0000</pubDate>
+      <title>Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages</title>
+      <link>https://github.com/Amal-David/pagecast</link>
+      <guid isPermaLink="false">pepite-763387345c4a4d1a</guid>
+      <pubDate>Thu, 18 Jun 2026 19:42:54 +0000</pubDate>
       <category>models</category>
-      <description>GLM-5.2's buzz hints at a potential open model leader, challenging GPT. If you're banking on transparency and customization over black boxes, this model's worth watching. Still, community assessments like 'vibe checks' need more rigorous benchmarks to justify a switch.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more</title>
-      <link>https://news.ycombinator.com/item?id=48581792</link>
-      <guid isPermaLink="false">pepite-58ade912e11bada6</guid>
-      <pubDate>Thu, 18 Jun 2026 07:03:11 +0000</pubDate>
-      <category>agents</category>
-      <description>Mistral.rs v0.8.10 opens agent skills to local models, breaking closed-model chains. If agent skills were once out of reach due to proprietary lock-in, now’s the time to explore locally. Just realize 'compatibility' often means extra codifying under the hood.
+      <description>Pagecast takes your Markdown and HTML reports from local obscurity to the open web using Cloudflare Pages. It automates the path from static content to shared insights. If you're drowning in localhost tunnels, it’s a simple yet effective tool. The downside? Your Cloudflare creds could feel the exposure stress.
 
 — via Hacker News</description>
     </item>
