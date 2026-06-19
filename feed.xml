@@ -4,6 +4,41 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Talos and the Challenge of AI Verification</title>
+      <link>issues/2026-06-19.html</link>
+      <guid isPermaLink="false">pepite-2026-06-19</guid>
+      <pubDate>Fri, 19 Jun 2026 07:00:00 +0000</pubDate>
+      <description>AI is churning out code faster than we can verify it. Today's entries dive deep into frameworks and experiments addressing this issue, from Talos's formal verification for WASM to the social biases embedded in MLLMs.
+
+• OpenAI researchers show small doses of "beneficial trait" training make AI models broadly safer and harder to manipulate (The Decoder)
+
+• Website "In the Weights" shows whether AI models know who you are (The Decoder)
+
+• A startup claims it broke through a bottleneck that’s holding back LLMs (MIT Tech Review AI)
+
+• [AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December (Latent Space)
+
+• ChatGPT's new health upgrade beats doctor-written answers, OpenAI says (The Decoder)
+
+• OpenAI is bringing on some big guns in the lead-up to its IPO (TechCrunch AI)
+
+• Show HN: Talos – Open-source WASM interpreter for Lean (Hacker News)
+
+• jdevalk/specification.website (GitHub)
+
+• tastyeffectco/sandboxd (GitHub)
+
+• Multi-Task Bayesian In-Context Learning (arXiv)
+
+• StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs (arXiv)
+
+• DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs (arXiv)
+
+• GLM-5.2 is probably the most powerful text-only open weights LLM (Hacker News)
+
+• Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more (Hacker News)</description>
+    </item>
+    <item>
       <title>Streamline Your Mac and Decouple AI Contexts</title>
       <link>issues/2026-06-18.html</link>
       <guid isPermaLink="false">pepite-2026-06-18</guid>
