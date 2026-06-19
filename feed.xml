@@ -4,165 +4,603 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
-      <title>Talos and the Challenge of AI Verification</title>
-      <link>issues/2026-06-19.html</link>
-      <guid isPermaLink="false">pepite-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 07:00:00 +0000</pubDate>
-      <description>AI is churning out code faster than we can verify it. Today's entries dive deep into frameworks and experiments addressing this issue, from Talos's formal verification for WASM to the social biases embedded in MLLMs.
+      <title>OpenAI researchers show small doses of "beneficial trait" training make AI models broadly safer and harder to manipulate</title>
+      <link>https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/</link>
+      <guid isPermaLink="false">pepite-334d795971c26e52</guid>
+      <pubDate>Fri, 19 Jun 2026 10:08:27 +0000</pubDate>
+      <category>research</category>
+      <description>OpenAI's claim on fine-tuning through 'beneficial trait' training could be a stride toward safer models. It sounds promising, especially for varied domain applications — better deception detection is nothing to sniff at. But the details and the differences from Anthropic's methods remain complex; this is early-stage and accompanying trade-offs aren't entirely clear.
 
-• OpenAI researchers show small doses of "beneficial trait" training make AI models broadly safer and harder to manipulate (The Decoder)
-
-• Website "In the Weights" shows whether AI models know who you are (The Decoder)
-
-• A startup claims it broke through a bottleneck that’s holding back LLMs (MIT Tech Review AI)
-
-• [AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December (Latent Space)
-
-• ChatGPT's new health upgrade beats doctor-written answers, OpenAI says (The Decoder)
-
-• OpenAI is bringing on some big guns in the lead-up to its IPO (TechCrunch AI)
-
-• Show HN: Talos – Open-source WASM interpreter for Lean (Hacker News)
-
-• jdevalk/specification.website (GitHub)
-
-• tastyeffectco/sandboxd (GitHub)
-
-• Multi-Task Bayesian In-Context Learning (arXiv)
-
-• StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs (arXiv)
-
-• DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs (arXiv)
-
-• GLM-5.2 is probably the most powerful text-only open weights LLM (Hacker News)
-
-• Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more (Hacker News)</description>
+— via The Decoder</description>
     </item>
     <item>
-      <title>Streamline Your Mac and Decouple AI Contexts</title>
-      <link>issues/2026-06-18.html</link>
-      <guid isPermaLink="false">pepite-2026-06-18</guid>
-      <pubDate>Thu, 18 Jun 2026 07:00:00 +0000</pubDate>
-      <description>Today's focus is on smarter agents, both human and AI. From MacOS maintenance with AI interactions to reshaping how coding agents handle context, these tools and ideas push efficiency and adaptability in our workflows.
+      <title>Website "In the Weights" shows whether AI models know who you are</title>
+      <link>https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/</link>
+      <guid isPermaLink="false">pepite-f5231b340ed8c6e2</guid>
+      <pubDate>Fri, 19 Jun 2026 08:24:50 +0000</pubDate>
+      <category>models</category>
+      <description>Curious if an AI model "knows" you? 'In the Weights' explores which figures models recall best from their training, teasing out potential biases in model 'memory.' Fascinating for the curious and the paranoid alike, but knowing Mozart scores high doesn’t equate to practical utility in your day-to-day workings.
 
-• General Intuition in talks to raise $300M at around $2B valuation (TechCrunch AI)
-
-• Adobe adds AI agents to Photoshop, Premiere, and more Creative Cloud apps (The Decoder)
-
-• Yann LeCun warns AI labs like OpenAI and Anthropic face a "big bubble explosion" (The Decoder)
-
-• Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint (The Decoder)
-
-• caezium/Burrow (GitHub)
-
-• microsoft/fastcontext (GitHub)
-
-• Native Active Perception as Reasoning for Omni-Modal Understanding (arXiv)
-
-• DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models (arXiv)
-
-• Structured Inference with Large Language Gibbs (arXiv)
-
-• After Months of War, Trump Says Iran Has Right to Nuclear Program (Hacker News)
-
-• GLM-5.2 is probably the most powerful text-only open weights LLM (Simon Willison)
-
-• Is it agentic enough? Benchmarking open models on your own tooling (Hugging Face)
-
-• Show HN: Mira – Open-source and self-hosted AI code reviewer (Hacker News)
-
-• Beyond LoRA: Can you beat the most popular fine-tuning technique? (Hugging Face)</description>
+— via The Decoder</description>
     </item>
     <item>
-      <title>Pépite · 2026-06-16 · Gpt</title>
-      <link>issues/2026-06-16.html</link>
-      <guid isPermaLink="false">pepite-2026-06-16</guid>
-      <pubDate>Tue, 16 Jun 2026 07:00:00 +0000</pubDate>
-      <description>8 things worth your attention today, surfaced by momentum and freshness rather than press-release volume. (Set ANTHROPIC_API_KEY for the written-up, human version.)
+      <title>A startup claims it broke through a bottleneck that’s holding back LLMs</title>
+      <link>https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/</link>
+      <guid isPermaLink="false">pepite-3edefbad1086d45d</guid>
+      <pubDate>Fri, 19 Jun 2026 10:40:24 +0000</pubDate>
+      <category>models</category>
+      <description>Subquadratic claims a key breakthrough for LLMs but details are sparse, fueling skepticism. If true, this could reshape efficiencies, yet without specifics, it's hype until proven otherwise. Keep an eye on those 'receipts' as they surface.
 
-• Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek (The Decoder)
-
-• SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic (The Decoder)
-
-• Android 17 launches with new multitasking tools as Google expands Gemini features (TechCrunch AI)
-
-• GPT‑NL: a sovereign language model for the Netherlands (Hacker News)
-
-• GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz (Hacker News)
-
-• Running local models is good now (Hacker News)
-
-• alchaincyf/fanbox (GitHub)
-
-• Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio (arXiv)</description>
+— via MIT Tech Review AI</description>
     </item>
     <item>
-      <title>Pépite · 2026-06-15 · Gpu</title>
-      <link>issues/2026-06-15.html</link>
-      <guid isPermaLink="false">pepite-2026-06-15</guid>
-      <pubDate>Mon, 15 Jun 2026 07:00:00 +0000</pubDate>
-      <description>8 things worth your attention today, surfaced by momentum and freshness rather than press-release volume. (Set ANTHROPIC_API_KEY for the written-up, human version.)
+      <title>[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December</title>
+      <link>https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe</link>
+      <guid isPermaLink="false">pepite-d5ea50af72e7cc98</guid>
+      <pubDate>Fri, 19 Jun 2026 05:53:54 +0000</pubDate>
+      <category>models</category>
+      <description>GLM vs. GPT rivalry heats up with GLM-5.2's favorable reviews. Vibe checks are one thing, but hardcore tests are another; wait for the latter before dusting off your GPT scripts. Yet, if open models’ alignment with specific needs excites you, it's one to track.
 
-• Salesforce acquires AI customer service platform Fin for $3.6 billion (TechCrunch AI)
-
-• The US government may be asking Anthropic the impossible by demanding unhackable LLMs (The Decoder)
-
-• As AI agents become employees, NewCore emerges with $66M to give them identities (TechCrunch AI)
-
-• Show HN: machine0 – Persistent NixOS VMs You Control from the CLI (Hacker News)
-
-• Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? (Hacker News)
-
-• orange2ai/renwei-writing (GitHub)
-
-• DanMcInerney/architect-loop (GitHub)
-
-• Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model (Hacker News)</description>
+— via Latent Space</description>
     </item>
     <item>
-      <title>Pépite · 2026-06-13 · Agent</title>
-      <link>issues/2026-06-13.html</link>
-      <guid isPermaLink="false">pepite-2026-06-13</guid>
-      <pubDate>Sat, 13 Jun 2026 07:00:00 +0000</pubDate>
-      <description>8 things worth your attention today, surfaced by momentum and freshness rather than press-release volume. (Set ANTHROPIC_API_KEY for the written-up, human version.)
+      <title>ChatGPT's new health upgrade beats doctor-written answers, OpenAI says</title>
+      <link>https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/</link>
+      <guid isPermaLink="false">pepite-08eaedcc2c0655c8</guid>
+      <pubDate>Thu, 18 Jun 2026 19:17:00 +0000</pubDate>
+      <category>models</category>
+      <description>Don't take OpenAI's claim that GPT-5.5 beats doctors at health queries at face value. While 'improved accuracy' sounds promising, its veracity outside controlled environments remains ambiguous. Always vet against multiple sources in medically sensitive applications.
 
-• Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file (The Decoder)
-
-• Open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token (The Decoder)
-
-• US government forces Anthropic to disable Claude Fable 5 and Mythos 5 for all customers worldwide (The Decoder)
-
-• eli-labz/Third-Eye (GitHub)
-
-• superloglabs/superlog (GitHub)
-
-• Making a vintage LLM from scratch (Hacker News)
-
-• MTG Bench: Testing how well LLMs can play Magic (Hacker News)
-
-• Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation (arXiv)</description>
+— via The Decoder</description>
     </item>
     <item>
-      <title>Pépite · 2026-06-12 · Labs fight on price, not power</title>
-      <link>issues/2026-06-12.html</link>
-      <guid isPermaLink="false">pepite-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 07:00:00 +0000</pubDate>
-      <description>Three things you must know today, then the good stuff underneath. The labs are fighting on price now, not just power. OpenAI loosened the limits on Codex. Anthropic shipped a model that costs double for 5.7 percent more. Mistral is raising at a €20 billion valuation. The pattern under all of it is simple. The race is moving from what models can do to what they cost. Below the news, the usual gems. Tools that make your agent behave.
+      <title>OpenAI is bringing on some big guns in the lead-up to its IPO</title>
+      <link>https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/</link>
+      <guid isPermaLink="false">pepite-d9be48ef082529c7</guid>
+      <pubDate>Thu, 18 Jun 2026 19:59:22 +0000</pubDate>
+      <category>finance</category>
+      <description>OpenAI’s heavyweight hires precede its IPO, including key players from Google DeepMind and former policy officials. This signals more than just tech prowess; it's OpenAI flexing its strategic muscles. Stay tuned for the business shifts likely to follow.
 
-• OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent (The Decoder)
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: Talos – Open-source WASM interpreter for Lean</title>
+      <link>https://github.com/cajal-technologies/talos</link>
+      <guid isPermaLink="false">pepite-9f9a76ef7a7709f7</guid>
+      <pubDate>Thu, 18 Jun 2026 13:10:44 +0000</pubDate>
+      <category>repos</category>
+      <description>Talos could be a game-changer for those wrestling with AI-generated code. Formal verification for WebAssembly in Lean is a bold step toward ensuring your code does what it's supposed to, mathematically so. But it's niche and leans heavily on Lean itself. If you're in that space, it might just be the tool you need to bolster your code's integrity without adding a new layer of complexity.
 
-• Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance (The Decoder)
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>jdevalk/specification.website</title>
+      <link>https://github.com/jdevalk/specification.website</link>
+      <guid isPermaLink="false">pepite-85b69f922773970c</guid>
+      <pubDate>Fri, 29 May 2026 09:13:26 +0000</pubDate>
+      <category>repos</category>
+      <description>jdevalk’s specification.website untangles the web's standards maze into a single, human-readable resource. If you're managing compliance across diverse web protocols, this can save you time and headaches. It’s a handy manual, but don’t expect it to solve your specific implementation issues — it’s a guide, not a wrench.
 
-• Mistral is rumored to be raising €3B at €20B valuation (TechCrunch AI)
+— via GitHub</description>
+    </item>
+    <item>
+      <title>tastyeffectco/sandboxd</title>
+      <link>https://github.com/tastyeffectco/sandboxd</link>
+      <guid isPermaLink="false">pepite-396a3d575ae91cf3</guid>
+      <pubDate>Wed, 03 Jun 2026 18:55:02 +0000</pubDate>
+      <category>repos</category>
+      <description>sandboxd is lowering the bar for deploying isolated cloud dev environments. For AI app builders looking to offer quick, secure sandboxes akin to what big players like Replit provide, this open-source tool gives you a leg up without locking into proprietary systems. The simplicity is great; just know that 'one command' setups often invite configuration surprises down the line.
 
-• DietrichGebert/ponytail (GitHub)
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Multi-Task Bayesian In-Context Learning</title>
+      <link>http://arxiv.org/abs/2606.20538v1</link>
+      <guid isPermaLink="false">pepite-47cc5d9b4ebc0bd2</guid>
+      <pubDate>Thu, 18 Jun 2026 17:50:10 +0000</pubDate>
+      <category>research</category>
+      <description>Multi-Task Bayesian In-Context Learning tackles distribution shifts more gracefully. Bridging Bayesian inference with in-context models can sound like overkill for standard LLMs, but it holds promise for those facing unpredictable input variations. Be warned, though: it's an academic leap with practical constraints still being ironed out.
 
-• Kimi K2.7-Code: open-source coding model with better token efficiency (Hacker News)
+— via arXiv</description>
+    </item>
+    <item>
+      <title>StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs</title>
+      <link>http://arxiv.org/abs/2606.20527v1</link>
+      <guid isPermaLink="false">pepite-ac5cb1ab6b0ec624</guid>
+      <pubDate>Thu, 18 Jun 2026 17:39:56 +0000</pubDate>
+      <category>research</category>
+      <description>StylisticBias offers an intriguing benchmark for measuring social biases in MLLMs. By controlling variables more precisely, it sheds light on how models judge based on superficial traits. It's a crucial tool if bias correction is on your list, yet as with any benchmark, it's a diagnostic rather than a cure.
 
-• Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents (Hacker News)
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs</title>
+      <link>http://arxiv.org/abs/2606.20526v1</link>
+      <guid isPermaLink="false">pepite-3874b25aca1fe3f7</guid>
+      <pubDate>Thu, 18 Jun 2026 17:39:00 +0000</pubDate>
+      <category>research</category>
+      <description>DeepSWIP enhances neural probabilistic logic programs with counterfactual reasoning. Ideal for those already into neuro-symbolic systems, it offers precision through causal semantics. But expect a steep learning curve; marrying neural perception with causal logic isn't for the faint of heart.
 
-• amElnagdy/guard-skills (GitHub)
+— via arXiv</description>
+    </item>
+    <item>
+      <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
+      <link>https://simonwillison.net/2026/Jun/17/glm-52/</link>
+      <guid isPermaLink="false">pepite-cdbae5587f4853d1</guid>
+      <pubDate>Thu, 18 Jun 2026 15:58:09 +0000</pubDate>
+      <category>models</category>
+      <description>GLM-5.2's buzz hints at a potential open model leader, challenging GPT. If you're banking on transparency and customization over black boxes, this model's worth watching. Still, community assessments like 'vibe checks' need more rigorous benchmarks to justify a switch.
 
-• Reward Modeling for Multi-Agent Orchestration (arXiv)</description>
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more</title>
+      <link>https://news.ycombinator.com/item?id=48581792</link>
+      <guid isPermaLink="false">pepite-58ade912e11bada6</guid>
+      <pubDate>Thu, 18 Jun 2026 07:03:11 +0000</pubDate>
+      <category>agents</category>
+      <description>Mistral.rs v0.8.10 opens agent skills to local models, breaking closed-model chains. If agent skills were once out of reach due to proprietary lock-in, now’s the time to explore locally. Just realize 'compatibility' often means extra codifying under the hood.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>General Intuition in talks to raise $300M at around $2B valuation</title>
+      <link>https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/</link>
+      <guid isPermaLink="false">pepite-0af127d259a400a9</guid>
+      <pubDate>Thu, 18 Jun 2026 15:20:37 +0000</pubDate>
+      <category>finance</category>
+      <description>General Intuition is trying to raise serious capital, aiming at a $2B valuation for their spatial-temporal AI agents. While they're catching news due to their hefty fundraising talks and backing from power players like Bezos, there's skepticism around the ubiquitous 'AI-agent' buzzword. It's big money in a field still fleshing out commercial applications, especially with operational costs not budging as fast as innovation demands.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Adobe adds AI agents to Photoshop, Premiere, and more Creative Cloud apps</title>
+      <link>https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps/</link>
+      <guid isPermaLink="false">pepite-0459dd4987097272</guid>
+      <pubDate>Thu, 18 Jun 2026 12:59:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Adobe's AI agents in Creative Cloud aim to save users from repetitive multi-step tasks in apps like Photoshop. While AI crafting your art sounds intriguing, the real hook is Adobe's leap to integrate these into external AI platforms like ChatGPT. As creativity becomes more automated, expect discussions about AI agency—and quality—to heat up. But remember, more automation often means less personal touch in the outcomes.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Yann LeCun warns AI labs like OpenAI and Anthropic face a "big bubble explosion"</title>
+      <link>https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/</link>
+      <guid isPermaLink="false">pepite-547b5fe0a59029ac</guid>
+      <pubDate>Thu, 18 Jun 2026 13:35:47 +0000</pubDate>
+      <category>finance</category>
+      <description>Yann LeCun throws a cautionary flag, warning that AI titans like OpenAI aren't financially sustainable long-term. By pointing fingers at pricey operations subsidized by investor pockets, LeCun not-so-subtly promotes his own AMI Labs. While his criticism hints at a critical financial outlook, it reveals the tension of scaling AI sustainably versus maintaining high R&amp;D costs.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint</title>
+      <link>https://the-decoder.com/googles-gemini-co-lead-noam-shazeer-joins-openai-after-two-year-return-stint/</link>
+      <guid isPermaLink="false">pepite-4394dc55f0563e60</guid>
+      <pubDate>Thu, 18 Jun 2026 07:08:29 +0000</pubDate>
+      <category>models</category>
+      <description>In the game of AI musical chairs, Noam Shazeer, a key architect of Google's Gemini, leaps to OpenAI. High-profile talent swaps like this keep the who's-who in AI dynamic but don't immediately translate to game-changing tech. Interesting, sure, but more relevant would be seeing substantial output shifts at OpenAI following his arrival.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>caezium/Burrow</title>
+      <link>https://github.com/caezium/Burrow</link>
+      <guid isPermaLink="false">pepite-ee077937db9fc328</guid>
+      <pubDate>Sun, 31 May 2026 08:37:49 +0000</pubDate>
+      <category>repos</category>
+      <description>Burrow is stepping up the disorganized Mac user's game by wrapping around the mo CLI in a neat Mac app. It's a one-stop solution for cleaning up your disk space and more, but what sets it apart is the new MCP server. Your AI agents can ask it about your Mac's state, directly interacting through this interface. While it extends the mo CLI feature set significantly, you'll need macOS to experience it, leaving other OS users out in the cold.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>microsoft/fastcontext</title>
+      <link>https://github.com/microsoft/fastcontext</link>
+      <guid isPermaLink="false">pepite-bb10dc3e3d92d4dd</guid>
+      <pubDate>Tue, 02 Jun 2026 05:01:11 +0000</pubDate>
+      <category>repos</category>
+      <description>FastContext could revolutionize how coding agents tackle repository exploration by offloading the context-heavy tasks. Instead of bloating the main agent's context window with needless file reads, this sub-agent handles exploration via parallel tool calls and returns precise citations. The upside? It keeps the heavy lifting away from the main agent, leaving it free to focus on coding. However, this assumes you're running complex multi-agent architectures, which not everyone is.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Native Active Perception as Reasoning for Omni-Modal Understanding</title>
+      <link>http://arxiv.org/abs/2606.19341v1</link>
+      <guid isPermaLink="false">pepite-6766b0edef036ca8</guid>
+      <pubDate>Wed, 17 Jun 2026 17:59:56 +0000</pubDate>
+      <category>research</category>
+      <description>OmniAgent breaks free from traditional video understanding's compute-heavy grind. It introduces a POMDP-based cycle to interactively process only necessary audiovisual cues, cutting the resource bloat as videos grow longer. This technique stands out for making reasoning scale-independent from video length, though adoption may lag till frameworks fully simplify integration into existing workflows.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models</title>
+      <link>http://arxiv.org/abs/2606.19257v1</link>
+      <guid isPermaLink="false">pepite-0a5b300e9e6c4d38</guid>
+      <pubDate>Wed, 17 Jun 2026 16:34:02 +0000</pubDate>
+      <category>research</category>
+      <description>DreamReasoner-8B unveils the effects of block sizes in diffusion reasoning models, trading off detail for speed. Block-size curriculum learning bridges performance gaps, flexibly shifting from detailed to chunkier blocks during training. This curriculum approach promises better reasoning persistency in long CoT tasks, but it's a niche field where initial familiarity with block diffusion models is still crucial.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Structured Inference with Large Language Gibbs</title>
+      <link>http://arxiv.org/abs/2606.19264v1</link>
+      <guid isPermaLink="false">pepite-d952ed964f2f6c88</guid>
+      <pubDate>Wed, 17 Jun 2026 16:40:32 +0000</pubDate>
+      <category>research</category>
+      <description>Large Language Gibbs introduces probabilistic rigour to LLM inference, using Gibbs sampling for structured objects. This avoids the biases tied to single-pass generation by resampling, offering potentially more accurate outputs. It’s a technique with refreshing depth but leaves you pondering its practical utility compared to quick-and-dirty autoregressive methods.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>After Months of War, Trump Says Iran Has Right to Nuclear Program</title>
+      <link>https://newrepublic.com/post/212003/trump-iran-right-nuclear-program</link>
+      <guid isPermaLink="false">pepite-ba6c97e0ab5da509</guid>
+      <pubDate>Wed, 17 Jun 2026 22:00:45 +0000</pubDate>
+      <category>other</category>
+      <description>As political debates unfold, engineers are preoccupied with how embedding strategies influence these narratives. While the mix of geopolitics and engineering might seem tangential, the conversation around AI’s role in media persists. It hints at the challenges and opportunities AI faces in policy-shaping domains.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
+      <link>https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything</link>
+      <guid isPermaLink="false">pepite-c8386c0cd6ca9cd3</guid>
+      <pubDate>Wed, 17 Jun 2026 23:58:39 +0000</pubDate>
+      <category>models</category>
+      <description>GLM-5.2, a 753B parameter text-only LLM, boldly drops as open weights under an MIT license, sporting a 1 million token context window. Beijing’s Z.ai ups the ante on democratizing vast LLMs, but practically running or fine-tuning such a behemoth may strike your budget, so tread cautiously. While it’s a power tool theoretically accessible to all, operational demands limit its audience to those monetarily equipped.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Is it agentic enough? Benchmarking open models on your own tooling</title>
+      <link>https://huggingface.co/blog/is-it-agentic-enough</link>
+      <guid isPermaLink="false">pepite-d44bbcfdf323272f</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <category>research</category>
+      <description>Hugging Face asks if your fine-tuning surpasses LoRA, the reigning technique. Drawing builders into a broader landscape of better personalization methods, LoRA tapering invites you to challenge your default setup. The answer isn't straightforward, so expect to test and iterate beyond just off-the-shelf solutions to discover the optimal fit.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Show HN: Mira – Open-source and self-hosted AI code reviewer</title>
+      <link>https://github.com/miracodeai/mira</link>
+      <guid isPermaLink="false">pepite-a51f2fcd677afc17</guid>
+      <pubDate>Wed, 17 Jun 2026 13:23:54 +0000</pubDate>
+      <category>agents</category>
+      <description>Hey HN, I'm Jay, co-creator of Mira. An open-source, self-hosted AI code reviewer where you BYOK (bring your own key). Local models are getting really good. Hosted frontier models are getting really expensive. So, we built Mira. Mira has some snazzy features too: - It's really fast at reviewing. Average is 77s compared with Greptile's 5 minutes. Your PRs… It's pulling 13pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Beyond LoRA: Can you beat the most popular fine-tuning technique?</title>
+      <link>https://huggingface.co/blog/peft-beyond-lora</link>
+      <guid isPermaLink="false">pepite-dc672d00868203d0</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>A new post worth a look.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek</title>
+      <link>https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/</link>
+      <guid isPermaLink="false">pepite-04af2d812f263008</guid>
+      <pubDate>Tue, 16 Jun 2026 19:32:38 +0000</pubDate>
+      <category>agents</category>
+      <description>Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable. The move fits a broader pattern in the industry. The article Microsoft's Copilot Cowork moves to usage-based billing and may… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic</title>
+      <link>https://the-decoder.com/spacex-bets-60-billion-on-cursor-to-catch-openai-and-anthropic/</link>
+      <guid isPermaLink="false">pepite-be7724b25d0a1460</guid>
+      <pubDate>Tue, 16 Jun 2026 15:16:08 +0000</pubDate>
+      <category>finance</category>
+      <description>Just two trading days after its IPO, Elon Musk's SpaceX is buying AI coding startup Anysphere. The deal is meant to help the struggling xAI division catch up with Anthropic and OpenAI. The article SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic appeared first on The Decoder . It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Android 17 launches with new multitasking tools as Google expands Gemini features</title>
+      <link>https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/</link>
+      <guid isPermaLink="false">pepite-302106ce520eb3e0</guid>
+      <pubDate>Tue, 16 Jun 2026 18:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>GPT‑NL: a sovereign language model for the Netherlands</title>
+      <link>https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/</link>
+      <guid isPermaLink="false">pepite-b39dcc815ae5a73c</guid>
+      <pubDate>Tue, 16 Jun 2026 17:54:02 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 651pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz</title>
+      <link>https://twitter.com/fguzmanai/status/2065832668172845209</link>
+      <guid isPermaLink="false">pepite-d233638df10bb8e8</guid>
+      <pubDate>Tue, 16 Jun 2026 16:12:26 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 172pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Running local models is good now</title>
+      <link>https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/</link>
+      <guid isPermaLink="false">pepite-f752475414af8512</guid>
+      <pubDate>Tue, 16 Jun 2026 14:36:57 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 2933pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>alchaincyf/fanbox</title>
+      <link>https://github.com/alchaincyf/fanbox</link>
+      <guid isPermaLink="false">pepite-2ad96d742453f6cb</guid>
+      <pubDate>Wed, 10 Jun 2026 01:01:42 +0000</pubDate>
+      <category>repos</category>
+      <description>一边浏览、预览、编辑本地文件；一边在内嵌真实终端里跑 Claude Code 或任何 coding agent。 agent 每写一个文件，对应卡片就会亮起来——找回文件 → 运行 agent → 看清改了什么，全部在一个窗口完成。 Browse, preview and edit local files on one side; run Claude Code or any coding agent in a real embedded terminal on the other. Every time the agent writes a file, its card lights up — find files → run agents → see what changed, all in one… It's pulling 88★/day — real momentum for something this new, not a one-day spike. Still under the radar (603★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio</title>
+      <link>http://arxiv.org/abs/2606.17041v1</link>
+      <guid isPermaLink="false">pepite-5922e7a1ae97f920</guid>
+      <pubDate>Mon, 15 Jun 2026 17:56:41 +0000</pubDate>
+      <category>research</category>
+      <description>Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ideal substrate for evaluating systematic scientific reasoning, yet existing benchmarks lack ground truth across the full retrieval-screening-synthesis… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Salesforce acquires AI customer service platform Fin for $3.6 billion</title>
+      <link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
+      <guid isPermaLink="false">pepite-c8219cef3d6d0955</guid>
+      <pubDate>Mon, 15 Jun 2026 14:34:45 +0000</pubDate>
+      <category>finance</category>
+      <description>Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>The US government may be asking Anthropic the impossible by demanding unhackable LLMs</title>
+      <link>https://the-decoder.com/the-us-government-may-be-asking-anthropic-the-impossible-by-demanding-unhackable-llms/</link>
+      <guid isPermaLink="false">pepite-d334fa1874c522ee</guid>
+      <pubDate>Mon, 15 Jun 2026 18:06:33 +0000</pubDate>
+      <category>models</category>
+      <description>Government officials accuse Anthropic of disregarding Trump's cyber directive and releasing Fable 5 without approval. "They screwed us," one administration official said. Talks are underway with the Department of Commerce, the CIA, and science advisor Michael Kratsios. The article The US government may be asking Anthropic the impossible by demanding… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>As AI agents become employees, NewCore emerges with $66M to give them identities</title>
+      <link>https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/</link>
+      <guid isPermaLink="false">pepite-5ea371706428b2a4</guid>
+      <pubDate>Mon, 15 Jun 2026 13:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>NewCore argues the next challenge in enterprise security will be managing AI agents, not people. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: machine0 – Persistent NixOS VMs You Control from the CLI</title>
+      <link>https://machine0.io</link>
+      <guid isPermaLink="false">pepite-d1356442047b38ab</guid>
+      <pubDate>Mon, 15 Jun 2026 16:01:43 +0000</pubDate>
+      <category>repos</category>
+      <description>Hi HN! Excited to launch machine0, a CLI that makes it easy to create, provision and snapshot persistent NixOS (&amp; Ubuntu) VMs. You can think of machine0 as a modern VPS provider. VMs stay on unless switched-off (with 99.99% uptime), they have static IPs and HTTPS endpoints, 1-60 vCPU, up to 240GB RAM and optionally GPUs. The CLI provides commands to manage… It landed in the last few hours. It's pulling 270pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?</title>
+      <link>https://news.ycombinator.com/item?id=48542100</link>
+      <guid isPermaLink="false">pepite-9cf929657de397c7</guid>
+      <pubDate>Mon, 15 Jun 2026 14:46:53 +0000</pubDate>
+      <category>models</category>
+      <description>Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) It landed in the last few hours. It's pulling 1620pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>orange2ai/renwei-writing</title>
+      <link>https://github.com/orange2ai/renwei-writing</link>
+      <guid isPermaLink="false">pepite-b0ef93c6a1ad2836</guid>
+      <pubDate>Fri, 12 Jun 2026 21:45:48 +0000</pubDate>
+      <category>repos</category>
+      <description>今天凌晨五点的时候，我让 AI 帮我打磨一段文案，打磨三遍给我看。 AI 改完之后，我发现一遍比一遍讲究，但是一遍比一遍缺人味儿。 我已经用上最贵的 Claude Fable 5 了，还这样，让我很生气。 我说不清什么是人味儿，只知道我感受不到文字背后的那个人了。 我们讨论很久，最后讨论出的结论是，AI 写的东西，背后缺少一个东西： 存在感。 人写的字背后站着一个具体的人，他在具体的位置上，付出过具体的代价。 它特别适合自己写文章或口述后，让 AI 来改稿的场景。 给你的 Agent 装上它，让你的文字变得有人味儿。 见 It's pulling 225★/day — real momentum for something this new, not a one-day spike. Still under the radar (666★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>DanMcInerney/architect-loop</title>
+      <link>https://github.com/DanMcInerney/architect-loop</link>
+      <guid isPermaLink="false">pepite-b459e245de9879d5</guid>
+      <pubDate>Fri, 12 Jun 2026 01:54:12 +0000</pubDate>
+      <category>repos</category>
+      <description>implementation and research. Two Claude Code skills wire that split into a repo-centered loop: specs and gates are written first, Codex works in fresh contexts, and Fable reviews the evidence before anything is integrated. It runs on the subscriptions you already have — no API keys required by default. ./install.sh --project installs to the current repo… It's pulling 116★/day — real momentum for something this new, not a one-day spike. Still under the radar (442★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model</title>
+      <link>https://github.com/nex-agi/Nex-N2/issues/4</link>
+      <guid isPermaLink="false">pepite-3d2e64cd00607a62</guid>
+      <pubDate>Sun, 14 Jun 2026 15:37:31 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 322pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file</title>
+      <link>https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/</link>
+      <guid isPermaLink="false">pepite-aef85de9369771e2</guid>
+      <pubDate>Sat, 13 Jun 2026 12:20:39 +0000</pubDate>
+      <category>agents</category>
+      <description>Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training. A simple Markdown file is enough to boost GPT-5.5 by about 23 points on procedural tasks, and the same file transfers across models and agent environments like Codex and Claude Code.… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token</title>
+      <link>https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/</link>
+      <guid isPermaLink="false">pepite-b0951b6e9c40746d</guid>
+      <pubDate>Sat, 13 Jun 2026 08:38:41 +0000</pubDate>
+      <category>research</category>
+      <description>Moonshot AI has released Kimi K2.7 Code, an open-weights model with one trillion parameters built for programming. It still trails GPT-5.5 and Claude Opus 4.8 in coding benchmarks but costs a fraction of the price. So the key question isn't whether it's the best model, but whether the extra runs you get for the same budget make up for the gap in quality.… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>US government forces Anthropic to disable Claude Fable 5 and Mythos 5 for all customers worldwide</title>
+      <link>https://the-decoder.com/us-government-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-for-all-customers-worldwide/</link>
+      <guid isPermaLink="false">pepite-971b11dd532d982c</guid>
+      <pubDate>Sat, 13 Jun 2026 07:40:44 +0000</pubDate>
+      <category>models</category>
+      <description>The US government has ordered Anthropic to shut down global access to Fable 5 and Mythos 5, citing alleged jailbreak risks. Anthropic is complying but pushing back publicly: the vulnerabilities are minor and exist in competing models like GPT-5.5, the company says, an ironic turn after the company spent months hyping the cybersecurity risks of its own… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>eli-labz/Third-Eye</title>
+      <link>https://github.com/eli-labz/Third-Eye</link>
+      <guid isPermaLink="false">pepite-2c64bdfc763f0668</guid>
+      <pubDate>Sat, 13 Jun 2026 03:15:46 +0000</pubDate>
+      <category>repos</category>
+      <description>🌐 Live Demo · 🐛 Report Bug · ✨ Request Feature · ⭐ Star This Repo Third Eye is a production-grade OSINT platform that provides real-time situational awareness across 13+ intelligence domains — all in one GPU-accelerated interface. Built with Next.js 16 and MapLibre GL, every data point is rendered via WebGL for 60fps performance even with thousands of… It's pulling 459★/day — real momentum for something this new, not a one-day spike. Still under the radar (247★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>superloglabs/superlog</title>
+      <link>https://github.com/superloglabs/superlog</link>
+      <guid isPermaLink="false">pepite-f0e575e0109ba0ab</guid>
+      <pubDate>Tue, 02 Jun 2026 19:13:48 +0000</pubDate>
+      <category>repos</category>
+      <description>Superlog is an open-source agentic telemetry system. It ingests traces, logs, and metrics, groups noisy signals into incidents, and watches your infra while you sleep. You can install Superlog in your project by using our skills in your favourite coding agent: Superlog is an open-core observability workspace for OpenTelemetry data. It ingests traces, logs,… It's pulling 74★/day — real momentum for something this new, not a one-day spike. Still under the radar (805★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Making a vintage LLM from scratch</title>
+      <link>https://crlf.link/log/entries/260525-1/</link>
+      <guid isPermaLink="false">pepite-d5378cbb2031bff8</guid>
+      <pubDate>Thu, 11 Jun 2026 08:38:00 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 43pts/day — real momentum for something this new, not a one-day spike. Still under the radar (100pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>MTG Bench: Testing how well LLMs can play Magic</title>
+      <link>https://mtgautodeck.com/articles/mtg-bench/</link>
+      <guid isPermaLink="false">pepite-e873db22430ffd03</guid>
+      <pubDate>Thu, 11 Jun 2026 16:01:01 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 31pts/day — real momentum for something this new, not a one-day spike. Still under the radar (64pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation</title>
+      <link>http://arxiv.org/abs/2606.13657v1</link>
+      <guid isPermaLink="false">pepite-360cd76ccfac13aa</guid>
+      <pubDate>Thu, 11 Jun 2026 17:54:09 +0000</pubDate>
+      <category>research</category>
+      <description>On-policy distillation (\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet how this hybrid changes a model's parameters remains unclear. Across several language and vision-language model pairs and use cases, our analysis yields two… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent</title>
+      <link>https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/</link>
+      <guid isPermaLink="false">pepite-a74220408b620072</guid>
+      <pubDate>Fri, 12 Jun 2026 17:34:23 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI changed how Codex rate limits work. You can now bank your resets and trigger them by hand. Hit your cap mid-session? Cash in a saved reset instead of waiting it out. Free users get one. Plus and Pro users earn more by inviting friends. The Decoder frames it as the start of a price war. It's really a usage tweak, not a price cut. But if Codex limits keep breaking your flow, this helps. And it shows where the pressure is: coding agents, on cost.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance</title>
+      <link>https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/</link>
+      <guid isPermaLink="false">pepite-938b34e999fe7889</guid>
+      <pubDate>Fri, 12 Jun 2026 17:10:34 +0000</pubDate>
+      <category>research</category>
+      <description>Claude Fable 5 is the new top model on the Artificial Analysis index. It sets records in five of ten benchmarks. Here's the catch. It beats Opus 4.8 by just 5.7 percent. And it costs twice as much per token. Safety routing pushes the bill higher still. The lesson is old but worth repeating. The flagship is rarely the best value. Test the cheaper model on your own tasks before you pay double for a few points you may never feel.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Mistral is rumored to be raising €3B at €20B valuation</title>
+      <link>https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/</link>
+      <guid isPermaLink="false">pepite-782f4d8df7071a5d</guid>
+      <pubDate>Fri, 12 Jun 2026 17:38:11 +0000</pubDate>
+      <category>finance</category>
+      <description>Mistral is reportedly raising €3 billion. That would value it near €20 billion, almost double its last round. Why it matters to builders: Mistral is Europe's main open-weight lab. A war chest this size keeps its open models funded and shipping. Good news for anyone who wants an alternative to the US labs. The caveat: it's still a rumor, and a valuation is not a better model. Nothing about your API calls changes today. But the open-weight lane just got more secure.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <guid isPermaLink="false">pepite-811c73b9773dbad7</guid>
+      <pubDate>Fri, 12 Jun 2026 00:52:37 +0000</pubDate>
+      <category>repos</category>
+      <description>You know the senior dev who deletes your fifty lines and writes one? ponytail tries to be that dev for your agent. It runs inside Claude Code or Cursor. When the agent wants to over-build, it pushes back. You asked for a date picker, not a debate about timezones. Think YAGNI as a prompt. It's four days old with 773 stars, so some of the buzz is just novelty. But the problem is real. Agents love to over-build, and few tools fight it. Read the README. You'll know in thirty seconds if it's for you.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Kimi K2.7-Code: open-source coding model with better token efficiency</title>
+      <link>https://huggingface.co/moonshotai/Kimi-K2.7-Code</link>
+      <guid isPermaLink="false">pepite-ca580534f6fa227a</guid>
+      <pubDate>Fri, 12 Jun 2026 10:42:50 +0000</pubDate>
+      <category>models</category>
+      <description>Moonshot released an open-weight coding model. The pitch is token efficiency: same work, fewer tokens. In an agent loop, that's the gap between a cheap run and a $3 one. The HN thread is the usual benchmark fight. Ignore it. The only number that counts is your own eval on your own tasks. Run agents at scale? Spend an afternoon testing it against what you pay now. If not, skip it. A new open coding model drops most weeks.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents</title>
+      <link>https://bitboard.work/</link>
+      <guid isPermaLink="false">pepite-71666adecc38f77f</guid>
+      <pubDate>Fri, 12 Jun 2026 16:58:03 +0000</pubDate>
+      <category>agents</category>
+      <description>A YC launch with a simple bet: analytics is the next thing agents do for you. BitBoard is a workspace where your agent builds live dashboards with you. The demo looks good. But it's two hours old with 17 points. So this is one to watch, not one to adopt. It's a hosted product, not a repo. And agent-built dashboards only help if they're correct. A launch video can't prove that. Still, the bet is real, and worth knowing about.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>amElnagdy/guard-skills</title>
+      <link>https://github.com/amElnagdy/guard-skills</link>
+      <guid isPermaLink="false">pepite-489590186b992ee8</guid>
+      <pubDate>Sat, 06 Jun 2026 16:59:27 +0000</pubDate>
+      <category>repos</category>
+      <description>This is the other half of ponytail, and maybe the better half. guard-skills reviews your agent's output before you do. It looks for the usual ways AI code goes wrong. The confident but broken test. The doc that describes code that isn't there. The flow is simple. Let the agent work. Then run the right guard on the diff before you commit. It's prompt-based, so it won't catch everything a type-checker would. But as a cheap second opinion in Claude Code, Codex, or Cursor, it earns its place fast.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Reward Modeling for Multi-Agent Orchestration</title>
+      <link>http://arxiv.org/abs/2606.13598v1</link>
+      <guid isPermaLink="false">pepite-87855a4c1639129c</guid>
+      <pubDate>Thu, 11 Jun 2026 17:16:24 +0000</pubDate>
+      <category>research</category>
+      <description>Running many agents? You've hit the eval wall. How do you tell a good run from a lucky one without grading each by hand? OrchRM has an idea. Use the artifacts a multi-agent run already produces. Turn them into win/lose pairs. Train a reward model on those. No human labels. No costly re-runs. It's a preprint and a work in progress, so treat the numbers as a claim, not proof. But it ships code. And the core idea is right: score the orchestration, not the sub-tasks.
+
+— via arXiv</description>
     </item>
 </channel></rss>
