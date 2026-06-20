@@ -9,39 +9,29 @@
       <guid isPermaLink="false">pepite-311d2b33e7dd0698</guid>
       <pubDate>Sat, 20 Jun 2026 08:44:19 +0000</pubDate>
       <category>models</category>
-      <description>OpenAI is adding scheduled task controls to ChatGPT. It makes task management easier with a new sidebar feature for tweaking active tasks. The limitation: only useful if you're using ChatGPT for these functions.
+      <description>A post about ChatGPT’s new task scheduling upgrades. These allow users to manage and modify tasks directly in a new sidebar. Caution: it replaces the old 'Pulse' feature, so you might need to adapt to the changes.
 
 — via The Decoder</description>
     </item>
     <item>
-      <title>Improving health intelligence in ChatGPT</title>
-      <link>https://openai.com/index/improving-health-intelligence-in-chatgpt</link>
-      <guid isPermaLink="false">pepite-33383567514a4fc8</guid>
-      <pubDate>Thu, 18 Jun 2026 11:00:00 +0000</pubDate>
-      <category>finance</category>
-      <description>OpenAI's improvements in ChatGPT for health consultations. It's interesting for better user interactions and advice accuracy. The catch: it's focused on health insights, so limited interest for non-health uses.
+      <title>Amazon hopes to challenge Nvidia more directly by selling its AI chips</title>
+      <link>https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/</link>
+      <guid isPermaLink="false">pepite-5b8f4a18c3ef971e</guid>
+      <pubDate>Thu, 18 Jun 2026 18:22:13 +0000</pubDate>
+      <category>other</category>
+      <description>News about AWS preparing to sell its AI chips to compete directly with Nvidia. This could shake up the chip market considerably. The catch: it's still early days, so no products are available yet.
 
-— via OpenAI</description>
+— via TechCrunch AI</description>
     </item>
     <item>
-      <title>Using AI to help physicians diagnose rare genetic diseases affecting children</title>
-      <link>https://openai.com/index/diagnose-rare-childhood-diseases</link>
-      <guid isPermaLink="false">pepite-2155d7cb8c43e82f</guid>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>AI-assisted genetic disease diagnosis shows progress in healthcare. It's promising as it cracks unsolved cases, speeding up diagnosis. The limitation: it's a niche area, mostly relevant to health AI developers.
+      <title>Critical Copilot vulnerability allowed hackers to steal 2FA code from users</title>
+      <link>https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/</link>
+      <guid isPermaLink="false">pepite-7f55b48cf0d6a26b</guid>
+      <pubDate>Tue, 16 Jun 2026 11:15:46 +0000</pubDate>
+      <category>agents</category>
+      <description>A report about a security issue in Copilot allowing access to 2FA codes. It's a clear example of risks inherent in LLM tools. The limitation: it's more about alerting developers than providing a tool or fix.
 
-— via OpenAI</description>
-    </item>
-    <item>
-      <title>The White House Is Making Up Its Rules for AI in Real Time</title>
-      <link>https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/</link>
-      <guid isPermaLink="false">pepite-d616211e9f1e48f9</guid>
-      <pubDate>Thu, 18 Jun 2026 21:03:43 +0000</pubDate>
-      <category>models</category>
-      <description>Ongoing discussions about AI regulation in the US. Important for understanding policy influence on AI development. The catch: more about policy debate than immediate AI application.
-
-— via Wired AI</description>
+— via Ars Technica AI</description>
     </item>
     <item>
       <title>LLMs Are Complicated Now</title>
@@ -49,7 +39,7 @@
       <guid isPermaLink="false">pepite-05c6168ed876432b</guid>
       <pubDate>Sat, 20 Jun 2026 01:25:14 +0000</pubDate>
       <category>models</category>
-      <description>A discussion on the evolving complexity of large language models (LLMs). It's interesting because it sheds light on the growing layers and customization needed for effective use. The catch: it's a conversation starter, not a hands-on guide.
+      <description>A blog post discussing how large language models (LLMs) have become increasingly complex. It's interesting because it dives into challenges engineers face with these advanced models. The catch: it's a discussion — no real solutions or tools are provided.
 
 — via Hacker News</description>
     </item>
@@ -59,7 +49,7 @@
       <guid isPermaLink="false">pepite-3e88f1a17d0cd8ec</guid>
       <pubDate>Mon, 01 Jun 2026 12:52:57 +0000</pubDate>
       <category>repos</category>
-      <description>An open-source tool for building AI agents that run locally. It keeps everything on your machine, under 100MB, making it privacy-friendly and efficient. The downside: it's experimental, so expect some rough edges.
+      <description>A GitHub repo offering ORG2, a coding agent tool. It supports easy organization and alignment for agents and needs less than 100MB of space. However, it’s an experimental tool, so expect some growing pains along the way.
 
 — via GitHub</description>
     </item>
@@ -69,7 +59,7 @@
       <guid isPermaLink="false">pepite-cb9dabfa0a51c121</guid>
       <pubDate>Sun, 07 Jun 2026 01:16:18 +0000</pubDate>
       <category>repos</category>
-      <description>A GitHub repo turning Claude Design into a local tool. This means design mockups and prototypes directly in your editor without external tools. The catch: it's specific to Claude, so not for everyone.
+      <description>Baoyu-design is a portable design agent skill for UI projects. What's neat is you get full-fledged UI mockups right inside your coding environment. The downside: it's focused specifically on UI work, so not for every kind of project.
 
 — via GitHub</description>
     </item>
@@ -79,7 +69,7 @@
       <guid isPermaLink="false">pepite-0b15816fdcc5e92b</guid>
       <pubDate>Sat, 20 Jun 2026 12:26:04 +0000</pubDate>
       <category>models</category>
-      <description>News of Ubisoft co-founder Claude Guillemot's passing. It's relevant due to his impact on gaming culture, especially for those interested in AI's role in gaming. The catch: it's purely news, no AI actionables.
+      <description>A news piece about the tragic death of Ubisoft co-founder Claude Guillemot. It's relevant since the family has heavily influenced gaming and tech sectors. The catch: the article doesn’t touch on tech, rather it's more on industry impact.
 
 — via Hacker News</description>
     </item>
@@ -89,7 +79,7 @@
       <guid isPermaLink="false">pepite-cc4e3c521bed02c0</guid>
       <pubDate>Sat, 20 Jun 2026 12:26:57 +0000</pubDate>
       <category>models</category>
-      <description>An article warning about a potential AI industry crash. It compares today's AI bubble to the dot-com bust due to high physical infrastructure costs. The catch: it's a forecast without immediate solutions.
+      <description>A post exploring potential economic risks from an AI crash, more severe than the dot-com bust. The focus is on the heavy investment in physical infrastructure in AI. The limitation: it's mainly economic theory, not immediately actionable.
 
 — via The Decoder</description>
     </item>
@@ -99,19 +89,9 @@
       <guid isPermaLink="false">pepite-a134378e660e8c43</guid>
       <pubDate>Thu, 18 Jun 2026 14:46:38 +0000</pubDate>
       <category>finance</category>
-      <description>A new approach for video anomaly detection that tries to improve reliability. It's useful for more accurate surveillance systems by refining the calibration of scores. The catch: it's a scholarly paper, not a plug-and-play tool.
+      <description>A paper on improving video anomaly detection with pose-flow technology. It proposes a new calibration method to enhance reliability. The catch: this paper is heavy on research details, lacking easy-to-deploy solutions as of now.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>SwitchBot’s Standing Circulator Fan is worth fighting for</title>
-      <link>https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review</link>
-      <guid isPermaLink="false">pepite-1472c67047138690</guid>
-      <pubDate>Sat, 20 Jun 2026 10:30:50 +0000</pubDate>
-      <category>models</category>
-      <description>A review of a fan. While seemingly off-topic, it touches on tech product reviews which can be relevant to gadget enthusiasts. The catch: not directly related to AI development.
-
-— via The Verge</description>
     </item>
     <item>
       <title>U$^2$Mamba: A Two-level Nested U-structure Mamba for Salient Object Detection</title>
@@ -119,19 +99,9 @@
       <guid isPermaLink="false">pepite-7e3544bc7c37313f</guid>
       <pubDate>Thu, 18 Jun 2026 14:24:06 +0000</pubDate>
       <category>research</category>
-      <description>A new model for detecting important objects in images. It's promising for applications needing precise visual analysis. The catch: it's a technical paper, so not immediately accessible to all.
+      <description>A paper introducing a deep learning model for salient object detection. It uses advanced nested structures to grasp context better. The challenge: it's complex to integrate without a deep dive into the model's structure.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Banning Open Source AI Would Be A Mistake</title>
-      <link>https://www.interconnects.ai/p/banning-open-source-ai-would-be-a</link>
-      <guid isPermaLink="false">pepite-2cd08cbf15fe4f3b</guid>
-      <pubDate>Fri, 19 Jun 2026 13:02:47 +0000</pubDate>
-      <category>finance</category>
-      <description>An op-ed defending open-source AI. It's crucial for understanding the benefits and risks of regulation in AI development. The downside: it's a policy discussion, not a tool or technique.
-
-— via Interconnects</description>
     </item>
     <item>
       <title>Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving</title>
@@ -139,9 +109,39 @@
       <guid isPermaLink="false">pepite-0c41f484033799e8</guid>
       <pubDate>Thu, 18 Jun 2026 17:49:36 +0000</pubDate>
       <category>research</category>
-      <description>New research on optimizing AI performance in time-sensitive situations. It's beneficial for low-latency applications requiring fast AI decisions. The catch: it's very technical, aimed at specialists.
+      <description>Research on a new execution-state management for AI systems to reduce response time. It's exciting because it focuses on improving system efficiency on-device. The caveat: it’s a technical paper, needing more work to apply it practically.
 
 — via arXiv</description>
+    </item>
+    <item>
+      <title>Quoting Georgi Gerganov</title>
+      <link>https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything</link>
+      <guid isPermaLink="false">pepite-664eda98760091b4</guid>
+      <pubDate>Tue, 16 Jun 2026 16:04:59 +0000</pubDate>
+      <category>agents</category>
+      <description>Personal thoughts on a local AI model useful for routine coding tasks. Owners share their experience using the model daily. Downside: doesn't dive into how to set up similar setups for your own use.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot</title>
+      <link>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</link>
+      <guid isPermaLink="false">pepite-c7b6e0d15e340e1a</guid>
+      <pubDate>Wed, 17 Jun 2026 10:18:05 +0000</pubDate>
+      <category>agents</category>
+      <description>A blog post about integrating AI from Hugging Face Hub to robotics. It’s fascinating to see how AI and physical hardware can be connected so fluidly. The downside: without tech specs, it's more exploratory than practical.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>The Fable 5 Export Controls Harm US Cyber Defense</title>
+      <link>https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything</link>
+      <guid isPermaLink="false">pepite-f97ec39585de0340</guid>
+      <pubDate>Tue, 16 Jun 2026 05:20:29 +0000</pubDate>
+      <category>models</category>
+      <description>Details on export controls affecting US cyber defense, touching on AI and software regulations. It's important as it highlights real trade issues. The discussion is high-level, not offering immediate solutions or tools.
+
+— via Simon Willison</description>
     </item>
     <item>
       <title>The Atlantic created a searchable database of the music used to train AI</title>
