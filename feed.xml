@@ -9,7 +9,7 @@
       <guid isPermaLink="false">pepite-311d2b33e7dd0698</guid>
       <pubDate>Sat, 20 Jun 2026 08:44:19 +0000</pubDate>
       <category>models</category>
-      <description>OpenAI adds new scheduling features to ChatGPT. You can now organize tasks better with a single page to manage them all. However, they've retired the 'Pulse' feature, so some functions might feel limited.
+      <description>OpenAI added scheduling controls to ChatGPT, aiming for it to become more of a personal assistant. Now you can manage and modify tasks from one spot in the app. But remember, it's still evolving—some features got retired because they just didn’t work as expected.
 
 — via The Decoder</description>
     </item>
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">pepite-5b8f4a18c3ef971e</guid>
       <pubDate>Thu, 18 Jun 2026 18:22:13 +0000</pubDate>
       <category>other</category>
-      <description>Amazon looks to sell its AI chips, aiming to compete with Nvidia. Potentially a big move to shake up the chip market. Watch out: market-based success remains untested.
+      <description>Amazon aims to compete with Nvidia by selling its AI chips, hoping to tap into a big market. It's a move to leverage their cloud infrastructure experience in hardware. Key point: while promising, their success depends on convincing those reliant on Nvidia's ecosystem.
 
 — via TechCrunch AI</description>
     </item>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">pepite-7f55b48cf0d6a26b</guid>
       <pubDate>Tue, 16 Jun 2026 11:15:46 +0000</pubDate>
       <category>agents</category>
-      <description>Critical security bug found in GitHub's Copilot that let hackers exploit 2FA. It's a cautionary tale about the security of automated coding tools. The issue underlines ongoing weaknesses in securing AI-driven services.
+      <description>A report on a vulnerability in Copilot that exposed user data. It highlights persistent security gaps in popular AI tools. The takeaway: even trusted tools can have serious flaws.
 
 — via Ars Technica AI</description>
     </item>
@@ -39,7 +39,7 @@
       <guid isPermaLink="false">pepite-05c6168ed876432b</guid>
       <pubDate>Sat, 20 Jun 2026 01:25:14 +0000</pubDate>
       <category>models</category>
-      <description>A blog post about why AI models are getting more complex. It's an eye-opener on how hard it is to keep up with these evolving models. The downside: more complexity means more headaches for those maintaining these systems.
+      <description>A blog discussion on how large language models (LLMs) are becoming more complicated. The main point: while these AI models can do fantastic things, they're harder to understand and work with than before. The challenge is they require us to keep up with their increasing complexity.
 
 — via Hacker News</description>
     </item>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">pepite-3e88f1a17d0cd8ec</guid>
       <pubDate>Mon, 01 Jun 2026 12:52:57 +0000</pubDate>
       <category>repos</category>
-      <description>ORG2 is a tool to work locally with AI coding agents. It's designed to keep everything on your machine, boosting privacy and control. The catch: it's still an experiment, aiming to improve agent collaboration.
+      <description>ORG2 is a new tool for managing coding agents on your local machine. It runs smoothly without hogging space, letting you observe and replay agent actions. The downside: it's a bit experimental, so you might hit bumps if your needs go beyond simple tasks.
 
 — via GitHub</description>
     </item>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">pepite-cb9dabfa0a51c121</guid>
       <pubDate>Sun, 07 Jun 2026 01:16:18 +0000</pubDate>
       <category>repos</category>
-      <description>Baoyu Design is a portable AI design tool for making mockups and wireframes in your editor. It keeps your work local, without using extra online tools. But it's only focused on specific design outputs like HTML.
+      <description>Baoyu Design is an agent skill package bringing Claude Design features to your local setup. This means creating UIs and prototypes without needing a website or external service. However, it still needs a bit of setup to integrate with your workflow.
 
 — via GitHub</description>
     </item>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">pepite-0b15816fdcc5e92b</guid>
       <pubDate>Sat, 20 Jun 2026 12:26:04 +0000</pubDate>
       <category>models</category>
-      <description>News on the death of Ubisoft co-founder Claude Guillemot in a plane crash. It's a sad day for the gaming and tech community, marking the loss of a pivotal figure.
+      <description>A news piece concerning the tragic passing of Claude Guillemot, co-founder of Ubisoft. This highlights the human side often missed in tech discussions. It's a stark reminder of the influential figures behind our favorite tools and games.
 
 — via Hacker News</description>
     </item>
@@ -79,7 +79,7 @@
       <guid isPermaLink="false">pepite-cc4e3c521bed02c0</guid>
       <pubDate>Sat, 20 Jun 2026 12:26:57 +0000</pubDate>
       <category>models</category>
-      <description>NYU's Damodaran warns that an AI economic crash could hit harder than the dot-com bust. It's a wake-up call about the risks of debt-driven infrastructure in AI. The catch: even positive outcomes may not be fully beneficial for the workforce.
+      <description>An NYU professor warns an AI crash could be worse than the dot-com bust. The key issue: AI isn't just software, it's about big physical investments, and the outcomes are unknown. The uncertainty lies in its impact on jobs and industries.
 
 — via The Decoder</description>
     </item>
@@ -89,7 +89,7 @@
       <guid isPermaLink="false">pepite-a134378e660e8c43</guid>
       <pubDate>Thu, 18 Jun 2026 14:46:38 +0000</pubDate>
       <category>finance</category>
-      <description>Paper on calibrating video anomaly detection to handle normal variations. It adds a new layer to this process, helping improve accuracy. The limitation: it's most relevant for one-class surveillance setups.
+      <description>This paper explores new ways to detect video anomalies using a fixed pose-flow system. It focuses on improving reliability in detecting unusual videos with a calibration method. The problem: it's all theoretical, primarily for researchers right now.
 
 — via arXiv</description>
     </item>
@@ -99,7 +99,7 @@
       <guid isPermaLink="false">pepite-7e3544bc7c37313f</guid>
       <pubDate>Thu, 18 Jun 2026 14:24:06 +0000</pubDate>
       <category>research</category>
-      <description>U$^2$Mamba is a new network approach for detecting notable objects. Its design captures more scene context and detail. But, as a new model, it might not yet suit every application.
+      <description>Introducing U$^2$Mamba, a fresh take on salient object detection with a new nested structure. It captures details across different layers, making it better at spotting objects in images. The limitation: the setup is complex and may require deep understanding to fully use.
 
 — via arXiv</description>
     </item>
@@ -109,9 +109,19 @@
       <guid isPermaLink="false">pepite-0c41f484033799e8</guid>
       <pubDate>Thu, 18 Jun 2026 17:49:36 +0000</pubDate>
       <category>research</category>
-      <description>The paper introduces 'execution-state capsules' for AI serving. It's geared to improve speed and efficiency on devices with low resources. Needs really specific setups to work as intended.
+      <description>Execution-State Capsules aim to improve low-latency physical AI tasks. It's a new way to quickly reset and manage AI environments on your device. Still, it's a bit niche—most useful for those doing on-device AI work with demanding time constraints.
 
 — via arXiv</description>
+    </item>
+    <item>
+      <title>Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration</title>
+      <link>https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/</link>
+      <guid isPermaLink="false">pepite-2c1ea700688cdc7b</guid>
+      <pubDate>Sat, 20 Jun 2026 23:04:55 +0000</pubDate>
+      <category>finance</category>
+      <description>Cisco's new tool, FAPO, optimizes AI prompt chains by pinpointing errors. It systematically tweaks your AI prompts for better outcomes. The caveat: it's complex and might not suit folks unfamiliar with in-depth prompt engineering.
+
+— via MarkTechPost</description>
     </item>
     <item>
       <title>Quoting Georgi Gerganov</title>
@@ -119,29 +129,19 @@
       <guid isPermaLink="false">pepite-664eda98760091b4</guid>
       <pubDate>Tue, 16 Jun 2026 16:04:59 +0000</pubDate>
       <category>agents</category>
-      <description>A post piece quoting AI discussion on efficient coding with local models. Spotlights how local setups can save time on smaller AI tasks. But it's mostly firsthand experience, and opinions can vary.
+      <description>A developer talks about using a local AI model, Qwen3.6-27B, for day-to-day coding tasks. It's handy for small, repetitive tasks if you've got compatible hardware. But remember, setting it up requires a bit of technical aptitude.
 
 — via Simon Willison</description>
     </item>
     <item>
-      <title>From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot</title>
-      <link>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</link>
-      <guid isPermaLink="false">pepite-c7b6e0d15e340e1a</guid>
-      <pubDate>Wed, 17 Jun 2026 10:18:05 +0000</pubDate>
+      <title>Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets</title>
+      <link>https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/</link>
+      <guid isPermaLink="false">pepite-605fcd5052c3baa0</guid>
+      <pubDate>Sat, 20 Jun 2026 21:50:11 +0000</pubDate>
       <category>agents</category>
-      <description>Discusses moving AI from Hugging Face Hub to robots. Ties machine learning with hardware innovation. A niche area, making it more experimental than mainstream.
+      <description>Nous Research's Hermes Agent now supports a blank slate startup, keeping necessary tools off unless you need them. It's meant to reduce clutter and improve focus when using AI agents. However, the setup might feel bare for those who prefer having more tools at their disposal.
 
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>The Fable 5 Export Controls Harm US Cyber Defense</title>
-      <link>https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything</link>
-      <guid isPermaLink="false">pepite-f97ec39585de0340</guid>
-      <pubDate>Tue, 16 Jun 2026 05:20:29 +0000</pubDate>
-      <category>models</category>
-      <description>Insights into the challenges the US faces due to AI export controls. Highlights how limitations in AI tech can weaken cybersecurity efforts. Details specific outdated practices without general solutions.
-
-— via Simon Willison</description>
+— via MarkTechPost</description>
     </item>
     <item>
       <title>The Atlantic created a searchable database of the music used to train AI</title>
