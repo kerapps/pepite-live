@@ -4,12 +4,22 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there</title>
+      <link>https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/</link>
+      <guid isPermaLink="false">pepite-3542cb912190079e</guid>
+      <pubDate>Sat, 20 Jun 2026 08:02:07 +0000</pubDate>
+      <category>finance</category>
+      <description>OpenAI reportedly tripled its revenue but spent a lot to get there. It's a big business update that's interesting for spotting trends. The risk? These figures suggest financial strategies subject to rapid change and competition.
+
+— via The Decoder</description>
+    </item>
+    <item>
       <title>VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline</title>
       <link>https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/</link>
       <guid isPermaLink="false">pepite-26c28ab309382e8a</guid>
       <pubDate>Fri, 19 Jun 2026 22:06:31 +0000</pubDate>
       <category>research</category>
-      <description>VibeThinker-3B is a compact AI model designed for reasoning tasks, similar to bigger names in the field. It's MIT-licensed, making it friendly for commercial use. The downside: it's still smaller, so it won't outperform larger models on very complex tasks.
+      <description>VibeThinker-3B, a 3B-sized reasoning model, shows promising benchmarks. It's interesting because it matches bigger models while being more portable. The catch? Licensing and setup might still be a hurdle if you're not savvy with model tech.
 
 — via MarkTechPost</description>
     </item>
@@ -19,7 +29,7 @@
       <guid isPermaLink="false">pepite-ee91d31b2e662ebc</guid>
       <pubDate>Fri, 19 Jun 2026 22:51:59 +0000</pubDate>
       <category>agents</category>
-      <description>SpatialClaw, by NVIDIA, uses Python instead of training complex models, to solve 3D spatial reasoning. It's designed to be a plug-and-play solution without exhaustive training processes. However, it's more about integrating existing tools rather than building from scratch.
+      <description>SpatialClaw by NVIDIA helps AI understand spatial environments without special training. This is cool for building interactive applications quickly. However, it’s mostly neat if your work involves 3D computation.
 
 — via MarkTechPost</description>
     </item>
@@ -29,9 +39,19 @@
       <guid isPermaLink="false">pepite-83cd86d6b2326e11</guid>
       <pubDate>Fri, 19 Jun 2026 18:00:01 +0000</pubDate>
       <category>models</category>
-      <description>IEEE launched a course focused on using large language models in engineering practices. It aims to close the gap between research tools and practical engineering applications. Still, it's a course offering, so you'll have to set aside time for learning.
+      <description>IEEE launched a course on large language models. It’s useful for engineers looking to keep up with how AI is changing workflows. The downside is the knowledge is broad, and might lack the depth some experts look for.
 
 — via IEEE Spectrum AI</description>
+    </item>
+    <item>
+      <title>GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2</title>
+      <link>https://arrowtsx.dev/bigger-models/</link>
+      <guid isPermaLink="false">pepite-a348d352d685e474</guid>
+      <pubDate>Fri, 19 Jun 2026 16:11:25 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion showing GPT-5.5 hallucinates three times more often than a smaller, open-source model. It's intriguing because the MIT-licensed GLM-5.2 maintains accuracy while using fewer resources. But remember, any model might still make stuff up—always verify critical outputs.
+
+— via Hacker News</description>
     </item>
     <item>
       <title>rebel0789/codexpro</title>
@@ -39,7 +59,7 @@
       <guid isPermaLink="false">pepite-138469a6d37cac49</guid>
       <pubDate>Tue, 16 Jun 2026 21:22:43 +0000</pubDate>
       <category>repos</category>
-      <description>CodexPro is a tool to connect ChatGPT with your local code. It allows ChatGPT to browse your files and help with coding tasks like editing and running safe checks. The catch: it doesn't bypass usage limits and works strictly within ChatGPT's Developer Mode.
+      <description>CodexPro is a tool that lets ChatGPT work as a coding assistant right on your local files, seeing them just like you do. It’s cool because it integrates right into your existing setup without reinventing workflows. The catch: it doesn’t bypass rate limits, so you still deal with usage constraints.
 
 — via GitHub</description>
     </item>
@@ -49,69 +69,49 @@
       <guid isPermaLink="false">pepite-5e925ef3918c3b6a</guid>
       <pubDate>Sat, 13 Jun 2026 14:22:28 +0000</pubDate>
       <category>repos</category>
-      <description>The Bazi-Ziwei skill offers a precise fortune-telling setup without relying on AI guesses. It's built to integrate with AI agents and provides structured analysis using traditional Chinese astrology. But keep in mind, it's niche and mostly useful if you're into astrology.
+      <description>bazi-ziwei-skill is a tool for precise Chinese astrology analysis, mainly focusing on stopping AI from guessing. It's interesting as it combines traditional methods with machine power. But it's niche, useful mainly if you're into astrology.
 
 — via GitHub</description>
     </item>
     <item>
-      <title>$1800 (in GPU cost running with P2P running Qwen/Qwen3.6-27b-FP8 with 262K context and BF16 KV cache at 55 tok/s</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uah3oc/1800_in_gpu_cost_running_with_p2p_running/</link>
-      <guid isPermaLink="false">pepite-a284ec9b3f07c770</guid>
-      <pubDate>Fri, 19 Jun 2026 23:30:10 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit post discusses a $1800 GPU setup for AI inference. It details the use of used 5060 ti GPUs for running complex models cost-effectively. This setup only suits inference tasks — not for those needing comprehensive AI training capabilities.
+      <title>7900XTX 24GB vram, can finally fit Q6K+MTP with Qwen 3.6 27B at 131k context</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uar6in/7900xtx_24gb_vram_can_finally_fit_q6kmtp_with/</link>
+      <guid isPermaLink="false">pepite-ee6106224a003994</guid>
+      <pubDate>Sat, 20 Jun 2026 08:23:22 +0000</pubDate>
+      <category>research</category>
+      <description>A Reddit post talks about fitting a large AI model into a GPU by tweaking settings. This is significant as it allows resource-strapped users to run big models. But you'll need a good understanding of GPU configurations to get this working.
 
 — via r/LocalLLaMA</description>
     </item>
     <item>
-      <title>GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2</title>
-      <link>https://arrowtsx.dev/bigger-models/</link>
-      <guid isPermaLink="false">pepite-a348d352d685e474</guid>
-      <pubDate>Fri, 19 Jun 2026 16:11:25 +0000</pubDate>
+      <title>Help with a Local Document RAG System (Storage + Ingestion + Query + Highlighting)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uar970/help_with_a_local_document_rag_system_storage/</link>
+      <guid isPermaLink="false">pepite-50a1c33e02f172d9</guid>
+      <pubDate>Sat, 20 Jun 2026 08:28:04 +0000</pubDate>
       <category>models</category>
-      <description>A discussion highlights how GPT-5.5 creates more errors (hallucinations) than a smaller open-source model, GLM-5.2. It raises questions about AI model trustworthiness as they get larger. However, the details are anecdotal and lack broad sample comparisons.
+      <description>An r/LocalLLaMA post about setting up your own document retrieval system with no cloud involved. It's helpful for keeping sensitive data private while using AI capabilities. The downside? Setting it up could be labor-intensive if you're not familiar with all the tech parts.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>GLM 5.2: 98% of max level intelligence with less than half of tokens usage</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uar4e2/glm_52_98_of_max_level_intelligence_with_less/</link>
+      <guid isPermaLink="false">pepite-2599ca49ef103515</guid>
+      <pubDate>Sat, 20 Jun 2026 08:19:42 +0000</pubDate>
+      <category>models</category>
+      <description>A Reddit post on GLM 5.2 shows how to get nearly full intelligence with fewer tokens. It's useful for doing big tasks on limited hardware. But it'll only work well if you’re up for some trial and error tuning.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Hide Secrets from AI Agents and NPM install using Airgap</title>
+      <link>https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html</link>
+      <guid isPermaLink="false">pepite-8f61cd0e44be17ac</guid>
+      <pubDate>Fri, 19 Jun 2026 20:24:59 +0000</pubDate>
+      <category>agents</category>
+      <description>A discussion on Hackernews about using airgap techniques to secure information from AI agents. It’s intriguing for privacy-conscious developers who don't trust cloud-based solutions. The downside is that it might not be practical for everyday users due to complexity.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>How do I set the right llama.cpp parameters?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uabrzn/how_do_i_set_the_right_llamacpp_parameters/</link>
-      <guid isPermaLink="false">pepite-bb64257bdd8392e7</guid>
-      <pubDate>Fri, 19 Jun 2026 19:46:30 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit post explores how to choose optimal settings for llama.cpp tool with AMD GPUs. It offers trial-and-error experiences and community tips beyond official documentation. Yet, results will vary significantly based on unique hardware setups and uses.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>I benchmarked Claude's "Fast C++". It wasn't faster</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uairua/i_benchmarked_claudes_fast_c_it_wasnt_faster/</link>
-      <guid isPermaLink="false">pepite-55445ffa3f28ca82</guid>
-      <pubDate>Sat, 20 Jun 2026 00:49:14 +0000</pubDate>
-      <category>research</category>
-      <description>A local developer finds that Claude's presumed 'Fast C++' isn't actually faster than other options. This suggests that speed claims need real-world validation. Though informative, it's focused on one developer's specific context and might not apply universally.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU</title>
-      <link>https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/</link>
-      <guid isPermaLink="false">pepite-6d58d1756426c309</guid>
-      <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
-      <category>agents</category>
-      <description>A blog post explores creating a CUDA kernel to improve GPU efficiency for agentic tasks. It aims to cut down on latency issues caused by frequent CPU-GPU data transfers. However, building your own kernel requires deep understanding of CUDA programming.
-
-— via Towards Data Science</description>
-    </item>
-    <item>
-      <title>Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/</link>
-      <guid isPermaLink="false">pepite-9200a469f2dbe35c</guid>
-      <pubDate>Fri, 19 Jun 2026 14:05:04 +0000</pubDate>
-      <category>agents</category>
-      <description>This AWS tutorial guides on integrating Adobe Marketing Agent with Amazon Quick for automatic insights. It offers a streamlined view for campaign management. Note: you need existing Adobe and AWS setups to benefit fully.
-
-— via AWS ML</description>
     </item>
     <item>
       <title>PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds</title>
@@ -119,7 +119,7 @@
       <guid isPermaLink="false">pepite-e3537df11d3bd184</guid>
       <pubDate>Thu, 18 Jun 2026 16:38:35 +0000</pubDate>
       <category>research</category>
-      <description>PCFootprint provides a large dataset for extracting building footprints from LiDAR data. It offers more accurate results than traditional imagery methods. Just a heads-up: working with LiDAR requires specialized tools and knowledge.
+      <description>PCFootprint shares new data for extracting building shapes from point clouds. This is invaluable for urban developers and tech enthusiasts. But it focuses specifically on aerial LiDAR data, so not all use cases will align.
 
 — via arXiv</description>
     </item>
@@ -129,7 +129,7 @@
       <guid isPermaLink="false">pepite-18fd412f171aed05</guid>
       <pubDate>Thu, 18 Jun 2026 17:38:01 +0000</pubDate>
       <category>finance</category>
-      <description>SARLO-80 is a new dataset for combining high-res SAR, optical images, and text data. It aims to enhance multimodal learning for SAR data, a first of its kind. Working with SAR demands familiarity with complex data integration processes.
+      <description>SARLO-80 is a rich data set for SAR-optical research combining high-resolution imagery with text. It's a boon for those working on advanced imagery. The limitation? Familiarity with SAR technology is essential to derive value.
 
 — via arXiv</description>
     </item>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">pepite-12d66be7d9230637</guid>
       <pubDate>Thu, 18 Jun 2026 17:37:34 +0000</pubDate>
       <category>finance</category>
-      <description>HumanScale explores using human video data for AI model training. It suggests egocentric video as a cheaper, diverse alternative to robot data. Just remember, this method is still being tested against traditional data sources.
+      <description>HumanScale suggests human video could replace real-robot data for model training. This could democratize training by lowering costs. The catch: its effectiveness is still under debate, so it's not a plug-and-play solution yet.
 
 — via arXiv</description>
     </item>
