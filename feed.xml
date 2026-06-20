@@ -4,52 +4,82 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
-      <title>OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there</title>
-      <link>https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/</link>
-      <guid isPermaLink="false">pepite-3542cb912190079e</guid>
-      <pubDate>Sat, 20 Jun 2026 08:02:07 +0000</pubDate>
-      <category>finance</category>
-      <description>OpenAI reportedly tripled its revenue but spent a lot to get there. It's a big business update that's interesting for spotting trends. The risk? These figures suggest financial strategies subject to rapid change and competition.
+      <title>The Atlantic created a searchable database of the music used to train AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data</link>
+      <guid isPermaLink="false">pepite-95f2acbf4f9fcb91</guid>
+      <pubDate>Sat, 20 Jun 2026 18:46:48 +0000</pubDate>
+      <category>research</category>
+      <description>The Atlantic created a tool to search music datasets used by AI. It's significant because it opens up transparency in AI music training. Unfortunately, it might not cover every piece used in AI training.
+
+— via The Verge</description>
+    </item>
+    <item>
+      <title>OpenAI's Codex can now watch you work once and repeat the task forever</title>
+      <link>https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/</link>
+      <guid isPermaLink="false">pepite-d5efb84c25dcc4b7</guid>
+      <pubDate>Sat, 20 Jun 2026 13:15:08 +0000</pubDate>
+      <category>other</category>
+      <description>Data2Story uses AI agents to convert CSV files into news articles. The interesting aspect is its newsroom-like AI collaboration. But it’s not quite ready to take on complex, nuanced reports yet.
 
 — via The Decoder</description>
     </item>
     <item>
-      <title>VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline</title>
-      <link>https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/</link>
-      <guid isPermaLink="false">pepite-26c28ab309382e8a</guid>
-      <pubDate>Fri, 19 Jun 2026 22:06:31 +0000</pubDate>
-      <category>research</category>
-      <description>VibeThinker-3B, a 3B-sized reasoning model, shows promising benchmarks. It's interesting because it matches bigger models while being more portable. The catch? Licensing and setup might still be a hurdle if you're not savvy with model tech.
+      <title>Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</title>
+      <link>https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</link>
+      <guid isPermaLink="false">pepite-3f05f77aea24955c</guid>
+      <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
+      <category>other</category>
+      <description>Jumper isn't the only big name leaving Google DeepMind. It landed in the last few hours.
 
-— via MarkTechPost</description>
+— via TechCrunch AI</description>
     </item>
     <item>
-      <title>NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning</title>
-      <link>https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/</link>
-      <guid isPermaLink="false">pepite-ee91d31b2e662ebc</guid>
-      <pubDate>Fri, 19 Jun 2026 22:51:59 +0000</pubDate>
+      <title>Data2Story turns a CSV file into a verified interactive news article using seven AI agents</title>
+      <link>https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/</link>
+      <guid isPermaLink="false">pepite-5d9bfbbd03173d5d</guid>
+      <pubDate>Sat, 20 Jun 2026 09:51:55 +0000</pubDate>
       <category>agents</category>
-      <description>SpatialClaw by NVIDIA helps AI understand spatial environments without special training. This is cool for building interactive applications quickly. However, it’s mostly neat if your work involves 3D computation.
+      <description>Seven AI agents work together like a newsroom. The "Data Journalist Agent" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 percent of all statements. In a reader study, 74 percent preferred the agent's output over the human original. But against elaborately crafted…
 
-— via MarkTechPost</description>
+— via The Decoder</description>
     </item>
     <item>
-      <title>IEEE Rolls Out Large Language Models Virtual Training Course</title>
-      <link>https://spectrum.ieee.org/large-language-models-ieee-course</link>
-      <guid isPermaLink="false">pepite-83cd86d6b2326e11</guid>
-      <pubDate>Fri, 19 Jun 2026 18:00:01 +0000</pubDate>
-      <category>models</category>
-      <description>IEEE launched a course on large language models. It’s useful for engineers looking to keep up with how AI is changing workflows. The downside is the knowledge is broad, and might lack the depth some experts look for.
+      <title>Temporary Cloudflare accounts for AI agents</title>
+      <link>https://blog.cloudflare.com/temporary-accounts/</link>
+      <guid isPermaLink="false">pepite-0c94d7caf903dfee</guid>
+      <pubDate>Sat, 20 Jun 2026 11:19:05 +0000</pubDate>
+      <category>agents</category>
+      <description>Cloudflare is offering temporary accounts for AI agents. It's handy because it helps test environments without permanent commitments, perfect for short-term experiments. The catch: it's not for long-term use, so plan accordingly.
 
-— via IEEE Spectrum AI</description>
+— via Hacker News</description>
     </item>
     <item>
-      <title>GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2</title>
-      <link>https://arrowtsx.dev/bigger-models/</link>
-      <guid isPermaLink="false">pepite-a348d352d685e474</guid>
-      <pubDate>Fri, 19 Jun 2026 16:11:25 +0000</pubDate>
+      <title>Forsy-AI/agent-apprenticeship</title>
+      <link>https://github.com/Forsy-AI/agent-apprenticeship</link>
+      <guid isPermaLink="false">pepite-0719eceb61f47a8a</guid>
+      <pubDate>Fri, 19 Jun 2026 16:19:37 +0000</pubDate>
+      <category>repos</category>
+      <description>Agent Apprenticeship is a GitHub project where AI agents learn by doing real tasks. It’s intriguing because agents gain experience that’s reused and shared among them. The downside is it's in early stages, so expect some rough edges.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Ubisoft co-founder Claude Guillemot has died in a plane crash</title>
+      <link>https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/</link>
+      <guid isPermaLink="false">pepite-4645e7f9b5971b61</guid>
+      <pubDate>Sat, 20 Jun 2026 14:12:50 +0000</pubDate>
       <category>models</category>
-      <description>A discussion showing GPT-5.5 hallucinates three times more often than a smaller, open-source model. It's intriguing because the MIT-licensed GLM-5.2 maintains accuracy while using fewer resources. But remember, any model might still make stuff up—always verify critical outputs.
+      <description>Sadly, Ubisoft co-founder Claude Guillemot has died in a plane crash. Though it's not a tech innovation, it's important as it affects many in the gaming industry.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: We post-trained a model that pen tests instead of refusing</title>
+      <link>https://www.argusred.com/cli</link>
+      <guid isPermaLink="false">pepite-dead6f7c81a65bcc</guid>
+      <pubDate>Sat, 20 Jun 2026 13:49:03 +0000</pubDate>
+      <category>models</category>
+      <description>A new model was post-trained for pen testing tasks. It’s cool because it can actively help find vulnerabilities instead of refusing these tasks outright. But, it's still experimental, so handle with care.
 
 — via Hacker News</description>
     </item>
@@ -59,59 +89,49 @@
       <guid isPermaLink="false">pepite-138469a6d37cac49</guid>
       <pubDate>Tue, 16 Jun 2026 21:22:43 +0000</pubDate>
       <category>repos</category>
-      <description>CodexPro is a tool that lets ChatGPT work as a coding assistant right on your local files, seeing them just like you do. It’s cool because it integrates right into your existing setup without reinventing workflows. The catch: it doesn’t bypass rate limits, so you still deal with usage constraints.
+      <description>CodexPro links ChatGPT with your local files for coding assistance. The best part is it feels seamless when working as a coding agent. However, it requires a bit of setup to integrate correctly.
 
 — via GitHub</description>
     </item>
     <item>
-      <title>dzcmemory-web/bazi-ziwei-skill</title>
-      <link>https://github.com/dzcmemory-web/bazi-ziwei-skill</link>
-      <guid isPermaLink="false">pepite-5e925ef3918c3b6a</guid>
-      <pubDate>Sat, 13 Jun 2026 14:22:28 +0000</pubDate>
-      <category>repos</category>
-      <description>bazi-ziwei-skill is a tool for precise Chinese astrology analysis, mainly focusing on stopping AI from guessing. It's interesting as it combines traditional methods with machine power. But it's niche, useful mainly if you're into astrology.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>7900XTX 24GB vram, can finally fit Q6K+MTP with Qwen 3.6 27B at 131k context</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uar6in/7900xtx_24gb_vram_can_finally_fit_q6kmtp_with/</link>
-      <guid isPermaLink="false">pepite-ee6106224a003994</guid>
-      <pubDate>Sat, 20 Jun 2026 08:23:22 +0000</pubDate>
-      <category>research</category>
-      <description>A Reddit post talks about fitting a large AI model into a GPU by tweaking settings. This is significant as it allows resource-strapped users to run big models. But you'll need a good understanding of GPU configurations to get this working.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Help with a Local Document RAG System (Storage + Ingestion + Query + Highlighting)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uar970/help_with_a_local_document_rag_system_storage/</link>
-      <guid isPermaLink="false">pepite-50a1c33e02f172d9</guid>
-      <pubDate>Sat, 20 Jun 2026 08:28:04 +0000</pubDate>
+      <title>I wrote a free 15-part series on LLM internals — real math, real tensor shapes, real hardware constraints. All grounded in Gemma 4 12B's actual config.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ub4oc4/i_wrote_a_free_15part_series_on_llm_internals/</link>
+      <guid isPermaLink="false">pepite-be968f0a64b61b3c</guid>
+      <pubDate>Sat, 20 Jun 2026 19:05:39 +0000</pubDate>
       <category>models</category>
-      <description>An r/LocalLLaMA post about setting up your own document retrieval system with no cloud involved. It's helpful for keeping sensitive data private while using AI capabilities. The downside? Setting it up could be labor-intensive if you're not familiar with all the tech parts.
+      <description>There's a new series demystifying the tech under the hood of open-source models. It’s great for those who want to understand AI intricacies, using practical examples. The catch: if math isn’t your forte, it might be a tough read.
 
 — via r/LocalLLaMA</description>
     </item>
     <item>
-      <title>GLM 5.2: 98% of max level intelligence with less than half of tokens usage</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uar4e2/glm_52_98_of_max_level_intelligence_with_less/</link>
-      <guid isPermaLink="false">pepite-2599ca49ef103515</guid>
-      <pubDate>Sat, 20 Jun 2026 08:19:42 +0000</pubDate>
+      <title>GLM 5.2, what speeds are we getting locally?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ub69xu/glm_52_what_speeds_are_we_getting_locally/</link>
+      <guid isPermaLink="false">pepite-ae143752ef53a3e4</guid>
+      <pubDate>Sat, 20 Jun 2026 20:11:58 +0000</pubDate>
       <category>models</category>
-      <description>A Reddit post on GLM 5.2 shows how to get nearly full intelligence with fewer tokens. It's useful for doing big tasks on limited hardware. But it'll only work well if you’re up for some trial and error tuning.
+      <description>A Reddit post is collecting local performance data for GLM 5.2. It's useful because real-world feedback helps optimize deployments. The hitch is you’ll need specific hardware to get valid insights.
 
 — via r/LocalLLaMA</description>
     </item>
     <item>
-      <title>Hide Secrets from AI Agents and NPM install using Airgap</title>
-      <link>https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html</link>
-      <guid isPermaLink="false">pepite-8f61cd0e44be17ac</guid>
-      <pubDate>Fri, 19 Jun 2026 20:24:59 +0000</pubDate>
+      <title>Gemma 4 26b a4b is genuinely the best model I have tried for language learning and scientific queries!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ub4ods/gemma_4_26b_a4b_is_genuinely_the_best_model_i/</link>
+      <guid isPermaLink="false">pepite-9117353c8b8bbbd4</guid>
+      <pubDate>Sat, 20 Jun 2026 19:05:43 +0000</pubDate>
       <category>agents</category>
-      <description>A discussion on Hackernews about using airgap techniques to secure information from AI agents. It’s intriguing for privacy-conscious developers who don't trust cloud-based solutions. The downside is that it might not be practical for everyday users due to complexity.
+      <description>Gemma 4 26b is hailed for language and science queries, surpassing many others. It's interesting for non-coding tasks, showcasing its versatile capabilities. Just remember, it might not excel in coding jobs.
 
-— via Hacker News</description>
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All</title>
+      <link>https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/</link>
+      <guid isPermaLink="false">pepite-83f6876f3ae3c293</guid>
+      <pubDate>Sat, 20 Jun 2026 15:00:00 +0000</pubDate>
+      <category>other</category>
+      <description>Enterprise Document Intelligence [Vol.1 #5sexies] - image_df tells you where every picture is. Turning the few that matter into searchable text is a separate, cost-ordered job The post Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All appeared first on Towards Data Science . It landed in the last few hours.
+
+— via Towards Data Science</description>
     </item>
     <item>
       <title>PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds</title>
@@ -119,27 +139,7 @@
       <guid isPermaLink="false">pepite-e3537df11d3bd184</guid>
       <pubDate>Thu, 18 Jun 2026 16:38:35 +0000</pubDate>
       <category>research</category>
-      <description>PCFootprint shares new data for extracting building shapes from point clouds. This is invaluable for urban developers and tech enthusiasts. But it focuses specifically on aerial LiDAR data, so not all use cases will align.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm</title>
-      <link>http://arxiv.org/abs/2606.20523v1</link>
-      <guid isPermaLink="false">pepite-18fd412f171aed05</guid>
-      <pubDate>Thu, 18 Jun 2026 17:38:01 +0000</pubDate>
-      <category>finance</category>
-      <description>SARLO-80 is a rich data set for SAR-optical research combining high-resolution imagery with text. It's a boon for those working on advanced imagery. The limitation? Familiarity with SAR technology is essential to derive value.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining</title>
-      <link>http://arxiv.org/abs/2606.20521v1</link>
-      <guid isPermaLink="false">pepite-12d66be7d9230637</guid>
-      <pubDate>Thu, 18 Jun 2026 17:37:34 +0000</pubDate>
-      <category>finance</category>
-      <description>HumanScale suggests human video could replace real-robot data for model training. This could democratize training by lowering costs. The catch: its effectiveness is still under debate, so it's not a plug-and-play solution yet.
+      <description>PCFootprint is a new dataset for extracting building outlines from LiDAR. It stands out because it uses detailed 3D data from point clouds. It's complex and needs advanced expertise to work effectively.
 
 — via arXiv</description>
     </item>
