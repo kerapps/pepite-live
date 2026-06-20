@@ -9,7 +9,7 @@
       <guid isPermaLink="false">pepite-311d2b33e7dd0698</guid>
       <pubDate>Sat, 20 Jun 2026 08:44:19 +0000</pubDate>
       <category>models</category>
-      <description>A post about ChatGPT’s new task scheduling upgrades. These allow users to manage and modify tasks directly in a new sidebar. Caution: it replaces the old 'Pulse' feature, so you might need to adapt to the changes.
+      <description>OpenAI adds new scheduling features to ChatGPT. You can now organize tasks better with a single page to manage them all. However, they've retired the 'Pulse' feature, so some functions might feel limited.
 
 — via The Decoder</description>
     </item>
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">pepite-5b8f4a18c3ef971e</guid>
       <pubDate>Thu, 18 Jun 2026 18:22:13 +0000</pubDate>
       <category>other</category>
-      <description>News about AWS preparing to sell its AI chips to compete directly with Nvidia. This could shake up the chip market considerably. The catch: it's still early days, so no products are available yet.
+      <description>Amazon looks to sell its AI chips, aiming to compete with Nvidia. Potentially a big move to shake up the chip market. Watch out: market-based success remains untested.
 
 — via TechCrunch AI</description>
     </item>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">pepite-7f55b48cf0d6a26b</guid>
       <pubDate>Tue, 16 Jun 2026 11:15:46 +0000</pubDate>
       <category>agents</category>
-      <description>A report about a security issue in Copilot allowing access to 2FA codes. It's a clear example of risks inherent in LLM tools. The limitation: it's more about alerting developers than providing a tool or fix.
+      <description>Critical security bug found in GitHub's Copilot that let hackers exploit 2FA. It's a cautionary tale about the security of automated coding tools. The issue underlines ongoing weaknesses in securing AI-driven services.
 
 — via Ars Technica AI</description>
     </item>
@@ -39,7 +39,7 @@
       <guid isPermaLink="false">pepite-05c6168ed876432b</guid>
       <pubDate>Sat, 20 Jun 2026 01:25:14 +0000</pubDate>
       <category>models</category>
-      <description>A blog post discussing how large language models (LLMs) have become increasingly complex. It's interesting because it dives into challenges engineers face with these advanced models. The catch: it's a discussion — no real solutions or tools are provided.
+      <description>A blog post about why AI models are getting more complex. It's an eye-opener on how hard it is to keep up with these evolving models. The downside: more complexity means more headaches for those maintaining these systems.
 
 — via Hacker News</description>
     </item>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">pepite-3e88f1a17d0cd8ec</guid>
       <pubDate>Mon, 01 Jun 2026 12:52:57 +0000</pubDate>
       <category>repos</category>
-      <description>A GitHub repo offering ORG2, a coding agent tool. It supports easy organization and alignment for agents and needs less than 100MB of space. However, it’s an experimental tool, so expect some growing pains along the way.
+      <description>ORG2 is a tool to work locally with AI coding agents. It's designed to keep everything on your machine, boosting privacy and control. The catch: it's still an experiment, aiming to improve agent collaboration.
 
 — via GitHub</description>
     </item>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">pepite-cb9dabfa0a51c121</guid>
       <pubDate>Sun, 07 Jun 2026 01:16:18 +0000</pubDate>
       <category>repos</category>
-      <description>Baoyu-design is a portable design agent skill for UI projects. What's neat is you get full-fledged UI mockups right inside your coding environment. The downside: it's focused specifically on UI work, so not for every kind of project.
+      <description>Baoyu Design is a portable AI design tool for making mockups and wireframes in your editor. It keeps your work local, without using extra online tools. But it's only focused on specific design outputs like HTML.
 
 — via GitHub</description>
     </item>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">pepite-0b15816fdcc5e92b</guid>
       <pubDate>Sat, 20 Jun 2026 12:26:04 +0000</pubDate>
       <category>models</category>
-      <description>A news piece about the tragic death of Ubisoft co-founder Claude Guillemot. It's relevant since the family has heavily influenced gaming and tech sectors. The catch: the article doesn’t touch on tech, rather it's more on industry impact.
+      <description>News on the death of Ubisoft co-founder Claude Guillemot in a plane crash. It's a sad day for the gaming and tech community, marking the loss of a pivotal figure.
 
 — via Hacker News</description>
     </item>
@@ -79,7 +79,7 @@
       <guid isPermaLink="false">pepite-cc4e3c521bed02c0</guid>
       <pubDate>Sat, 20 Jun 2026 12:26:57 +0000</pubDate>
       <category>models</category>
-      <description>A post exploring potential economic risks from an AI crash, more severe than the dot-com bust. The focus is on the heavy investment in physical infrastructure in AI. The limitation: it's mainly economic theory, not immediately actionable.
+      <description>NYU's Damodaran warns that an AI economic crash could hit harder than the dot-com bust. It's a wake-up call about the risks of debt-driven infrastructure in AI. The catch: even positive outcomes may not be fully beneficial for the workforce.
 
 — via The Decoder</description>
     </item>
@@ -89,7 +89,7 @@
       <guid isPermaLink="false">pepite-a134378e660e8c43</guid>
       <pubDate>Thu, 18 Jun 2026 14:46:38 +0000</pubDate>
       <category>finance</category>
-      <description>A paper on improving video anomaly detection with pose-flow technology. It proposes a new calibration method to enhance reliability. The catch: this paper is heavy on research details, lacking easy-to-deploy solutions as of now.
+      <description>Paper on calibrating video anomaly detection to handle normal variations. It adds a new layer to this process, helping improve accuracy. The limitation: it's most relevant for one-class surveillance setups.
 
 — via arXiv</description>
     </item>
@@ -99,7 +99,7 @@
       <guid isPermaLink="false">pepite-7e3544bc7c37313f</guid>
       <pubDate>Thu, 18 Jun 2026 14:24:06 +0000</pubDate>
       <category>research</category>
-      <description>A paper introducing a deep learning model for salient object detection. It uses advanced nested structures to grasp context better. The challenge: it's complex to integrate without a deep dive into the model's structure.
+      <description>U$^2$Mamba is a new network approach for detecting notable objects. Its design captures more scene context and detail. But, as a new model, it might not yet suit every application.
 
 — via arXiv</description>
     </item>
@@ -109,7 +109,7 @@
       <guid isPermaLink="false">pepite-0c41f484033799e8</guid>
       <pubDate>Thu, 18 Jun 2026 17:49:36 +0000</pubDate>
       <category>research</category>
-      <description>Research on a new execution-state management for AI systems to reduce response time. It's exciting because it focuses on improving system efficiency on-device. The caveat: it’s a technical paper, needing more work to apply it practically.
+      <description>The paper introduces 'execution-state capsules' for AI serving. It's geared to improve speed and efficiency on devices with low resources. Needs really specific setups to work as intended.
 
 — via arXiv</description>
     </item>
@@ -119,7 +119,7 @@
       <guid isPermaLink="false">pepite-664eda98760091b4</guid>
       <pubDate>Tue, 16 Jun 2026 16:04:59 +0000</pubDate>
       <category>agents</category>
-      <description>Personal thoughts on a local AI model useful for routine coding tasks. Owners share their experience using the model daily. Downside: doesn't dive into how to set up similar setups for your own use.
+      <description>A post piece quoting AI discussion on efficient coding with local models. Spotlights how local setups can save time on smaller AI tasks. But it's mostly firsthand experience, and opinions can vary.
 
 — via Simon Willison</description>
     </item>
@@ -129,7 +129,7 @@
       <guid isPermaLink="false">pepite-c7b6e0d15e340e1a</guid>
       <pubDate>Wed, 17 Jun 2026 10:18:05 +0000</pubDate>
       <category>agents</category>
-      <description>A blog post about integrating AI from Hugging Face Hub to robotics. It’s fascinating to see how AI and physical hardware can be connected so fluidly. The downside: without tech specs, it's more exploratory than practical.
+      <description>Discusses moving AI from Hugging Face Hub to robots. Ties machine learning with hardware innovation. A niche area, making it more experimental than mainstream.
 
 — via Hugging Face</description>
     </item>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">pepite-f97ec39585de0340</guid>
       <pubDate>Tue, 16 Jun 2026 05:20:29 +0000</pubDate>
       <category>models</category>
-      <description>Details on export controls affecting US cyber defense, touching on AI and software regulations. It's important as it highlights real trade issues. The discussion is high-level, not offering immediate solutions or tools.
+      <description>Insights into the challenges the US faces due to AI export controls. Highlights how limitations in AI tech can weaken cybersecurity efforts. Details specific outdated practices without general solutions.
 
 — via Simon Willison</description>
     </item>
