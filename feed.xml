@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets</title>
+      <link>https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/</link>
+      <guid isPermaLink="false">pepite-605fcd5052c3baa0</guid>
+      <pubDate>Sat, 20 Jun 2026 21:50:11 +0000</pubDate>
+      <category>agents</category>
+      <description>Hermes Agent now has a Blank Slate mode, letting you start with minimal tools. It gives you control over which toolsets to enable, perfect for customizing your development environment. But remember: starting from scratch can mean more initial setup effort.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
+      <title>How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection</title>
+      <link>https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/</link>
+      <guid isPermaLink="false">pepite-1915ad290a508c6d</guid>
+      <pubDate>Sat, 20 Jun 2026 09:05:23 +0000</pubDate>
+      <category>agents</category>
+      <description>TimeCopilot offers a full workflow for forecasting with anomaly detection. It uses real and synthetic data to create predictions and identify outliers. Its complexity: handling all the features might require a familiarization period.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
+      <title>Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed</title>
+      <link>https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/</link>
+      <guid isPermaLink="false">pepite-b12adc1470686732</guid>
+      <pubDate>Sat, 20 Jun 2026 09:23:59 +0000</pubDate>
+      <category>research</category>
+      <description>YaFF is a Yandex project improving Protobuf performance with zero-copy tech. It aims to read data almost as fast as unformatted data, saving CPU use. The niche: it’s optimal mainly for existing Protobuf users needing speed gains.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
+      <title>ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls</title>
+      <link>https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/</link>
+      <guid isPermaLink="false">pepite-311d2b33e7dd0698</guid>
+      <pubDate>Sat, 20 Jun 2026 08:44:19 +0000</pubDate>
+      <category>models</category>
+      <description>ChatGPT adds scheduled task controls, edging closer to being a personal AI assistant. It centralizes task management, making tweaking easier. A point to note: lost Pulse feature might affect users who preferred its past functionality.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust</title>
+      <link>https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/</link>
+      <guid isPermaLink="false">pepite-cc4e3c521bed02c0</guid>
+      <pubDate>Sat, 20 Jun 2026 12:26:57 +0000</pubDate>
+      <category>models</category>
+      <description>A cautionary view from an NYU professor about potential risks of an AI market crash. It warns the impact might surpass the dot-com bust due to heavy infrastructure investments. While insightful, the message lacks a pathway for averting such outcomes.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>SwitchBot’s Standing Circulator Fan is worth fighting for</title>
+      <link>https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review</link>
+      <guid isPermaLink="false">pepite-1472c67047138690</guid>
+      <pubDate>Sat, 20 Jun 2026 10:30:50 +0000</pubDate>
+      <category>models</category>
+      <description>SwitchBot's fan promises high efficiency with smart features. It's touted for its circulator design that optimizes room airflow. But remember: it might not appeal unless you're already in the market for a top-end fan.
+
+— via The Verge</description>
+    </item>
+    <item>
+      <title>LLMs Are Complicated Now</title>
+      <link>https://ianbarber.blog/2026/06/19/llms-are-complicated-now/</link>
+      <guid isPermaLink="false">pepite-05c6168ed876432b</guid>
+      <pubDate>Sat, 20 Jun 2026 01:25:14 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on the growing complexity of large language models. It explores how these models are becoming more intricate, requiring more resources and understanding to deploy effectively. The challenge: managing these complexities without losing performance or accessibility.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>yorgai/ORG2</title>
+      <link>https://github.com/yorgai/ORG2</link>
+      <guid isPermaLink="false">pepite-3e88f1a17d0cd8ec</guid>
+      <pubDate>Mon, 01 Jun 2026 12:52:57 +0000</pubDate>
+      <category>repos</category>
+      <description>ORG2 is a coding assistant built for local-first execution using Rust and Tauri. It manages tasks efficiently on your machine, needing less than 100MB disk space. The downside: while lightweight, it may lack some advanced features of more resource-heavy tools.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>JimLiu/baoyu-design</title>
+      <link>https://github.com/JimLiu/baoyu-design</link>
+      <guid isPermaLink="false">pepite-cb9dabfa0a51c121</guid>
+      <pubDate>Sun, 07 Jun 2026 01:16:18 +0000</pubDate>
+      <category>repos</category>
+      <description>Baoyu-design lets you use Claude's design tools directly from your editor. It turns design tasks like mockups and prototypes into local agent skills, keeping everything in your project. The catch: it's specialized—a broad variety of design needs might be beyond its scope without further customization.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Qwen code companion on vscode marketplace - thoughts</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ub4q58/qwen_code_companion_on_vscode_marketplace_thoughts/</link>
+      <guid isPermaLink="false">pepite-5b85e46f8baeb51c</guid>
+      <pubDate>Sat, 20 Jun 2026 19:07:45 +0000</pubDate>
+      <category>models</category>
+      <description>Qwen Code Companion is a new VSCode extension for coding efficiency. It's noted for getting right to the point, with minimal tweaks needed. However, it's freshest on the market—its long-term reliability still needs user experiences to validate.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Board where every tile is an agent</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ub3e2x/board_where_every_tile_is_an_agent/</link>
+      <guid isPermaLink="false">pepite-6e172e1bddd4315f</guid>
+      <pubDate>Sat, 20 Jun 2026 18:13:16 +0000</pubDate>
+      <category>agents</category>
+      <description>A creative project where each board tile functions as an independent agent. This unusual setup encourages exploration and interaction with agent behavior in manageable pieces. Just note: it requires a specific coding agent to work well.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Claude Guillemot Ubisoft Co-Founder Dead in Plane Crash</title>
+      <link>https://www.thegamer.com/ubisoft-co-founder-claude-guillemot-dead/</link>
+      <guid isPermaLink="false">pepite-0b15816fdcc5e92b</guid>
+      <pubDate>Sat, 20 Jun 2026 12:26:04 +0000</pubDate>
+      <category>models</category>
+      <description>An article discussing the passing of Ubisoft co-founder Claude Guillemot. It provides context and background to his influence in the gaming industry. The sad note: it's more about tribute than new technology insights.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>You can now convert EXL3 quants on Apple Silicon Mac</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ub0vqa/you_can_now_convert_exl3_quants_on_apple_silicon/</link>
+      <guid isPermaLink="false">pepite-1e65fa0330e1ec37</guid>
+      <pubDate>Sat, 20 Jun 2026 16:29:46 +0000</pubDate>
+      <category>models</category>
+      <description>You can now convert demanding EXL3 models on Apple Silicon Macs. It expands access to high-quality modelling beyond those with pricey RTX hardware. The limitation: high RAM requirements mean it's still not for everyone.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Reliability-Aware Prototype Calibration for Frozen Pose-Flow Video Anomaly Detection</title>
+      <link>http://arxiv.org/abs/2606.20312v1</link>
+      <guid isPermaLink="false">pepite-a134378e660e8c43</guid>
+      <pubDate>Thu, 18 Jun 2026 14:46:38 +0000</pubDate>
+      <category>finance</category>
+      <description>This paper introduces a method for enhancing reliability in video anomaly detection. It provides a framework for better managing pose-flow scores, crucial for surveillance applications. The hurdle: it’s technically dense, needing a solid grounding in its specific detection field.
+
+— via arXiv</description>
+    </item>
+    <item>
       <title>The Atlantic created a searchable database of the music used to train AI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data</link>
       <guid isPermaLink="false">pepite-95f2acbf4f9fcb91</guid>
