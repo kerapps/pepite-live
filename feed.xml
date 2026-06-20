@@ -9,7 +9,7 @@
       <guid isPermaLink="false">pepite-26c28ab309382e8a</guid>
       <pubDate>Fri, 19 Jun 2026 22:06:31 +0000</pubDate>
       <category>research</category>
-      <description>VibeThinker-3B, built on Qwen2.5-Coder-3B, demonstrates MIT-licensed models can compete with proprietary giants. Its dense reasoning capabilities are fair game for those needing robust benchmarks. But keep in mind, the 'spectrum-to-signal' post-training might not be as groundbreaking once the initial allure fades—evaluate its long-term applicability before committing.
+      <description>VibeThinker-3B introduces dense reasoning inspired by spectrum-to-signal post-training. While it competes with known benchmarks, the reality is that it's another entry in a crowded room of thinking models trying to stand out. Builders familiar with Qwen2.5 might find it interesting, but the real juice is under the hood with this ‘spectrum’ process. Still, don't expect it to radically shift what we already deem as reasoning.
 
 — via MarkTechPost</description>
     </item>
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">pepite-ee91d31b2e662ebc</guid>
       <pubDate>Fri, 19 Jun 2026 22:51:59 +0000</pubDate>
       <category>agents</category>
-      <description>SpatialClaw introduces a refreshing angle on spatial reasoning—coding without training burdens. It’s a tool that uses Python within persistent kernels for composing 3D spatial reasoning tasks. This is tempting for engineers tired of repeated model training cycles, but know this: the learning curve lies in mastering the code composition interactions for spatial tasks.
+      <description>NVIDIA's SpatialClaw skips the training queues, leveraging existing Python skills for 3D spatial reasoning. Think of it as a composer of perception tasks for spatial real-world problems. Yet, without training, you're banking on persistent kernels doing the heavy lifting, which is clever if Python's your go-to weapon. New territory with a classic toolset — a double-edged sword in environments seeking efficiency without compromise.
 
 — via MarkTechPost</description>
     </item>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">pepite-83cd86d6b2326e11</guid>
       <pubDate>Fri, 19 Jun 2026 18:00:01 +0000</pubDate>
       <category>models</category>
-      <description>LLMs are engineering staples now, as shown by IEEE’s new virtual course. Designed for those understanding AI as a baseline tool rather than a distant innovation, this training can shape savvy engineers ready to integrate AI into infrastructure. Embrace it to upscale skills, but remember: insight doesn't override hands-on experience.
+      <description>IEEE rolls out a training course on LLMs, reflecting their encroachment into engineering workflows. Forget casual AI use cases — this is about how models revolutionize codebase auditing and blueprint creations. Engineers engaging in digital infrastructure or vulnerability checks will find it worth a look. As models mature, so must our understanding of how they integrate into high-stakes environments.
 
 — via IEEE Spectrum AI</description>
     </item>
@@ -39,7 +39,7 @@
       <guid isPermaLink="false">pepite-138469a6d37cac49</guid>
       <pubDate>Tue, 16 Jun 2026 21:22:43 +0000</pubDate>
       <category>repos</category>
-      <description>CodexPro lets ChatGPT act like a local coding agent, turning your machine’s repo into ChatGPT's playground. No tricks for bypassing rate limits—just a clean use of ChatGPT’s Developer Mode to execute code, verify it, and handle context directly in your projects. Builders should note, though: it’s best suited for those who want to leverage coding agents locally, as it requires setting up tunnels with Cloudflare. The value here is in letting ChatGPT inspect and manipulate code without ever leaving your local environment, but don’t expect it to replace deep debugging just yet.
+      <description>rebel0789/codexpro is a neat trick to make ChatGPT feel local. By turning it into a coding agent for your dev folder, it peaks at those AGENTS.md files and diffs without you babysitting a foreign interface. For devs juggling tons of setups, it saves context switching headaches. The catch? It's limited to ChatGPT's official channels, so no magic cost-savings here.
 
 — via GitHub</description>
     </item>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">pepite-5e925ef3918c3b6a</guid>
       <pubDate>Sat, 13 Jun 2026 14:22:28 +0000</pubDate>
       <category>repos</category>
-      <description>Bazi-Ziwei-Skill isn’t your run-of-the-mill astrology tool—it's a robust AI agent for precise Chinese astrology predictions. Unlike typical LLM tools that predict poorly due to inherent biases, this tool uses built-in algorithms for structuring astrological data, ensuring accuracy. Its real selling point is comprehensive analysis across two astrology systems to maintain consistency and reliability in predictions. Use it if you're exploring AI in niche domains like astrology, but remember, outside of its field, this tool might not find much love.
+      <description>In the world of AI where precision is rare, dzcmemory-web/bazi-ziwei-skill insists on calculative clarity. It avoids letting language models guess fortunes, opting for an algorithmic core that crosses Chinese astrology streams. It's a niche tool, but for those embedding cultural skills, it offers a structured approach over mere prompt trickery. Just remember, it's more about the setup than the fortune itself.
 
 — via GitHub</description>
     </item>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">pepite-a284ec9b3f07c770</guid>
       <pubDate>Fri, 19 Jun 2026 23:30:10 +0000</pubDate>
       <category>models</category>
-      <description>Running Qwen models on a $1700 GPU setup sounds like a dream until you see the numbers. Four 5060 Ti cards with P2P isn't cheap, but digging around the second-hand market can slash costs. This configuration excels at inference-only tasks, ideal for independent researchers or small teams needing high throughput without the capacity for a major data center setup.
+      <description>$1,800 in GPUs and P2P might sound hefty, but if inference is your only dance, this Redditor's cobbled setup shows what's possible outside of cloud environments. They rely on second-hand 5060 Ti cards scavenged off your local marketplace — as grassroots as it gets. The upfront expense isn't trivial, but for personalized and unshared infrastructure, it offers a kind of solitude from the cloud giants' embrace.
 
 — via r/LocalLLaMA</description>
     </item>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">pepite-a348d352d685e474</guid>
       <pubDate>Fri, 19 Jun 2026 16:11:25 +0000</pubDate>
       <category>models</category>
-      <description>Relax—GPT-5.5 hallucinations may be tripling, but finding the right context control and fine-tuning can help curb the illusionary excess. Builders skeptical of closed AI should look to robust open alternatives showing fewer hallucinations, like the GLM-5.2, as viable staples in critical applications.
+      <description>GPT-5.5's hallucination problem is three times worse than GLM-5.2’s, raising flags for anyone trusting large models without scrutiny. Bigger isn’t always smarter, and this comparison confirms it. If you're an engineer balancing proprietary and open-source models, paying attention to how they wander off the semantic path can save you from the PR nightmare of model gaffes.
 
 — via Hacker News</description>
     </item>
@@ -79,17 +79,17 @@
       <guid isPermaLink="false">pepite-bb64257bdd8392e7</guid>
       <pubDate>Fri, 19 Jun 2026 19:46:30 +0000</pubDate>
       <category>models</category>
-      <description>tweaking llama.cpp parameters can feel like a dark art. With guidance scarce or inconsistent, it's mostly down to trial and error. If you’re running an AMD GPU with gemma models, tailoring settings like top-p and temperature will get you close, but don't expect a universal solution.
+      <description>The nitty-gritty of llama.cpp parameters has engineers like you navigating a minefield without a map. AMD users running the latest gemma setups have to rely on community wisdom because, frankly, docs just don't cut it for optimizing trial-heavy tasks. Delve into that Reddit thread for gems of practical advice, but leave room for experimentation — an unavoidable cost until more robust guidelines emerge.
 
 — via r/LocalLLaMA</description>
     </item>
     <item>
-      <title>Maximizing performance of 2x3090 + NVLink</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ua9qbw/maximizing_performance_of_2x3090_nvlink/</link>
-      <guid isPermaLink="false">pepite-ecd56af7bd6ca692</guid>
-      <pubDate>Fri, 19 Jun 2026 18:26:15 +0000</pubDate>
-      <category>models</category>
-      <description>Optimizing dual 3090s with NVLink is like having a V6 in a sedan—if underused, it's a waste. Ensuring that they’re working in tandem effectively, especially with variable token speeds, requires tuning beyond basic setup. The smart money is on understanding your specific workload needs—NVLink’s purported benefits disappear with ill-suited tasks.
+      <title>I benchmarked Claude's "Fast C++". It wasn't faster</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uairua/i_benchmarked_claudes_fast_c_it_wasnt_faster/</link>
+      <guid isPermaLink="false">pepite-55445ffa3f28ca82</guid>
+      <pubDate>Sat, 20 Jun 2026 00:49:14 +0000</pubDate>
+      <category>research</category>
+      <description>Claude’s ‘Fast C++’ is a reminder that claims don’t always match reality. What you hear in marketing isn't necessarily what you'll measure in performance. Disappointed benchmarks teach us more than all the performance claims combined: trust but verify. If you're feeling duped, know you’re in good company, but this incident is yet another case of pointing out the gilded not-so-gold standards in AI.
 
 — via r/LocalLLaMA</description>
     </item>
@@ -99,7 +99,7 @@
       <guid isPermaLink="false">pepite-6d58d1756426c309</guid>
       <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
       <category>agents</category>
-      <description>A custom CUDA kernel for Vectorized Building Footprint Extraction avoids slower CPU data transfers, offering deterministic latency during GPU tasks. This kernel optimizes retrieval in Agentic RAG environments. It's a sophisticated but required step for those cribbing about GPU latencies—ideal if real-time inference speed is your bottleneck.
+      <description>Local GPU inference can hit a bottleneck if your retrieval pipeline knocks the CPU for data work. Enter GPU-resident Top-K implementations. It's technical debt relief for those managing RAG workloads, effectively reducing latency by keeping the search operations near the GPU. Unless you're deep into CUDA development, this might just be a theoretical exercise for now.
 
 — via Towards Data Science</description>
     </item>
@@ -109,39 +109,39 @@
       <guid isPermaLink="false">pepite-9200a469f2dbe35c</guid>
       <pubDate>Fri, 19 Jun 2026 14:05:04 +0000</pubDate>
       <category>agents</category>
-      <description>Using Adobe Marketing Agent for Amazon Quick offers better alignment of customer insights with campaign workflows. This Model Context Protocol simplifies integrating Adobe tools with Amazon services. It streamlines marketing data utility for those embedded in AWS environments, but don’t expect an out-of-the-box miracle setup—tailoring remains key.
+      <description>Adobe Marketing Agent meets Amazon Quick, bridging insights with Campaign workflows via MCP. The result? Speedier audience and loyalty analysis, now baked into your cloud suite. Of course, it only shines if Adobe systems run your marketing logic. For campaigns dependent on fine-tuned audience interactions, integrating those insights could streamline operations significantly.
 
 — via AWS ML</description>
     </item>
     <item>
-      <title>PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds</title>
-      <link>http://arxiv.org/abs/2606.20455v1</link>
-      <guid isPermaLink="false">pepite-e3537df11d3bd184</guid>
-      <pubDate>Thu, 18 Jun 2026 16:38:35 +0000</pubDate>
-      <category>research</category>
-      <description>PCFootprint, a dataset for LiDAR-derived vectorized building footprints, connects photogrammetry with cutting-edge computer vision and remote sensing. The dataset’s comprehensive nature could clear bottlenecks faced by modelers relying on optic-only images, but remember: applications hinge on integration capabilities with existing modeling pipelines.
+      <title>Building a Custom GStreamer Plugin for NVIDIA DeepStream</title>
+      <link>https://towardsdatascience.com/building-a-custom-gstreamer-plugin-for-nvidia-deepstream/</link>
+      <guid isPermaLink="false">pepite-7d95ff16c00928dc</guid>
+      <pubDate>Fri, 19 Jun 2026 16:30:00 +0000</pubDate>
+      <category>repos</category>
+      <description>If you're pushing custom inferences with NVIDIA DeepStream, this post on GStreamer plugins dives deep into the practicality of why one might need to integrate such setups. While it touches the core of handling integrations without vendor bottlenecks, it's quite the trek if your goals don’t lean heavily on constant video processing innovation. The guide is there, but don't expect ease without bumps.
 
-— via arXiv</description>
+— via Towards Data Science</description>
     </item>
     <item>
-      <title>SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm</title>
-      <link>http://arxiv.org/abs/2606.20523v1</link>
-      <guid isPermaLink="false">pepite-18fd412f171aed05</guid>
-      <pubDate>Thu, 18 Jun 2026 17:38:01 +0000</pubDate>
-      <category>finance</category>
-      <description>SARLO-80 fills a niche with its ultra-high-res SAR optics and language combos, guiding multimodal learning beyond traditional boundaries. This dataset is perfect for bridging optical intensity data with language and SAR to create robust models. Its utility is profound for academia and beyond, but watch out for the complexity in managing such multiclass data.
+      <title>How we built an internal data analytics agent</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/</link>
+      <guid isPermaLink="false">pepite-19742b2bd1c2871d</guid>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>GitHub's internal data agent project Qubot is worth a peek for anyone moving gaggles of data language queries into practical insights. If natural language interfaces for data analytics pique your interest, this case study has lessons on balancing employee access with information depth. For firms debating whether they should adopt a similar setup — this is a play-by-play.
 
-— via arXiv</description>
+— via GitHub</description>
     </item>
     <item>
-      <title>HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining</title>
-      <link>http://arxiv.org/abs/2606.20521v1</link>
-      <guid isPermaLink="false">pepite-12d66be7d9230637</guid>
-      <pubDate>Thu, 18 Jun 2026 17:37:34 +0000</pubDate>
+      <title>Dispatches from O'Reilly: From capabilities to responsibilities​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
+      <link>https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities/</link>
+      <guid isPermaLink="false">pepite-fae20bbca8e347c1</guid>
+      <pubDate>Fri, 19 Jun 2026 14:00:00 +0000</pubDate>
       <category>finance</category>
-      <description>Human video data might redefine robot action pretraining. HumanScale shows how leveraging readily available egocentric video can supplant real-robot trajectories. It’s a cost-effective model training strategy, but when seeking precision actions, its lower fidelity compared to real robot sequences could be limiting.
+      <description>Exploring contract-bound AI agents is virtually today's ethical frontier. O'Reilly's discussion piece reiterates the stakes involved — perfect for engineers crafting agents that must (or must not) commit actions under defined directions. It’s not just about building them smarter; it's also about ensuring AI follows the rules we want to abide by. Futuristic? Maybe, but not by much.
 
-— via arXiv</description>
+— via Stack Overflow</description>
     </item>
     <item>
       <title>Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work</title>
