@@ -9,7 +9,7 @@
       <guid isPermaLink="false">pepite-311d2b33e7dd0698</guid>
       <pubDate>Sat, 20 Jun 2026 08:44:19 +0000</pubDate>
       <category>models</category>
-      <description>OpenAI added scheduling controls to ChatGPT, aiming for it to become more of a personal assistant. Now you can manage and modify tasks from one spot in the app. But remember, it's still evolving—some features got retired because they just didn’t work as expected.
+      <description>OpenAI's latest feature lets users schedule tasks in ChatGPT. It shows upcoming tasks in one view, simplifying task management. The catch: it's still a developing feature and may not cover all possible needs.
 
 — via The Decoder</description>
     </item>
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">pepite-5b8f4a18c3ef971e</guid>
       <pubDate>Thu, 18 Jun 2026 18:22:13 +0000</pubDate>
       <category>other</category>
-      <description>Amazon aims to compete with Nvidia by selling its AI chips, hoping to tap into a big market. It's a move to leverage their cloud infrastructure experience in hardware. Key point: while promising, their success depends on convincing those reliant on Nvidia's ecosystem.
+      <description>Amazon plans to sell AI chips to compete with Nvidia. This could broaden chip access for AI developers. The hitch: details on availability and real-world impact are still emerging.
 
 — via TechCrunch AI</description>
     </item>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">pepite-7f55b48cf0d6a26b</guid>
       <pubDate>Tue, 16 Jun 2026 11:15:46 +0000</pubDate>
       <category>agents</category>
-      <description>A report on a vulnerability in Copilot that exposed user data. It highlights persistent security gaps in popular AI tools. The takeaway: even trusted tools can have serious flaws.
+      <description>A look at how a Copilot vulnerability exposed user security. It highlights ongoing issues in AI security, especially in handling user credentials. The problem: industry-wide security challenges remain an ongoing concern.
 
 — via Ars Technica AI</description>
     </item>
@@ -39,7 +39,7 @@
       <guid isPermaLink="false">pepite-05c6168ed876432b</guid>
       <pubDate>Sat, 20 Jun 2026 01:25:14 +0000</pubDate>
       <category>models</category>
-      <description>A blog discussion on how large language models (LLMs) are becoming more complicated. The main point: while these AI models can do fantastic things, they're harder to understand and work with than before. The challenge is they require us to keep up with their increasing complexity.
+      <description>A lively discussion on how AI models have grown more complex. It's got insights about how understanding and using modern large language models (LLMs) require more specialized knowledge now. The downside: it highlights the steeper learning curve for newcomers.
 
 — via Hacker News</description>
     </item>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">pepite-3e88f1a17d0cd8ec</guid>
       <pubDate>Mon, 01 Jun 2026 12:52:57 +0000</pubDate>
       <category>repos</category>
-      <description>ORG2 is a new tool for managing coding agents on your local machine. It runs smoothly without hogging space, letting you observe and replay agent actions. The downside: it's a bit experimental, so you might hit bumps if your needs go beyond simple tasks.
+      <description>A new open-source tool for local AI coding agents called ORG2. It promises local execution with less than 100MB of disk use, helping developers test AI coding agents more reliably and independently. The catch: despite its efficiency, it's still an experimental tool.
 
 — via GitHub</description>
     </item>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">pepite-cb9dabfa0a51c121</guid>
       <pubDate>Sun, 07 Jun 2026 01:16:18 +0000</pubDate>
       <category>repos</category>
-      <description>Baoyu Design is an agent skill package bringing Claude Design features to your local setup. This means creating UIs and prototypes without needing a website or external service. However, it still needs a bit of setup to integrate with your workflow.
+      <description>Baoyu Design is an easily portable design tool for AI agents. It lets you create UI mockups and other design artifacts directly from your editor, without extra web tools. The limitation: it works primarily with Claude-based agents.
 
 — via GitHub</description>
     </item>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">pepite-0b15816fdcc5e92b</guid>
       <pubDate>Sat, 20 Jun 2026 12:26:04 +0000</pubDate>
       <category>models</category>
-      <description>A news piece concerning the tragic passing of Claude Guillemot, co-founder of Ubisoft. This highlights the human side often missed in tech discussions. It's a stark reminder of the influential figures behind our favorite tools and games.
+      <description>A recent news piece discussing the tragic passing of Ubisoft co-founder Claude Guillemot. Though not directly related to AI tools, it sparked conversations about AI business impacts. The direct connection to AI is minimal, aside from the community reflections it spurred.
 
 — via Hacker News</description>
     </item>
@@ -79,7 +79,7 @@
       <guid isPermaLink="false">pepite-cc4e3c521bed02c0</guid>
       <pubDate>Sat, 20 Jun 2026 12:26:57 +0000</pubDate>
       <category>models</category>
-      <description>An NYU professor warns an AI crash could be worse than the dot-com bust. The key issue: AI isn't just software, it's about big physical investments, and the outcomes are unknown. The uncertainty lies in its impact on jobs and industries.
+      <description>An NYU professor warns about the potential risks of an AI industry crash. With massive investments in AI infrastructure, the stakes are high. The challenge here is the uncertainty of how AI will ultimately integrate into society and business.
 
 — via The Decoder</description>
     </item>
@@ -89,7 +89,7 @@
       <guid isPermaLink="false">pepite-a134378e660e8c43</guid>
       <pubDate>Thu, 18 Jun 2026 14:46:38 +0000</pubDate>
       <category>finance</category>
-      <description>This paper explores new ways to detect video anomalies using a fixed pose-flow system. It focuses on improving reliability in detecting unusual videos with a calibration method. The problem: it's all theoretical, primarily for researchers right now.
+      <description>A technical paper on anomaly detection using video flow and pose analysis. It offers a new way to improve reliability in video surveillance AI systems. The downside: it's a niche application, and you'd need some expertise to apply it directly.
 
 — via arXiv</description>
     </item>
@@ -99,7 +99,7 @@
       <guid isPermaLink="false">pepite-7e3544bc7c37313f</guid>
       <pubDate>Thu, 18 Jun 2026 14:24:06 +0000</pubDate>
       <category>research</category>
-      <description>Introducing U$^2$Mamba, a fresh take on salient object detection with a new nested structure. It captures details across different layers, making it better at spotting objects in images. The limitation: the setup is complex and may require deep understanding to fully use.
+      <description>A research paper on using Mamba networks for detecting objects in images. It improves the ability to gather context across different scales in images. The limitation is that this is still research-level tech, best suited for specialized developers.
 
 — via arXiv</description>
     </item>
@@ -109,7 +109,7 @@
       <guid isPermaLink="false">pepite-0c41f484033799e8</guid>
       <pubDate>Thu, 18 Jun 2026 17:49:36 +0000</pubDate>
       <category>research</category>
-      <description>Execution-State Capsules aim to improve low-latency physical AI tasks. It's a new way to quickly reset and manage AI environments on your device. Still, it's a bit niche—most useful for those doing on-device AI work with demanding time constraints.
+      <description>A paper on using state capsules for efficient on-device AI tasks. It contributes to better low-latency AI systems by managing complete restorable states. The challenge: it's highly technical and primarily useful for developers handling real-time AI applications.
 
 — via arXiv</description>
     </item>
@@ -119,7 +119,7 @@
       <guid isPermaLink="false">pepite-2c1ea700688cdc7b</guid>
       <pubDate>Sat, 20 Jun 2026 23:04:55 +0000</pubDate>
       <category>finance</category>
-      <description>Cisco's new tool, FAPO, optimizes AI prompt chains by pinpointing errors. It systematically tweaks your AI prompts for better outcomes. The caveat: it's complex and might not suit folks unfamiliar with in-depth prompt engineering.
+      <description>Cisco's FAPO aims to optimize AI prompts with step-level insights. It aligns better AI responses by tweaking prompts and evaluating chain processes. The trade-off: you'll need an understanding of prompt intricacies to get the most out of it.
 
 — via MarkTechPost</description>
     </item>
@@ -129,7 +129,7 @@
       <guid isPermaLink="false">pepite-664eda98760091b4</guid>
       <pubDate>Tue, 16 Jun 2026 16:04:59 +0000</pubDate>
       <category>agents</category>
-      <description>A developer talks about using a local AI model, Qwen3.6-27B, for day-to-day coding tasks. It's handy for small, repetitive tasks if you've got compatible hardware. But remember, setting it up requires a bit of technical aptitude.
+      <description>A blog quoting a user of the Qwen3.6-27B model for coding tasks. It's a local model praised for its everyday coding task capabilities. The downside: while functional, its broader power depends on regular model and system tuning.
 
 — via Simon Willison</description>
     </item>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">pepite-605fcd5052c3baa0</guid>
       <pubDate>Sat, 20 Jun 2026 21:50:11 +0000</pubDate>
       <category>agents</category>
-      <description>Nous Research's Hermes Agent now supports a blank slate startup, keeping necessary tools off unless you need them. It's meant to reduce clutter and improve focus when using AI agents. However, the setup might feel bare for those who prefer having more tools at their disposal.
+      <description>Nous Research's Hermes Agent now has a 'Blank Slate' mode. It lets users customize the agent setup by switching off all but essential tools. The challenge could be the initial setup, which might not be straightforward for everyone.
 
 — via MarkTechPost</description>
     </item>
