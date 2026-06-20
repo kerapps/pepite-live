@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>New benchmark exposes how badly AI struggles with real knowledge work</title>
+      <link>https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/</link>
+      <guid isPermaLink="false">pepite-bc91c73dd7d61f53</guid>
+      <pubDate>Fri, 19 Jun 2026 13:50:55 +0000</pubDate>
+      <category>research</category>
+      <description>A new benchmark highlights a harsh truth—AI isn't ready for prime-time knowledge work, solving only a small fraction of complex tasks. It’s a stark reminder that we’re early in AI’s capability lifecycle. For builders, it's time to temper expectations and refocus on realistic deliverables today. Avoid overselling and accept where AI thrives, which isn't the deep end of real-world problem-solving yet.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman's company</title>
+      <link>https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/</link>
+      <guid isPermaLink="false">pepite-d4d47a2b65356640</guid>
+      <pubDate>Fri, 19 Jun 2026 17:14:33 +0000</pubDate>
+      <category>finance</category>
+      <description>Amazon pulling the plug on its AI drama film over business ties is a stark reminder that tech dealings cast long shadows over creative projects. The $50 billion pact with OpenAI underscores OpenAI's market leverage but shades of monopolistic practices creep in. For developers, it's a cue to watch the industry interplay closely—these moves can ripple out to technology availability and policy shifts.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions</title>
+      <link>https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/</link>
+      <guid isPermaLink="false">pepite-df90b826cb416a73</guid>
+      <pubDate>Thu, 18 Jun 2026 19:02:14 +0000</pubDate>
+      <category>models</category>
+      <description>Claude Code’s new artifact feature lets you actively share interactive coding session results. Dynamic updates and complete context sharing could boost team productivity significantly. However, it might suit larger, collaborative environments better—solo devs might not feel the need, given the extra layer of setup involved.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>The Professor of Outputmaxxing — Anjney Midha, AMP</title>
+      <link>https://www.latent.space/p/anj</link>
+      <guid isPermaLink="false">pepite-5119c2a34856de93</guid>
+      <pubDate>Thu, 18 Jun 2026 17:30:00 +0000</pubDate>
+      <category>models</category>
+      <description>Nobody can say Anjney Midha hasn't had an impressive career, from roots in Singapore to betting on emergent tech through Anthropic. However, AMP's ambitious 'output maxxing' remains cryptic. For those tracking emergent AI-oriented funds and technologies, AMP deserves scrutiny—but remember, not everything under non-disclosure ends up impactful.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>AI inference startup Baseten reportedly raising $1.5B months after its last mega-round</title>
+      <link>https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/</link>
+      <guid isPermaLink="false">pepite-d921c823d14e5c95</guid>
+      <pubDate>Thu, 18 Jun 2026 21:20:13 +0000</pubDate>
+      <category>finance</category>
+      <description>Baseten's massive funding rounds point to a crazy market run for AI inference. A $13 billion post-money valuation stretches credibility unless you're betting on AI's market promise wholeheartedly. For developers, it’s a tug to revisit inference efficiencies or watch this signal of market expectations closely.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>rebel0789/codexpro</title>
+      <link>https://github.com/rebel0789/codexpro</link>
+      <guid isPermaLink="false">pepite-138469a6d37cac49</guid>
+      <pubDate>Tue, 16 Jun 2026 21:22:43 +0000</pubDate>
+      <category>repos</category>
+      <description>CodexPro flips the script on ChatGPT's local utility, transforming it into a Codex-style coding agent right on your machine. All it needs is a global install and the right server URL in ChatGPT's Create App. But it's not for escaping rate limits or getting experimental—you're still playing by OpenAI's rules. It's for those who want their AI to see and manipulate the context they've set locally, no intermediary dashboards.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>dzcmemory-web/bazi-ziwei-skill</title>
+      <link>https://github.com/dzcmemory-web/bazi-ziwei-skill</link>
+      <guid isPermaLink="false">pepite-5e925ef3918c3b6a</guid>
+      <pubDate>Sat, 13 Jun 2026 14:22:28 +0000</pubDate>
+      <category>repos</category>
+      <description>Think of bazi-ziwei-skill as astrology meets AI with a rigorous data twist. It deliberately sidesteps LLMs for its complex calculations, avoiding wild 'guesses' that plague typical approaches. This keeps the system grounded, but the complexity of integrating it into your AI agents is no small task. If you're not already versed in augury or agent integration, expect a steep learning curve.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2</title>
+      <link>https://arrowtsx.dev/bigger-models/</link>
+      <guid isPermaLink="false">pepite-a348d352d685e474</guid>
+      <pubDate>Fri, 19 Jun 2026 16:11:25 +0000</pubDate>
+      <category>models</category>
+      <description>A juicy discussion: larger models like GPT-5.5 hallucinate more than lean rivals like GLM-5.2. Size doesn't mean sensibility, and hallucinations undermine trust. Before investing in the latest behemoth, remember—fancier may not be smarter. Look for balance between capabilities and accuracy.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm</title>
+      <link>http://arxiv.org/abs/2606.20523v1</link>
+      <guid isPermaLink="false">pepite-18fd412f171aed05</guid>
+      <pubDate>Thu, 18 Jun 2026 17:38:01 +0000</pubDate>
+      <category>finance</category>
+      <description>SARLO-80 could level-up SAR and optical model training with its high-res data. It isn't just about more pixels; it's about richer, complex-value preservation, which most datasets ignore. Perfect for those needing fidelity in synthetic aperture radar applications, but still in paper stage. Check the release carefully for actual released code and data.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining</title>
+      <link>http://arxiv.org/abs/2606.20506v1</link>
+      <guid isPermaLink="false">pepite-47d6d43715795181</guid>
+      <pubDate>Thu, 18 Jun 2026 17:24:27 +0000</pubDate>
+      <category>research</category>
+      <description>FreeStyle introduces a community-driven crack at style-content dual reference generation. By leveraging community LoRAs, it tries to untangle the often convoluted web of style and content. But it's hard to judge without large-scale, clean triplet data. As it stands, it's an interesting proposition but a challenge to execute perfectly.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users</title>
+      <link>http://arxiv.org/abs/2606.20482v1</link>
+      <guid isPermaLink="false">pepite-41f2486971b76c75</guid>
+      <pubDate>Thu, 18 Jun 2026 17:00:48 +0000</pubDate>
+      <category>research</category>
+      <description>Your computer habits might betray your model preferences. Aligning LLMs with mouse and gaze data is an untapped feedback well. But its 'big brother' feel might not sit well with everyone, especially when privacy concerns loom over 'implicit feedback'. The dataset's fine-tuning with implicit feedback could offer new efficiency, but adoption hurdles will remain steep.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>From Minutes to Seconds: LLM-Guided Autotuning for Helion Kernels</title>
+      <link>https://pytorch.org/blog/from-minutes-to-seconds-llm-guided-autotuning-for-helion-kernels/</link>
+      <guid isPermaLink="false">pepite-089c5af521279806</guid>
+      <pubDate>Thu, 18 Jun 2026 16:08:53 +0000</pubDate>
+      <category>models</category>
+      <description>Pushing PyTorch further, LLM-guided autotuning for Helion Kernels moves from minutes to seconds. Helion leverages Bayesian optimization specifically for ML kernel efficiency. It offers promise of monumental time savings in tuning your models, but the approach may be esoteric if you're not deep into PyTorch’s guts.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
+      <link>https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything</link>
+      <guid isPermaLink="false">pepite-1a6174d1dcf0e794</guid>
+      <pubDate>Thu, 18 Jun 2026 23:58:38 +0000</pubDate>
+      <category>research</category>
+      <description>Datasette Apps transforms Datasette into a host for custom HTML, offering more than just static data views. They're sandboxed, securely queryable JavaScript applications that may give data-centric workflows a real uptick. However, crafting these apps demands a balance of frontend skills and dataset familiarization, unfriendly for pure backend engineers.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Show HN: 10x better performance from the Coding Harnesses with LLM-wiki</title>
+      <link>https://llm-wiki.net/</link>
+      <guid isPermaLink="false">pepite-395971609b976b0a</guid>
+      <pubDate>Thu, 18 Jun 2026 15:23:30 +0000</pubDate>
+      <category>models</category>
+      <description>LLM-wiki promises 10x performance jumps for coding sessions. An impressive claim requiring validation—too many tools offer incremental gains as marketing noise. If you venture in, have benchmarks ready. Separate fact from wishful thinking before you start advocating in your stack.
+
+— via Hacker News</description>
+    </item>
+    <item>
       <title>Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work</title>
       <link>https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/</link>
       <guid isPermaLink="false">pepite-ef1cc3a7e9c92f90</guid>
