@@ -4,54 +4,34 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
-      <title>New benchmark exposes how badly AI struggles with real knowledge work</title>
-      <link>https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/</link>
-      <guid isPermaLink="false">pepite-bc91c73dd7d61f53</guid>
-      <pubDate>Fri, 19 Jun 2026 13:50:55 +0000</pubDate>
+      <title>VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline</title>
+      <link>https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/</link>
+      <guid isPermaLink="false">pepite-26c28ab309382e8a</guid>
+      <pubDate>Fri, 19 Jun 2026 22:06:31 +0000</pubDate>
       <category>research</category>
-      <description>A fresh benchmark highlights AI's inadequacy in tackling genuine knowledge tasks, succeeding fully in only 3% of instances. This serves as a sobering reminder that while flashy tasks captivate, real-world utility is trailing. Those in applied AI would be wise to temper expectations, focusing instead on bridging glaring gaps outlined here.
+      <description>VibeThinker-3B's claim to rival the heavyweights like DeepSeek and Kimi is bold, but let's not overlook the true innovation: the Spectrum-to-Signal post-training pipeline. This aspect alone could make it a potentially disruptive choice for those looking to refine reasoning capabilities without proprietary lock-in headaches. Keep an eye on whether it achieves truly distinctive results or merely reshuffles benchmarks.
 
-— via The Decoder</description>
+— via MarkTechPost</description>
     </item>
     <item>
-      <title>Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman's company</title>
-      <link>https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/</link>
-      <guid isPermaLink="false">pepite-d4d47a2b65356640</guid>
-      <pubDate>Fri, 19 Jun 2026 17:14:33 +0000</pubDate>
-      <category>finance</category>
-      <description>A juicy saga emerges as Amazon shelves a damning OpenAI film post their $50B deal. The tale underscores how corporate alliances can stifle creative ventures. For those in tech or media, it's a reminder of how strategic alignments can control narratives—and why scrutinizing those ties remains vital.
+      <title>NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning</title>
+      <link>https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/</link>
+      <guid isPermaLink="false">pepite-ee91d31b2e662ebc</guid>
+      <pubDate>Fri, 19 Jun 2026 22:51:59 +0000</pubDate>
+      <category>agents</category>
+      <description>SpatialClaw from NVIDIA introduces a handy twist by treating code as the main interface for spatial reasoning without training data. It skips traditional model training, instead writing Python in a persistent kernel—a lure for developers handling spatial tasks without wanting to dive deep into model training. However, until it proves its mettle with robust real-world implementations, it's wise to approach with caution.
 
-— via The Decoder</description>
+— via MarkTechPost</description>
     </item>
     <item>
-      <title>Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions</title>
-      <link>https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/</link>
-      <guid isPermaLink="false">pepite-df90b826cb416a73</guid>
-      <pubDate>Thu, 18 Jun 2026 19:02:14 +0000</pubDate>
+      <title>IEEE Rolls Out Large Language Models Virtual Training Course</title>
+      <link>https://spectrum.ieee.org/large-language-models-ieee-course</link>
+      <guid isPermaLink="false">pepite-83cd86d6b2326e11</guid>
+      <pubDate>Fri, 19 Jun 2026 18:00:01 +0000</pubDate>
       <category>models</category>
-      <description>Anthropic's Artifacts for Claude Code are rethinking how work results are shared. Live pages that reflect current session states could streamline teamwork considerably. But if your workflow doesn’t yet hinge on collaborative coding, this might simply register as another innovation with potential.
+      <description>IEEE's new LLM course isn't just academic—it marks AI's infiltration into professional tools and processes. Engineers longing for structured learning on LLM integration can find this as a fitting caloric intake to their knowledge diet. But, do ensure there’s valuable practical application to justify the time commitment, as some courses flirt perilously close to being purely theoretical.
 
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>The Professor of Outputmaxxing — Anjney Midha, AMP</title>
-      <link>https://www.latent.space/p/anj</link>
-      <guid isPermaLink="false">pepite-5119c2a34856de93</guid>
-      <pubDate>Thu, 18 Jun 2026 17:30:00 +0000</pubDate>
-      <category>models</category>
-      <description>Anjney Midha shares playbooks from tech investing's front row, touching on his pivotal role in Anthropic and Mistral. For anyone eyeing the intersection of tech and investment, his story is a classic case study. But amid the glamour, don't skip the insights for glitzy biographical beats.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>AI inference startup Baseten reportedly raising $1.5B months after its last mega-round</title>
-      <link>https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/</link>
-      <guid isPermaLink="false">pepite-d921c823d14e5c95</guid>
-      <pubDate>Thu, 18 Jun 2026 21:20:13 +0000</pubDate>
-      <category>finance</category>
-      <description>Baseten's prospective $1.5B ride amid the 'inference gold rush' reveals just how fevered the market remains. But as capital flows, so do expectations. If your venture hinges on inference tech, this signals both opportunity and looming competition.
-
-— via TechCrunch AI</description>
+— via IEEE Spectrum AI</description>
     </item>
     <item>
       <title>rebel0789/codexpro</title>
@@ -59,7 +39,7 @@
       <guid isPermaLink="false">pepite-138469a6d37cac49</guid>
       <pubDate>Tue, 16 Jun 2026 21:22:43 +0000</pubDate>
       <category>repos</category>
-      <description>CodexPro flips the script on how you work with ChatGPT. By letting ChatGPT Developer Mode tap into your local repo context, it transforms GPT into a coding agent that sees and edits just like you do. Perfect for those who want quick, context-aware coding assistance without surrendering their data to a third-party service. But keep in mind, it's not a shortcut past rate limits—it's still working through ChatGPT's official pathways. If you're in local development and want AI to truly help, this is worth a look.
+      <description>CodexPro adapts ChatGPT Developer Mode to play nicely with local repositories, effectively making ChatGPT act as a coding buddy that knows your project's history and setup. It’s high time for builders to reduce round trips to the cloud for mundane repo actions. The trade-off here is simplicity over sophistication—if you're craving advanced debugging or visualization tools, you'll need to stick with your traditional IDE for now.
 
 — via GitHub</description>
     </item>
@@ -69,9 +49,19 @@
       <guid isPermaLink="false">pepite-5e925ef3918c3b6a</guid>
       <pubDate>Sat, 13 Jun 2026 14:22:28 +0000</pubDate>
       <category>repos</category>
-      <description>Fancy a touch of mystical realism in your AI? bazi-ziwei-skill offers an uncommon twist: accurate Chinese astrology calculations built not on LLM heuristics, but on a robust internal logic. It deftly merges astrological systems, enriching its outputs with layers of meaningful context. For those integrating diverse knowledge bases into AI, it's a practical case study. However, unless Chinese astrology is your thing, this might just be an intriguing sideshow.
+      <description>Bazi-Ziwei-Skill isn’t about celestial guidance—it's about structured meta-analysis without hallucinations. It leverages a standard SKILL.md to execute reliable analyses, sidestepping the typical pitfalls of misaligned data from LLMs trying to overreach. For AI enthusiasts integrating fortune-telling logic, this offers a no-guesswork enhancement. Note: the niche use case requires integration into compatible agents that adhere to the SKILL standard.
 
 — via GitHub</description>
+    </item>
+    <item>
+      <title>$1800 (in GPU cost running with P2P running Qwen/Qwen3.6-27b-FP8 with 262K context and BF16 KV cache at 55 tok/s</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uah3oc/1800_in_gpu_cost_running_with_p2p_running/</link>
+      <guid isPermaLink="false">pepite-a284ec9b3f07c770</guid>
+      <pubDate>Fri, 19 Jun 2026 23:30:10 +0000</pubDate>
+      <category>models</category>
+      <description>Running a heavy inference setup for single-user scenarios might sound appealing on paper, but consider this: $1800 in GPU costs for a supposedly cost-effective 4x 5060 ti setup. This illustrates the hidden expense beyond initial hardware investments. It's an eye-opener to build efficient, optimized inference configurations that actually pay off—especially without excessive financial bleed.
+
+— via r/LocalLLaMA</description>
     </item>
     <item>
       <title>GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2</title>
@@ -79,9 +69,59 @@
       <guid isPermaLink="false">pepite-a348d352d685e474</guid>
       <pubDate>Fri, 19 Jun 2026 16:11:25 +0000</pubDate>
       <category>models</category>
-      <description>In a head-to-head, GPT-5.5 hallucinates thrice as much as GLM-5.2. If hallucinations in AI responses are your bugbear, this comparative analysis might make you rethink bigger models. It's a hit to the age-old GPT vs. world debate, suggesting smaller might indeed be smarter—or at least saner. Worth considering if grounding AI outputs remains your prime objective.
+      <description>If you’re chasing fidelity in your AI outputs, note this: GPT-5.5's hallucination rate is threefold that of MIT’s GLM-5.2. The blunt truth is larger models aren't always the remedy; they can introduce new complexities into use cases sensitive to accuracy. Decision-makers should weigh this when considering deployment-ready models for applications requiring stringent factual reliability.
 
 — via Hacker News</description>
+    </item>
+    <item>
+      <title>How do I set the right llama.cpp parameters?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uabrzn/how_do_i_set_the_right_llamacpp_parameters/</link>
+      <guid isPermaLink="false">pepite-bb64257bdd8392e7</guid>
+      <pubDate>Fri, 19 Jun 2026 19:46:30 +0000</pubDate>
+      <category>models</category>
+      <description>Fine-tuning for optimal llama.cpp parameters? It's often trial and error, and this reddit post offers insights but limited solutions beyond standard recs like temp and top-p tweaks. If your AMD GPU setup isn't yielding results, expect to invest significant tinkering time. Missing is a reliable guide to sidestep inconsistencies in output—another push for community-driven wisdom.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Maximizing performance of 2x3090 + NVLink</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ua9qbw/maximizing_performance_of_2x3090_nvlink/</link>
+      <guid isPermaLink="false">pepite-ecd56af7bd6ca692</guid>
+      <pubDate>Fri, 19 Jun 2026 18:26:15 +0000</pubDate>
+      <category>models</category>
+      <description>Got a 2x3090 NVLink setup, yet still struggling to break the speed barrier? Join the club. This reddit thread sheds light on common bottlenecks and some surprising optimizations that might still leave you puzzled over TPS limits. Before tweaking, ensure actual need versus mere numbers game chasing.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU</title>
+      <link>https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/</link>
+      <guid isPermaLink="false">pepite-6d58d1756426c309</guid>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Agentic RAG developers, take note: a custom GPU-resident top-K search could be your silver bullet with bottlenecks. By keeping compute on-GPU, you'll skirt PCIe transfer drag. Crafting such kernels demands CUDA prowess, so weigh skill against diminishing returns or, as always, the potential for tech debt if your custom solution heads south.
+
+— via Towards Data Science</description>
+    </item>
+    <item>
+      <title>Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/</link>
+      <guid isPermaLink="false">pepite-9200a469f2dbe35c</guid>
+      <pubDate>Fri, 19 Jun 2026 14:05:04 +0000</pubDate>
+      <category>agents</category>
+      <description>Adobe Marketing Agent for Amazon Quick is poised to streamline data workflows, yet there's a trade-in complexity. You’ll need a solid grip on Model Context Protocol (MCP) to capitalize on its full capabilities. It’s an exercise in embracing complexity for deeper insights—another step towards intelligent automation in marketing landscapes.
+
+— via AWS ML</description>
+    </item>
+    <item>
+      <title>PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds</title>
+      <link>http://arxiv.org/abs/2606.20455v1</link>
+      <guid isPermaLink="false">pepite-e3537df11d3bd184</guid>
+      <pubDate>Thu, 18 Jun 2026 16:38:35 +0000</pubDate>
+      <category>research</category>
+      <description>PCFootprint fills a critical gap by merging high-res point cloud data with typically image-locked vector footprint extraction. It offers builders a new dataset that sidesteps optical imagery’s distortions—promising fidelity without the typical misalignment headaches. Jump in only if aerial LiDAR is your current or future must-have.
+
+— via arXiv</description>
     </item>
     <item>
       <title>SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm</title>
@@ -89,59 +129,19 @@
       <guid isPermaLink="false">pepite-18fd412f171aed05</guid>
       <pubDate>Thu, 18 Jun 2026 17:38:01 +0000</pubDate>
       <category>finance</category>
-      <description>The SARLO-80 dataset is putting SAR imagery on the map alongside its traditional optical counterparts. With a mix of VHR SAR, aligned optical imagery, and language descriptions, it's a notable step for those into geophysical AI research. It preserves complex SAR details that most datasets skip. But, as with all niche datasets, value is proportional to mission alignment.
+      <description>SARLO-80 opens doors for multimodal learning with its pairing of SAR data and text at previously unmet resolutions. While potentially game-changing for physics-grounded learning algorithms, it's still a specialist’s playground. Dive only if SAR applications fit your roadmap for forthcoming projects.
 
 — via arXiv</description>
     </item>
     <item>
-      <title>FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining</title>
-      <link>http://arxiv.org/abs/2606.20506v1</link>
-      <guid isPermaLink="false">pepite-47d6d43715795181</guid>
-      <pubDate>Thu, 18 Jun 2026 17:24:27 +0000</pubDate>
-      <category>research</category>
-      <description>FreeStyle aims to tame the dual-reference beast in style-content generation. By leveraging community-designed LoRAs as building blocks, it circumvents typical dataset shortcomings. It's a promising playground for anyone wrestling with blending visuals while maintaining content integrity. But as always with speculative tech, the devil's in the detail—and in the training.
+      <title>HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining</title>
+      <link>http://arxiv.org/abs/2606.20521v1</link>
+      <guid isPermaLink="false">pepite-12d66be7d9230637</guid>
+      <pubDate>Thu, 18 Jun 2026 17:37:34 +0000</pubDate>
+      <category>finance</category>
+      <description>HumanScale’s premise—that egocentric video can rival pricey real-robot data for pretraining—has potential to shake up pretraining pipelines. It’s not there yet to replace in all contexts, but if you’re scaling embodied models, keeping up with this evolution could offer surprising leverage over traditional robotics data sources.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users</title>
-      <link>http://arxiv.org/abs/2606.20482v1</link>
-      <guid isPermaLink="false">pepite-41f2486971b76c75</guid>
-      <pubDate>Thu, 18 Jun 2026 17:00:48 +0000</pubDate>
-      <category>research</category>
-      <description>Your interaction patterns could help shape better AI. This research exploits implicit feedback—eye movements and clicks—to train LLMs. It's a wake-up call that our preference leaks might be more informative than vocalized feedback. Should you be wary? Only if privacy pointers matter less than model alignment in your dev plan.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>From Minutes to Seconds: LLM-Guided Autotuning for Helion Kernels</title>
-      <link>https://pytorch.org/blog/from-minutes-to-seconds-llm-guided-autotuning-for-helion-kernels/</link>
-      <guid isPermaLink="false">pepite-089c5af521279806</guid>
-      <pubDate>Thu, 18 Jun 2026 16:08:53 +0000</pubDate>
-      <category>models</category>
-      <description>Helion’s LFBO autotuning for kernels sounds niche, but for PyTorch users, trimming tuning times from minutes to seconds can't be overlooked. It's a fresh angle for those optimizing ML workflows. Yet, this tweak may only resonate deeply if you're entrenched in PyTorch's DSL landscape.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
-      <link>https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything</link>
-      <guid isPermaLink="false">pepite-1a6174d1dcf0e794</guid>
-      <pubDate>Thu, 18 Jun 2026 23:58:38 +0000</pubDate>
-      <category>research</category>
-      <description>Datasette Apps shift HTML+JavaScript into their constrained, yet powerful sandbox, supporting SQL-powered interactivity. For data-centric projects run on Datasette, it opens up quick, sleek front ends without leaving the ecosystem. If you're not already using Datasette, consider this great bait on why you should be.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Show HN: 10x better performance from the Coding Harnesses with LLM-wiki</title>
-      <link>https://llm-wiki.net/</link>
-      <guid isPermaLink="false">pepite-395971609b976b0a</guid>
-      <pubDate>Thu, 18 Jun 2026 15:23:30 +0000</pubDate>
-      <category>models</category>
-      <description>LLM-wiki promises a tenfold performance boost for coding harnesses—but as with all speed assertions, verify it first. If you're knee-deep in improving harness performance, the promise of multiplied efficiency is compelling. Testing under your specific conditions should guide your adoption decision.
-
-— via Hacker News</description>
     </item>
     <item>
       <title>Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work</title>
