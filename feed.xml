@@ -9,7 +9,7 @@
       <guid isPermaLink="false">pepite-bc91c73dd7d61f53</guid>
       <pubDate>Fri, 19 Jun 2026 13:50:55 +0000</pubDate>
       <category>research</category>
-      <description>A new benchmark highlights a harsh truth—AI isn't ready for prime-time knowledge work, solving only a small fraction of complex tasks. It’s a stark reminder that we’re early in AI’s capability lifecycle. For builders, it's time to temper expectations and refocus on realistic deliverables today. Avoid overselling and accept where AI thrives, which isn't the deep end of real-world problem-solving yet.
+      <description>A fresh benchmark highlights AI's inadequacy in tackling genuine knowledge tasks, succeeding fully in only 3% of instances. This serves as a sobering reminder that while flashy tasks captivate, real-world utility is trailing. Those in applied AI would be wise to temper expectations, focusing instead on bridging glaring gaps outlined here.
 
 — via The Decoder</description>
     </item>
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">pepite-d4d47a2b65356640</guid>
       <pubDate>Fri, 19 Jun 2026 17:14:33 +0000</pubDate>
       <category>finance</category>
-      <description>Amazon pulling the plug on its AI drama film over business ties is a stark reminder that tech dealings cast long shadows over creative projects. The $50 billion pact with OpenAI underscores OpenAI's market leverage but shades of monopolistic practices creep in. For developers, it's a cue to watch the industry interplay closely—these moves can ripple out to technology availability and policy shifts.
+      <description>A juicy saga emerges as Amazon shelves a damning OpenAI film post their $50B deal. The tale underscores how corporate alliances can stifle creative ventures. For those in tech or media, it's a reminder of how strategic alignments can control narratives—and why scrutinizing those ties remains vital.
 
 — via The Decoder</description>
     </item>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">pepite-df90b826cb416a73</guid>
       <pubDate>Thu, 18 Jun 2026 19:02:14 +0000</pubDate>
       <category>models</category>
-      <description>Claude Code’s new artifact feature lets you actively share interactive coding session results. Dynamic updates and complete context sharing could boost team productivity significantly. However, it might suit larger, collaborative environments better—solo devs might not feel the need, given the extra layer of setup involved.
+      <description>Anthropic's Artifacts for Claude Code are rethinking how work results are shared. Live pages that reflect current session states could streamline teamwork considerably. But if your workflow doesn’t yet hinge on collaborative coding, this might simply register as another innovation with potential.
 
 — via The Decoder</description>
     </item>
@@ -39,7 +39,7 @@
       <guid isPermaLink="false">pepite-5119c2a34856de93</guid>
       <pubDate>Thu, 18 Jun 2026 17:30:00 +0000</pubDate>
       <category>models</category>
-      <description>Nobody can say Anjney Midha hasn't had an impressive career, from roots in Singapore to betting on emergent tech through Anthropic. However, AMP's ambitious 'output maxxing' remains cryptic. For those tracking emergent AI-oriented funds and technologies, AMP deserves scrutiny—but remember, not everything under non-disclosure ends up impactful.
+      <description>Anjney Midha shares playbooks from tech investing's front row, touching on his pivotal role in Anthropic and Mistral. For anyone eyeing the intersection of tech and investment, his story is a classic case study. But amid the glamour, don't skip the insights for glitzy biographical beats.
 
 — via Latent Space</description>
     </item>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">pepite-d921c823d14e5c95</guid>
       <pubDate>Thu, 18 Jun 2026 21:20:13 +0000</pubDate>
       <category>finance</category>
-      <description>Baseten's massive funding rounds point to a crazy market run for AI inference. A $13 billion post-money valuation stretches credibility unless you're betting on AI's market promise wholeheartedly. For developers, it’s a tug to revisit inference efficiencies or watch this signal of market expectations closely.
+      <description>Baseten's prospective $1.5B ride amid the 'inference gold rush' reveals just how fevered the market remains. But as capital flows, so do expectations. If your venture hinges on inference tech, this signals both opportunity and looming competition.
 
 — via TechCrunch AI</description>
     </item>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">pepite-138469a6d37cac49</guid>
       <pubDate>Tue, 16 Jun 2026 21:22:43 +0000</pubDate>
       <category>repos</category>
-      <description>CodexPro flips the script on ChatGPT's local utility, transforming it into a Codex-style coding agent right on your machine. All it needs is a global install and the right server URL in ChatGPT's Create App. But it's not for escaping rate limits or getting experimental—you're still playing by OpenAI's rules. It's for those who want their AI to see and manipulate the context they've set locally, no intermediary dashboards.
+      <description>CodexPro flips the script on how you work with ChatGPT. By letting ChatGPT Developer Mode tap into your local repo context, it transforms GPT into a coding agent that sees and edits just like you do. Perfect for those who want quick, context-aware coding assistance without surrendering their data to a third-party service. But keep in mind, it's not a shortcut past rate limits—it's still working through ChatGPT's official pathways. If you're in local development and want AI to truly help, this is worth a look.
 
 — via GitHub</description>
     </item>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">pepite-5e925ef3918c3b6a</guid>
       <pubDate>Sat, 13 Jun 2026 14:22:28 +0000</pubDate>
       <category>repos</category>
-      <description>Think of bazi-ziwei-skill as astrology meets AI with a rigorous data twist. It deliberately sidesteps LLMs for its complex calculations, avoiding wild 'guesses' that plague typical approaches. This keeps the system grounded, but the complexity of integrating it into your AI agents is no small task. If you're not already versed in augury or agent integration, expect a steep learning curve.
+      <description>Fancy a touch of mystical realism in your AI? bazi-ziwei-skill offers an uncommon twist: accurate Chinese astrology calculations built not on LLM heuristics, but on a robust internal logic. It deftly merges astrological systems, enriching its outputs with layers of meaningful context. For those integrating diverse knowledge bases into AI, it's a practical case study. However, unless Chinese astrology is your thing, this might just be an intriguing sideshow.
 
 — via GitHub</description>
     </item>
@@ -79,7 +79,7 @@
       <guid isPermaLink="false">pepite-a348d352d685e474</guid>
       <pubDate>Fri, 19 Jun 2026 16:11:25 +0000</pubDate>
       <category>models</category>
-      <description>A juicy discussion: larger models like GPT-5.5 hallucinate more than lean rivals like GLM-5.2. Size doesn't mean sensibility, and hallucinations undermine trust. Before investing in the latest behemoth, remember—fancier may not be smarter. Look for balance between capabilities and accuracy.
+      <description>In a head-to-head, GPT-5.5 hallucinates thrice as much as GLM-5.2. If hallucinations in AI responses are your bugbear, this comparative analysis might make you rethink bigger models. It's a hit to the age-old GPT vs. world debate, suggesting smaller might indeed be smarter—or at least saner. Worth considering if grounding AI outputs remains your prime objective.
 
 — via Hacker News</description>
     </item>
@@ -89,7 +89,7 @@
       <guid isPermaLink="false">pepite-18fd412f171aed05</guid>
       <pubDate>Thu, 18 Jun 2026 17:38:01 +0000</pubDate>
       <category>finance</category>
-      <description>SARLO-80 could level-up SAR and optical model training with its high-res data. It isn't just about more pixels; it's about richer, complex-value preservation, which most datasets ignore. Perfect for those needing fidelity in synthetic aperture radar applications, but still in paper stage. Check the release carefully for actual released code and data.
+      <description>The SARLO-80 dataset is putting SAR imagery on the map alongside its traditional optical counterparts. With a mix of VHR SAR, aligned optical imagery, and language descriptions, it's a notable step for those into geophysical AI research. It preserves complex SAR details that most datasets skip. But, as with all niche datasets, value is proportional to mission alignment.
 
 — via arXiv</description>
     </item>
@@ -99,7 +99,7 @@
       <guid isPermaLink="false">pepite-47d6d43715795181</guid>
       <pubDate>Thu, 18 Jun 2026 17:24:27 +0000</pubDate>
       <category>research</category>
-      <description>FreeStyle introduces a community-driven crack at style-content dual reference generation. By leveraging community LoRAs, it tries to untangle the often convoluted web of style and content. But it's hard to judge without large-scale, clean triplet data. As it stands, it's an interesting proposition but a challenge to execute perfectly.
+      <description>FreeStyle aims to tame the dual-reference beast in style-content generation. By leveraging community-designed LoRAs as building blocks, it circumvents typical dataset shortcomings. It's a promising playground for anyone wrestling with blending visuals while maintaining content integrity. But as always with speculative tech, the devil's in the detail—and in the training.
 
 — via arXiv</description>
     </item>
@@ -109,7 +109,7 @@
       <guid isPermaLink="false">pepite-41f2486971b76c75</guid>
       <pubDate>Thu, 18 Jun 2026 17:00:48 +0000</pubDate>
       <category>research</category>
-      <description>Your computer habits might betray your model preferences. Aligning LLMs with mouse and gaze data is an untapped feedback well. But its 'big brother' feel might not sit well with everyone, especially when privacy concerns loom over 'implicit feedback'. The dataset's fine-tuning with implicit feedback could offer new efficiency, but adoption hurdles will remain steep.
+      <description>Your interaction patterns could help shape better AI. This research exploits implicit feedback—eye movements and clicks—to train LLMs. It's a wake-up call that our preference leaks might be more informative than vocalized feedback. Should you be wary? Only if privacy pointers matter less than model alignment in your dev plan.
 
 — via arXiv</description>
     </item>
@@ -119,7 +119,7 @@
       <guid isPermaLink="false">pepite-089c5af521279806</guid>
       <pubDate>Thu, 18 Jun 2026 16:08:53 +0000</pubDate>
       <category>models</category>
-      <description>Pushing PyTorch further, LLM-guided autotuning for Helion Kernels moves from minutes to seconds. Helion leverages Bayesian optimization specifically for ML kernel efficiency. It offers promise of monumental time savings in tuning your models, but the approach may be esoteric if you're not deep into PyTorch’s guts.
+      <description>Helion’s LFBO autotuning for kernels sounds niche, but for PyTorch users, trimming tuning times from minutes to seconds can't be overlooked. It's a fresh angle for those optimizing ML workflows. Yet, this tweak may only resonate deeply if you're entrenched in PyTorch's DSL landscape.
 
 — via PyTorch</description>
     </item>
@@ -129,7 +129,7 @@
       <guid isPermaLink="false">pepite-1a6174d1dcf0e794</guid>
       <pubDate>Thu, 18 Jun 2026 23:58:38 +0000</pubDate>
       <category>research</category>
-      <description>Datasette Apps transforms Datasette into a host for custom HTML, offering more than just static data views. They're sandboxed, securely queryable JavaScript applications that may give data-centric workflows a real uptick. However, crafting these apps demands a balance of frontend skills and dataset familiarization, unfriendly for pure backend engineers.
+      <description>Datasette Apps shift HTML+JavaScript into their constrained, yet powerful sandbox, supporting SQL-powered interactivity. For data-centric projects run on Datasette, it opens up quick, sleek front ends without leaving the ecosystem. If you're not already using Datasette, consider this great bait on why you should be.
 
 — via Simon Willison</description>
     </item>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">pepite-395971609b976b0a</guid>
       <pubDate>Thu, 18 Jun 2026 15:23:30 +0000</pubDate>
       <category>models</category>
-      <description>LLM-wiki promises 10x performance jumps for coding sessions. An impressive claim requiring validation—too many tools offer incremental gains as marketing noise. If you venture in, have benchmarks ready. Separate fact from wishful thinking before you start advocating in your stack.
+      <description>LLM-wiki promises a tenfold performance boost for coding harnesses—but as with all speed assertions, verify it first. If you're knee-deep in improving harness performance, the promise of multiplied efficiency is compelling. Testing under your specific conditions should guide your adoption decision.
 
 — via Hacker News</description>
     </item>
