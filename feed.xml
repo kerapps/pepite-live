@@ -9,7 +9,7 @@
       <guid isPermaLink="false">pepite-4c6a5a333e113e13</guid>
       <pubDate>Sun, 21 Jun 2026 08:25:41 +0000</pubDate>
       <category>agents</category>
-      <description>AWS introduces services to add context and security to AI agents. This aims to bridge the gap between AI output speed and accuracy. The catch: dials into AWS infrastructure — not for small teams or non-AWS setups.
+      <description>AWS introduces services to give AI agents more context and fix security gaps, addressing common pitfalls in business applications. These tools aim at making agents more business-savvy and secure. However, using them requires engaging with a broader AWS ecosystem.
 
 — via The Decoder</description>
     </item>
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">pepite-b2a1e6b46c558abf</guid>
       <pubDate>Sun, 21 Jun 2026 09:12:01 +0000</pubDate>
       <category>models</category>
-      <description>An opinion piece by Sam Altman on scaling AI. It argues that more power can unlock new possibilities. The catch: it's more about ambition than practical guidance.
+      <description>Sam Altman shares his perspective on scaling as a key driver for AI progress in a Stanford talk. He credits scaling with recent AI breakthroughs and addresses critics. It’s more of an opinion piece — no immediate actions to take here.
 
 — via The Decoder</description>
     </item>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">pepite-311d2b33e7dd0698</guid>
       <pubDate>Sat, 20 Jun 2026 08:44:19 +0000</pubDate>
       <category>models</category>
-      <description>ChatGPT's new task controls to better manage AI scheduling. It helps organize tasks and notifications in one view. The catch: changes aren’t major — it’s just tidying up existing features.
+      <description>ChatGPT is rolling out upgrades to manage scheduled tasks more effectively, making it a better personal assistant. The enhancements should improve task awareness considerably. Bear in mind, it still depends on web connectivity for full capability.
 
 — via The Decoder</description>
     </item>
@@ -39,7 +39,7 @@
       <guid isPermaLink="false">pepite-0e3fe585b39385ef</guid>
       <pubDate>Sun, 21 Jun 2026 04:28:39 +0000</pubDate>
       <category>agents</category>
-      <description>A discussion on reliable AI systems. It shines a light on how to make AI agents dependable. The catch: it's just ideas, no ready-to-use code.
+      <description>A discussion on building reliable AI systems with agents. It outlines practices for making AI more dependable and effective. The piece is more of a conversation starter — it's not a guide with immediate takeaways.
 
 — via Hacker News</description>
     </item>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">pepite-f146d5ce7df05bb9</guid>
       <pubDate>Fri, 12 Jun 2026 14:44:22 +0000</pubDate>
       <category>repos</category>
-      <description>A library to help AI agents execute tasks more effectively. The intriguing part is its ability to customize workflows for different tasks. The hitch: it's still evolving — some functionalities may be rough.
+      <description>Loop Library is a collection of routines that helps AI agents work smarter. It shows agents tried-and-tested ways to finish tasks or handle errors efficiently. It's a useful tool if you're comfortable tweaking and integrating JSON data with your agents.
 
 — via GitHub</description>
     </item>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">pepite-05c6168ed876432b</guid>
       <pubDate>Sat, 20 Jun 2026 01:25:14 +0000</pubDate>
       <category>models</category>
-      <description>A blog piece about the growing complexity of large language models (LLMs). It highlights the challenges engineers face with intricate AI systems. The downside: no solutions, just a spotlight on the problem.
+      <description>A reflection on the growing complexity of language models. The author contrasts today's sophisticated AI with simpler past iterations, raising issues about manageability. While insightful, it doesn't offer concrete solutions — just musings.
 
 — via Hacker News</description>
     </item>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">pepite-3e88f1a17d0cd8ec</guid>
       <pubDate>Mon, 01 Jun 2026 12:52:57 +0000</pubDate>
       <category>repos</category>
-      <description>An open-source tool for agent development focusing on reliability and collaboration. It helps align agent behavior with organizational goals. The limitation: it's experimental, not a ready-made solution.
+      <description>ORG2 is a new tool for local-first AI with agents, under 100MB. It supports live feedback and replays, making workflows transparent and reviewable. The experiment is still in progress, so expect some glitches and participatory evolution.
 
 — via GitHub</description>
     </item>
@@ -79,7 +79,7 @@
       <guid isPermaLink="false">pepite-0b15816fdcc5e92b</guid>
       <pubDate>Sat, 20 Jun 2026 12:26:04 +0000</pubDate>
       <category>models</category>
-      <description>News about the death of Ubisoft co-founder Claude Guillemot. It's a somber reminder of the people behind tech milestones. No direct AI angle here.
+      <description>A report on Ubisoft's co-founder passing away, stirring discussions on his contributions. It's mostly background and context, inspired by news of his tragic death.
 
 — via Hacker News</description>
     </item>
@@ -89,7 +89,7 @@
       <guid isPermaLink="false">pepite-a134378e660e8c43</guid>
       <pubDate>Thu, 18 Jun 2026 14:46:38 +0000</pubDate>
       <category>finance</category>
-      <description>A paper on improving video anomaly detection. It offers a calibration method to handle noise in pose-data. The snag: it's academic — implementing it will take some work.
+      <description>This paper presents a method for fine-tuning AI systems to detect anomalies in videos. It's notable for improving signal reliability in surveillance contexts. It's a complex setup and may require deeper domain expertise to implement.
 
 — via arXiv</description>
     </item>
@@ -99,7 +99,7 @@
       <guid isPermaLink="false">pepite-0c41f484033799e8</guid>
       <pubDate>Thu, 18 Jun 2026 17:49:36 +0000</pubDate>
       <category>research</category>
-      <description>A paper on execution-state management for AI systems. It proposes a way to improve low-latency AI performance. The catch: theoretical and high-level, not yet in practical tools.
+      <description>This research introduces execution-state capsules for more efficient AI serving. This might help if you're running low-latency applications. It's early days, so expect some integration challenges.
 
 — via arXiv</description>
     </item>
@@ -109,7 +109,7 @@
       <guid isPermaLink="false">pepite-622565ae5f990d23</guid>
       <pubDate>Thu, 18 Jun 2026 17:19:26 +0000</pubDate>
       <category>research</category>
-      <description>Research on LLMs for security vulnerability detection. It challenges the use of model fine-tuning and offers benchmarks. The limitation: it's an initial study — requires more validation in practice.
+      <description>A study examining limits of fine-tuning for AI in detecting software vulnerabilities. It highlights ongoing challenges with ensuring AI can truly understand code security. It's highly specialized and indicates that fine-tuning isn't a one-size-fits-all solution.
 
 — via arXiv</description>
     </item>
@@ -119,17 +119,17 @@
       <guid isPermaLink="false">pepite-78473a759777ddb2</guid>
       <pubDate>Sun, 21 Jun 2026 13:53:25 +0000</pubDate>
       <category>models</category>
-      <description>A post comparing AI model performance on different hardware setups. It highlights notable speed gains with certain configurations. The catch: very technical, mostly useful for those with similar hardware.
+      <description>Discusses different performance outcomes using ROCm, Vulkan, and vLLM for running AI models. Useful if you're scrutinizing backend performance on specific hardware setups. However, it’s specialized — mostly relevant for those with specific hardware.
 
 — via r/LocalLLaMA</description>
     </item>
     <item>
-      <title>Rollin' MiMo-2.5 on two Halo Strixeses</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uboiko/rollin_mimo25_on_two_halo_strixeses/</link>
-      <guid isPermaLink="false">pepite-f5afbbf3c2c647cb</guid>
-      <pubDate>Sun, 21 Jun 2026 12:12:24 +0000</pubDate>
+      <title>2× Radeon R9700 — Qwen 3.6 27B Q8 MTP on llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ubrn1a/2_radeon_r9700_qwen_36_27b_q8_mtp_on_llamacpp/</link>
+      <guid isPermaLink="false">pepite-0201972b62d06cbf</guid>
+      <pubDate>Sun, 21 Jun 2026 14:35:44 +0000</pubDate>
       <category>models</category>
-      <description>A Reddit post sharing experiences with AI setups on specific hardware. It's a personal account of challenges and discoveries. The downside: highly specific — not broadly applicable.
+      <description>Shares learnings from using a multi-GPU setup for AI model serving, revealing performance insights. It's practical for those with similar GPU setups looking to enhance model runtime. Detailed and technical, it isn’t for casual AI users without similar hardware.
 
 — via r/LocalLLaMA</description>
     </item>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">pepite-664eda98760091b4</guid>
       <pubDate>Tue, 16 Jun 2026 16:04:59 +0000</pubDate>
       <category>agents</category>
-      <description>A quote praising a local model for coding tasks. It shows real-world usefulness in simplifying routine work. The catch: limited broader insights — it's one user's account.
+      <description>A personal note about using Qwen3.6-27B for coding tasks and the experience with local models. Good insight into real-world usage of local models. But it’s anecdotal and might not generalize to every context.
 
 — via Simon Willison</description>
     </item>

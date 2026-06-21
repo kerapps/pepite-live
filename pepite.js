@@ -82,7 +82,7 @@ function analytics(){
   var a=e.target&&e.target.closest?e.target.closest("a[href^='http']"):null;
   if(!a)return;
   try{var h=new URL(a.href).host;if(h===location.host)return;
-   window.goatcounter.count({path:"out:"+h,
+   window.goatcounter.count({path:(window.GCPFX||"")+"out:"+h,
     title:(a.textContent||"").replace(/\s+/g," ").trim().slice(0,100),event:true});
   }catch(err){}
  });
