@@ -73,6 +73,20 @@ function linkedin(){
  }});
  render();
 }
-function init(){filters();linkedin()}
+function analytics(){
+ // click-through: every outbound article click → a GoatCounter event keyed by
+ // destination host (so you see WHICH sources get read). No-op until the
+ // GoatCounter script is configured (config.analytics.goatcounter).
+ document.addEventListener("click",function(e){
+  if(!window.goatcounter||!window.goatcounter.count)return;
+  var a=e.target&&e.target.closest?e.target.closest("a[href^='http']"):null;
+  if(!a)return;
+  try{var h=new URL(a.href).host;if(h===location.host)return;
+   window.goatcounter.count({path:"out:"+h,
+    title:(a.textContent||"").replace(/\s+/g," ").trim().slice(0,100),event:true});
+  }catch(err){}
+ });
+}
+function init(){filters();linkedin();analytics()}
 if(document.readyState!=="loading"){init()}else{document.addEventListener("DOMContentLoaded",init)}
 })();
