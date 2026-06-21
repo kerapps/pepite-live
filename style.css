@@ -94,7 +94,7 @@ p{margin:0}
 .sigrow{display:flex;flex-wrap:wrap;gap:6px;margin-top:11px}
 .sig{display:inline-flex;align-items:center;gap:5px;font-family:var(--font-mono);font-weight:700;font-size:10px;letter-spacing:.04em;text-transform:uppercase;border:1px solid currentColor;border-radius:999px;padding:3px 8px;white-space:nowrap}
 .sig .g{font-size:8px;line-height:1}
-.sig.fresh{color:var(--sig-fresh)}.sig.rising{color:var(--sig-rising)}.sig.radar{color:var(--sig-radar)}
+.sig.fresh{color:var(--sig-fresh)}.sig.rising{color:var(--sig-rising)}.sig.radar{color:var(--sig-radar)}.sig.recent{color:var(--ink-3)}
 .chips{display:flex;flex-wrap:wrap;align-items:center;gap:6px;font-family:var(--font-mono);font-size:12px;color:var(--ink-4);margin-top:10px}
 .chips .lab{letter-spacing:.04em;text-transform:uppercase}
 .chips .chip{color:var(--ink-3);background:var(--paper-2);padding:2px 6px;border-radius:1px}
