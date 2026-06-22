@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks</title>
+      <link>https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/</link>
+      <guid isPermaLink="false">pepite-ed9d918142a6a428</guid>
+      <pubDate>Mon, 22 Jun 2026 08:18:59 +0000</pubDate>
+      <category>research</category>
+      <description>Sakana AI’s Fugu attempts to orchestrate multiple LLMs to meet high benchmarks. This approach diversifies model reliance, potentially enhancing robustness. Drawback: juggling multiple models could complicate overall system integration.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions</title>
+      <link>https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions</link>
+      <guid isPermaLink="false">pepite-e4795059a4567d2c</guid>
+      <pubDate>Sun, 21 Jun 2026 22:55:23 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on fine-tuning a local LLM model like Qwen 3:0.6B for question categorization. It's cool because you can customize models to suit specific tasks, making them more efficient and relevant. The limitation: it requires hands-on experience with fine-tuning processes which can be technical.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6</title>
+      <link>https://status.claude.com/incidents/lv35v0q9nsj2</link>
+      <guid isPermaLink="false">pepite-0109129ec7d05451</guid>
+      <pubDate>Mon, 22 Jun 2026 00:38:50 +0000</pubDate>
+      <category>models</category>
+      <description>A chat on Claude's recent uptick in error rates across several versions. It’s crucial for users relying on these models to be aware of potential reliability issues. The main drawback: such fluctuations can disrupt applications dependent on consistent output.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>dongshuyan/compass-skills</title>
+      <link>https://github.com/dongshuyan/compass-skills</link>
+      <guid isPermaLink="false">pepite-8074bb7d40a3979d</guid>
+      <pubDate>Mon, 15 Jun 2026 06:28:04 +0000</pubDate>
+      <category>repos</category>
+      <description>A GitHub repo called compass-skills that enhances AI coding agents with new abilities. The skills help agents perform tasks like clarifying objectives and remembering project details. The downside: setup and integration might be complex for those unfamiliar with the tech.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>I Canceled My French Tutor and Built an LLM Tool That Does It Better</title>
+      <link>https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built</link>
+      <guid isPermaLink="false">pepite-0713c4788b5535ca</guid>
+      <pubDate>Sun, 21 Jun 2026 22:46:43 +0000</pubDate>
+      <category>models</category>
+      <description>A personal project replacing a French tutor with a self-built LLM tool. It showcases how AI can provide personalized learning experiences on-demand. Catch: it might struggle with the nuances a human teacher can provide.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>OtterMind/Nubase</title>
+      <link>https://github.com/OtterMind/Nubase</link>
+      <guid isPermaLink="false">pepite-1abe87c8b75b7164</guid>
+      <pubDate>Mon, 08 Jun 2026 08:42:51 +0000</pubDate>
+      <category>repos</category>
+      <description>Nubase is a versatile toolkit for AI agents to manage data and deploy apps. It’s valuable for its range of features from auth management to SQL handling, all in a single package. The trade-off: leveraging its full potential requires a solid grasp of its tooling and infrastructure.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Temporary Cloudflare Accounts for AI agents</title>
+      <link>https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</link>
+      <guid isPermaLink="false">pepite-24264b2a209d9bd0</guid>
+      <pubDate>Sun, 21 Jun 2026 22:01:04 +0000</pubDate>
+      <category>agents</category>
+      <description>Temporary Cloudflare accounts allow running AI agents without a lasting account. This provides a frictionless way to test Cloudflare Workers quickly. Caveat: projects are ephemeral, disappearing after 60 minutes.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc1 adds migrations and nested transactions</title>
+      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</link>
+      <guid isPermaLink="false">pepite-6622d836325a18ba</guid>
+      <pubDate>Sun, 21 Jun 2026 23:35:47 +0000</pubDate>
+      <category>repos</category>
+      <description>sqlite-utils 4.0rc1 introduces migrations and nested transactions for database ops. These changes make managing data transformations and transactions easier. The downside: it's in a release candidate phase, so expect possible bugs or changes.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Do you think dedicated hardware for running local LLMs will become affordable anytime soon?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uce2pz/do_you_think_dedicated_hardware_for_running_local/</link>
+      <guid isPermaLink="false">pepite-eaed1cf4d563050b</guid>
+      <pubDate>Mon, 22 Jun 2026 07:42:02 +0000</pubDate>
+      <category>models</category>
+      <description>A Reddit discussion ponders the future affordability of hardware for local LLMs. Cheaper, dedicated hardware could lower the entry barrier for developers. Limitation: widespread consumer availability remains uncertain due to current manufacturing challenges.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Agent recommendations</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uc86pz/agent_recommendations/</link>
+      <guid isPermaLink="false">pepite-b9e5ef725533e224</guid>
+      <pubDate>Mon, 22 Jun 2026 02:23:13 +0000</pubDate>
+      <category>agents</category>
+      <description>A request for recommendations on AI agent setup to streamline a Python web project. Identifying the right suite can drastically reduce development friction. Catch: finding an ideal configuration might require substantial trial and error.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Nominations Open for the 2026 PyTorch Foundation Contributor Awards</title>
+      <link>https://pytorch.org/blog/nominations-open-for-the-2026-pytorch-foundation-contributor-awards/</link>
+      <guid isPermaLink="false">pepite-ca2c018b883d228c</guid>
+      <pubDate>Wed, 17 Jun 2026 15:49:01 +0000</pubDate>
+      <category>models</category>
+      <description>PyTorch Foundation is seeking nominations for its Contributor Awards. Recognizing contributors can boost community engagement and project growth. The catch is that it primarily targets those within the PyTorch ecosystem.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>datasette-acl 0.6a0</title>
+      <link>https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything</link>
+      <guid isPermaLink="false">pepite-ee5881b3a8f12aac</guid>
+      <pubDate>Thu, 18 Jun 2026 19:03:13 +0000</pubDate>
+      <category>research</category>
+      <description>datasette-acl 0.6a0 expands access control from tables to broader resources in Datasette. It offers fine-grained permissions for multi-user setups. Drawback: it might require adjustments if you rely on earlier versions.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>MosaicLeaks: Can your research agent keep a secret?</title>
+      <link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
+      <guid isPermaLink="false">pepite-e9b8182dcfcc0d62</guid>
+      <pubDate>Thu, 18 Jun 2026 18:13:13 +0000</pubDate>
+      <category>agents</category>
+      <description>MosaicLeaks raises the question of whether research agents can maintain confidentiality. It's a pressing issue for security in AI research environments. The limitation: ensuring complete secrecy is a complex, ongoing challenge.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>"Dangerous" AI models are coming no matter what</title>
+      <link>https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/</link>
+      <guid isPermaLink="false">pepite-a4b9c9e5615da772</guid>
+      <pubDate>Wed, 17 Jun 2026 17:50:46 +0000</pubDate>
+      <category>models</category>
+      <description>An article discusses inevitability of 'dangerous' AI with hacking abilities. Highlights the ongoing development of sophisticated AI models. The honest catch: the ethical implications and risks these models present can't be fully controlled yet.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
       <title>When the Trump administration cracks down on Anthropic, who benefits?</title>
       <link>https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/</link>
       <guid isPermaLink="false">pepite-c6496fefb18adf4c</guid>
