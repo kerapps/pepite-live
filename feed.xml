@@ -4,12 +4,22 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark</title>
+      <link>https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/</link>
+      <guid isPermaLink="false">pepite-f02784245a94247b</guid>
+      <pubDate>Tue, 23 Jun 2026 10:43:17 +0000</pubDate>
+      <category>research</category>
+      <description>OpenAI claims GPT-5.5-Cyber excels at cybersecurity benchmarking. It focuses on automatically patching vulnerabilities. But note, this is a claim from OpenAI, specifics on real-world impact are not clear yet.
+
+— via The Decoder</description>
+    </item>
+    <item>
       <title>OpenAI launches new initiative to help find and patch open source bugs</title>
       <link>https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</link>
       <guid isPermaLink="false">pepite-c03191816205f40a</guid>
       <pubDate>Tue, 23 Jun 2026 00:11:31 +0000</pubDate>
       <category>repos</category>
-      <description>OpenAI's new push to secure open-source projects using AI. It aims to identify and fix bugs with greater efficiency. Details on practical outcomes are scarce, so it's hard to judge its immediate impact.
+      <description>OpenAI launches an initiative to safeguard open source. It's extending AI help to find and fix bugs in open-source projects. This is just the start, its full effectiveness is yet to be proven.
 
 — via TechCrunch AI</description>
     </item>
@@ -19,27 +29,17 @@
       <guid isPermaLink="false">pepite-f02df98c1927b0b9</guid>
       <pubDate>Mon, 22 Jun 2026 18:11:34 +0000</pubDate>
       <category>agents</category>
-      <description>Google's Interactions API becomes the standard for Gemini models. It simplifies agent communication by streamlining commands and roles. Transitioning to it requires adapting from older interfaces if you've used them before.
+      <description>Google's Interactions API now the default for Gemini models. It promises a more streamlined approach for APIs. However, adapting to new systems always involves a learning curve.
 
 — via The Decoder</description>
     </item>
     <item>
-      <title>The AI world is getting ‘loopy’</title>
-      <link>https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/</link>
-      <guid isPermaLink="false">pepite-bf6ea22965541982</guid>
-      <pubDate>Mon, 22 Jun 2026 20:53:11 +0000</pubDate>
-      <category>agents</category>
-      <description>The 'loopy' nature of future AI with continuous agent work. Discusses enabling agents to operate persistently without stopping for input. It's exciting but requires managing the risks of continuous operation.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI DayBreak – GPT-5.5-Cyber</title>
-      <link>https://openai.com/index/daybreak-securing-the-world/</link>
-      <guid isPermaLink="false">pepite-1f7d8631c7b048db</guid>
-      <pubDate>Tue, 23 Jun 2026 01:36:08 +0000</pubDate>
+      <title>Ask HN: Anthropic banned me from using Claude Code and I don't know what to do</title>
+      <link>https://news.ycombinator.com/item?id=48641160</link>
+      <guid isPermaLink="false">pepite-853ac4a5babd5247</guid>
+      <pubDate>Tue, 23 Jun 2026 06:33:52 +0000</pubDate>
       <category>models</category>
-      <description>OpenAI DayBreak unveils GPT-5.5-Cyber. It's a new model focused on security features, helping to safeguard digital interactions. But for now, it's more of a concept than a ready-to-use tool.
+      <description>A discussion on Hacker News about getting banned from Claude Code. It highlights the frustration of bans due to VPNs and payment methods. The problem: strict security measures that may catch innocent users.
 
 — via Hacker News</description>
     </item>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">pepite-5965be49833fad74</guid>
       <pubDate>Fri, 19 Jun 2026 13:24:44 +0000</pubDate>
       <category>repos</category>
-      <description>Windows-Copilot-API helps run AI copilot agents on Windows. It supports easy Microsoft account integration and Docker use. However, it's best for those familiar with command line and basic server setups.
+      <description>A GitHub repo for accessing Windows Copilot with an API. It lets you automate tasks with simple setup using your Microsoft account. Catch: it requires initial browser login and setup might be technical.
 
 — via GitHub</description>
     </item>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">pepite-ed012f65477f22d9</guid>
       <pubDate>Sat, 20 Jun 2026 04:27:07 +0000</pubDate>
       <category>repos</category>
-      <description>Zhengxi-views lets you tap into expert financial insights. The AI is built on real texts from a known fund manager, ensuring traceable conclusions. However, it's mainly useful if you're interested in Chinese markets.
+      <description>Zhengxi-views is a GitHub project for sourcing investment insights based on a fund manager's past statements. Great for verifying quotes and views thanks to original text sourcing. It's China-focused, limiting use for other markets.
 
 — via GitHub</description>
     </item>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">pepite-76266d47282b0379</guid>
       <pubDate>Mon, 22 Jun 2026 17:58:54 +0000</pubDate>
       <category>research</category>
-      <description>AIR proposes a novel way for AI to think using code in complex tasks. It shows promise by extending reasoning abilities beyond simple visual tasks. The method's complexity means it's not plug-and-play just yet.
+      <description>A new paper on adaptive reasoning for AI models handling numbers and visuals. It aims to improve AI's reasoning in complex tasks. The catch: primarily theoretical with a focus on research rather than practical application.
 
 — via arXiv</description>
     </item>
@@ -79,7 +79,7 @@
       <guid isPermaLink="false">pepite-6428ffe873855024</guid>
       <pubDate>Mon, 22 Jun 2026 17:39:43 +0000</pubDate>
       <category>finance</category>
-      <description>EnterpriseClawBench is a benchmark for testing AI agents on real business tasks. It's constructed from authentic workplace scenarios. The data isn't publicly available, so you can't test with it directly, but it'll guide your setup.
+      <description>EnterpriseClawBench benchmarks real workplace AI agent tasks. It aims to test agent performance in varied real-world settings. The data behind it is proprietary, so you won't get the raw datasets.
 
 — via arXiv</description>
     </item>
@@ -89,7 +89,7 @@
       <guid isPermaLink="false">pepite-7c97576b1ac78ea1</guid>
       <pubDate>Mon, 22 Jun 2026 17:48:40 +0000</pubDate>
       <category>research</category>
-      <description>MAS-PromptBench explores prompt optimization in multi-agent systems. It aims to improve coordination without changing the model itself. The experiments pinpoint challenges, but using it still demands deep prompt engineering knowledge.
+      <description>MAS-PromptBench explores when prompt optimization helps multi-agent systems. It seeks to fine-tune communication among multiple AI agents for better performance. The big challenge: figuring out when optimization is really an improvement.
 
 — via arXiv</description>
     </item>
@@ -99,7 +99,7 @@
       <guid isPermaLink="false">pepite-6564072e5b395a53</guid>
       <pubDate>Mon, 22 Jun 2026 10:50:46 +0000</pubDate>
       <category>models</category>
-      <description>Discussion: How AI models manage and reflect biases. The focus is on understanding AI's role in perpetuating or correcting biases. It's more thought-provoking than actionable.
+      <description>A Hacker News discussion on AI models policing their own training biases. It’s about understanding how AI reflects and manages inherent biases. It's mainly a theoretical discussion, lacking concrete solutions.
 
 — via Hacker News</description>
     </item>
@@ -109,7 +109,7 @@
       <guid isPermaLink="false">pepite-1de33045c1cba87e</guid>
       <pubDate>Mon, 22 Jun 2026 23:43:51 +0000</pubDate>
       <category>models</category>
-      <description>A walkthrough of running an AI image editing model right in the browser. Shows the power of Moebius framework with easy access through a web demo. Requires some technical setup with WebGPU, so might not be for beginners.
+      <description>A developer ported the Moebius inpainting model to run in a browser. It's a lightweight tool for editing images directly, without heavy software. The limitation: it originally requires specific tech setups like PyTorch and NVIDIA CUDA.
 
 — via Simon Willison</description>
     </item>
@@ -119,7 +119,7 @@
       <guid isPermaLink="false">pepite-628a8829eb140d29</guid>
       <pubDate>Mon, 22 Jun 2026 14:54:59 +0000</pubDate>
       <category>agents</category>
-      <description>Ponytrail logs AI system changes locally for review. It's handy for tracking coding agent decisions and edits. However, its effectiveness relies on diligent usage and regular log reviews.
+      <description>Ponytrail is a local tool for tracking changes AI agents make to code. It helps you see what's happening with your code in real-time. The downside: it's another tool to integrate into your workflow.
 
 — via Hacker News</description>
     </item>
@@ -129,17 +129,17 @@
       <guid isPermaLink="false">pepite-83c1a90a37346afc</guid>
       <pubDate>Mon, 22 Jun 2026 23:59:53 +0000</pubDate>
       <category>models</category>
-      <description>A deep dive into prompt injection problems in AI models. The analysis clarifies why truly securing prompt boundaries is tough. It's a valuable read if you're fine-tuning models and care about input integrity.
+      <description>A blog post on prompt injection as role confusion outlines when models mix user input roles. Highlights issues of segregating trusted versus untrusted inputs. The bad news: fully securing AI prompts is still an ongoing challenge.
 
 — via Simon Willison</description>
     </item>
     <item>
-      <title>Training a Qwen 3.5 4B/9B agent for multi-tool use: SFT first or go directly to RL?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ud8opg/training_a_qwen_35_4b9b_agent_for_multitool_use/</link>
-      <guid isPermaLink="false">pepite-fb11b80177f05153</guid>
-      <pubDate>Tue, 23 Jun 2026 05:53:41 +0000</pubDate>
-      <category>agents</category>
-      <description>A guide on training Qwen agents for complex tasks. It debates methods like switching from supervised fine-tuning (SFT) to reinforcement learning (RL). The processes are challenging and need a solid understanding of AI workflows.
+      <title>Reusable workflows for long running local llms</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uddxsr/reusable_workflows_for_long_running_local_llms/</link>
+      <guid isPermaLink="false">pepite-e8994b6a1bf6c889</guid>
+      <pubDate>Tue, 23 Jun 2026 10:58:54 +0000</pubDate>
+      <category>models</category>
+      <description>A post about workflows for long-running local AI models. It's about handling big tasks efficiently with local AI setups. The constraint: managing large tasks like this often requires careful prompt tuning.
 
 — via r/LocalLLaMA</description>
     </item>
