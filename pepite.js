@@ -27,40 +27,33 @@ function linkedin(){
      dataEl=document.getElementById("liData");
  if(!fab||!modal||!dataEl)return;
  var D;try{D=JSON.parse(dataEl.textContent)}catch(e){return}
- var slots=(D.main||[]).slice(0,3).map(function(p){return {t:p.t,u:p.u}});
- var ptr=0;
- function used(u){return slots.some(function(s){return s.u===u})}
- function nextAlt(){
-  for(var k=0;k<D.alts.length;k++){ptr=(ptr+1)%D.alts.length;
-   if(!used(D.alts[ptr].u))return D.alts[ptr]}
-  return null;
- }
+ var items=(D.items||[]).map(function(it){return {h:it.h,t:it.t,u:it.u,on:!!it.on}});
+ function chosen(){return items.filter(function(it){return it.on})}
  function buildPost(){
-  var b=slots.map(function(s){return "→ "+s.t}).join("\n"),parts=[];
-  if(D.pre)parts.push(D.pre);parts.push(b);if(D.tail)parts.push(D.tail);
+  var b=chosen().map(function(it){return "→ "+it.t}).join("\n"),parts=[];
+  if(D.pre)parts.push(D.pre);if(b)parts.push(b);if(D.tail)parts.push(D.tail);
   return parts.join("\n");
  }
  function buildSrc(){
+  var c=chosen();if(!c.length)return "Sources:";
   var out="Sources:\n";
-  slots.forEach(function(s){var t=s.t;if(t.length>62)t=t.slice(0,62).replace(/\s\S*$/,"")+"…";out+="\n→ "+t+": "+s.u});
+  c.forEach(function(it){var t=it.h;if(t.length>62)t=t.slice(0,62).replace(/\s\S*$/,"")+"…";out+="\n→ "+t+": "+it.u});
   return out;
  }
- function rows(){
-  var wrap=document.getElementById("liRollWrap"),rc=document.getElementById("liRows");
-  if(!D.reroll){if(wrap)wrap.hidden=true;return}
-  wrap.hidden=false;rc.innerHTML="";
-  slots.forEach(function(s,i){
-   var d=document.createElement("div");d.className="li-row";
-   d.innerHTML='<span class="li-rn">'+(i+1)+'</span><span class="li-rt"></span>'
-     +'<button class="li-re" type="button" title="Reroll this story">↻</button>';
-   d.querySelector(".li-rt").textContent=s.t;
-   d.querySelector(".li-re").onclick=function(){var a=nextAlt();if(a){slots[i]=a;render()}};
+ function update(){
+  document.getElementById("liPost").value=buildPost();
+  document.getElementById("liSrc").value=buildSrc();
+ }
+ function renderItems(){
+  var rc=document.getElementById("liItems");if(!rc)return;rc.innerHTML="";
+  items.forEach(function(it){
+   var d=document.createElement("label");d.className="li-ck";
+   d.innerHTML='<input type="checkbox"'+(it.on?" checked":"")+'><span class="li-ckt"></span>';
+   d.querySelector(".li-ckt").textContent=it.h;
+   d.querySelector("input").onchange=function(){it.on=this.checked;update()};
    rc.appendChild(d);
   });
  }
- function render(){rows();
-  document.getElementById("liPost").value=buildPost();
-  document.getElementById("liSrc").value=buildSrc();}
  var x=document.getElementById("liX");
  fab.onclick=function(){modal.hidden=false};
  if(x)x.onclick=function(){modal.hidden=true};
@@ -71,7 +64,7 @@ function linkedin(){
   if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(ta.value).then(done,function(){try{document.execCommand("copy");done()}catch(e){}})}
   else{try{document.execCommand("copy");done()}catch(e){}}
  }});
- render();
+ renderItems();update();
 }
 function analytics(){
  // click-through: every outbound article click → a GoatCounter event keyed by
