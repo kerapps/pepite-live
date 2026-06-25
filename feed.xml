@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>OpenAI says ChatGPT Instant now better understands what users actually want</title>
+      <link>https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/</link>
+      <guid isPermaLink="false">pepite-d7528d94ea79a2a2</guid>
+      <pubDate>Wed, 24 Jun 2026 19:54:23 +0000</pubDate>
+      <category>models</category>
+      <description>Updates to ChatGPT Instant for better user understanding. It's a win for anyone using OpenAI's ChatGPT for more precise responses. The catch: updates sometimes bring unexpected bugs or changes in behavior.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI and Broadcom announce chip designed for LLM inference at scale</title>
+      <link>https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/</link>
+      <guid isPermaLink="false">pepite-aca9a99819ce9c7c</guid>
+      <pubDate>Wed, 24 Jun 2026 22:28:18 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI and Broadcom's new chip for AI inference tasks. It's all about meeting AI demand with special hardware. But you’ll need the hardware to make use of it, not just a software update.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost</title>
+      <link>https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/</link>
+      <guid isPermaLink="false">pepite-b1159d7fe1ec3b05</guid>
+      <pubDate>Wed, 24 Jun 2026 17:07:37 +0000</pubDate>
+      <category>finance</category>
+      <description>Snowflake's benchmark finds a cost-effective LLM alternative. It's noteworthy for its cost-saving angle in AI tasks. Keep in mind: it uses more tokens, which might not suit every use case.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Bible as RAG Database</title>
+      <link>https://www.crosscanon.com/</link>
+      <guid isPermaLink="false">pepite-d8af377eef3222a0</guid>
+      <pubDate>Thu, 25 Jun 2026 01:42:55 +0000</pubDate>
+      <category>other</category>
+      <description>A discussion on using the Bible as a retrieval-augmented generation (RAG) database. It's cool because it explores a creative way to organize and query text. The catch: It's a discussion, so it's more of a concept than a plug-and-play tool right now.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Haystack: Open-Source AI Framework for Production Ready Agents, RAG</title>
+      <link>https://haystack.deepset.ai/</link>
+      <guid isPermaLink="false">pepite-6524c616feb3778e</guid>
+      <pubDate>Wed, 24 Jun 2026 11:21:32 +0000</pubDate>
+      <category>agents</category>
+      <description>Haystack is an open-source framework for production-ready AI agents. Interesting because it's mature and designed to get AI apps up and running quickly. The downside: like any framework, setting up right the first time can be a bit of a lift.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>benchflow-ai/awesome-evals</title>
+      <link>https://github.com/benchflow-ai/awesome-evals</link>
+      <guid isPermaLink="false">pepite-01ff236b8eebb221</guid>
+      <pubDate>Wed, 24 Jun 2026 08:10:33 +0000</pubDate>
+      <category>repos</category>
+      <description>A GitHub repo full of evaluations for AI agents. It's unique because every entry is verified and explained, not just a list of links. The limitation: it's still a list, meaning you'll need to do the digging to apply what fits your needs.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>What I'm Finding About LLM Code Style and Token Costs</title>
+      <link>https://www.jimmont.com/llm-style-token-costs</link>
+      <guid isPermaLink="false">pepite-e4335b070690acda</guid>
+      <pubDate>Thu, 25 Jun 2026 00:52:40 +0000</pubDate>
+      <category>models</category>
+      <description>Insights from an investigation into how AI code style impacts token costs. This is helpful if you're keen on optimizing AI usage costs. The catch: it's more about broad observations than a specific, immediate fix.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>duckbugio/flock</title>
+      <link>https://github.com/duckbugio/flock</link>
+      <guid isPermaLink="false">pepite-bcbe3d2a468a1865</guid>
+      <pubDate>Mon, 08 Jun 2026 15:48:15 +0000</pubDate>
+      <category>repos</category>
+      <description>Flock is an AI agent platform designed for users of Claude Pro/Max. It's neat since it offers a complete setup without complex builds. The catch: it's dependent on having access to Claude, so it's not for those without it.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It</title>
+      <link>http://arxiv.org/abs/2606.26027v1</link>
+      <guid isPermaLink="false">pepite-b9eed203a05700c5</guid>
+      <pubDate>Wed, 24 Jun 2026 16:55:56 +0000</pubDate>
+      <category>research</category>
+      <description>A paper on why multi-step tool-use reinforcement learning often fails, plus fixes. It delves into addressing stability issues in AI learning tasks. However, it's fairly technical and may need some time to digest the suggested solutions.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models</title>
+      <link>http://arxiv.org/abs/2606.25990v1</link>
+      <guid isPermaLink="false">pepite-c01de79718181708</guid>
+      <pubDate>Wed, 24 Jun 2026 16:03:38 +0000</pubDate>
+      <category>finance</category>
+      <description>SpeechEQ benchmarks voice models on emotional intelligence. It's crucial as we push for more naturally interactive AI. The caveat: it's a new framework, so expect the usual initial growing pains in its application.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining</title>
+      <link>http://arxiv.org/abs/2606.26050v1</link>
+      <guid isPermaLink="false">pepite-ca2300ed569fa25f</guid>
+      <pubDate>Wed, 24 Jun 2026 17:27:13 +0000</pubDate>
+      <category>research</category>
+      <description>Research into how some AI rules fade during training, termed 'natural ungrokking.' This is significant because it can explain stability issues in AI's learned behaviors. The downside: it's very research-focused, not readily applicable yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>simonw/browser-compat-db</title>
+      <link>https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything</link>
+      <guid isPermaLink="false">pepite-587fd1adef5ef136</guid>
+      <pubDate>Wed, 24 Jun 2026 23:59:03 +0000</pubDate>
+      <category>agents</category>
+      <description>A post about creating a browser compatibility database using SQLite. It's practical for devs wanting lightweight browser data access. But it's niche and not a broad fix for everyone.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel</title>
+      <link>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</link>
+      <guid isPermaLink="false">pepite-9662972e681ea5f1</guid>
+      <pubDate>Wed, 24 Jun 2026 16:00:13 +0000</pubDate>
+      <category>models</category>
+      <description>NVIDIA NeMo AutoModel helps speed up fine-tuning of Transformers. It’s valuable for those looking to fine-tune models efficiently. However, you’ll need the right NVIDIA setup to capitalize fully.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing</title>
+      <link>https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/</link>
+      <guid isPermaLink="false">pepite-451b7ab49e2e8f78</guid>
+      <pubDate>Thu, 25 Jun 2026 05:39:53 +0000</pubDate>
+      <category>models</category>
+      <description>Baidu's Unlimited OCR model offers flat memory use for long documents. It's great at maintaining performance as text length increases. But, it's still a hefty 3B parameters model.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>India’s MoEngage bets that the future of marketing is millions of AI agents</title>
       <link>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</link>
       <guid isPermaLink="false">pepite-38ad88a90b0f65f9</guid>
