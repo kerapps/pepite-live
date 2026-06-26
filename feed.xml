@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>The White House is asking OpenAI to slow roll the release of its new model over safety concerns</title>
+      <link>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</link>
+      <guid isPermaLink="false">pepite-ec21de830233163e</guid>
+      <pubDate>Thu, 25 Jun 2026 23:34:39 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI might delay releasing GPT 5.6 under the Trump administration’s request. The move is for safety assessments and careful rollout. However, this means limited access for wider experimentation early on.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.</title>
+      <link>https://www.latent.space/p/ainews-openai-reports-median-internal</link>
+      <guid isPermaLink="false">pepite-b048b4ce3050a7fa</guid>
+      <pubDate>Fri, 26 Jun 2026 01:12:30 +0000</pubDate>
+      <category>other</category>
+      <description>OpenAI reports that its internal Codex output has majorly increased in various fields. This shows the model's growing usefulness in multiple areas. It hints at potential, but specifics on how it’ll affect you are vague.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Most major AI chatbots still lean left on political questions, even "anti-woke" models are no exception</title>
+      <link>https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/</link>
+      <guid isPermaLink="false">pepite-00fd5d3f9f106212</guid>
+      <pubDate>Thu, 25 Jun 2026 16:04:32 +0000</pubDate>
+      <category>models</category>
+      <description>Many major AI chatbots still show a bias towards left-leaning political views. This comes after tests show their leaning despite different branding efforts. Google's model was a notable exception, offering balanced perspectives.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion</title>
+      <link>https://github.com/inkeep/open-knowledge</link>
+      <guid isPermaLink="false">pepite-ef5aecbb88f0c0d5</guid>
+      <pubDate>Thu, 25 Jun 2026 16:04:46 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenKnowledge integrates AI into a markdown editor, like Notion or Obsidian. It connects directly with advanced AI tools like Claude and Codex to enhance your markdown work. But, it's MacOS and web-based, so no Windows support just yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government</title>
+      <link>https://velo.xyz/news/1908</link>
+      <guid isPermaLink="false">pepite-e3578012f1c78e85</guid>
+      <pubDate>Thu, 25 Jun 2026 20:28:25 +0000</pubDate>
+      <category>models</category>
+      <description>The U.S. government asked OpenAI to release GPT 5.6 slowly. The staggered launch is meant to address safety concerns before a full rollout. However, this means the tech will take longer to reach most users.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>GraeLefix/GITVERSE</title>
+      <link>https://github.com/GraeLefix/GITVERSE</link>
+      <guid isPermaLink="false">pepite-35af8fc47a1ae3ec</guid>
+      <pubDate>Thu, 25 Jun 2026 16:50:48 +0000</pubDate>
+      <category>repos</category>
+      <description>GITVERSE helps you analyze codebases with AI to understand and rebuild them easily. It's like having a smart assistant guide you through a code’s architecture and logic. To use it, you’ll need an AI API key, which can be a bit of a hassle for setup.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>QwenLM/Qwen-AgentWorld</title>
+      <link>https://github.com/QwenLM/Qwen-AgentWorld</link>
+      <guid isPermaLink="false">pepite-5b4d7e75d649ef26</guid>
+      <pubDate>Mon, 22 Jun 2026 13:48:37 +0000</pubDate>
+      <category>repos</category>
+      <description>Qwen-AgentWorld is a big AI model open for developers to experiment with. It's great for those interested in pushing agent and AI model boundaries. But be prepared: it requires significant computing power to operate effectively.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>OpenAI and Broadcom unveil LLM-optimized inference chip</title>
+      <link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip/</link>
+      <guid isPermaLink="false">pepite-e9639c49defcff72</guid>
+      <pubDate>Wed, 24 Jun 2026 13:14:39 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI, in collaboration with Broadcom, is creating an AI chip optimized for large language models. It promises to make AI run faster and use less power. The chip is new, so it's not yet a plug-and-play upgrade for all systems.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings</title>
+      <link>http://arxiv.org/abs/2606.27287v1</link>
+      <guid isPermaLink="false">pepite-ddf83139ce00a870</guid>
+      <pubDate>Thu, 25 Jun 2026 17:04:51 +0000</pubDate>
+      <category>finance</category>
+      <description>A study shows that job applicants can manipulate AI résumé screenings with 'prompt injection'. This could make candidates appear better without real qualifications. As more people use this trick, its effectiveness drops sharply.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting</title>
+      <link>http://arxiv.org/abs/2606.27223v1</link>
+      <guid isPermaLink="false">pepite-d6aefbb8d2a898fb</guid>
+      <pubDate>Thu, 25 Jun 2026 16:12:36 +0000</pubDate>
+      <category>research</category>
+      <description>SatSplatDiff aims to improve 3D images from satellite data by refining how they capture buildings. It's a big step forward for detailed geo-imagery. The catch is, the tech's newness means it's still prone to visual errors.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Autoregressive Boltzmann Generators</title>
+      <link>http://arxiv.org/abs/2606.27361v1</link>
+      <guid isPermaLink="false">pepite-1ac35c89364e7de6</guid>
+      <pubDate>Thu, 25 Jun 2026 17:58:21 +0000</pubDate>
+      <category>research</category>
+      <description>Autoregressive Boltzmann Generators (ArBG) aim to improve molecular system sampling. It's more expressive than current models, helping scientists in physics. The hitch is, it's still a complex model that isn't easy for everyone to use yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Run a vLLM Server on HF Jobs in One Command</title>
+      <link>https://huggingface.co/blog/vllm-jobs</link>
+      <guid isPermaLink="false">pepite-7f1a19cb84580aa1</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>Hugging Face Jobs makes it easy to run a vLLM server with a single command. Convenient for testing large language models on remote servers. It's not yet compatible with every setup, which could limit who can try it.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>AI and Liability</title>
+      <link>https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything</link>
+      <guid isPermaLink="false">pepite-9617b30126c9066c</guid>
+      <pubDate>Thu, 25 Jun 2026 22:28:46 +0000</pubDate>
+      <category>agents</category>
+      <description>Simon Willison discusses liability issues with AI errors after a German ruling on Google's AI. The point is that companies shouldn’t hide behind faulty AI like a cloak. It raises tough questions about accountability, with no easy answers yet.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Does llama cpp split mode tensor cause issues?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ufy09k/does_llama_cpp_split_mode_tensor_cause_issues/</link>
+      <guid isPermaLink="false">pepite-072dfb6d87a32cc2</guid>
+      <pubDate>Fri, 26 Jun 2026 05:43:15 +0000</pubDate>
+      <category>models</category>
+      <description>Users in the LLaMA community encounter issues with split mode tensors in AI models. Problems arise when using certain model settings, causing reasoning traces to loop. This technical hiccup might stall those working on similar multi-GPU setups.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>OpenAI says ChatGPT Instant now better understands what users actually want</title>
       <link>https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/</link>
       <guid isPermaLink="false">pepite-d7528d94ea79a2a2</guid>
@@ -1360,86 +1500,6 @@
       <pubDate>Thu, 11 Jun 2026 17:54:09 +0000</pubDate>
       <category>research</category>
       <description>On-policy distillation (\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet how this hybrid changes a model's parameters remains unclear. Across several language and vision-language model pairs and use cases, our analysis yields two… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent</title>
-      <link>https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/</link>
-      <guid isPermaLink="false">pepite-a74220408b620072</guid>
-      <pubDate>Fri, 12 Jun 2026 17:34:23 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI changed how Codex rate limits work. You can now bank your resets and trigger them by hand. Hit your cap mid-session? Cash in a saved reset instead of waiting it out. Free users get one. Plus and Pro users earn more by inviting friends. The Decoder frames it as the start of a price war. It's really a usage tweak, not a price cut. But if Codex limits keep breaking your flow, this helps. And it shows where the pressure is: coding agents, on cost.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance</title>
-      <link>https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/</link>
-      <guid isPermaLink="false">pepite-938b34e999fe7889</guid>
-      <pubDate>Fri, 12 Jun 2026 17:10:34 +0000</pubDate>
-      <category>research</category>
-      <description>Claude Fable 5 is the new top model on the Artificial Analysis index. It sets records in five of ten benchmarks. Here's the catch. It beats Opus 4.8 by just 5.7 percent. And it costs twice as much per token. Safety routing pushes the bill higher still. The lesson is old but worth repeating. The flagship is rarely the best value. Test the cheaper model on your own tasks before you pay double for a few points you may never feel.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Mistral is rumored to be raising €3B at €20B valuation</title>
-      <link>https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/</link>
-      <guid isPermaLink="false">pepite-782f4d8df7071a5d</guid>
-      <pubDate>Fri, 12 Jun 2026 17:38:11 +0000</pubDate>
-      <category>finance</category>
-      <description>Mistral is reportedly raising €3 billion. That would value it near €20 billion, almost double its last round. Why it matters to builders: Mistral is Europe's main open-weight lab. A war chest this size keeps its open models funded and shipping. Good news for anyone who wants an alternative to the US labs. The caveat: it's still a rumor, and a valuation is not a better model. Nothing about your API calls changes today. But the open-weight lane just got more secure.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>DietrichGebert/ponytail</title>
-      <link>https://github.com/DietrichGebert/ponytail</link>
-      <guid isPermaLink="false">pepite-811c73b9773dbad7</guid>
-      <pubDate>Fri, 12 Jun 2026 00:52:37 +0000</pubDate>
-      <category>repos</category>
-      <description>You know the senior dev who deletes your fifty lines and writes one? ponytail tries to be that dev for your agent. It runs inside Claude Code or Cursor. When the agent wants to over-build, it pushes back. You asked for a date picker, not a debate about timezones. Think YAGNI as a prompt. It's four days old with 773 stars, so some of the buzz is just novelty. But the problem is real. Agents love to over-build, and few tools fight it. Read the README. You'll know in thirty seconds if it's for you.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Kimi K2.7-Code: open-source coding model with better token efficiency</title>
-      <link>https://huggingface.co/moonshotai/Kimi-K2.7-Code</link>
-      <guid isPermaLink="false">pepite-ca580534f6fa227a</guid>
-      <pubDate>Fri, 12 Jun 2026 10:42:50 +0000</pubDate>
-      <category>models</category>
-      <description>Moonshot released an open-weight coding model. The pitch is token efficiency: same work, fewer tokens. In an agent loop, that's the gap between a cheap run and a $3 one. The HN thread is the usual benchmark fight. Ignore it. The only number that counts is your own eval on your own tasks. Run agents at scale? Spend an afternoon testing it against what you pay now. If not, skip it. A new open coding model drops most weeks.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents</title>
-      <link>https://bitboard.work/</link>
-      <guid isPermaLink="false">pepite-71666adecc38f77f</guid>
-      <pubDate>Fri, 12 Jun 2026 16:58:03 +0000</pubDate>
-      <category>agents</category>
-      <description>A YC launch with a simple bet: analytics is the next thing agents do for you. BitBoard is a workspace where your agent builds live dashboards with you. The demo looks good. But it's two hours old with 17 points. So this is one to watch, not one to adopt. It's a hosted product, not a repo. And agent-built dashboards only help if they're correct. A launch video can't prove that. Still, the bet is real, and worth knowing about.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>amElnagdy/guard-skills</title>
-      <link>https://github.com/amElnagdy/guard-skills</link>
-      <guid isPermaLink="false">pepite-489590186b992ee8</guid>
-      <pubDate>Sat, 06 Jun 2026 16:59:27 +0000</pubDate>
-      <category>repos</category>
-      <description>This is the other half of ponytail, and maybe the better half. guard-skills reviews your agent's output before you do. It looks for the usual ways AI code goes wrong. The confident but broken test. The doc that describes code that isn't there. The flow is simple. Let the agent work. Then run the right guard on the diff before you commit. It's prompt-based, so it won't catch everything a type-checker would. But as a cheap second opinion in Claude Code, Codex, or Cursor, it earns its place fast.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Reward Modeling for Multi-Agent Orchestration</title>
-      <link>http://arxiv.org/abs/2606.13598v1</link>
-      <guid isPermaLink="false">pepite-87855a4c1639129c</guid>
-      <pubDate>Thu, 11 Jun 2026 17:16:24 +0000</pubDate>
-      <category>research</category>
-      <description>Running many agents? You've hit the eval wall. How do you tell a good run from a lucky one without grading each by hand? OrchRM has an idea. Use the artifacts a multi-agent run already produces. Turn them into win/lose pairs. Train a reward model on those. No human labels. No costly re-runs. It's a preprint and a work in progress, so treat the numbers as a claim, not proof. But it ships code. And the core idea is right: score the orchestration, not the sub-tasks.
 
 — via arXiv</description>
     </item>
