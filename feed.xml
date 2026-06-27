@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners</title>
+      <link>https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna</link>
+      <guid isPermaLink="false">pepite-39412d8a157f3adb</guid>
+      <pubDate>Sat, 27 Jun 2026 05:23:22 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI releases GPT-5.6 models to select partners. These models promise varied costs and capabilities, hinting at future broader releases. They're invite-only for now, so general use isn't yet possible.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</title>
+      <link>https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</link>
+      <guid isPermaLink="false">pepite-bfc22edd885d5ad7</guid>
+      <pubDate>Fri, 26 Jun 2026 17:43:22 +0000</pubDate>
+      <category>other</category>
+      <description>Tech companies, like OpenAI, are building custom chips to reduce their reliance on Nvidia. It marks a shift towards diverse hardware strategies in AI. Custom chips are complex and not an overnight solution for everyone.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run</title>
+      <link>https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/</link>
+      <guid isPermaLink="false">pepite-044fef05a3221bd3</guid>
+      <pubDate>Fri, 26 Jun 2026 17:24:27 +0000</pubDate>
+      <category>research</category>
+      <description>An AI model takes on a long-running coding task, costing thousands to complete. It's a stress test for AI programming capabilities. Current models still struggle with complex tasks, revealing areas for improvement.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies</title>
+      <link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
+      <guid isPermaLink="false">pepite-822cb889915cb54c</guid>
+      <pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
+      <category>other</category>
+      <description>The U.S. government authorizes over 100 entities to use Anthropic's AI. It shows government interest in leveraging AI technologies. Details on how it will be used remain scant.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: Smart model routing directly in Claude, Codex and Cursor</title>
+      <link>https://github.com/workweave/router</link>
+      <guid isPermaLink="false">pepite-625f299dde1117a0</guid>
+      <pubDate>Fri, 26 Jun 2026 16:40:11 +0000</pubDate>
+      <category>agents</category>
+      <description>A tool to automatically choose the best AI model for coding tasks. It plugs into agents like Claude and Codex, picking the right model to save costs. You'll need to set it up yourself — it's not a plug-and-play solution yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>The gap between open weights LLMs and closed source LLMs</title>
+      <link>https://blog.doubleword.ai/frontier-os-llm</link>
+      <guid isPermaLink="false">pepite-a42e36289875366e</guid>
+      <pubDate>Fri, 26 Jun 2026 21:14:47 +0000</pubDate>
+      <category>models</category>
+      <description>A blog post exploring the differences between open and closed source AI models. It highlights the strengths and weaknesses of each, especially regarding accessibility and innovation. But don't expect any clear winner — it's more about trade-offs.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>winsznx/theeleven</title>
+      <link>https://github.com/winsznx/theeleven</link>
+      <guid isPermaLink="false">pepite-64ca6cfb8c7f4703</guid>
+      <pubDate>Thu, 25 Jun 2026 07:42:50 +0000</pubDate>
+      <category>repos</category>
+      <description>AI personas predict football match events and run prediction markets. It's a novel way to engage with games, using AI to spice up the viewing. However, it's still niche, relying on specific blockchain tech that not everyone uses.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Ask HN: MacBook vs. Dedicated GPU for LLM</title>
+      <link>https://news.ycombinator.com/item?id=48694802</link>
+      <guid isPermaLink="false">pepite-18c39188a8666d2c</guid>
+      <pubDate>Sat, 27 Jun 2026 03:17:43 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on using MacBooks vs. dedicated GPUs for running large language models (LLMs). It provides insight into how well MacBooks handle such tasks. Be prepared for a varied discussion with no clear-cut answers.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>kennss/SiliconScope</title>
+      <link>https://github.com/kennss/SiliconScope</link>
+      <guid isPermaLink="false">pepite-ad681c59cdb1acba</guid>
+      <pubDate>Mon, 08 Jun 2026 17:19:50 +0000</pubDate>
+      <category>repos</category>
+      <description>SiliconScope is a monitor for Apple's Silicon performance, without needing extra permissions. It goes beyond standard activity monitors, showing detailed usage of various hardware components. It only works on Apple Silicon devices, leaving others out.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Incident Report: CVE-2026-LGTM</title>
+      <link>https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything</link>
+      <guid isPermaLink="false">pepite-1a165aff3292d4a7</guid>
+      <pubDate>Fri, 26 Jun 2026 17:58:54 +0000</pubDate>
+      <category>agents</category>
+      <description>A humorous incident report about AI agents getting stuck in a loop. It costs thousands in computational resources and is a reminder of AI's current limits. It's a fictional account for now, so don't take it as actual news.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>What happened after 2,000 people tried to hack my AI assistant</title>
+      <link>https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything</link>
+      <guid isPermaLink="false">pepite-6c6dd7db4f004ef0</guid>
+      <pubDate>Fri, 26 Jun 2026 18:33:14 +0000</pubDate>
+      <category>agents</category>
+      <description>A report on a challenge where people tried and failed to breach an AI assistant's security. Even with 6,000 attempts, no secrets were leaked. It's a fun test but shows security measures still hold strong.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quoting OpenAI</title>
+      <link>https://simonwillison.net/2026/Jun/26/openai/#atom-everything</link>
+      <guid isPermaLink="false">pepite-c1186f1eb9b3a8b0</guid>
+      <pubDate>Fri, 26 Jun 2026 17:10:43 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI's new GPT models just had a limited preview. They're set to provide broad access and varied capabilities soon. For now, only select groups have access, so most will have to wait.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting</title>
+      <link>http://arxiv.org/abs/2606.27277v1</link>
+      <guid isPermaLink="false">pepite-1d8586417a15fca4</guid>
+      <pubDate>Thu, 25 Jun 2026 16:53:30 +0000</pubDate>
+      <category>research</category>
+      <description>A research paper explores Earth dynamics forecasting through satellite data. It aims to improve predictions under uncertain conditions. Remember, it's technical and geared towards experts in AI and Earth observation.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>When can we expect merged DeepSeek V4 Flash / MiniMax M3 llama.cpp support?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ugsnej/when_can_we_expect_merged_deepseek_v4_flash/</link>
+      <guid isPermaLink="false">pepite-eba05909a11dcc59</guid>
+      <pubDate>Sat, 27 Jun 2026 04:16:00 +0000</pubDate>
+      <category>models</category>
+      <description>A Reddit post questions the future support for certain AI tools. It highlights the uncertainty in developing stable software support. It's more about gauging community expectations rather than providing concrete updates.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>The White House is asking OpenAI to slow roll the release of its new model over safety concerns</title>
       <link>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</link>
       <guid isPermaLink="false">pepite-ec21de830233163e</guid>
@@ -1362,145 +1502,5 @@
       <description>Government officials accuse Anthropic of disregarding Trump's cyber directive and releasing Fable 5 without approval. "They screwed us," one administration official said. Talks are underway with the Department of Commerce, the CIA, and science advisor Michael Kratsios. The article The US government may be asking Anthropic the impossible by demanding… It landed in the last few hours.
 
 — via The Decoder</description>
-    </item>
-    <item>
-      <title>As AI agents become employees, NewCore emerges with $66M to give them identities</title>
-      <link>https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/</link>
-      <guid isPermaLink="false">pepite-5ea371706428b2a4</guid>
-      <pubDate>Mon, 15 Jun 2026 13:00:00 +0000</pubDate>
-      <category>agents</category>
-      <description>NewCore argues the next challenge in enterprise security will be managing AI agents, not people. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: machine0 – Persistent NixOS VMs You Control from the CLI</title>
-      <link>https://machine0.io</link>
-      <guid isPermaLink="false">pepite-d1356442047b38ab</guid>
-      <pubDate>Mon, 15 Jun 2026 16:01:43 +0000</pubDate>
-      <category>repos</category>
-      <description>Hi HN! Excited to launch machine0, a CLI that makes it easy to create, provision and snapshot persistent NixOS (&amp; Ubuntu) VMs. You can think of machine0 as a modern VPS provider. VMs stay on unless switched-off (with 99.99% uptime), they have static IPs and HTTPS endpoints, 1-60 vCPU, up to 240GB RAM and optionally GPUs. The CLI provides commands to manage… It landed in the last few hours. It's pulling 270pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?</title>
-      <link>https://news.ycombinator.com/item?id=48542100</link>
-      <guid isPermaLink="false">pepite-9cf929657de397c7</guid>
-      <pubDate>Mon, 15 Jun 2026 14:46:53 +0000</pubDate>
-      <category>models</category>
-      <description>Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s) It landed in the last few hours. It's pulling 1620pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>orange2ai/renwei-writing</title>
-      <link>https://github.com/orange2ai/renwei-writing</link>
-      <guid isPermaLink="false">pepite-b0ef93c6a1ad2836</guid>
-      <pubDate>Fri, 12 Jun 2026 21:45:48 +0000</pubDate>
-      <category>repos</category>
-      <description>今天凌晨五点的时候，我让 AI 帮我打磨一段文案，打磨三遍给我看。 AI 改完之后，我发现一遍比一遍讲究，但是一遍比一遍缺人味儿。 我已经用上最贵的 Claude Fable 5 了，还这样，让我很生气。 我说不清什么是人味儿，只知道我感受不到文字背后的那个人了。 我们讨论很久，最后讨论出的结论是，AI 写的东西，背后缺少一个东西： 存在感。 人写的字背后站着一个具体的人，他在具体的位置上，付出过具体的代价。 它特别适合自己写文章或口述后，让 AI 来改稿的场景。 给你的 Agent 装上它，让你的文字变得有人味儿。 见 It's pulling 225★/day — real momentum for something this new, not a one-day spike. Still under the radar (666★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>DanMcInerney/architect-loop</title>
-      <link>https://github.com/DanMcInerney/architect-loop</link>
-      <guid isPermaLink="false">pepite-b459e245de9879d5</guid>
-      <pubDate>Fri, 12 Jun 2026 01:54:12 +0000</pubDate>
-      <category>repos</category>
-      <description>implementation and research. Two Claude Code skills wire that split into a repo-centered loop: specs and gates are written first, Codex works in fresh contexts, and Fable reviews the evidence before anything is integrated. It runs on the subscriptions you already have — no API keys required by default. ./install.sh --project installs to the current repo… It's pulling 116★/day — real momentum for something this new, not a one-day spike. Still under the radar (442★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model</title>
-      <link>https://github.com/nex-agi/Nex-N2/issues/4</link>
-      <guid isPermaLink="false">pepite-3d2e64cd00607a62</guid>
-      <pubDate>Sun, 14 Jun 2026 15:37:31 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 322pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file</title>
-      <link>https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/</link>
-      <guid isPermaLink="false">pepite-aef85de9369771e2</guid>
-      <pubDate>Sat, 13 Jun 2026 12:20:39 +0000</pubDate>
-      <category>agents</category>
-      <description>Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training. A simple Markdown file is enough to boost GPT-5.5 by about 23 points on procedural tasks, and the same file transfers across models and agent environments like Codex and Claude Code.… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token</title>
-      <link>https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/</link>
-      <guid isPermaLink="false">pepite-b0951b6e9c40746d</guid>
-      <pubDate>Sat, 13 Jun 2026 08:38:41 +0000</pubDate>
-      <category>research</category>
-      <description>Moonshot AI has released Kimi K2.7 Code, an open-weights model with one trillion parameters built for programming. It still trails GPT-5.5 and Claude Opus 4.8 in coding benchmarks but costs a fraction of the price. So the key question isn't whether it's the best model, but whether the extra runs you get for the same budget make up for the gap in quality.… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>US government forces Anthropic to disable Claude Fable 5 and Mythos 5 for all customers worldwide</title>
-      <link>https://the-decoder.com/us-government-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-for-all-customers-worldwide/</link>
-      <guid isPermaLink="false">pepite-971b11dd532d982c</guid>
-      <pubDate>Sat, 13 Jun 2026 07:40:44 +0000</pubDate>
-      <category>models</category>
-      <description>The US government has ordered Anthropic to shut down global access to Fable 5 and Mythos 5, citing alleged jailbreak risks. Anthropic is complying but pushing back publicly: the vulnerabilities are minor and exist in competing models like GPT-5.5, the company says, an ironic turn after the company spent months hyping the cybersecurity risks of its own… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>eli-labz/Third-Eye</title>
-      <link>https://github.com/eli-labz/Third-Eye</link>
-      <guid isPermaLink="false">pepite-2c64bdfc763f0668</guid>
-      <pubDate>Sat, 13 Jun 2026 03:15:46 +0000</pubDate>
-      <category>repos</category>
-      <description>🌐 Live Demo · 🐛 Report Bug · ✨ Request Feature · ⭐ Star This Repo Third Eye is a production-grade OSINT platform that provides real-time situational awareness across 13+ intelligence domains — all in one GPU-accelerated interface. Built with Next.js 16 and MapLibre GL, every data point is rendered via WebGL for 60fps performance even with thousands of… It's pulling 459★/day — real momentum for something this new, not a one-day spike. Still under the radar (247★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>superloglabs/superlog</title>
-      <link>https://github.com/superloglabs/superlog</link>
-      <guid isPermaLink="false">pepite-f0e575e0109ba0ab</guid>
-      <pubDate>Tue, 02 Jun 2026 19:13:48 +0000</pubDate>
-      <category>repos</category>
-      <description>Superlog is an open-source agentic telemetry system. It ingests traces, logs, and metrics, groups noisy signals into incidents, and watches your infra while you sleep. You can install Superlog in your project by using our skills in your favourite coding agent: Superlog is an open-core observability workspace for OpenTelemetry data. It ingests traces, logs,… It's pulling 74★/day — real momentum for something this new, not a one-day spike. Still under the radar (805★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Making a vintage LLM from scratch</title>
-      <link>https://crlf.link/log/entries/260525-1/</link>
-      <guid isPermaLink="false">pepite-d5378cbb2031bff8</guid>
-      <pubDate>Thu, 11 Jun 2026 08:38:00 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 43pts/day — real momentum for something this new, not a one-day spike. Still under the radar (100pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>MTG Bench: Testing how well LLMs can play Magic</title>
-      <link>https://mtgautodeck.com/articles/mtg-bench/</link>
-      <guid isPermaLink="false">pepite-e873db22430ffd03</guid>
-      <pubDate>Thu, 11 Jun 2026 16:01:01 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 31pts/day — real momentum for something this new, not a one-day spike. Still under the radar (64pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation</title>
-      <link>http://arxiv.org/abs/2606.13657v1</link>
-      <guid isPermaLink="false">pepite-360cd76ccfac13aa</guid>
-      <pubDate>Thu, 11 Jun 2026 17:54:09 +0000</pubDate>
-      <category>research</category>
-      <description>On-policy distillation (\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet how this hybrid changes a model's parameters remains unclear. Across several language and vision-language model pairs and use cases, our analysis yields two… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
