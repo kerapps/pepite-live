@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions</title>
+      <link>https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/</link>
+      <guid isPermaLink="false">pepite-f84ed527eaf56321</guid>
+      <pubDate>Sat, 27 Jun 2026 17:03:06 +0000</pubDate>
+      <category>models</category>
+      <description>Fable 5 might be coming back after regulatory delays. They hope all approvals will quickly get things rolling again. Keep in mind: resuming after a pause can involve unforeseen hiccups in deployment.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Apple Vision Pro exec is reportedly leaving for OpenAI</title>
+      <link>https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/</link>
+      <guid isPermaLink="false">pepite-eed654ab164f6919</guid>
+      <pubDate>Sat, 27 Jun 2026 16:45:09 +0000</pubDate>
+      <category>other</category>
+      <description>An Apple exec is leaving for OpenAI, focusing on hardware. This is big news for those watching AI device integration trends. But it's mostly backroom changes you may not feel directly as an end-user.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>ByteDance's "iLLaDA" is a diffusion language model that keeps up with Qwen2.5</title>
+      <link>https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/</link>
+      <guid isPermaLink="false">pepite-a5f45c04bb77ccd6</guid>
+      <pubDate>Sat, 27 Jun 2026 07:48:29 +0000</pubDate>
+      <category>models</category>
+      <description>ByteDance's iLLaDA uses it's unique method for generating text. It matches popular models like Qwen2.5 before fine-tuning starts. The downside: it lags behind after fine-tuning, so it's not always a top-tier option.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on</title>
+      <link>https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</link>
+      <guid isPermaLink="false">pepite-84e0d65e5b7f0862</guid>
+      <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>Asian startups are filling gaps left by export restrictions on some American AI solutions. They offer models that mimic restricted options, opening new avenues. But if you're reliant on US-based models, switching might require adjustments.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Half of Claude users say AI can already handle half their work according to Anthropic survey</title>
+      <link>https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/</link>
+      <guid isPermaLink="false">pepite-352ea4b5519397ab</guid>
+      <pubDate>Sat, 27 Jun 2026 15:28:59 +0000</pubDate>
+      <category>models</category>
+      <description>An Anthropic survey reveals many users find AI can do half their work already. It's encouraging and shows where automation is headed. Conversely, relying too much could impact those worried about job security.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work</title>
+      <link>https://github.com/kageroumado/adrafinil</link>
+      <guid isPermaLink="false">pepite-df74de89507b3471</guid>
+      <pubDate>Sat, 27 Jun 2026 20:34:53 +0000</pubDate>
+      <category>agents</category>
+      <description>A script for keeping your Mac awake only when needed. Great for folks who have AI agents running and don't want the hassle of manually configuring settings or draining their battery unnecessarily. Be aware: it's a small script and might not have a UI you'll be familiar with.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Wayfinder Router: deterministic routing of queries between local and hosted LLM</title>
+      <link>https://github.com/itsthelore/wayfinder-router</link>
+      <guid isPermaLink="false">pepite-3b1c1643336c2a2f</guid>
+      <pubDate>Sun, 28 Jun 2026 04:31:18 +0000</pubDate>
+      <category>models</category>
+      <description>Wayfinder Router lets you control where your AI queries go. It smartly directs tasks between your local and cloud setups. Just a heads up: you'll need to configure it yourself based on your needs.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>eli-labz/Godcoder</title>
+      <link>https://github.com/eli-labz/Godcoder</link>
+      <guid isPermaLink="false">pepite-f5a881e8971a2da3</guid>
+      <pubDate>Sat, 27 Jun 2026 00:56:36 +0000</pubDate>
+      <category>repos</category>
+      <description>Godcoder is a local AI coding agent that runs on your desktop. It handles coding tasks without relying on a cloud server, keeping your data private. However, the tool might be too hands-off if you prefer more control over coding processes.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Mojo programming language will become open-source soon</title>
+      <link>https://console.modular.com/signup</link>
+      <guid isPermaLink="false">pepite-6544137109bb0a56</guid>
+      <pubDate>Sat, 27 Jun 2026 20:28:37 +0000</pubDate>
+      <category>repos</category>
+      <description>Mojo programming language is opening up to everyone's coding needs. It'll soon be available for all as an open-source project. For now, you'll have to wait until it officially becomes open source.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>anthropics/launch-your-agent</title>
+      <link>https://github.com/anthropics/launch-your-agent</link>
+      <guid isPermaLink="false">pepite-471d18a7427c4a77</guid>
+      <pubDate>Tue, 16 Jun 2026 14:49:50 +0000</pubDate>
+      <category>repos</category>
+      <description>Launch-Your-Agent helps build on Claude Managed Agents effortlessly. It walks you through setup and automates agent deployment. It's geared towards tech founders, so if you're not on the business-building side, it might not be for you.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Using Local Coding Agents</title>
+      <link>https://magazine.sebastianraschka.com/p/using-local-coding-agents</link>
+      <guid isPermaLink="false">pepite-39217bafd159845d</guid>
+      <pubDate>Sat, 27 Jun 2026 11:21:58 +0000</pubDate>
+      <category>agents</category>
+      <description>Tips on using local coding agents as an alternative to cloud-based ones. It's ideal if you're looking to cut costs or prefer running everything offline. But remember: the trade-off can be fewer capabilities compared to bigger cloud services.
+
+— via Sebastian Raschka</description>
+    </item>
+    <item>
+      <title>SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype</title>
+      <link>https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/</link>
+      <guid isPermaLink="false">pepite-75c669d80c72738e</guid>
+      <pubDate>Sat, 27 Jun 2026 20:42:36 +0000</pubDate>
+      <category>other</category>
+      <description>SoftBank's CEO questions Musk's orbital data center idea. It's highlighting skepticism about flashy tech announcements. But for now, it's only a talking point with no concrete developments.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning</title>
+      <link>http://arxiv.org/abs/2606.27330v1</link>
+      <guid isPermaLink="false">pepite-c04280d0cee176d9</guid>
+      <pubDate>Thu, 25 Jun 2026 17:44:48 +0000</pubDate>
+      <category>research</category>
+      <description>New research proposes smarter task planning for GUI agents. The method can improve efficiency in repetitive tasks. The catch: it's a complex academic proposal, so implementation requires thorough understanding.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference</title>
+      <link>https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/</link>
+      <guid isPermaLink="false">pepite-956d2bb42c626f9c</guid>
+      <pubDate>Sun, 28 Jun 2026 04:58:20 +0000</pubDate>
+      <category>agents</category>
+      <description>Liquid AI released a tiny model that's fast and efficient on mobile. It can tackle basic tasks effectively, even on older devices. It's limited by its size though, so expect simpler outputs compared to its bigger peers.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners</title>
       <link>https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna</link>
       <guid isPermaLink="false">pepite-39412d8a157f3adb</guid>
@@ -1362,145 +1502,5 @@
       <description>As political debates unfold, engineers are preoccupied with how embedding strategies influence these narratives. While the mix of geopolitics and engineering might seem tangential, the conversation around AI’s role in media persists. It hints at the challenges and opportunities AI faces in policy-shaping domains.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
-      <link>https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything</link>
-      <guid isPermaLink="false">pepite-c8386c0cd6ca9cd3</guid>
-      <pubDate>Wed, 17 Jun 2026 23:58:39 +0000</pubDate>
-      <category>models</category>
-      <description>GLM-5.2, a 753B parameter text-only LLM, boldly drops as open weights under an MIT license, sporting a 1 million token context window. Beijing’s Z.ai ups the ante on democratizing vast LLMs, but practically running or fine-tuning such a behemoth may strike your budget, so tread cautiously. While it’s a power tool theoretically accessible to all, operational demands limit its audience to those monetarily equipped.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Is it agentic enough? Benchmarking open models on your own tooling</title>
-      <link>https://huggingface.co/blog/is-it-agentic-enough</link>
-      <guid isPermaLink="false">pepite-d44bbcfdf323272f</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>research</category>
-      <description>Hugging Face asks if your fine-tuning surpasses LoRA, the reigning technique. Drawing builders into a broader landscape of better personalization methods, LoRA tapering invites you to challenge your default setup. The answer isn't straightforward, so expect to test and iterate beyond just off-the-shelf solutions to discover the optimal fit.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>Show HN: Mira – Open-source and self-hosted AI code reviewer</title>
-      <link>https://github.com/miracodeai/mira</link>
-      <guid isPermaLink="false">pepite-a51f2fcd677afc17</guid>
-      <pubDate>Wed, 17 Jun 2026 13:23:54 +0000</pubDate>
-      <category>agents</category>
-      <description>Hey HN, I'm Jay, co-creator of Mira. An open-source, self-hosted AI code reviewer where you BYOK (bring your own key). Local models are getting really good. Hosted frontier models are getting really expensive. So, we built Mira. Mira has some snazzy features too: - It's really fast at reviewing. Average is 77s compared with Greptile's 5 minutes. Your PRs… It's pulling 13pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Beyond LoRA: Can you beat the most popular fine-tuning technique?</title>
-      <link>https://huggingface.co/blog/peft-beyond-lora</link>
-      <guid isPermaLink="false">pepite-dc672d00868203d0</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>A new post worth a look.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek</title>
-      <link>https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/</link>
-      <guid isPermaLink="false">pepite-04af2d812f263008</guid>
-      <pubDate>Tue, 16 Jun 2026 19:32:38 +0000</pubDate>
-      <category>agents</category>
-      <description>Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable. The move fits a broader pattern in the industry. The article Microsoft's Copilot Cowork moves to usage-based billing and may… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic</title>
-      <link>https://the-decoder.com/spacex-bets-60-billion-on-cursor-to-catch-openai-and-anthropic/</link>
-      <guid isPermaLink="false">pepite-be7724b25d0a1460</guid>
-      <pubDate>Tue, 16 Jun 2026 15:16:08 +0000</pubDate>
-      <category>finance</category>
-      <description>Just two trading days after its IPO, Elon Musk's SpaceX is buying AI coding startup Anysphere. The deal is meant to help the struggling xAI division catch up with Anthropic and OpenAI. The article SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic appeared first on The Decoder . It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Android 17 launches with new multitasking tools as Google expands Gemini features</title>
-      <link>https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/</link>
-      <guid isPermaLink="false">pepite-302106ce520eb3e0</guid>
-      <pubDate>Tue, 16 Jun 2026 18:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>GPT‑NL: a sovereign language model for the Netherlands</title>
-      <link>https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/</link>
-      <guid isPermaLink="false">pepite-b39dcc815ae5a73c</guid>
-      <pubDate>Tue, 16 Jun 2026 17:54:02 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 651pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz</title>
-      <link>https://twitter.com/fguzmanai/status/2065832668172845209</link>
-      <guid isPermaLink="false">pepite-d233638df10bb8e8</guid>
-      <pubDate>Tue, 16 Jun 2026 16:12:26 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 172pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Running local models is good now</title>
-      <link>https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/</link>
-      <guid isPermaLink="false">pepite-f752475414af8512</guid>
-      <pubDate>Tue, 16 Jun 2026 14:36:57 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 2933pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>alchaincyf/fanbox</title>
-      <link>https://github.com/alchaincyf/fanbox</link>
-      <guid isPermaLink="false">pepite-2ad96d742453f6cb</guid>
-      <pubDate>Wed, 10 Jun 2026 01:01:42 +0000</pubDate>
-      <category>repos</category>
-      <description>一边浏览、预览、编辑本地文件；一边在内嵌真实终端里跑 Claude Code 或任何 coding agent。 agent 每写一个文件，对应卡片就会亮起来——找回文件 → 运行 agent → 看清改了什么，全部在一个窗口完成。 Browse, preview and edit local files on one side; run Claude Code or any coding agent in a real embedded terminal on the other. Every time the agent writes a file, its card lights up — find files → run agents → see what changed, all in one… It's pulling 88★/day — real momentum for something this new, not a one-day spike. Still under the radar (603★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio</title>
-      <link>http://arxiv.org/abs/2606.17041v1</link>
-      <guid isPermaLink="false">pepite-5922e7a1ae97f920</guid>
-      <pubDate>Mon, 15 Jun 2026 17:56:41 +0000</pubDate>
-      <category>research</category>
-      <description>Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ideal substrate for evaluating systematic scientific reasoning, yet existing benchmarks lack ground truth across the full retrieval-screening-synthesis… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Salesforce acquires AI customer service platform Fin for $3.6 billion</title>
-      <link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
-      <guid isPermaLink="false">pepite-c8219cef3d6d0955</guid>
-      <pubDate>Mon, 15 Jun 2026 14:34:45 +0000</pubDate>
-      <category>finance</category>
-      <description>Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>The US government may be asking Anthropic the impossible by demanding unhackable LLMs</title>
-      <link>https://the-decoder.com/the-us-government-may-be-asking-anthropic-the-impossible-by-demanding-unhackable-llms/</link>
-      <guid isPermaLink="false">pepite-d334fa1874c522ee</guid>
-      <pubDate>Mon, 15 Jun 2026 18:06:33 +0000</pubDate>
-      <category>models</category>
-      <description>Government officials accuse Anthropic of disregarding Trump's cyber directive and releasing Fable 5 without approval. "They screwed us," one administration official said. Talks are underway with the Department of Commerce, the CIA, and science advisor Michael Kratsios. The article The US government may be asking Anthropic the impossible by demanding… It landed in the last few hours.
-
-— via The Decoder</description>
     </item>
 </channel></rss>
