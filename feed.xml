@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't</title>
+      <link>https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/</link>
+      <guid isPermaLink="false">pepite-7fc17092690ce953</guid>
+      <pubDate>Sun, 28 Jun 2026 07:44:41 +0000</pubDate>
+      <category>research</category>
+      <description>VibeThinker-3B shows off by doing almost as well as much bigger models on math without all the fat. It's a small model that punches above its weight in logical reasoning. Don't expect it to ace trivia though, as it lacks broad world knowledge.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Only three AI models finished above starting capital in a 500-day startup survival test</title>
+      <link>https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/</link>
+      <guid isPermaLink="false">pepite-b0474715455b237e</guid>
+      <pubDate>Sun, 28 Jun 2026 10:16:13 +0000</pubDate>
+      <category>agents</category>
+      <description>Princeton's study tasks AI with running a startup for 500 days. It's revealing that most AI flops, favoring even simple strategies over flashiness. However, the test specifics might differ from your real-world use-cases.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence</title>
+      <link>https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/</link>
+      <guid isPermaLink="false">pepite-f5280a99fb2cf7c2</guid>
+      <pubDate>Sun, 28 Jun 2026 09:30:18 +0000</pubDate>
+      <category>models</category>
+      <description>A Chinese firm is making AI security tools to compete with Western ones, casting the effort as a digital arms race. It's notable as part of competitive tech geopolitics. The fit here: current models don't yet match Western capabilities.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Why Wall Street thinks US memory maker Micron is the next Nvidia</title>
+      <link>https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/</link>
+      <guid isPermaLink="false">pepite-1e4f72b2e45c8a48</guid>
+      <pubDate>Sun, 28 Jun 2026 15:00:00 +0000</pubDate>
+      <category>other</category>
+      <description>Investors see Micron as the next big player in AI hardware. It's exciting for those watching the tech market for the next Nvidia. The downside: these are predictions, not guarantees.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch</title>
+      <link>https://github.com/JustVugg/nanoeuler</link>
+      <guid isPermaLink="false">pepite-ffa3b520536a05af</guid>
+      <pubDate>Sun, 28 Jun 2026 19:38:14 +0000</pubDate>
+      <category>models</category>
+      <description>NanoEuler is a GPT-2 scale AI model reimagined in C and CUDA. It's a project anyone can explore to understand how models work under the hood. The catch: you'll need C/CUDA skills and some serious patience to grasp it all.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Do LLMs pass the mirror test?</title>
+      <link>https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test</link>
+      <guid isPermaLink="false">pepite-cd190e6bde354533</guid>
+      <pubDate>Sun, 28 Jun 2026 19:06:07 +0000</pubDate>
+      <category>models</category>
+      <description>A blog asks if AI models pass a kind of self-awareness test, like if they 'see' themselves. It's interesting because it challenges how we measure AI's smarts beyond just outputs. The catch: it's a thought experiment with no clear checklist or solution.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs</title>
+      <link>https://github.com/kamaludu/bash4llm/</link>
+      <guid isPermaLink="false">pepite-772fd95d1cb93d4a</guid>
+      <pubDate>Sun, 28 Jun 2026 19:43:10 +0000</pubDate>
+      <category>models</category>
+      <description>Bash4LLM+ is a simple tool to query language models right from your terminal. It's great for those who just want to send some prompts without dealing with complex setups. The limitation: it's basic Bash, so don't expect flashy features.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Aliu-AiRobot/ESEILANE</title>
+      <link>https://github.com/Aliu-AiRobot/ESEILANE</link>
+      <guid isPermaLink="false">pepite-c312e1e8ca4c915b</guid>
+      <pubDate>Sun, 28 Jun 2026 19:14:42 +0000</pubDate>
+      <category>repos</category>
+      <description>ESEILANE is a high-speed tool for querying large language model data in graph form. It impresses with its speed and scale for apps that need to crunch lots of data fast. But, it requires understanding knowledge graphs and setting up properly.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>tigicion/dao-code</title>
+      <link>https://github.com/tigicion/dao-code</link>
+      <guid isPermaLink="false">pepite-5872fd0c7c5e8047</guid>
+      <pubDate>Mon, 08 Jun 2026 08:10:42 +0000</pubDate>
+      <category>repos</category>
+      <description>Dao Code is like a coder's Swiss Army knife for the terminal — it writes, fixes, and runs code with AI help. It's intriguing as it streams its thinking and tools used, allowing more transparent coding. However, it's optimized for those comfortable with Chinese-first interfaces.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Quoting Jon Udell</title>
+      <link>https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything</link>
+      <guid isPermaLink="false">pepite-190cedab4d1ccb47</guid>
+      <pubDate>Sun, 28 Jun 2026 21:57:41 +0000</pubDate>
+      <category>agents</category>
+      <description>A reflection on how AI agents are joining teams, rather than us joining them. It's a useful mindset shift for developers integrating AI. The constraint: it's an opinion piece, so actionable steps might be sparse.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>It’s not about Anthropic vs. OpenAI anymore</title>
+      <link>https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/</link>
+      <guid isPermaLink="false">pepite-45782107f8382161</guid>
+      <pubDate>Fri, 26 Jun 2026 16:24:47 +0000</pubDate>
+      <category>models</category>
+      <description>Article discusses how AI capabilities need collective action to handle their political impacts. It's a sobering look at AI's growing influence on global policy. Careful: it's more big-picture talk rather than immediate tech tactics.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia</title>
+      <link>https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/</link>
+      <guid isPermaLink="false">pepite-9204d88167ace213</guid>
+      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
+      <category>other</category>
+      <description>OpenAI's Jalapeño chip marks a move away from Nvidia's dominance, hoping for less reliance on single suppliers. The shift is significant in how AI hardware choices might diversify. However, it's still in early stages of development and widespread effect.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>TokenSpeed-Kernel: Portable APIs and High-Performance Kernels for Multi-Silicon LLM Inference</title>
+      <link>https://pytorch.org/blog/lightseek-tokenspeed-kernel/</link>
+      <guid isPermaLink="false">pepite-c4495042a347bf28</guid>
+      <pubDate>Thu, 25 Jun 2026 14:48:06 +0000</pubDate>
+      <category>models</category>
+      <description>TokenSpeed-Kernel is a tool that simplifies the technical mess behind the scenes of AI processing. It makes using different chips easier for developers. But, you still need to know a bit about AI runtime to make full use of it.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>AMD MI210 64GB vs DCU K100 64GB</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uil0w2/amd_mi210_64gb_vs_dcu_k100_64gb/</link>
+      <guid isPermaLink="false">pepite-29f1279cd669c9be</guid>
+      <pubDate>Mon, 29 Jun 2026 06:55:20 +0000</pubDate>
+      <category>models</category>
+      <description>Discussion about two high-performance GPUs, highlighting Chinese market affordability. It's a peek into alternative hardware options without premium pricing. Note: Information on these GPUs can be scant, which may be a gamble.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions</title>
       <link>https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/</link>
       <guid isPermaLink="false">pepite-f84ed527eaf56321</guid>
@@ -1362,145 +1502,5 @@
       <description>MCP's unexpected benefit for AI agents? It separates authentication from context windows—a small-seeming change with large implications. It gives AI systems the chance to handle longer-running operations without throwing context-switch tantrums. But keep in mind, as Sean Lynch implies, it's not a panacea—it’s a narrow but effective solution.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>Multi-Task Bayesian In-Context Learning</title>
-      <link>http://arxiv.org/abs/2606.20538v1</link>
-      <guid isPermaLink="false">pepite-47cc5d9b4ebc0bd2</guid>
-      <pubDate>Thu, 18 Jun 2026 17:50:10 +0000</pubDate>
-      <category>research</category>
-      <description>Counterfactual reasoning is the cornerstone of DeepSWIP, pushing neural logic systems beyond mere association. By using single-world semantics, it bridges that ever-tricky reality gap between causation and correlation. This technique can help sharpen AI inference under diverse conditions, though being exact demands some serious neural-grounding skills.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs</title>
-      <link>http://arxiv.org/abs/2606.20527v1</link>
-      <guid isPermaLink="false">pepite-ac5cb1ab6b0ec624</guid>
-      <pubDate>Thu, 18 Jun 2026 17:39:56 +0000</pubDate>
-      <category>research</category>
-      <description>StylisticBias digs into multimodal biases within language models with a new benchmark. It wrangles the typical muddle of identity vs. attribute impact into clearer comparative data. Fairness in AI perception sounds noble, but massively scaling this to real-world scenarios isn't trivial. Start small and specific to see real gains.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs</title>
-      <link>http://arxiv.org/abs/2606.20526v1</link>
-      <guid isPermaLink="false">pepite-3874b25aca1fe3f7</guid>
-      <pubDate>Thu, 18 Jun 2026 17:39:00 +0000</pubDate>
-      <category>research</category>
-      <description>DeepSWIP gives neural probabilistic logic a counterfactual dimension, based on intervention logic. It transforms standard approaches into more causal reasoning frameworks, critical for AI reasoning in complex scenarios. If neural nets make you nervous, this offers a structured escape route—but it’s new ground with rough edges.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages</title>
-      <link>https://github.com/Amal-David/pagecast</link>
-      <guid isPermaLink="false">pepite-763387345c4a4d1a</guid>
-      <pubDate>Thu, 18 Jun 2026 19:42:54 +0000</pubDate>
-      <category>models</category>
-      <description>Pagecast takes your Markdown and HTML reports from local obscurity to the open web using Cloudflare Pages. It automates the path from static content to shared insights. If you're drowning in localhost tunnels, it’s a simple yet effective tool. The downside? Your Cloudflare creds could feel the exposure stress.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>General Intuition in talks to raise $300M at around $2B valuation</title>
-      <link>https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/</link>
-      <guid isPermaLink="false">pepite-0af127d259a400a9</guid>
-      <pubDate>Thu, 18 Jun 2026 15:20:37 +0000</pubDate>
-      <category>finance</category>
-      <description>General Intuition is trying to raise serious capital, aiming at a $2B valuation for their spatial-temporal AI agents. While they're catching news due to their hefty fundraising talks and backing from power players like Bezos, there's skepticism around the ubiquitous 'AI-agent' buzzword. It's big money in a field still fleshing out commercial applications, especially with operational costs not budging as fast as innovation demands.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Adobe adds AI agents to Photoshop, Premiere, and more Creative Cloud apps</title>
-      <link>https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps/</link>
-      <guid isPermaLink="false">pepite-0459dd4987097272</guid>
-      <pubDate>Thu, 18 Jun 2026 12:59:00 +0000</pubDate>
-      <category>agents</category>
-      <description>Adobe's AI agents in Creative Cloud aim to save users from repetitive multi-step tasks in apps like Photoshop. While AI crafting your art sounds intriguing, the real hook is Adobe's leap to integrate these into external AI platforms like ChatGPT. As creativity becomes more automated, expect discussions about AI agency—and quality—to heat up. But remember, more automation often means less personal touch in the outcomes.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Yann LeCun warns AI labs like OpenAI and Anthropic face a "big bubble explosion"</title>
-      <link>https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/</link>
-      <guid isPermaLink="false">pepite-547b5fe0a59029ac</guid>
-      <pubDate>Thu, 18 Jun 2026 13:35:47 +0000</pubDate>
-      <category>finance</category>
-      <description>Yann LeCun throws a cautionary flag, warning that AI titans like OpenAI aren't financially sustainable long-term. By pointing fingers at pricey operations subsidized by investor pockets, LeCun not-so-subtly promotes his own AMI Labs. While his criticism hints at a critical financial outlook, it reveals the tension of scaling AI sustainably versus maintaining high R&amp;D costs.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint</title>
-      <link>https://the-decoder.com/googles-gemini-co-lead-noam-shazeer-joins-openai-after-two-year-return-stint/</link>
-      <guid isPermaLink="false">pepite-4394dc55f0563e60</guid>
-      <pubDate>Thu, 18 Jun 2026 07:08:29 +0000</pubDate>
-      <category>models</category>
-      <description>In the game of AI musical chairs, Noam Shazeer, a key architect of Google's Gemini, leaps to OpenAI. High-profile talent swaps like this keep the who's-who in AI dynamic but don't immediately translate to game-changing tech. Interesting, sure, but more relevant would be seeing substantial output shifts at OpenAI following his arrival.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>caezium/Burrow</title>
-      <link>https://github.com/caezium/Burrow</link>
-      <guid isPermaLink="false">pepite-ee077937db9fc328</guid>
-      <pubDate>Sun, 31 May 2026 08:37:49 +0000</pubDate>
-      <category>repos</category>
-      <description>Burrow is stepping up the disorganized Mac user's game by wrapping around the mo CLI in a neat Mac app. It's a one-stop solution for cleaning up your disk space and more, but what sets it apart is the new MCP server. Your AI agents can ask it about your Mac's state, directly interacting through this interface. While it extends the mo CLI feature set significantly, you'll need macOS to experience it, leaving other OS users out in the cold.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>microsoft/fastcontext</title>
-      <link>https://github.com/microsoft/fastcontext</link>
-      <guid isPermaLink="false">pepite-bb10dc3e3d92d4dd</guid>
-      <pubDate>Tue, 02 Jun 2026 05:01:11 +0000</pubDate>
-      <category>repos</category>
-      <description>FastContext could revolutionize how coding agents tackle repository exploration by offloading the context-heavy tasks. Instead of bloating the main agent's context window with needless file reads, this sub-agent handles exploration via parallel tool calls and returns precise citations. The upside? It keeps the heavy lifting away from the main agent, leaving it free to focus on coding. However, this assumes you're running complex multi-agent architectures, which not everyone is.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Native Active Perception as Reasoning for Omni-Modal Understanding</title>
-      <link>http://arxiv.org/abs/2606.19341v1</link>
-      <guid isPermaLink="false">pepite-6766b0edef036ca8</guid>
-      <pubDate>Wed, 17 Jun 2026 17:59:56 +0000</pubDate>
-      <category>research</category>
-      <description>OmniAgent breaks free from traditional video understanding's compute-heavy grind. It introduces a POMDP-based cycle to interactively process only necessary audiovisual cues, cutting the resource bloat as videos grow longer. This technique stands out for making reasoning scale-independent from video length, though adoption may lag till frameworks fully simplify integration into existing workflows.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models</title>
-      <link>http://arxiv.org/abs/2606.19257v1</link>
-      <guid isPermaLink="false">pepite-0a5b300e9e6c4d38</guid>
-      <pubDate>Wed, 17 Jun 2026 16:34:02 +0000</pubDate>
-      <category>research</category>
-      <description>DreamReasoner-8B unveils the effects of block sizes in diffusion reasoning models, trading off detail for speed. Block-size curriculum learning bridges performance gaps, flexibly shifting from detailed to chunkier blocks during training. This curriculum approach promises better reasoning persistency in long CoT tasks, but it's a niche field where initial familiarity with block diffusion models is still crucial.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Structured Inference with Large Language Gibbs</title>
-      <link>http://arxiv.org/abs/2606.19264v1</link>
-      <guid isPermaLink="false">pepite-d952ed964f2f6c88</guid>
-      <pubDate>Wed, 17 Jun 2026 16:40:32 +0000</pubDate>
-      <category>research</category>
-      <description>Large Language Gibbs introduces probabilistic rigour to LLM inference, using Gibbs sampling for structured objects. This avoids the biases tied to single-pass generation by resampling, offering potentially more accurate outputs. It’s a technique with refreshing depth but leaves you pondering its practical utility compared to quick-and-dirty autoregressive methods.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>After Months of War, Trump Says Iran Has Right to Nuclear Program</title>
-      <link>https://newrepublic.com/post/212003/trump-iran-right-nuclear-program</link>
-      <guid isPermaLink="false">pepite-ba6c97e0ab5da509</guid>
-      <pubDate>Wed, 17 Jun 2026 22:00:45 +0000</pubDate>
-      <category>other</category>
-      <description>As political debates unfold, engineers are preoccupied with how embedding strategies influence these narratives. While the mix of geopolitics and engineering might seem tangential, the conversation around AI’s role in media persists. It hints at the challenges and opportunities AI faces in policy-shaping domains.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
