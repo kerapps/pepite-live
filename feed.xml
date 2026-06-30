@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Meta restricts use of Claude Code and Codex to keep rival AI out of its training data</title>
+      <link>https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/</link>
+      <guid isPermaLink="false">pepite-d329ba0cd547110d</guid>
+      <pubDate>Mon, 29 Jun 2026 15:47:43 +0000</pubDate>
+      <category>models</category>
+      <description>Meta is blocking its engineers from using certain AI tools to keep outputs from seeping into its own AI training data. It highlights the challenges of balancing tool use and proprietary data integrity. But it's just a policy move, nothing for you to test today.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Cursor now has a mobile app for guiding your coding agent on the go</title>
+      <link>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</link>
+      <guid isPermaLink="false">pepite-0af5768d9dca78ba</guid>
+      <pubDate>Mon, 29 Jun 2026 17:03:50 +0000</pubDate>
+      <category>agents</category>
+      <description>Cursor has launched a mobile app to manage your coding agent remotely. It's handy if you're often on-the-go and need oversight options. The immediate catch: it's an add-on, not a standalone replacement for full code environments.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Vibe coding platform Base44 launches own model as AI startups seek defensibility</title>
+      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
+      <guid isPermaLink="false">pepite-46ee12a57c903e9d</guid>
+      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
+      <category>models</category>
+      <description>Base44, a Wix-owned platform, now has its own AI model aimed at competing with industry leaders. This move is all about control and potential outperformance. But it's early days, so probably not yet ready for every coder.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price</title>
+      <link>https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</link>
+      <guid isPermaLink="false">pepite-b739945b26065fa1</guid>
+      <pubDate>Mon, 29 Jun 2026 18:10:26 +0000</pubDate>
+      <category>models</category>
+      <description>California cut a deal with Anthropic to use its Claude models at half price. It's a rare case of government and cutting-edge AI collaborating cost-effectively. But don't expect big consumer spillovers yet, it's still an institutional setup.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in</title>
+      <link>https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/</link>
+      <guid isPermaLink="false">pepite-482e85d18eed3c42</guid>
+      <pubDate>Mon, 29 Jun 2026 18:05:37 +0000</pubDate>
+      <category>models</category>
+      <description>Amazon's using 'distillation' to shrink its use of large Anthropic models for cheaper processing. This tactic aids in managing the upcoming cost changes per token. It's behind-the-scenes work, so no hands-on changes for your own projects.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Popping the GPU Bubble</title>
+      <link>https://moondream.ai/blog/popping-the-gpu-bubble</link>
+      <guid isPermaLink="false">pepite-c71b7f2c9331a621</guid>
+      <pubDate>Tue, 30 Jun 2026 05:14:35 +0000</pubDate>
+      <category>other</category>
+      <description>A lively discussion on the current state of GPUs. It highlights how scarcity and demand are shaping the GPU landscape. The reality: it's all talk for now, no immediate solutions offered.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Ornith-1.0: self-improving open-source models for agentic coding</title>
+      <link>https://github.com/deepreinforce-ai/Ornith-1</link>
+      <guid isPermaLink="false">pepite-997a649005056070</guid>
+      <pubDate>Mon, 29 Jun 2026 17:16:17 +0000</pubDate>
+      <category>agents</category>
+      <description>Ornith-1.0 is an open-source model that evolves by itself to improve coding. The interesting part: it's open for anyone to tweak and build on. The honest catch: it's early days, so don't expect a polished finish.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>What happens when you run a CUDA kernel?</title>
+      <link>https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/</link>
+      <guid isPermaLink="false">pepite-007c022bd47ba994</guid>
+      <pubDate>Mon, 29 Jun 2026 13:11:08 +0000</pubDate>
+      <category>other</category>
+      <description>A deep dive into the mechanics of running a CUDA kernel on a GPU. It's a chance to understand how your code truly interacts with the hardware. The downside: it's technical and detailed, so non-coders might find it dense.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>fancydirty/mediary-scout</title>
+      <link>https://github.com/fancydirty/mediary-scout</link>
+      <guid isPermaLink="false">pepite-171561a0d01f7592</guid>
+      <pubDate>Sun, 21 Jun 2026 01:25:20 +0000</pubDate>
+      <category>repos</category>
+      <description>Mediary Scout is a media library tool for your cloud drives, driven by agents. It can both search and verify the media files it manages. But heads-up: it's for advanced users who manage their own setups.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>HKUDS/AgentSpace</title>
+      <link>https://github.com/HKUDS/AgentSpace</link>
+      <guid isPermaLink="false">pepite-0e43f7419ecd4f1f</guid>
+      <pubDate>Mon, 22 Jun 2026 04:08:03 +0000</pubDate>
+      <category>repos</category>
+      <description>AgentSpace is a workspace where humans and AI agents work seamlessly together. It aims at helping teams integrate agents as equal partners in projects. The catch is, it requires embracing a new way of team collaboration.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>TraceLab: Characterizing Coding Agent Workloads for LLM Serving</title>
+      <link>http://arxiv.org/abs/2606.30560v1</link>
+      <guid isPermaLink="false">pepite-0812225614c4d775</guid>
+      <pubDate>Mon, 29 Jun 2026 16:59:05 +0000</pubDate>
+      <category>research</category>
+      <description>TraceLab provides a dataset for assessing coding agent workloads. It lets you peek into real-world usage patterns of agentic LLMs. The limitation: it's just a dataset, so you'll need to bring your own analysis.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent</title>
+      <link>http://arxiv.org/abs/2606.30616v1</link>
+      <guid isPermaLink="false">pepite-59ad2e42b30c8386</guid>
+      <pubDate>Mon, 29 Jun 2026 17:50:54 +0000</pubDate>
+      <category>research</category>
+      <description>This paper introduces a 35B model performing like a trillion-parameter one by extending its 'horizon.' It shows a novel way to reach powerful results effectively. The catch: it's still theoretical, don't jump in expecting ready-to-use code.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms</title>
+      <link>http://arxiv.org/abs/2606.30577v1</link>
+      <guid isPermaLink="false">pepite-9b379d408b59b4cf</guid>
+      <pubDate>Mon, 29 Jun 2026 17:20:26 +0000</pubDate>
+      <category>research</category>
+      <description>APRIL-MedSeg is a modular framework for medical image segmentation. It's ready to adapt to your experiments with various strategies. The downside: it's complex and could overwhelm if you aren't familiar with medtech.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Why intent prediction needs more than an LLM​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
+      <link>https://stackoverflow.blog/2026/06/30/why-intent-prediction-needs-more-than-an-llm/</link>
+      <guid isPermaLink="false">pepite-4ab30399d9f54d69</guid>
+      <pubDate>Tue, 30 Jun 2026 07:40:00 +0000</pubDate>
+      <category>models</category>
+      <description>Explores why large language models aren't enough for predicting human decisions. Yobi's unique approach integrates graphs with models for more accurate forecasting. The catch: it's a conceptual journey, not an actionable tool for immediate use.
+
+— via Stack Overflow</description>
+    </item>
+    <item>
       <title>Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't</title>
       <link>https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/</link>
       <guid isPermaLink="false">pepite-7fc17092690ce953</guid>
@@ -1362,145 +1502,5 @@
       <description>There's a new series demystifying the tech under the hood of open-source models. It’s great for those who want to understand AI intricacies, using practical examples. The catch: if math isn’t your forte, it might be a tough read.
 
 — via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>GLM 5.2, what speeds are we getting locally?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ub69xu/glm_52_what_speeds_are_we_getting_locally/</link>
-      <guid isPermaLink="false">pepite-ae143752ef53a3e4</guid>
-      <pubDate>Sat, 20 Jun 2026 20:11:58 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit post is collecting local performance data for GLM 5.2. It's useful because real-world feedback helps optimize deployments. The hitch is you’ll need specific hardware to get valid insights.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Gemma 4 26b a4b is genuinely the best model I have tried for language learning and scientific queries!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ub4ods/gemma_4_26b_a4b_is_genuinely_the_best_model_i/</link>
-      <guid isPermaLink="false">pepite-9117353c8b8bbbd4</guid>
-      <pubDate>Sat, 20 Jun 2026 19:05:43 +0000</pubDate>
-      <category>agents</category>
-      <description>Gemma 4 26b is hailed for language and science queries, surpassing many others. It's interesting for non-coding tasks, showcasing its versatile capabilities. Just remember, it might not excel in coding jobs.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All</title>
-      <link>https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/</link>
-      <guid isPermaLink="false">pepite-83f6876f3ae3c293</guid>
-      <pubDate>Sat, 20 Jun 2026 15:00:00 +0000</pubDate>
-      <category>other</category>
-      <description>Enterprise Document Intelligence [Vol.1 #5sexies] - image_df tells you where every picture is. Turning the few that matter into searchable text is a separate, cost-ordered job The post Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All appeared first on Towards Data Science . It landed in the last few hours.
-
-— via Towards Data Science</description>
-    </item>
-    <item>
-      <title>PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds</title>
-      <link>http://arxiv.org/abs/2606.20455v1</link>
-      <guid isPermaLink="false">pepite-e3537df11d3bd184</guid>
-      <pubDate>Thu, 18 Jun 2026 16:38:35 +0000</pubDate>
-      <category>research</category>
-      <description>PCFootprint is a new dataset for extracting building outlines from LiDAR. It stands out because it uses detailed 3D data from point clouds. It's complex and needs advanced expertise to work effectively.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work</title>
-      <link>https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/</link>
-      <guid isPermaLink="false">pepite-ef1cc3a7e9c92f90</guid>
-      <pubDate>Fri, 19 Jun 2026 22:40:14 +0000</pubDate>
-      <category>models</category>
-      <description>History keeps reminding us that controlling cybersecurity software is a fool’s errand. Governments face this with Anthropic's Mythos models, which bans try to corral. Spoiler: it doesn't typically work. The irony: regulations just might make these tools more coveted. Lesson? Focus on managing the risks, not stifling the innovation.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic</title>
-      <link>https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/</link>
-      <guid isPermaLink="false">pepite-fb49f531fef3afad</guid>
-      <pubDate>Fri, 19 Jun 2026 17:54:14 +0000</pubDate>
-      <category>models</category>
-      <description>Top minds are on the move as John Jumper leaps from Google Deepmind to Anthropic. These defections reflect a reshuffling of AI expertise that's traditionally stayed put. It's a reminder that the industry's seismic shifts can sometimes go down to talent over tech. Anthropic might get a short-term intellectual windfall.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI researchers show small doses of "beneficial trait" training make AI models broadly safer and harder to manipulate</title>
-      <link>https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/</link>
-      <guid isPermaLink="false">pepite-334d795971c26e52</guid>
-      <pubDate>Fri, 19 Jun 2026 10:08:27 +0000</pubDate>
-      <category>research</category>
-      <description>OpenAI's new strategy of minimal beneficial trait reinforcement shows how minor tweaks can bring major safety shifts. By focusing on trait optimization, they've improved across tons of benchmarks, indicating a safer model pathway. It differs from Anthropic’s moral-heavy constitution, leaving builders potential tools but little roadmap.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Is the US government’s Anthropic ban accidentally helping the brand?</title>
-      <link>https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/</link>
-      <guid isPermaLink="false">pepite-6a2b919cb1a0c3ed</guid>
-      <pubDate>Fri, 19 Jun 2026 16:08:17 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic's forced retreat on Mythos 5 due to USA bans might ironically bolster its allure. National security spins can cast these models as more impactful than intended. Beware: the attractor at play can sometimes boost brand intrigue more than intended functionality-wise.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care</title>
-      <link>https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</link>
-      <guid isPermaLink="false">pepite-23237cfc68c793e2</guid>
-      <pubDate>Fri, 19 Jun 2026 16:01:03 +0000</pubDate>
-      <category>models</category>
-      <description>The ban on Anthropic’s Fable 5 sheds light on how regulatory threats can sometimes fuel growth, rather than inhibit it. Numbers don’t always lie, but in tech, they might mislead. Even with national bans at play, the notion of forbidden tech tends to spike interest.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Norway bans generative AI tools in elementary schools to protect kids' basic learning skills</title>
-      <link>https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/</link>
-      <guid isPermaLink="false">pepite-69970487fc3e50b1</guid>
-      <pubDate>Fri, 19 Jun 2026 18:45:10 +0000</pubDate>
-      <category>other</category>
-      <description>Norway banning generative AI in schools is more about control than progress and raises questions on educational intents. An era where fundamentals of learning face competition with AI prompts a balance of old and new, education style. A cautious, if not slightly regressive, step.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Show HN: Talos – Open-source WASM interpreter for Lean</title>
-      <link>https://github.com/cajal-technologies/talos</link>
-      <guid isPermaLink="false">pepite-9f9a76ef7a7709f7</guid>
-      <pubDate>Thu, 18 Jun 2026 13:10:44 +0000</pubDate>
-      <category>repos</category>
-      <description>Talos aims to demystify WebAssembly verification through Lean, making formal proofs for WASM modules not just a pipe dream. With AI-generated code flooding production, ensuring these snippets do what you expect is critical. Talos doesn't offer shiny dashboards, but it does promise rigor. Catch: If you're not ready to dive into formal methods, it might feel like learning coffee from scratch.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>jdevalk/specification.website</title>
-      <link>https://github.com/jdevalk/specification.website</link>
-      <guid isPermaLink="false">pepite-85b69f922773970c</guid>
-      <pubDate>Fri, 29 May 2026 09:13:26 +0000</pubDate>
-      <category>repos</category>
-      <description>Software standards are a labyrinth, and jdevalk/specification.website attempts to map them. This collection aggregates everything from HTML to security headers, trying to give developers a holistic view. It’s the encyclopedia nobody reads cover-to-cover unless they're architecting the web. Catch: aggregating isn't automating—putting it into practice still falls on you.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>tastyeffectco/sandboxd</title>
-      <link>https://github.com/tastyeffectco/sandboxd</link>
-      <guid isPermaLink="false">pepite-396a3d575ae91cf3</guid>
-      <pubDate>Wed, 03 Jun 2026 18:55:02 +0000</pubDate>
-      <category>repos</category>
-      <description>Sandboxd promises the allure of instant app deployment, offering isolated dev environments like magic on one machine. It’s like hosting your own Replit, minus a few paywalls. Ideal for those who want self-hosted flexibility. The rub is: you’ll need a solid server and some time to configure it just right.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Quoting Sean Lynch</title>
-      <link>https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything</link>
-      <guid isPermaLink="false">pepite-9045a6c6cb66c989</guid>
-      <pubDate>Fri, 19 Jun 2026 22:45:49 +0000</pubDate>
-      <category>agents</category>
-      <description>MCP's unexpected benefit for AI agents? It separates authentication from context windows—a small-seeming change with large implications. It gives AI systems the chance to handle longer-running operations without throwing context-switch tantrums. But keep in mind, as Sean Lynch implies, it's not a panacea—it’s a narrow but effective solution.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
