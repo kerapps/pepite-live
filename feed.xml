@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>AIEWF Daily Dispatch: Loops, Software Factories &amp; Forward Deployed Engineers</title>
+      <link>https://www.latent.space/p/aiewf-daily-dispatch-loops</link>
+      <guid isPermaLink="false">pepite-db2a5ab22b1ff2b5</guid>
+      <pubDate>Wed, 01 Jul 2026 04:46:21 +0000</pubDate>
+      <category>agents</category>
+      <description>A fresh roundup from the AI Engineer World's Fair discussing software factories and AI engineering loops. It's worth a read for insights into the next wave of AI development methods. However, it's more of a conceptual overview than actionable steps.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Trump drops restrictions on Anthropic’s Mythos and Fable models</title>
+      <link>https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/</link>
+      <guid isPermaLink="false">pepite-8824530ad2d0a4ab</guid>
+      <pubDate>Wed, 01 Jul 2026 02:16:06 +0000</pubDate>
+      <category>models</category>
+      <description>Major policy update: Trump administration drops restrictions on certain Anthropic models. This opens doors for broader use in AI development. But, it's a shifting landscape — be prepared for sudden changes.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Anthropic launches Claude Sonnet 5 as a cheaper way to run agents</title>
+      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
+      <guid isPermaLink="false">pepite-ed93069ae7772a44</guid>
+      <pubDate>Tue, 30 Jun 2026 18:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Anthropic's Claude Sonnet 5 offers cost-effective support for AI agents. It's a great option if you're balancing budget and performance in AI tasks. It's new, so some features might need further development.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)</title>
+      <link>https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/</link>
+      <guid isPermaLink="false">pepite-91ff1e2b31cb1e9a</guid>
+      <pubDate>Tue, 30 Jun 2026 10:34:25 +0000</pubDate>
+      <category>other</category>
+      <description>Zluda 6 lets you run unmodified CUDA apps on non-Nvidia GPUs. It's a big deal if you're eyeing cost savings without scrapping existing CUDA code. But, performance may vary since it's early days for this tool.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>TianhangZhuzth/Fundamental-Ava</title>
+      <link>https://github.com/TianhangZhuzth/Fundamental-Ava</link>
+      <guid isPermaLink="false">pepite-55bc470ef233ce38</guid>
+      <pubDate>Tue, 30 Jun 2026 01:04:13 +0000</pubDate>
+      <category>repos</category>
+      <description>Fundamental-Ava is a tool for creating autonomous, socially intelligent agents. It's about building more human-like AI that can think, remember, and act independently. The downside? It’s still very early and experimental — not ready for production.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Words Are a Byproduct of Consciousness. For LLMs, It's Backwards</title>
+      <link>https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/</link>
+      <guid isPermaLink="false">pepite-2dc3244f9dda6eb5</guid>
+      <pubDate>Tue, 30 Jun 2026 14:16:57 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on how LLMs generate words differently compared to conscious beings. This fresh take questions the essence and future path of AI language models. It's conceptual, so don't expect direct applications.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>shy3130/tickflow-stock-panel</title>
+      <link>https://github.com/shy3130/tickflow-stock-panel</link>
+      <guid isPermaLink="false">pepite-5fc87a26d2ac0f46</guid>
+      <pubDate>Thu, 18 Jun 2026 06:18:29 +0000</pubDate>
+      <category>repos</category>
+      <description>Tickflow-stock-panel helps with backtesting stock strategies based on DuckDB. It offers tools to analyze and visualize market trends easily. However, it's not a complete trading guide and demands some financial know-how.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Surrogate Fidelity: When Can Open LLMs Explain Closed Ones?</title>
+      <link>http://arxiv.org/abs/2606.32008v1</link>
+      <guid isPermaLink="false">pepite-0e5e17845969f7d7</guid>
+      <pubDate>Tue, 30 Jun 2026 17:43:44 +0000</pubDate>
+      <category>research</category>
+      <description>A study on using open models to interpret complex language models indirectly. It explores when these models can reliably be analyzed through surrogates. The methodology is intricate and mainly useful for research, not day-to-day use.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments</title>
+      <link>http://arxiv.org/abs/2606.31966v1</link>
+      <guid isPermaLink="false">pepite-a650a4626c992f24</guid>
+      <pubDate>Tue, 30 Jun 2026 17:07:53 +0000</pubDate>
+      <category>finance</category>
+      <description>MECoBench is a benchmark for studying how multimodal AI agents collaborate. It helps measure and improve how different AI work together in real scenarios. The framework is complex, mostly making sense for teams focused on agent development.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs</title>
+      <link>http://arxiv.org/abs/2606.31982v1</link>
+      <guid isPermaLink="false">pepite-bdcf1bcf2913d4ae</guid>
+      <pubDate>Tue, 30 Jun 2026 17:20:29 +0000</pubDate>
+      <category>research</category>
+      <description>ERA helps reduce the processing time for multimodal models by pruning unneeded tokens. This boosts efficiency without losing model accuracy. But, it's a fresh approach with nuances that might not suit all setups.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Cursor now has a mobile app for guiding your coding agent on the go</title>
+      <link>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</link>
+      <guid isPermaLink="false">pepite-132f8d93b46f8da7</guid>
+      <pubDate>Tue, 30 Jun 2026 14:18:25 +0000</pubDate>
+      <category>agents</category>
+      <description>Cursor's new mobile app helps manage coding agents on the go. It's convenient for developers who need to tweak code without sitting at a desk. But it might lack the robustness of full desktop solutions for complex tasks.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Quoting Anthropic</title>
+      <link>https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything</link>
+      <guid isPermaLink="false">pepite-62bdf47fe89c2b69</guid>
+      <pubDate>Tue, 30 Jun 2026 23:58:15 +0000</pubDate>
+      <category>models</category>
+      <description>Simon Willison reports on lifted export controls for new Anthropic models. This means more access and flexibility if you're using these models in development. Policy changes can be unpredictable, so stay updated on the latest.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Nano Banana 2 Lite</title>
+      <link>https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</link>
+      <guid isPermaLink="false">pepite-c605d5da278827be</guid>
+      <pubDate>Tue, 30 Jun 2026 22:15:35 +0000</pubDate>
+      <category>models</category>
+      <description>Nano Banana 2 Lite, or Gemini 3.1 Flash Lite, is a speedy and light AI model for visual tasks. It's engineered for fast and cost-effective deployments. Accuracy might be a trade-off compared to bigger models in tougher tasks.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>[audio.cpp] VibeVoice 1.5B released — 90-min podcast in 22.95 min, 4.08x real-time, 2.86x faster than Python without quantization. Native C++/ggml</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uk7khq/audiocpp_vibevoice_15b_released_90min_podcast_in/</link>
+      <guid isPermaLink="false">pepite-c50fe7e66ba7e697</guid>
+      <pubDate>Wed, 01 Jul 2026 01:15:48 +0000</pubDate>
+      <category>research</category>
+      <description>VibeVoice 1.5B is a C++ tool for faster text-to-speech audio processing. It's remarkable for reducing processing times by over two times compared to Python. However, it's still lacking support for most model quantization features.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Meta restricts use of Claude Code and Codex to keep rival AI out of its training data</title>
       <link>https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/</link>
       <guid isPermaLink="false">pepite-d329ba0cd547110d</guid>
@@ -1362,145 +1502,5 @@
       <description>A new tech, Execution-State Capsules, for faster AI at the edge. It tackles on-device AI challenges by restoring AI states efficiently. But, it's complicated and not straightforward to set up.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software</title>
-      <link>http://arxiv.org/abs/2606.20502v1</link>
-      <guid isPermaLink="false">pepite-622565ae5f990d23</guid>
-      <pubDate>Thu, 18 Jun 2026 17:19:26 +0000</pubDate>
-      <category>research</category>
-      <description>A paper exploring the limitations of fine-tuning LLMs for bug detection. It introduces metrics to understand if AI really comprehends security vulnerabilities. The drawback: it's technical and aimed at those deep in AI security.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems</title>
-      <link>http://arxiv.org/abs/2606.20493v1</link>
-      <guid isPermaLink="false">pepite-0a204635506dc00e</guid>
-      <pubDate>Thu, 18 Jun 2026 17:09:34 +0000</pubDate>
-      <category>finance</category>
-      <description>This paper studies how biases in AI evaluations spread across systems. It offers a framework for measuring bias propagation in AI networks. The catch: it requires a high level of understanding of both AI and bias handling.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ROCm vs Vulkan vs vLLM on Dual R9700's</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ubqn87/rocm_vs_vulkan_vs_vllm_on_dual_r9700s/</link>
-      <guid isPermaLink="false">pepite-78473a759777ddb2</guid>
-      <pubDate>Sun, 21 Jun 2026 13:53:25 +0000</pubDate>
-      <category>models</category>
-      <description>A test comparing different AI execution backends. It finds unexpected gains using vLLM, especially in speed. But the catch is the need for specific hardware setups not everyone might have.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>2× Radeon R9700 — Qwen 3.6 27B Q8 MTP on llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ubrn1a/2_radeon_r9700_qwen_36_27b_q8_mtp_on_llamacpp/</link>
-      <guid isPermaLink="false">pepite-0201972b62d06cbf</guid>
-      <pubDate>Sun, 21 Jun 2026 14:35:44 +0000</pubDate>
-      <category>models</category>
-      <description>An exploration of multi-GPU setups for AI models using Radeon R9700s. The post covers test results and configuration insights. The catch: this is niche advice that requires both specific hardware and technical know-how.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>The Atlantic created a searchable database of the music used to train AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data</link>
-      <guid isPermaLink="false">pepite-95f2acbf4f9fcb91</guid>
-      <pubDate>Sat, 20 Jun 2026 18:46:48 +0000</pubDate>
-      <category>research</category>
-      <description>The Atlantic created a tool to search music datasets used by AI. It's significant because it opens up transparency in AI music training. Unfortunately, it might not cover every piece used in AI training.
-
-— via The Verge</description>
-    </item>
-    <item>
-      <title>OpenAI's Codex can now watch you work once and repeat the task forever</title>
-      <link>https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/</link>
-      <guid isPermaLink="false">pepite-d5efb84c25dcc4b7</guid>
-      <pubDate>Sat, 20 Jun 2026 13:15:08 +0000</pubDate>
-      <category>other</category>
-      <description>Data2Story uses AI agents to convert CSV files into news articles. The interesting aspect is its newsroom-like AI collaboration. But it’s not quite ready to take on complex, nuanced reports yet.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</title>
-      <link>https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</link>
-      <guid isPermaLink="false">pepite-3f05f77aea24955c</guid>
-      <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
-      <category>other</category>
-      <description>Jumper isn't the only big name leaving Google DeepMind. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Data2Story turns a CSV file into a verified interactive news article using seven AI agents</title>
-      <link>https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/</link>
-      <guid isPermaLink="false">pepite-5d9bfbbd03173d5d</guid>
-      <pubDate>Sat, 20 Jun 2026 09:51:55 +0000</pubDate>
-      <category>agents</category>
-      <description>Seven AI agents work together like a newsroom. The "Data Journalist Agent" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 percent of all statements. In a reader study, 74 percent preferred the agent's output over the human original. But against elaborately crafted…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Temporary Cloudflare accounts for AI agents</title>
-      <link>https://blog.cloudflare.com/temporary-accounts/</link>
-      <guid isPermaLink="false">pepite-0c94d7caf903dfee</guid>
-      <pubDate>Sat, 20 Jun 2026 11:19:05 +0000</pubDate>
-      <category>agents</category>
-      <description>Cloudflare is offering temporary accounts for AI agents. It's handy because it helps test environments without permanent commitments, perfect for short-term experiments. The catch: it's not for long-term use, so plan accordingly.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Forsy-AI/agent-apprenticeship</title>
-      <link>https://github.com/Forsy-AI/agent-apprenticeship</link>
-      <guid isPermaLink="false">pepite-0719eceb61f47a8a</guid>
-      <pubDate>Fri, 19 Jun 2026 16:19:37 +0000</pubDate>
-      <category>repos</category>
-      <description>Agent Apprenticeship is a GitHub project where AI agents learn by doing real tasks. It’s intriguing because agents gain experience that’s reused and shared among them. The downside is it's in early stages, so expect some rough edges.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Ubisoft co-founder Claude Guillemot has died in a plane crash</title>
-      <link>https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/</link>
-      <guid isPermaLink="false">pepite-4645e7f9b5971b61</guid>
-      <pubDate>Sat, 20 Jun 2026 14:12:50 +0000</pubDate>
-      <category>models</category>
-      <description>Sadly, Ubisoft co-founder Claude Guillemot has died in a plane crash. Though it's not a tech innovation, it's important as it affects many in the gaming industry.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: We post-trained a model that pen tests instead of refusing</title>
-      <link>https://www.argusred.com/cli</link>
-      <guid isPermaLink="false">pepite-dead6f7c81a65bcc</guid>
-      <pubDate>Sat, 20 Jun 2026 13:49:03 +0000</pubDate>
-      <category>models</category>
-      <description>A new model was post-trained for pen testing tasks. It’s cool because it can actively help find vulnerabilities instead of refusing these tasks outright. But, it's still experimental, so handle with care.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>rebel0789/codexpro</title>
-      <link>https://github.com/rebel0789/codexpro</link>
-      <guid isPermaLink="false">pepite-138469a6d37cac49</guid>
-      <pubDate>Tue, 16 Jun 2026 21:22:43 +0000</pubDate>
-      <category>repos</category>
-      <description>CodexPro links ChatGPT with your local files for coding assistance. The best part is it feels seamless when working as a coding agent. However, it requires a bit of setup to integrate correctly.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>I wrote a free 15-part series on LLM internals — real math, real tensor shapes, real hardware constraints. All grounded in Gemma 4 12B's actual config.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ub4oc4/i_wrote_a_free_15part_series_on_llm_internals/</link>
-      <guid isPermaLink="false">pepite-be968f0a64b61b3c</guid>
-      <pubDate>Sat, 20 Jun 2026 19:05:39 +0000</pubDate>
-      <category>models</category>
-      <description>There's a new series demystifying the tech under the hood of open-source models. It’s great for those who want to understand AI intricacies, using practical examples. The catch: if math isn’t your forte, it might be a tough read.
-
-— via r/LocalLLaMA</description>
     </item>
 </channel></rss>
