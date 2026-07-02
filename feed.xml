@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Autoresearch: The feedback loop behind self-improving agents</title>
+      <link>https://www.latent.space/p/autoresearch-introspection</link>
+      <guid isPermaLink="false">pepite-d7a8251aa27e0c4c</guid>
+      <pubDate>Wed, 01 Jul 2026 23:52:30 +0000</pubDate>
+      <category>agents</category>
+      <description>A post on autoresearch discusses self-improving AI agents. It's about using feedback loops to make agents better over time. Yet, practical application is still a talk piece as it lacks concrete tools.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>SpaceX shows investors a slim AI smartphone prototype powered by xAI technology</title>
+      <link>https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/</link>
+      <guid isPermaLink="false">pepite-8fd5a5951dde5737</guid>
+      <pubDate>Wed, 01 Jul 2026 19:47:31 +0000</pubDate>
+      <category>models</category>
+      <description>SpaceX is developing a slim AI smartphone prototype with integrated xAI tech. It's aiming for an all-in-one app approach similar to WeChat. However, it's still a prototype, not available commercially.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>How Cursor deploys AI inside the enterprise</title>
+      <link>https://www.latent.space/p/cursor-forward-deployed-engineers</link>
+      <guid isPermaLink="false">pepite-aa036dfb6893df6a</guid>
+      <pubDate>Wed, 01 Jul 2026 19:03:44 +0000</pubDate>
+      <category>agents</category>
+      <description>A post by Cursor discusses deploying AI agents within enterprises. They use engineers to set up these agents effectively. But, this requires dedicated resources and expert teams.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Cloudflare’s new policy pushes AI companies to pay for publishers’ content</title>
+      <link>https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</link>
+      <guid isPermaLink="false">pepite-896bc20de2613151</guid>
+      <pubDate>Wed, 01 Jul 2026 17:48:37 +0000</pubDate>
+      <category>agents</category>
+      <description>Cloudflare has introduced a policy for AI companies regarding content usage. It urges payment for publisher content used by AI. This could raise costs for data-heavy AI projects.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Kulaxyz/self-learning-skills</title>
+      <link>https://github.com/Kulaxyz/self-learning-skills</link>
+      <guid isPermaLink="false">pepite-fb96492a63a8fbf9</guid>
+      <pubDate>Sun, 28 Jun 2026 19:30:36 +0000</pubDate>
+      <category>repos</category>
+      <description>Kulaxyz has released a tool for self-learning AI agents via GitHub. It captures your hard-won debugging knowledge and makes it reusable. The catch: you need to have your agent set up to read instructions from files like AGENTS.md.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Reduce GVisor Cold Starts with GPU Snapshotting</title>
+      <link>https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second</link>
+      <guid isPermaLink="false">pepite-64ae9ae0dfd1ccf8</guid>
+      <pubDate>Wed, 01 Jul 2026 16:19:47 +0000</pubDate>
+      <category>other</category>
+      <description>A discussion on reducing cold starts with GPU snapshotting. It can restore workloads quickly, saving startup time. However, this requires specific hardware and setup expertise.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>amplifthq/opentag</title>
+      <link>https://github.com/amplifthq/opentag</link>
+      <guid isPermaLink="false">pepite-b250ea3f9e4e6efa</guid>
+      <pubDate>Wed, 24 Jun 2026 08:05:12 +0000</pubDate>
+      <category>repos</category>
+      <description>OpenTag is a tool that lets you use coding agents directly in collaboration platforms like Slack and GitHub. It provides results inline, speeding up teamwork. The downside: you'll need your coding agents, like Codex or Claude, running locally.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Launch HN: Parsewise (YC P25) – Reason Across Documents with an API</title>
+      <link>https://news.ycombinator.com/item?id=48746752</link>
+      <guid isPermaLink="false">pepite-91f1da60f24da259</guid>
+      <pubDate>Wed, 01 Jul 2026 13:48:44 +0000</pubDate>
+      <category>models</category>
+      <description>Parsewise offers an API to turn unstructured data into structured formats. It enables cross-document reasoning, which can streamline data handling. But, it may come with file and input limitations.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: GolemUI – Declarative Form Engine</title>
+      <link>https://golemui.com</link>
+      <guid isPermaLink="false">pepite-edd1931f2dd8daa5</guid>
+      <pubDate>Wed, 01 Jul 2026 15:12:08 +0000</pubDate>
+      <category>repos</category>
+      <description>GolemUI is a new open-source library for creating forms from JSON definitions. It simplifies building dynamic forms with a typed layer. Just remember, it only works with JSON, so other formats won't fly.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Linkify: Learning from Interface-Augmented Assembly Graphs</title>
+      <link>http://arxiv.org/abs/2607.01205v1</link>
+      <guid isPermaLink="false">pepite-d1accba00079ace5</guid>
+      <pubDate>Wed, 01 Jul 2026 17:45:51 +0000</pubDate>
+      <category>research</category>
+      <description>Linkify is a research paper introducing a framework for context-aware part retrieval in assemblies. It's about improving CAD designs using rich geometric data. Note, this is still in the research phase, so applying it directly might take a while.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning</title>
+      <link>http://arxiv.org/abs/2607.01191v1</link>
+      <guid isPermaLink="false">pepite-c7d4ae2702876d64</guid>
+      <pubDate>Wed, 01 Jul 2026 17:24:26 +0000</pubDate>
+      <category>research</category>
+      <description>Perceive-to-Reason, a framework that separates vision from reasoning to enhance visual task efficiency. It can better handle fine visual details. Yet, it's complex to set up and needs significant computing resources.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation</title>
+      <link>http://arxiv.org/abs/2607.01147v1</link>
+      <guid isPermaLink="false">pepite-f560d37739bc543e</guid>
+      <pubDate>Wed, 01 Jul 2026 16:28:11 +0000</pubDate>
+      <category>research</category>
+      <description>EquiSteer aims to correct biases in AI-generated images using a training-free method. It adjusts models at inference time. However, it may not fully eliminate biases without retraining.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency</title>
+      <link>https://www.latent.space/p/aiewf-daily-dispatch-agency</link>
+      <guid isPermaLink="false">pepite-6c68219a57cd0134</guid>
+      <pubDate>Thu, 02 Jul 2026 06:13:49 +0000</pubDate>
+      <category>other</category>
+      <description>A post discusses the balance between autoresearch in AI and human control. It explores maintaining human agency while AI automates tasks. There's no immediate takeaway as it's more of a philosophical exploration.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>qwen 3.6 35a3b on 32gb ram + 8gb vram?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ula7q6/qwen_36_35a3b_on_32gb_ram_8gb_vram/</link>
+      <guid isPermaLink="false">pepite-bd0173a5d179c661</guid>
+      <pubDate>Thu, 02 Jul 2026 06:22:03 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on running a big local language model on a laptop with 32GB RAM. It's possible with some work, but expect to face performance issues with more complex models.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>AIEWF Daily Dispatch: Loops, Software Factories &amp; Forward Deployed Engineers</title>
       <link>https://www.latent.space/p/aiewf-daily-dispatch-loops</link>
       <guid isPermaLink="false">pepite-db2a5ab22b1ff2b5</guid>
@@ -1362,145 +1502,5 @@
       <description>A request for recommendations on AI agent setup to streamline a Python web project. Identifying the right suite can drastically reduce development friction. Catch: finding an ideal configuration might require substantial trial and error.
 
 — via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Nominations Open for the 2026 PyTorch Foundation Contributor Awards</title>
-      <link>https://pytorch.org/blog/nominations-open-for-the-2026-pytorch-foundation-contributor-awards/</link>
-      <guid isPermaLink="false">pepite-ca2c018b883d228c</guid>
-      <pubDate>Wed, 17 Jun 2026 15:49:01 +0000</pubDate>
-      <category>models</category>
-      <description>PyTorch Foundation is seeking nominations for its Contributor Awards. Recognizing contributors can boost community engagement and project growth. The catch is that it primarily targets those within the PyTorch ecosystem.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>datasette-acl 0.6a0</title>
-      <link>https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything</link>
-      <guid isPermaLink="false">pepite-ee5881b3a8f12aac</guid>
-      <pubDate>Thu, 18 Jun 2026 19:03:13 +0000</pubDate>
-      <category>research</category>
-      <description>datasette-acl 0.6a0 expands access control from tables to broader resources in Datasette. It offers fine-grained permissions for multi-user setups. Drawback: it might require adjustments if you rely on earlier versions.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>MosaicLeaks: Can your research agent keep a secret?</title>
-      <link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
-      <guid isPermaLink="false">pepite-e9b8182dcfcc0d62</guid>
-      <pubDate>Thu, 18 Jun 2026 18:13:13 +0000</pubDate>
-      <category>agents</category>
-      <description>MosaicLeaks raises the question of whether research agents can maintain confidentiality. It's a pressing issue for security in AI research environments. The limitation: ensuring complete secrecy is a complex, ongoing challenge.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>"Dangerous" AI models are coming no matter what</title>
-      <link>https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/</link>
-      <guid isPermaLink="false">pepite-a4b9c9e5615da772</guid>
-      <pubDate>Wed, 17 Jun 2026 17:50:46 +0000</pubDate>
-      <category>models</category>
-      <description>An article discusses inevitability of 'dangerous' AI with hacking abilities. Highlights the ongoing development of sophisticated AI models. The honest catch: the ethical implications and risks these models present can't be fully controlled yet.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>When the Trump administration cracks down on Anthropic, who benefits?</title>
-      <link>https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/</link>
-      <guid isPermaLink="false">pepite-c6496fefb18adf4c</guid>
-      <pubDate>Sun, 21 Jun 2026 15:28:17 +0000</pubDate>
-      <category>other</category>
-      <description>An article explores who might benefit from regulatory changes affecting Anthropic. It's a slice of current events that could impact how companies strategize AI development. The limitation is that it's speculative, without concrete takeaways for today.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>AWS says AI agents lack business context and security, launches two services to patch the gaps</title>
-      <link>https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/</link>
-      <guid isPermaLink="false">pepite-4c6a5a333e113e13</guid>
-      <pubDate>Sun, 21 Jun 2026 08:25:41 +0000</pubDate>
-      <category>agents</category>
-      <description>AWS introduces two services to add context and security for AI agents. These aim to make agents understand business needs better and secure their output. The catch: the services are new, so real-world effectiveness may vary.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do</title>
-      <link>https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/</link>
-      <guid isPermaLink="false">pepite-b2a1e6b46c558abf</guid>
-      <pubDate>Sun, 21 Jun 2026 09:12:01 +0000</pubDate>
-      <category>models</category>
-      <description>Sam Altman defends the scaling of LLMs, arguing past researchers underestimated its impact. This highlights the power and potential of scale in AI models. The downside: it's a philosophical take, offering little practical guidance.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Building reliable agentic AI systems</title>
-      <link>https://martinfowler.com/articles/reliable-llm-bayer.html</link>
-      <guid isPermaLink="false">pepite-0e3fe585b39385ef</guid>
-      <pubDate>Sun, 21 Jun 2026 04:28:39 +0000</pubDate>
-      <category>agents</category>
-      <description>A discussion on how to make AI agents more reliable. It dives into the methods and practices to ensure these agents do what you expect. The catch: it's a bit of a deep dive without easy, ready-to-implement steps.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Forward-Future/loop-library</title>
-      <link>https://github.com/Forward-Future/loop-library</link>
-      <guid isPermaLink="false">pepite-f146d5ce7df05bb9</guid>
-      <pubDate>Fri, 12 Jun 2026 14:44:22 +0000</pubDate>
-      <category>repos</category>
-      <description>A tool called Loop Library that acts as a guide for AI agents. It provides reusable patterns to improve the effectiveness of AI in getting tasks done. The limitation is that it requires setting up the right loops to ensure success.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>yorgai/ORG2</title>
-      <link>https://github.com/yorgai/ORG2</link>
-      <guid isPermaLink="false">pepite-3e88f1a17d0cd8ec</guid>
-      <pubDate>Mon, 01 Jun 2026 12:52:57 +0000</pubDate>
-      <category>repos</category>
-      <description>yorgai/ORG2 is an AI coding assistant focused on helping teams align with AI agents. It embraces a collaborative approach while staying small in footprint. The downside is that it's more experimental, lacking some polish found in mature tools.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>LLMs Are Complicated Now</title>
-      <link>https://ianbarber.blog/2026/06/19/llms-are-complicated-now/</link>
-      <guid isPermaLink="false">pepite-05c6168ed876432b</guid>
-      <pubDate>Sat, 20 Jun 2026 01:25:14 +0000</pubDate>
-      <category>models</category>
-      <description>A thought piece on how LLMs have gotten more complex. It explores the challenges of using these models effectively in today's scenarios. The honest catch: it doesn't provide clear steps to handle complexity.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AI is inflating student grades, and the effect points to outsourced work, not better learning</title>
-      <link>https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/</link>
-      <guid isPermaLink="false">pepite-83ac831f64dbc8e8</guid>
-      <pubDate>Sun, 21 Jun 2026 12:01:46 +0000</pubDate>
-      <category>models</category>
-      <description>A study shows AI tools, like ChatGPT, are inflating student grades. It suggests AI might be more about getting work done quickly than fostering learning. The catch: it focuses on academics, not business or tech implementations.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Claude Guillemot Ubisoft Co-Founder Dead in Plane Crash</title>
-      <link>https://www.thegamer.com/ubisoft-co-founder-claude-guillemot-dead/</link>
-      <guid isPermaLink="false">pepite-0b15816fdcc5e92b</guid>
-      <pubDate>Sat, 20 Jun 2026 12:26:04 +0000</pubDate>
-      <category>models</category>
-      <description>Reports the death of Ubisoft co-founder Claude Guillemot. While a news piece, it subtly addresses the impact of such events on tech company leadership. There's a broader industry question here, but it's not elaborated.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving</title>
-      <link>http://arxiv.org/abs/2606.20537v1</link>
-      <guid isPermaLink="false">pepite-0c41f484033799e8</guid>
-      <pubDate>Thu, 18 Jun 2026 17:49:36 +0000</pubDate>
-      <category>research</category>
-      <description>A new tech, Execution-State Capsules, for faster AI at the edge. It tackles on-device AI challenges by restoring AI states efficiently. But, it's complicated and not straightforward to set up.
-
-— via arXiv</description>
     </item>
 </channel></rss>
