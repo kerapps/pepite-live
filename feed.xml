@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Vercel's Andrew Qu on why agents are a new kind of software</title>
+      <link>https://www.latent.space/p/vercel-agents-new-software</link>
+      <guid isPermaLink="false">pepite-1d5ef05bf3f333e0</guid>
+      <pubDate>Fri, 03 Jul 2026 00:08:18 +0000</pubDate>
+      <category>agents</category>
+      <description>Vercel's view on agents as a fresh software type. They're creating frameworks where AI agents can act more smoothly and independently. If this is true, many platforms have yet to optimize for these capabilities.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped</title>
+      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
+      <guid isPermaLink="false">pepite-b97dfb6a3918886f</guid>
+      <pubDate>Thu, 02 Jul 2026 23:38:10 +0000</pubDate>
+      <category>agents</category>
+      <description>News about AI development speed not meeting expectations at Meta. Shows expectations versus market reality gap. The details are still partly under wraps and specific to Meta's internal goals.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models "want a smaller system prompt"</title>
+      <link>https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/</link>
+      <guid isPermaLink="false">pepite-61e3321574ef3fb9</guid>
+      <pubDate>Thu, 02 Jul 2026 16:20:29 +0000</pubDate>
+      <category>models</category>
+      <description>Claude reduced its system prompt size for efficiency. Less instruction might be more in AI frameworks. It's unclear just how this will work out in all scenarios, especially with older models.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Claude-real-video － any LLM can watch a video</title>
+      <link>https://github.com/HUANGCHIHHUNGLeo/claude-real-video</link>
+      <guid isPermaLink="false">pepite-36ce8f3b931276d5</guid>
+      <pubDate>Thu, 02 Jul 2026 19:10:12 +0000</pubDate>
+      <category>models</category>
+      <description>A tool for any big AI model to 'watch' videos and interact with what it sees. This helps AI understand and describe video content more naturally. The catch: it's early days, and not all languages or types of video content may perform well yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Launch HN: Manufact (YC S25) – MCP Cloud</title>
+      <link>https://manufact.com</link>
+      <guid isPermaLink="false">pepite-a06ed66102c2cbfa</guid>
+      <pubDate>Thu, 02 Jul 2026 15:11:20 +0000</pubDate>
+      <category>agents</category>
+      <description>A new cloud platform for MCP (modular compute platform) apps. It promises easy deployment and management of these microservices. You’ll need the right skillset — it's not beginner-friendly and opens up primarily to those familiar with the MCP stack.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Bramble – Local-first password manager</title>
+      <link>https://github.com/flythenimbus/bramble</link>
+      <guid isPermaLink="false">pepite-36ca339712c76a1c</guid>
+      <pubDate>Thu, 02 Jul 2026 19:29:58 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source password manager that focuses on local storage first. It syncs passwords directly between devices without involving third-party servers. The issue: it's still rolling out its mobile apps, with iOS waiting for approval.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>uzairansaruzi/hermex</title>
+      <link>https://github.com/uzairansaruzi/hermex</link>
+      <guid isPermaLink="false">pepite-cfbf6dc660087698</guid>
+      <pubDate>Thu, 02 Jul 2026 12:47:31 +0000</pubDate>
+      <category>repos</category>
+      <description>Hermex is a SwiftUI app to control AI agents you host on your own server. This lets you keep all data and processes entirely under your control. The downside: you must set up and maintain the server yourself; the app won't do it for you.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>modiqo/skillspec</title>
+      <link>https://github.com/modiqo/skillspec</link>
+      <guid isPermaLink="false">pepite-7dd6e1a07346d258</guid>
+      <pubDate>Fri, 19 Jun 2026 23:42:55 +0000</pubDate>
+      <category>repos</category>
+      <description>SkillSpec turns AI agent skills into trackable contracts, so you know what rules they follow. This simplifies checking that AI does what you wanted. It’s just a command-line tool, so no fancy interface or dashboards.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning</title>
+      <link>http://arxiv.org/abs/2607.02509v1</link>
+      <guid isPermaLink="false">pepite-c3308b9988b1bf6e</guid>
+      <pubDate>Thu, 02 Jul 2026 17:59:26 +0000</pubDate>
+      <category>research</category>
+      <description>A strategy to help AI use long memory spans more effectively without extra training. It uses existing model strengths to better pick what info to remember. Current applications are mostly on experimental ground with no robust software ready yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots</title>
+      <link>http://arxiv.org/abs/2607.02501v1</link>
+      <guid isPermaLink="false">pepite-d47308e9fa551693</guid>
+      <pubDate>Thu, 02 Jul 2026 17:58:28 +0000</pubDate>
+      <category>research</category>
+      <description>Code and models to run AI on different types of robots. It helps robots get smarter without needing many different programs. The catch: it’s a paper at the moment, so expect some assembly work before it runs smoothly.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs</title>
+      <link>http://arxiv.org/abs/2607.02391v1</link>
+      <guid isPermaLink="false">pepite-96173a7c07f61295</guid>
+      <pubDate>Thu, 02 Jul 2026 16:25:34 +0000</pubDate>
+      <category>research</category>
+      <description>WattGPU predicts how much power different AI models need on various GPUs. Optimizes energy use by matching the best GPUs for each model. Currently, these are predictive models — useful, but needing field validation.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>llm-coding-agent 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything</link>
+      <guid isPermaLink="false">pepite-85b5311e867b2baa</guid>
+      <pubDate>Thu, 02 Jul 2026 19:33:12 +0000</pubDate>
+      <category>agents</category>
+      <description>An early version of a coding agent using Claude’s framework. Great way to explore how AI might automate coding tasks. It's very experimental so far and fit for those ready to report bugs, not deploy products.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Using DSPy to evaluate and improve Datasette Agent's SQL system prompts</title>
+      <link>https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</link>
+      <guid isPermaLink="false">pepite-cbee39557bbbb78f</guid>
+      <pubDate>Thu, 02 Jul 2026 18:25:00 +0000</pubDate>
+      <category>research</category>
+      <description>A hands-on note about evaluating how AI improves SQL prompts with DSPy. Practical improvements can make AI more useful for databases. It's a bit niche — mainly for those already using these database agents.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>The good, the bad, and the AI apps​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​​​﻿​‌​﻿‌﻿​﻿‌‌‌‍‌‍​﻿‌​​‍﻿‌​﻿‌​​﻿​​‌‍​‌​﻿‍​​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‍‌‌‍​‍‌‍​‍​﻿​﻿​‍﻿‌‌‍​‌​﻿‌​​﻿‌‌​﻿​﻿‌‍​‍​﻿​﻿​﻿​‍​﻿‌‍‌‍​‌‌‍​‌​﻿‌﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​​​﻿​‌​﻿‌﻿​﻿‌‌‌‍‌‍​﻿‌​​‍﻿‌​﻿‌​​﻿​​‌‍​‌​﻿‍​​‍﻿‌​﻿‌​​﻿‌﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‍‌‌‍​‍‌‍​‍​﻿​﻿​‍﻿‌‌‍​‌​﻿‌​​﻿‌‌​﻿​﻿‌‍​‍​﻿​﻿​﻿​‍​﻿‌‍‌‍​‌‌‍​‌​﻿‌﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
+      <link>https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/</link>
+      <guid isPermaLink="false">pepite-8ff029693ea4a1ba</guid>
+      <pubDate>Fri, 03 Jul 2026 07:40:00 +0000</pubDate>
+      <category>finance</category>
+      <description>An interview on AI app quality and evaluation balance. Talks about the importance of community feedback in AI development. Advice might be too general for those looking for quick feature insights.
+
+— via Stack Overflow</description>
+    </item>
+    <item>
       <title>Autoresearch: The feedback loop behind self-improving agents</title>
       <link>https://www.latent.space/p/autoresearch-introspection</link>
       <guid isPermaLink="false">pepite-d7a8251aa27e0c4c</guid>
@@ -1362,145 +1502,5 @@
       <description>A Hacker News discussion on AI models policing their own training biases. It’s about understanding how AI reflects and manages inherent biases. It's mainly a theoretical discussion, lacking concrete solutions.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</title>
-      <link>https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</link>
-      <guid isPermaLink="false">pepite-1de33045c1cba87e</guid>
-      <pubDate>Mon, 22 Jun 2026 23:43:51 +0000</pubDate>
-      <category>models</category>
-      <description>A developer ported the Moebius inpainting model to run in a browser. It's a lightweight tool for editing images directly, without heavy software. The limitation: it originally requires specific tech setups like PyTorch and NVIDIA CUDA.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>I built Ponytrail, a local audit trail for AI coding-agent edits</title>
-      <link>https://github.com/0xroylee/ponytrail</link>
-      <guid isPermaLink="false">pepite-628a8829eb140d29</guid>
-      <pubDate>Mon, 22 Jun 2026 14:54:59 +0000</pubDate>
-      <category>agents</category>
-      <description>Ponytrail is a local tool for tracking changes AI agents make to code. It helps you see what's happening with your code in real-time. The downside: it's another tool to integrate into your workflow.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Prompt Injection as Role Confusion</title>
-      <link>https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything</link>
-      <guid isPermaLink="false">pepite-83c1a90a37346afc</guid>
-      <pubDate>Mon, 22 Jun 2026 23:59:53 +0000</pubDate>
-      <category>models</category>
-      <description>A blog post on prompt injection as role confusion outlines when models mix user input roles. Highlights issues of segregating trusted versus untrusted inputs. The bad news: fully securing AI prompts is still an ongoing challenge.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Reusable workflows for long running local llms</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uddxsr/reusable_workflows_for_long_running_local_llms/</link>
-      <guid isPermaLink="false">pepite-e8994b6a1bf6c889</guid>
-      <pubDate>Tue, 23 Jun 2026 10:58:54 +0000</pubDate>
-      <category>models</category>
-      <description>A post about workflows for long-running local AI models. It's about handling big tasks efficiently with local AI setups. The constraint: managing large tasks like this often requires careful prompt tuning.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks</title>
-      <link>https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/</link>
-      <guid isPermaLink="false">pepite-ed9d918142a6a428</guid>
-      <pubDate>Mon, 22 Jun 2026 08:18:59 +0000</pubDate>
-      <category>research</category>
-      <description>Sakana AI’s Fugu attempts to orchestrate multiple LLMs to meet high benchmarks. This approach diversifies model reliance, potentially enhancing robustness. Drawback: juggling multiple models could complicate overall system integration.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions</title>
-      <link>https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions</link>
-      <guid isPermaLink="false">pepite-e4795059a4567d2c</guid>
-      <pubDate>Sun, 21 Jun 2026 22:55:23 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on fine-tuning a local LLM model like Qwen 3:0.6B for question categorization. It's cool because you can customize models to suit specific tasks, making them more efficient and relevant. The limitation: it requires hands-on experience with fine-tuning processes which can be technical.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6</title>
-      <link>https://status.claude.com/incidents/lv35v0q9nsj2</link>
-      <guid isPermaLink="false">pepite-0109129ec7d05451</guid>
-      <pubDate>Mon, 22 Jun 2026 00:38:50 +0000</pubDate>
-      <category>models</category>
-      <description>A chat on Claude's recent uptick in error rates across several versions. It’s crucial for users relying on these models to be aware of potential reliability issues. The main drawback: such fluctuations can disrupt applications dependent on consistent output.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>dongshuyan/compass-skills</title>
-      <link>https://github.com/dongshuyan/compass-skills</link>
-      <guid isPermaLink="false">pepite-8074bb7d40a3979d</guid>
-      <pubDate>Mon, 15 Jun 2026 06:28:04 +0000</pubDate>
-      <category>repos</category>
-      <description>A GitHub repo called compass-skills that enhances AI coding agents with new abilities. The skills help agents perform tasks like clarifying objectives and remembering project details. The downside: setup and integration might be complex for those unfamiliar with the tech.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>I Canceled My French Tutor and Built an LLM Tool That Does It Better</title>
-      <link>https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built</link>
-      <guid isPermaLink="false">pepite-0713c4788b5535ca</guid>
-      <pubDate>Sun, 21 Jun 2026 22:46:43 +0000</pubDate>
-      <category>models</category>
-      <description>A personal project replacing a French tutor with a self-built LLM tool. It showcases how AI can provide personalized learning experiences on-demand. Catch: it might struggle with the nuances a human teacher can provide.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>OtterMind/Nubase</title>
-      <link>https://github.com/OtterMind/Nubase</link>
-      <guid isPermaLink="false">pepite-1abe87c8b75b7164</guid>
-      <pubDate>Mon, 08 Jun 2026 08:42:51 +0000</pubDate>
-      <category>repos</category>
-      <description>Nubase is a versatile toolkit for AI agents to manage data and deploy apps. It’s valuable for its range of features from auth management to SQL handling, all in a single package. The trade-off: leveraging its full potential requires a solid grasp of its tooling and infrastructure.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Temporary Cloudflare Accounts for AI agents</title>
-      <link>https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</link>
-      <guid isPermaLink="false">pepite-24264b2a209d9bd0</guid>
-      <pubDate>Sun, 21 Jun 2026 22:01:04 +0000</pubDate>
-      <category>agents</category>
-      <description>Temporary Cloudflare accounts allow running AI agents without a lasting account. This provides a frictionless way to test Cloudflare Workers quickly. Caveat: projects are ephemeral, disappearing after 60 minutes.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc1 adds migrations and nested transactions</title>
-      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</link>
-      <guid isPermaLink="false">pepite-6622d836325a18ba</guid>
-      <pubDate>Sun, 21 Jun 2026 23:35:47 +0000</pubDate>
-      <category>repos</category>
-      <description>sqlite-utils 4.0rc1 introduces migrations and nested transactions for database ops. These changes make managing data transformations and transactions easier. The downside: it's in a release candidate phase, so expect possible bugs or changes.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Do you think dedicated hardware for running local LLMs will become affordable anytime soon?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uce2pz/do_you_think_dedicated_hardware_for_running_local/</link>
-      <guid isPermaLink="false">pepite-eaed1cf4d563050b</guid>
-      <pubDate>Mon, 22 Jun 2026 07:42:02 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit discussion ponders the future affordability of hardware for local LLMs. Cheaper, dedicated hardware could lower the entry barrier for developers. Limitation: widespread consumer availability remains uncertain due to current manufacturing challenges.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Agent recommendations</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uc86pz/agent_recommendations/</link>
-      <guid isPermaLink="false">pepite-b9e5ef725533e224</guid>
-      <pubDate>Mon, 22 Jun 2026 02:23:13 +0000</pubDate>
-      <category>agents</category>
-      <description>A request for recommendations on AI agent setup to streamline a Python web project. Identifying the right suite can drastically reduce development friction. Catch: finding an ideal configuration might require substantial trial and error.
-
-— via r/LocalLLaMA</description>
     </item>
 </channel></rss>
