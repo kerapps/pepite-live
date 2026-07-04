@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents</title>
+      <link>https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/</link>
+      <guid isPermaLink="false">pepite-d9aa27c63dcb5475</guid>
+      <pubDate>Fri, 03 Jul 2026 19:24:40 +0000</pubDate>
+      <category>agents</category>
+      <description>News about Microsoft's push into a combined AI app with enhanced agents. The cool factor is its potential to streamline tasks across areas for users. But, as expected with new features, there's a cost involved for these advanced background services.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do</title>
+      <link>https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/</link>
+      <guid isPermaLink="false">pepite-8e7d5e72e4f3fdf5</guid>
+      <pubDate>Fri, 03 Jul 2026 16:14:44 +0000</pubDate>
+      <category>finance</category>
+      <description>A study showing AI benchmarks might underestimate actual capabilities. It's surprising how much more capable these agents can be with adjusted evaluations. The catch: it's a paper, so practical application may take a while to filter through.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT and Claude failed Bridgewater's finance tests because the right answers were never public</title>
+      <link>https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/</link>
+      <guid isPermaLink="false">pepite-a04c5f85c556af36</guid>
+      <pubDate>Fri, 03 Jul 2026 11:16:42 +0000</pubDate>
+      <category>models</category>
+      <description>A post about fine-tuning models for specific finance tasks with high accuracy. It's notable for its cost-effectiveness against bigger models. However, the claims aren't independently verified, so take them with a grain of salt.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Soatok's Informal Guide to Threat Models</title>
+      <link>https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/</link>
+      <guid isPermaLink="false">pepite-f1d8b9ca5159d73f</guid>
+      <pubDate>Sat, 04 Jul 2026 00:35:49 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on threat models and their importance. It's intriguing because it simplifies the complex idea of understanding risks in software. The catch: it focuses on informal approaches, which might miss technical depth.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Ask HN: Is anyone experimenting with different ways of using LLMs for coding?</title>
+      <link>https://news.ycombinator.com/item?id=48771515</link>
+      <guid isPermaLink="false">pepite-b68e56ae66f3659b</guid>
+      <pubDate>Fri, 03 Jul 2026 06:21:44 +0000</pubDate>
+      <category>models</category>
+      <description>A community chat about using language models for coding. What's cool is the shared struggle and tips on reaching a coding flow with AI. But it's conversational, so expect more talk than actionable steps.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>jmerelnyc/Talos</title>
+      <link>https://github.com/jmerelnyc/Talos</link>
+      <guid isPermaLink="false">pepite-2a6027c6a0a8298b</guid>
+      <pubDate>Thu, 02 Jul 2026 14:43:11 +0000</pubDate>
+      <category>repos</category>
+      <description>A GitHub project that lets you share your GPU for AI jobs and get paid. It's interesting because it opens up new ways to leverage unused GPU power for income. The downside: it needs a decent GPU setup and some initial configuration.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Jamesob's guide to running SOTA LLMs locally</title>
+      <link>https://github.com/jamesob/local-llm</link>
+      <guid isPermaLink="false">pepite-8ce8065b1a85dbc6</guid>
+      <pubDate>Fri, 03 Jul 2026 15:03:43 +0000</pubDate>
+      <category>research</category>
+      <description>A guide on running state-of-the-art language models on your own hardware. It's appealing for those who want control and privacy over cloud solutions. The catch: you'll need a capable machine and some setup time.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>HUANGCHIHHUNGLeo/claude-real-video</title>
+      <link>https://github.com/HUANGCHIHHUNGLeo/claude-real-video</link>
+      <guid isPermaLink="false">pepite-cfd1e767cf792b8c</guid>
+      <pubDate>Tue, 30 Jun 2026 10:55:02 +0000</pubDate>
+      <category>repos</category>
+      <description>A tool that analyzes video locally by focusing on significant frames. It's novel because it processes video more intelligently than just sampling every second. The limitation: it's still limited to certain file types and may not handle all video formats.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Open Source AI Gap Map</title>
+      <link>https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</link>
+      <guid isPermaLink="false">pepite-91e309695503905d</guid>
+      <pubDate>Fri, 03 Jul 2026 22:04:31 +0000</pubDate>
+      <category>research</category>
+      <description>An attempt to catalog open-source AI tools, models, and datasets. The intrigue is in its breadth and the organization of so many entities across the AI landscape. However, the sheer size might be overwhelming if you're just looking for specifics.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>CheckRLM: Effective Knowledge-Thought Coherence Checking in Retrieval-Augmented Reasoning</title>
+      <link>http://arxiv.org/abs/2607.02262v1</link>
+      <guid isPermaLink="false">pepite-abc54faebf6c87bd</guid>
+      <pubDate>Thu, 02 Jul 2026 14:50:25 +0000</pubDate>
+      <category>research</category>
+      <description>Research on enhancing reasoning models by checking their facts as they work. It could make AI-generated content much more reliable. The caveat: this is still research, so don't expect plug-and-play options just yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Know Your Source: A Public Knowledge Store for Media Background Checks</title>
+      <link>http://arxiv.org/abs/2607.02383v1</link>
+      <guid isPermaLink="false">pepite-f6c685460bee0f76</guid>
+      <pubDate>Thu, 02 Jul 2026 16:20:28 +0000</pubDate>
+      <category>research</category>
+      <description>A project aiming to check the credibility of media sources in AI tasks. It's valuable as it tackles the problem of misinformation. But again, it's research-oriented, not an out-of-the-box tool.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition</title>
+      <link>http://arxiv.org/abs/2607.02271v1</link>
+      <guid isPermaLink="false">pepite-697e8e731c8437e8</guid>
+      <pubDate>Thu, 02 Jul 2026 14:55:24 +0000</pubDate>
+      <category>research</category>
+      <description>A benchmark for vein recognition data augmentation. It evaluates different methods and highlights their strengths. The downside: it’s pretty niche, relevant mainly if you’re into biometric security.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>June 2026 newsletter</title>
+      <link>https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything</link>
+      <guid isPermaLink="false">pepite-fd2d9f9a1df1de58</guid>
+      <pubDate>Fri, 03 Jul 2026 14:50:50 +0000</pubDate>
+      <category>research</category>
+      <description>A monthly newsletter with insights on various AI topics. You’ll get a look at current trends and projects. The catch: full access requires a paid sponsorship.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Qwen3.6-27b-mtp-q8 successfully created an A* pathfinding implementation on a test game built in Java from scratch.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1umvwb9/qwen3627bmtpq8_successfully_created_an_a/</link>
+      <guid isPermaLink="false">pepite-e823fe4d52069c7b</guid>
+      <pubDate>Sat, 04 Jul 2026 01:28:47 +0000</pubDate>
+      <category>models</category>
+      <description>An account of using a local model to create game logic, like pathfinding. It's a cool real-world use of AI in game development. The downside: it highlights the long time and effort it might take for real results.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Vercel's Andrew Qu on why agents are a new kind of software</title>
       <link>https://www.latent.space/p/vercel-agents-new-software</link>
       <guid isPermaLink="false">pepite-1d5ef05bf3f333e0</guid>
@@ -1362,145 +1502,5 @@
       <description>A paper questioning the readiness for agent-native memory systems. It promises a deep dive into the evolving memory mechanisms for AI agents. However, the paper is conceptual, leading to more questions than answers for now.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>UniDrive: A Unified Vision-Language and Grounding Framework for Interpretable Risk Understanding in Autonomous Driving</title>
-      <link>http://arxiv.org/abs/2606.24759v1</link>
-      <guid isPermaLink="false">pepite-205444daa6053bb4</guid>
-      <pubDate>Tue, 23 Jun 2026 16:17:39 +0000</pubDate>
-      <category>research</category>
-      <description>UniDrive offers a framework for understanding risks in autonomous driving. By integrating vision and language models, it enhances risk detection. The hitch: it’s in early stages, thus might lack robust real-world testing.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Serving DeepSeek-V4 on GB300 with SGLang: 5x Higher Throughput at the Same Interactivity Since Day-0</title>
-      <link>https://pytorch.org/blog/serving-deepseek-v4-on-gb300-with-sglang-5x-higher-throughput-at-the-same-interactivity-since-day-0/</link>
-      <guid isPermaLink="false">pepite-c2be4ae7a7bf4058</guid>
-      <pubDate>Tue, 23 Jun 2026 15:51:58 +0000</pubDate>
-      <category>models</category>
-      <description>DeepSeek-V4 improves AI serving efficiency with SGLang. This promises increased throughput without losing interactivity, ideal for heavy workloads. The limitation: it requires specific infrastructure, like the GB300 setup.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>OPFS + Pyodide test harness</title>
-      <link>https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything</link>
-      <guid isPermaLink="false">pepite-5ba45b91f17c03ec</guid>
-      <pubDate>Tue, 23 Jun 2026 18:58:54 +0000</pubDate>
-      <category>research</category>
-      <description>A tool to test edit capabilities of SQLite files in-browser. This Pyodide test harness facilitates data interaction without running a server. But it's experimental, so stability could be an issue.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Unlimited-OCR is now on ModelScope! A 3.3B multilingual OCR model for one-shot parsing across single images, multi-page documents, and PDFs. License: MIT</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ue51uk/unlimitedocr_is_now_on_modelscope_a_33b/</link>
-      <guid isPermaLink="false">pepite-b180e0615c1f4259</guid>
-      <pubDate>Wed, 24 Jun 2026 05:53:49 +0000</pubDate>
-      <category>models</category>
-      <description>Unlimited-OCR is a new multilingual OCR model for diverse documents. Its open-source nature and large model size offer extensive utility. The downside: it requires technical setup and may strain limited hardware.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark</title>
-      <link>https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/</link>
-      <guid isPermaLink="false">pepite-f02784245a94247b</guid>
-      <pubDate>Tue, 23 Jun 2026 10:43:17 +0000</pubDate>
-      <category>research</category>
-      <description>OpenAI claims GPT-5.5-Cyber excels at cybersecurity benchmarking. It focuses on automatically patching vulnerabilities. But note, this is a claim from OpenAI, specifics on real-world impact are not clear yet.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI launches new initiative to help find and patch open source bugs</title>
-      <link>https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</link>
-      <guid isPermaLink="false">pepite-c03191816205f40a</guid>
-      <pubDate>Tue, 23 Jun 2026 00:11:31 +0000</pubDate>
-      <category>repos</category>
-      <description>OpenAI launches an initiative to safeguard open source. It's extending AI help to find and fix bugs in open-source projects. This is just the start, its full effectiveness is yet to be proven.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Google makes Interactions API the default interface for Gemini models and agents</title>
-      <link>https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/</link>
-      <guid isPermaLink="false">pepite-f02df98c1927b0b9</guid>
-      <pubDate>Mon, 22 Jun 2026 18:11:34 +0000</pubDate>
-      <category>agents</category>
-      <description>Google's Interactions API now the default for Gemini models. It promises a more streamlined approach for APIs. However, adapting to new systems always involves a learning curve.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Ask HN: Anthropic banned me from using Claude Code and I don't know what to do</title>
-      <link>https://news.ycombinator.com/item?id=48641160</link>
-      <guid isPermaLink="false">pepite-853ac4a5babd5247</guid>
-      <pubDate>Tue, 23 Jun 2026 06:33:52 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on Hacker News about getting banned from Claude Code. It highlights the frustration of bans due to VPNs and payment methods. The problem: strict security measures that may catch innocent users.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>sums001/Windows-Copilot-API</title>
-      <link>https://github.com/sums001/Windows-Copilot-API</link>
-      <guid isPermaLink="false">pepite-5965be49833fad74</guid>
-      <pubDate>Fri, 19 Jun 2026 13:24:44 +0000</pubDate>
-      <category>repos</category>
-      <description>A GitHub repo for accessing Windows Copilot with an API. It lets you automate tasks with simple setup using your Microsoft account. Catch: it requires initial browser login and setup might be technical.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>lyra81604/zhengxi-views</title>
-      <link>https://github.com/lyra81604/zhengxi-views</link>
-      <guid isPermaLink="false">pepite-ed012f65477f22d9</guid>
-      <pubDate>Sat, 20 Jun 2026 04:27:07 +0000</pubDate>
-      <category>repos</category>
-      <description>Zhengxi-views is a GitHub project for sourcing investment insights based on a fund manager's past statements. Great for verifying quotes and views thanks to original text sourcing. It's China-focused, limiting use for other markets.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>AIR: Adaptive Interleaved Reasoning with Code in MLLMs</title>
-      <link>http://arxiv.org/abs/2606.23678v1</link>
-      <guid isPermaLink="false">pepite-76266d47282b0379</guid>
-      <pubDate>Mon, 22 Jun 2026 17:58:54 +0000</pubDate>
-      <category>research</category>
-      <description>A new paper on adaptive reasoning for AI models handling numbers and visuals. It aims to improve AI's reasoning in complex tasks. The catch: primarily theoretical with a focus on research rather than practical application.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions</title>
-      <link>http://arxiv.org/abs/2606.23654v1</link>
-      <guid isPermaLink="false">pepite-6428ffe873855024</guid>
-      <pubDate>Mon, 22 Jun 2026 17:39:43 +0000</pubDate>
-      <category>finance</category>
-      <description>EnterpriseClawBench benchmarks real workplace AI agent tasks. It aims to test agent performance in varied real-world settings. The data behind it is proprietary, so you won't get the raw datasets.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?</title>
-      <link>http://arxiv.org/abs/2606.23664v1</link>
-      <guid isPermaLink="false">pepite-7c97576b1ac78ea1</guid>
-      <pubDate>Mon, 22 Jun 2026 17:48:40 +0000</pubDate>
-      <category>research</category>
-      <description>MAS-PromptBench explores when prompt optimization helps multi-agent systems. It seeks to fine-tune communication among multiple AI agents for better performance. The big challenge: figuring out when optimization is really an improvement.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>LLMs do not merely reflect the bias of their training, they police it (2025)</title>
-      <link>https://twitter.com/brianroemmele/status/1991714955339657384</link>
-      <guid isPermaLink="false">pepite-6564072e5b395a53</guid>
-      <pubDate>Mon, 22 Jun 2026 10:50:46 +0000</pubDate>
-      <category>models</category>
-      <description>A Hacker News discussion on AI models policing their own training biases. It’s about understanding how AI reflects and manages inherent biases. It's mainly a theoretical discussion, lacking concrete solutions.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
