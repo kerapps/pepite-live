@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%</title>
+      <link>https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/</link>
+      <guid isPermaLink="false">pepite-fe400ddf127bb6a0</guid>
+      <pubDate>Sat, 04 Jul 2026 18:11:33 +0000</pubDate>
+      <category>models</category>
+      <description>Pxpipe is an open-source tool that cleverly hides text prompts in PNGs to cut token costs. This tactic exploits image pricing to potentially save up to 70% in Claude Code uses. Caveat: it risks speed and accuracy for the sake of cost-saving.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>What is Mistral AI? Everything to know about the OpenAI competitor</title>
+      <link>https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
+      <guid isPermaLink="false">pepite-1c046554877efb1a</guid>
+      <pubDate>Sat, 04 Jul 2026 15:51:32 +0000</pubDate>
+      <category>finance</category>
+      <description>An overview of Mistral AI, an open-source contender aiming to rival OpenAI. It serves as an alternative path for those interested in open-source AI development. The limitation: mostly a backgrounder on intentions, not immediate tools or code.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first</title>
+      <link>https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/</link>
+      <guid isPermaLink="false">pepite-c0ca9f9c802563af</guid>
+      <pubDate>Sat, 04 Jul 2026 12:37:51 +0000</pubDate>
+      <category>models</category>
+      <description>Thariq Shihipar from Anthropic shares tips for better Fable 5 prompting by addressing personal blind spots first. It emphasizes the importance of user reflection for improved AI interactions. It's more advice than a tool — it takes effort to see your own blind spots.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI cofounder envisions "almost no interface" future where nobody learns software anymore</title>
+      <link>https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/</link>
+      <guid isPermaLink="false">pepite-75f263f014fb653f</guid>
+      <pubDate>Sat, 04 Jul 2026 09:53:21 +0000</pubDate>
+      <category>agents</category>
+      <description>Greg Brockman suggests a future where software becomes invisible and context-aware. This vision could transform interaction with tech, potentially phasing out traditional interfaces. But it's far from reality, especially as Codex still falls short of this vision.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Midjourney wants Hollywood studios to reveal the details of their AI usage</title>
+      <link>https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</link>
+      <guid isPermaLink="false">pepite-ae006f7d6163cee7</guid>
+      <pubDate>Sat, 04 Jul 2026 18:00:05 +0000</pubDate>
+      <category>other</category>
+      <description>Midjourney's legal push for Hollywood transparency in AI usage hints at broader industry trends. It underscores the growing demand for disclosure in AI applications. But, this is a legal issue, so don’t expect any immediate revelations or changes in your own work.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance</title>
+      <link>https://github.com/openai/codex/issues/30364</link>
+      <guid isPermaLink="false">pepite-0f940ba0b525cd6b</guid>
+      <pubDate>Sat, 04 Jul 2026 21:51:09 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on GPT-5.5's reasoning-token clustering facing performance issues. It highlights how clustering these reasoning tokens might degrade Codex's output quality. The downside: this is mostly talk right now, not a fix you can apply yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Kulaxyz/token-diet</title>
+      <link>https://github.com/Kulaxyz/token-diet</link>
+      <guid isPermaLink="false">pepite-8969f9cf8583c3a9</guid>
+      <pubDate>Fri, 03 Jul 2026 15:20:04 +0000</pubDate>
+      <category>repos</category>
+      <description>Kulaxyz's 'token-diet' helps coding agents spend fewer tokens. It can trim down your token use by around 31% on average. The catch: this tool runs at all times, which could be overkill if savings aren't consistent for you.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>jamesob/local-llm</title>
+      <link>https://github.com/jamesob/local-llm</link>
+      <guid isPermaLink="false">pepite-58eea7d52c07ac69</guid>
+      <pubDate>Fri, 03 Jul 2026 13:06:03 +0000</pubDate>
+      <category>repos</category>
+      <description>Jamesob's 'local-llm' lets you set up powerful AI systems at home with the right hardware. It's a way to explore state-of-the-art machine learning locally without cloud reliance. The downside: it's not cheap — you need a decent budget and knowledge to get the right hardware.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Faster embeddings: how we rebuilt the ONNX path in Manticore</title>
+      <link>https://manticoresearch.com/blog/onnx-embeddings-speedup/</link>
+      <guid isPermaLink="false">pepite-c12a9787fe42aae6</guid>
+      <pubDate>Fri, 03 Jul 2026 03:49:47 +0000</pubDate>
+      <category>other</category>
+      <description>A post revealing how Manticore improved embedding speed by reworking the ONNX path. Faster embeddings can mean quicker responses in AI applications. The catch here is it’s mainly a technical discussion without hands-on details you can implement easily.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Dispersion loss counteracts embedding condensation in small language models</title>
+      <link>https://chenliu-1996.github.io/projects/LM-Dispersion/</link>
+      <guid isPermaLink="false">pepite-6f4490a302d8cc3f</guid>
+      <pubDate>Fri, 03 Jul 2026 22:35:47 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on using dispersion loss to prevent small models' embeddings from losing detail. This method could maintain model diversity in smaller systems. The hitch: it's theoretical and aimed at developers comfortable with model tweaking.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</title>
+      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</link>
+      <guid isPermaLink="false">pepite-f2aca3c59c5e3a3f</guid>
+      <pubDate>Sun, 05 Jul 2026 01:00:48 +0000</pubDate>
+      <category>models</category>
+      <description>SQLite-utils version 4.0rc2 was significantly built with the help of an AI model. This reflects how AI can integrate into routine coding tasks to boost productivity. The limitation: it's a release candidate (RC2), meaning it's not final and may have some bumps.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Better Models: Worse Tools</title>
+      <link>https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</link>
+      <guid isPermaLink="false">pepite-32dc242138e67d17</guid>
+      <pubDate>Sat, 04 Jul 2026 22:53:52 +0000</pubDate>
+      <category>models</category>
+      <description>Simon Willison points out that new AI models like Claude sometimes complicate basic workflows. This showcases challenges in using newer AI with existing systems. The rub: newer doesn't always mean better, especially if your tools reject the AI's suggestions.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Building a World Map with only 500 bytes</title>
+      <link>https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything</link>
+      <guid isPermaLink="false">pepite-f1af32ab828bba03</guid>
+      <pubDate>Sat, 04 Jul 2026 23:09:02 +0000</pubDate>
+      <category>other</category>
+      <description>A clever hack to generate an ASCII world map using just 500 bytes with Codex's help. It's a neat example of squeezing value from low-resource solutions. The tradeoff: the map is simple, mainly a proof of concept rather than a robust tool.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>I benchmarked 13 models at 65K-128K context to find out what actually matters for agentic workloads</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1unrse9/i_benchmarked_13_models_at_65k128k_context_to/</link>
+      <guid isPermaLink="false">pepite-142322d0397d0d1f</guid>
+      <pubDate>Sun, 05 Jul 2026 03:37:23 +0000</pubDate>
+      <category>research</category>
+      <description>A Redditor shares a benchmark comparing 13 models for their performance in handling large contexts. The detailed assessment highlights what matters most in specific AI workloads. Remember, such benchmarks require a very specific setup—not a quick plug-and-play operation.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents</title>
       <link>https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/</link>
       <guid isPermaLink="false">pepite-d9aa27c63dcb5475</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 24 Jun 2026 16:03:38 +0000</pubDate>
       <category>finance</category>
       <description>SpeechEQ benchmarks voice models on emotional intelligence. It's crucial as we push for more naturally interactive AI. The caveat: it's a new framework, so expect the usual initial growing pains in its application.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining</title>
-      <link>http://arxiv.org/abs/2606.26050v1</link>
-      <guid isPermaLink="false">pepite-ca2300ed569fa25f</guid>
-      <pubDate>Wed, 24 Jun 2026 17:27:13 +0000</pubDate>
-      <category>research</category>
-      <description>Research into how some AI rules fade during training, termed 'natural ungrokking.' This is significant because it can explain stability issues in AI's learned behaviors. The downside: it's very research-focused, not readily applicable yet.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>simonw/browser-compat-db</title>
-      <link>https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything</link>
-      <guid isPermaLink="false">pepite-587fd1adef5ef136</guid>
-      <pubDate>Wed, 24 Jun 2026 23:59:03 +0000</pubDate>
-      <category>agents</category>
-      <description>A post about creating a browser compatibility database using SQLite. It's practical for devs wanting lightweight browser data access. But it's niche and not a broad fix for everyone.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel</title>
-      <link>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</link>
-      <guid isPermaLink="false">pepite-9662972e681ea5f1</guid>
-      <pubDate>Wed, 24 Jun 2026 16:00:13 +0000</pubDate>
-      <category>models</category>
-      <description>NVIDIA NeMo AutoModel helps speed up fine-tuning of Transformers. It’s valuable for those looking to fine-tune models efficiently. However, you’ll need the right NVIDIA setup to capitalize fully.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing</title>
-      <link>https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/</link>
-      <guid isPermaLink="false">pepite-451b7ab49e2e8f78</guid>
-      <pubDate>Thu, 25 Jun 2026 05:39:53 +0000</pubDate>
-      <category>models</category>
-      <description>Baidu's Unlimited OCR model offers flat memory use for long documents. It's great at maintaining performance as text length increases. But, it's still a hefty 3B parameters model.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>India’s MoEngage bets that the future of marketing is millions of AI agents</title>
-      <link>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</link>
-      <guid isPermaLink="false">pepite-38ad88a90b0f65f9</guid>
-      <pubDate>Tue, 23 Jun 2026 23:30:00 +0000</pubDate>
-      <category>agents</category>
-      <description>A TechCrunch post explores AI agents as the future of marketing. These agents are tailored for personalized customer interactions, revolutionizing engagement. However, it may be awhile before this tech becomes commonplace.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Anthropic’s Claude Tag is learning your company, one Slack message at a time</title>
-      <link>https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/</link>
-      <guid isPermaLink="false">pepite-ee3f4df2bbe661d3</guid>
-      <pubDate>Tue, 23 Jun 2026 17:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic's Claude Tag collects company insight through Slack. It's intriguing as an organizational tool, embedding AI into daily workflows. The caveat: privacy concerns arise from constant monitoring and data collection.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates</title>
-      <link>https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/</link>
-      <guid isPermaLink="false">pepite-af2d2924d17ef858</guid>
-      <pubDate>Tue, 23 Jun 2026 13:00:00 +0000</pubDate>
-      <category>finance</category>
-      <description>Fika Jobs raises funds for a video-based hiring platform using AI. AI agents conduct interviews, making hiring more efficient and engaging. The snare: emphasizing speed over depth in interviews might lead to gaps in candidate evaluation.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers</title>
-      <link>https://github.com/End2End-Diffusion/diffusion-bench</link>
-      <guid isPermaLink="false">pepite-0124318808958a11</guid>
-      <pubDate>Wed, 24 Jun 2026 02:12:31 +0000</pubDate>
-      <category>finance</category>
-      <description>DiffusionBench is a tool to evaluate generative diffusion transformers. It's interesting because it aims to cover all aspects of how these models perform. The catch: being a discussion, it may take time for concrete tools or practices to emerge.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Elevated error rate across multiple models</title>
-      <link>https://status.claude.com/incidents/jbhf20wjmzrf</link>
-      <guid isPermaLink="false">pepite-db4c4ac9ebbf2499</guid>
-      <pubDate>Tue, 23 Jun 2026 14:19:47 +0000</pubDate>
-      <category>models</category>
-      <description>A report on elevated error rates across multiple AI models. This highlights potential instability in AI product performance, crucial for developers relying on consistent outputs. The downside: diagnosing the root cause may require extensive investigation.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>How to Passive-Aggressively Shame People Who Use LLMs Selfishly</title>
-      <link>https://joshmoody.org/blog/selfish-ai/</link>
-      <guid isPermaLink="false">pepite-3f7201cd595f96f2</guid>
-      <pubDate>Wed, 24 Jun 2026 00:53:04 +0000</pubDate>
-      <category>models</category>
-      <description>A blog post on shaming people who use large language models selfishly. It's an entertaining take on ethical AI usage, sparking discussions on responsible deployment. The limitation: it offers social critique, not actionable solutions.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Reyzowter/Hello-Agents</title>
-      <link>https://github.com/Reyzowter/Hello-Agents</link>
-      <guid isPermaLink="false">pepite-92e648d763cdc617</guid>
-      <pubDate>Tue, 23 Jun 2026 17:09:31 +0000</pubDate>
-      <category>repos</category>
-      <description>Hello-Agents is a learning resource to build multi-agent systems. It's worth exploring as it provides a comprehensive guide on creating production-grade AI agents. The catch: it’s more for those starting out or looking for structured learning paths.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>raiyanyahya/recall</title>
-      <link>https://github.com/raiyanyahya/recall</link>
-      <guid isPermaLink="false">pepite-d16d54480cc7af0a</guid>
-      <pubDate>Fri, 19 Jun 2026 20:36:41 +0000</pubDate>
-      <category>repos</category>
-      <description>Recall is a tool for local project memory with Claude Code. It’s intriguing because it minimizes token use, keeping your summaries local. The catch: only useful if you’re working within the Claude Code environment.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models</title>
-      <link>http://arxiv.org/abs/2606.24841v1</link>
-      <guid isPermaLink="false">pepite-19728fdf351e7cf4</guid>
-      <pubDate>Tue, 23 Jun 2026 17:21:03 +0000</pubDate>
-      <category>research</category>
-      <description>A research paper on fine-tuning strategies for language models. It introduces a framework matching tasks to objectives, which can optimize model performance. The drawback: it's still just a paper and might need adaptation for your specific use case.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Are We Ready For An Agent-Native Memory System?</title>
-      <link>http://arxiv.org/abs/2606.24775v1</link>
-      <guid isPermaLink="false">pepite-ef527768aeae7d41</guid>
-      <pubDate>Tue, 23 Jun 2026 16:34:55 +0000</pubDate>
-      <category>finance</category>
-      <description>A paper questioning the readiness for agent-native memory systems. It promises a deep dive into the evolving memory mechanisms for AI agents. However, the paper is conceptual, leading to more questions than answers for now.
 
 — via arXiv</description>
     </item>
