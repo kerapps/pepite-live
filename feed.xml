@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes</title>
+      <link>https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/</link>
+      <guid isPermaLink="false">pepite-dc527b2aef93d4fb</guid>
+      <pubDate>Sun, 05 Jul 2026 10:22:06 +0000</pubDate>
+      <category>models</category>
+      <description>Mistral’s CEO warns against relying solely on proprietary AI models. They claim these models might compromise your business data privacy for competitive gain. Yet, Mistral's solution, focusing on EU sovereignty, may not match the performance of big dogs like OpenAI.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Claude Code and Fable 5 ported the 2003 PC game Command &amp; Conquer to native iOS in "a few hours"</title>
+      <link>https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/</link>
+      <guid isPermaLink="false">pepite-33e07573602eb47f</guid>
+      <pubDate>Sun, 05 Jul 2026 15:58:56 +0000</pubDate>
+      <category>models</category>
+      <description>Claude Code and Fable 5 quickly ported a classic game to iOS. This showcases a remarkable boost in coding efficiency using modern AI tools. Unfortunately, most might face limitations replicating such rapid prototyping without access to similar resources.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Baidu's "Unlimited OCR" processes dozens of document pages in one pass by treating memory like human forgetting</title>
+      <link>https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/</link>
+      <guid isPermaLink="false">pepite-c7c97e548e073bcc</guid>
+      <pubDate>Sun, 05 Jul 2026 15:25:07 +0000</pubDate>
+      <category>research</category>
+      <description>Baidu developed "Unlimited OCR", which processes multiple document pages in a single sweep. This breakthrough in OCR means handling larger documents faster and more efficiently is now possible. However, it's new, so reliability across varied document types is yet to be fully proven.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol Ultra will be in Codex</title>
+      <link>https://twitter.com/thsottiaux/status/2073933490513752151</link>
+      <guid isPermaLink="false">pepite-56905d4afe0a5d31</guid>
+      <pubDate>Mon, 06 Jul 2026 01:04:03 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-5.6 Sol Ultra will integrate with Codex. This signals tighter integration between powerful AI models and coding tools, highlighting a deeper push towards making coding more intuitive and automated. However, keep a lookout—details on exactly how it'll work are sparse right now.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg tells staff that AI agents haven't progressed enough</title>
+      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
+      <guid isPermaLink="false">pepite-3f0db41b6fbbb7a1</guid>
+      <pubDate>Sun, 05 Jul 2026 17:05:35 +0000</pubDate>
+      <category>agents</category>
+      <description>Mark Zuckerberg shared concerns that AI agents aren't advancing as quickly as hoped. This honesty can shape realistic expectations and guide strategic pivots in AI development. But remember, it’s still early days, and the progress bar may just be moving slower than his ambition.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Tell HN: don't trust Bigco AI agents with AI research IP</title>
+      <link>https://news.ycombinator.com/item?id=48798385</link>
+      <guid isPermaLink="false">pepite-d306226d8ed983ca</guid>
+      <pubDate>Sun, 05 Jul 2026 22:08:30 +0000</pubDate>
+      <category>agents</category>
+      <description>A warning emerges on trusting big companies like Claude and Codex with AI research IP. It points to potential risks of these tools using your innovations to outrun you or others. If you're protective about your work, this serves as a cautionary tale of staying vigilant with your data.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>shepherd-agents/shepherd</title>
+      <link>https://github.com/shepherd-agents/shepherd</link>
+      <guid isPermaLink="false">pepite-94a4df97194e7925</guid>
+      <pubDate>Wed, 24 Jun 2026 17:26:46 +0000</pubDate>
+      <category>repos</category>
+      <description>Shepherd is a new tool for managing and inspecting AI agents' work. It lets you review and control what each agent does before finalizing outputs, adding a layer of security and quality. But it requires some setup effort and a learning curve before you see benefits.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>synthetic-sciences/openscience</title>
+      <link>https://github.com/synthetic-sciences/openscience</link>
+      <guid isPermaLink="false">pepite-06974525cf0513ee</guid>
+      <pubDate>Fri, 03 Jul 2026 15:06:45 +0000</pubDate>
+      <category>repos</category>
+      <description>OpenScience acts as an AI research partner, handling everything from reading papers to running experiments. It stakes a claim as a capable AI partner in scientific endeavors. Just note the catch: it works best when paired with specific, powerful models.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc3</title>
+      <link>https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything</link>
+      <guid isPermaLink="false">pepite-b437cfcb8f40c7d2</guid>
+      <pubDate>Mon, 06 Jul 2026 05:40:08 +0000</pubDate>
+      <category>models</category>
+      <description>The new sqlite-utils update brings enhanced foreign key handling. This gives more control over your databases, a big plus for those modeling complex data relationships. Be aware, the changes might break some old scripts, so test carefully before moving to production.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>🤗 Kernels: Major Updates</title>
+      <link>https://huggingface.co/blog/revamped-kernels</link>
+      <guid isPermaLink="false">pepite-c57690ad336e7f8b</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <category>other</category>
+      <description>Hugging Face has rolled out major updates to their Kernels platform. It's a welcomed boost for running machine learning experiments and model training. If you're new, the updates might take a bit to learn and integrate effectively into your workflow.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc2</title>
+      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything</link>
+      <guid isPermaLink="false">pepite-bf994a9221ac3e03</guid>
+      <pubDate>Sun, 05 Jul 2026 00:47:38 +0000</pubDate>
+      <category>models</category>
+      <description>Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) .
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Training Gemma-3 for Structured Mathematical Reasoning with Tunix GRPO, LoRA Adapters, and GSM8K Rewards</title>
+      <link>https://www.marktechpost.com/2026/07/05/training-gemma-3-for-structured-mathematical-reasoning-with-tunix-grpo-lora-adapters-and-gsm8k-rewards/</link>
+      <guid isPermaLink="false">pepite-74d41fdc13429b00</guid>
+      <pubDate>Mon, 06 Jul 2026 04:26:58 +0000</pubDate>
+      <category>models</category>
+      <description>Researchers are training Gemma-3 for structured math problem reasoning. They're using an efficient method that keeps training lightweight. But diving into this project means familiarizing yourself with various tools and adapting to its specialized approach.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
+      <title>Local LLM for legal-document adaptation keeps hallucinating citations with total confidence — grounding/model/pipeline ideas?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uolb4y/local_llm_for_legaldocument_adaptation_keeps/</link>
+      <guid isPermaLink="false">pepite-7854d6cdca1ed09d</guid>
+      <pubDate>Mon, 06 Jul 2026 02:57:26 +0000</pubDate>
+      <category>models</category>
+      <description>A local LLM project focuses on adapting legal documents while avoiding cloud services for privacy. It's crucial for keeping sensitive data secure. The downside: running powerful AI models locally can be taxing on your hardware and time.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Understand to participate</title>
+      <link>https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything</link>
+      <guid isPermaLink="false">pepite-02c7ba65a2e99a15</guid>
+      <pubDate>Thu, 02 Jul 2026 17:07:14 +0000</pubDate>
+      <category>agents</category>
+      <description>I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate Geoffrey was talking about the challenge of collaborating with coding agents as they construct increasingly large and sophisticated changes, and the need to avoid taking on cognitive debt as your understanding drifts from how the…
+
+— via Simon Willison</description>
+    </item>
+    <item>
       <title>Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%</title>
       <link>https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/</link>
       <guid isPermaLink="false">pepite-fe400ddf127bb6a0</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 25 Jun 2026 16:12:36 +0000</pubDate>
       <category>research</category>
       <description>SatSplatDiff aims to improve 3D images from satellite data by refining how they capture buildings. It's a big step forward for detailed geo-imagery. The catch is, the tech's newness means it's still prone to visual errors.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Autoregressive Boltzmann Generators</title>
-      <link>http://arxiv.org/abs/2606.27361v1</link>
-      <guid isPermaLink="false">pepite-1ac35c89364e7de6</guid>
-      <pubDate>Thu, 25 Jun 2026 17:58:21 +0000</pubDate>
-      <category>research</category>
-      <description>Autoregressive Boltzmann Generators (ArBG) aim to improve molecular system sampling. It's more expressive than current models, helping scientists in physics. The hitch is, it's still a complex model that isn't easy for everyone to use yet.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Run a vLLM Server on HF Jobs in One Command</title>
-      <link>https://huggingface.co/blog/vllm-jobs</link>
-      <guid isPermaLink="false">pepite-7f1a19cb84580aa1</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>Hugging Face Jobs makes it easy to run a vLLM server with a single command. Convenient for testing large language models on remote servers. It's not yet compatible with every setup, which could limit who can try it.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>AI and Liability</title>
-      <link>https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything</link>
-      <guid isPermaLink="false">pepite-9617b30126c9066c</guid>
-      <pubDate>Thu, 25 Jun 2026 22:28:46 +0000</pubDate>
-      <category>agents</category>
-      <description>Simon Willison discusses liability issues with AI errors after a German ruling on Google's AI. The point is that companies shouldn’t hide behind faulty AI like a cloak. It raises tough questions about accountability, with no easy answers yet.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Does llama cpp split mode tensor cause issues?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ufy09k/does_llama_cpp_split_mode_tensor_cause_issues/</link>
-      <guid isPermaLink="false">pepite-072dfb6d87a32cc2</guid>
-      <pubDate>Fri, 26 Jun 2026 05:43:15 +0000</pubDate>
-      <category>models</category>
-      <description>Users in the LLaMA community encounter issues with split mode tensors in AI models. Problems arise when using certain model settings, causing reasoning traces to loop. This technical hiccup might stall those working on similar multi-GPU setups.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>OpenAI says ChatGPT Instant now better understands what users actually want</title>
-      <link>https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/</link>
-      <guid isPermaLink="false">pepite-d7528d94ea79a2a2</guid>
-      <pubDate>Wed, 24 Jun 2026 19:54:23 +0000</pubDate>
-      <category>models</category>
-      <description>Updates to ChatGPT Instant for better user understanding. It's a win for anyone using OpenAI's ChatGPT for more precise responses. The catch: updates sometimes bring unexpected bugs or changes in behavior.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI and Broadcom announce chip designed for LLM inference at scale</title>
-      <link>https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/</link>
-      <guid isPermaLink="false">pepite-aca9a99819ce9c7c</guid>
-      <pubDate>Wed, 24 Jun 2026 22:28:18 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI and Broadcom's new chip for AI inference tasks. It's all about meeting AI demand with special hardware. But you’ll need the hardware to make use of it, not just a software update.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost</title>
-      <link>https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/</link>
-      <guid isPermaLink="false">pepite-b1159d7fe1ec3b05</guid>
-      <pubDate>Wed, 24 Jun 2026 17:07:37 +0000</pubDate>
-      <category>finance</category>
-      <description>Snowflake's benchmark finds a cost-effective LLM alternative. It's noteworthy for its cost-saving angle in AI tasks. Keep in mind: it uses more tokens, which might not suit every use case.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Bible as RAG Database</title>
-      <link>https://www.crosscanon.com/</link>
-      <guid isPermaLink="false">pepite-d8af377eef3222a0</guid>
-      <pubDate>Thu, 25 Jun 2026 01:42:55 +0000</pubDate>
-      <category>other</category>
-      <description>A discussion on using the Bible as a retrieval-augmented generation (RAG) database. It's cool because it explores a creative way to organize and query text. The catch: It's a discussion, so it's more of a concept than a plug-and-play tool right now.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Haystack: Open-Source AI Framework for Production Ready Agents, RAG</title>
-      <link>https://haystack.deepset.ai/</link>
-      <guid isPermaLink="false">pepite-6524c616feb3778e</guid>
-      <pubDate>Wed, 24 Jun 2026 11:21:32 +0000</pubDate>
-      <category>agents</category>
-      <description>Haystack is an open-source framework for production-ready AI agents. Interesting because it's mature and designed to get AI apps up and running quickly. The downside: like any framework, setting up right the first time can be a bit of a lift.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>benchflow-ai/awesome-evals</title>
-      <link>https://github.com/benchflow-ai/awesome-evals</link>
-      <guid isPermaLink="false">pepite-01ff236b8eebb221</guid>
-      <pubDate>Wed, 24 Jun 2026 08:10:33 +0000</pubDate>
-      <category>repos</category>
-      <description>A GitHub repo full of evaluations for AI agents. It's unique because every entry is verified and explained, not just a list of links. The limitation: it's still a list, meaning you'll need to do the digging to apply what fits your needs.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>What I'm Finding About LLM Code Style and Token Costs</title>
-      <link>https://www.jimmont.com/llm-style-token-costs</link>
-      <guid isPermaLink="false">pepite-e4335b070690acda</guid>
-      <pubDate>Thu, 25 Jun 2026 00:52:40 +0000</pubDate>
-      <category>models</category>
-      <description>Insights from an investigation into how AI code style impacts token costs. This is helpful if you're keen on optimizing AI usage costs. The catch: it's more about broad observations than a specific, immediate fix.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>duckbugio/flock</title>
-      <link>https://github.com/duckbugio/flock</link>
-      <guid isPermaLink="false">pepite-bcbe3d2a468a1865</guid>
-      <pubDate>Mon, 08 Jun 2026 15:48:15 +0000</pubDate>
-      <category>repos</category>
-      <description>Flock is an AI agent platform designed for users of Claude Pro/Max. It's neat since it offers a complete setup without complex builds. The catch: it's dependent on having access to Claude, so it's not for those without it.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It</title>
-      <link>http://arxiv.org/abs/2606.26027v1</link>
-      <guid isPermaLink="false">pepite-b9eed203a05700c5</guid>
-      <pubDate>Wed, 24 Jun 2026 16:55:56 +0000</pubDate>
-      <category>research</category>
-      <description>A paper on why multi-step tool-use reinforcement learning often fails, plus fixes. It delves into addressing stability issues in AI learning tasks. However, it's fairly technical and may need some time to digest the suggested solutions.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models</title>
-      <link>http://arxiv.org/abs/2606.25990v1</link>
-      <guid isPermaLink="false">pepite-c01de79718181708</guid>
-      <pubDate>Wed, 24 Jun 2026 16:03:38 +0000</pubDate>
-      <category>finance</category>
-      <description>SpeechEQ benchmarks voice models on emotional intelligence. It's crucial as we push for more naturally interactive AI. The caveat: it's a new framework, so expect the usual initial growing pains in its application.
 
 — via arXiv</description>
     </item>
