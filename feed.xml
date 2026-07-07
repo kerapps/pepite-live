@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost</title>
+      <link>https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/</link>
+      <guid isPermaLink="false">pepite-893f9b81e2aabcfb</guid>
+      <pubDate>Mon, 06 Jul 2026 18:28:26 +0000</pubDate>
+      <category>models</category>
+      <description>ZCode is aiming to compete with top coding models at lower costs. It's appealing for economical project scaling with generous trials. But the true throughput vs cost savings ratio will require thorough testing in your context.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Vercel CEO Guillermo Rauch on the fight to split off models from agents</title>
+      <link>https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</link>
+      <guid isPermaLink="false">pepite-de9ac07ba87ead79</guid>
+      <pubDate>Mon, 06 Jul 2026 19:49:10 +0000</pubDate>
+      <category>agents</category>
+      <description>Guillermo Rauch from Vercel talks about separating models from agents for efficiency. The discussion focuses on optimizing usage to cut costs and boost performance. It's more a strategic viewpoint—less about immediate applications and more about mindset shifts.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top</title>
+      <link>https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/</link>
+      <guid isPermaLink="false">pepite-840ba368857d4ad2</guid>
+      <pubDate>Mon, 06 Jul 2026 17:14:11 +0000</pubDate>
+      <category>models</category>
+      <description>The quick turnover of top AI models shows rapid progress. Past giants like GPT-4 held longer reigns, but competition is fierce now. This is newsworthy, but might not directly inform your current model choices.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Ternlight – 7 MB embedding model that runs in browser (WASM)</title>
+      <link>https://ternlight-demo.vercel.app/</link>
+      <guid isPermaLink="false">pepite-281fe7348655874e</guid>
+      <pubDate>Mon, 06 Jul 2026 23:06:31 +0000</pubDate>
+      <category>models</category>
+      <description>Ternlight is a small 7 MB AI model that runs directly in your browser. It's super lightweight, making it handy for local applications without server dependency. But keep in mind, it's only an embedding model—it won't replace a full AI setup.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files</title>
+      <link>https://github.com/iOfficeAI/OfficeCLI</link>
+      <guid isPermaLink="false">pepite-775caf64aaaf1d10</guid>
+      <pubDate>Mon, 06 Jul 2026 16:47:44 +0000</pubDate>
+      <category>agents</category>
+      <description>OfficeCLI lets AI agents read and edit Office documents. This tool can automate tedious editing tasks in Word, Excel, and more. The downside: it's early days, so expect some rough edges or missing features.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Pruning RAG context down to what the answer actually needs</title>
+      <link>https://www.kapa.ai/blog/how-we-prune-rag-context</link>
+      <guid isPermaLink="false">pepite-ebe10613434939e4</guid>
+      <pubDate>Mon, 06 Jul 2026 19:28:24 +0000</pubDate>
+      <category>other</category>
+      <description>This approach prunes Retrieval-Augmented Generation (RAG) context to only what's necessary. It can reduce computation and cost by focusing on essential data. The challenge: getting the pruning just right is key and might need fine-tuning for each use case.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>oomol-lab/open-connector</title>
+      <link>https://github.com/oomol-lab/open-connector</link>
+      <guid isPermaLink="false">pepite-d5fd297100bf7b0f</guid>
+      <pubDate>Mon, 29 Jun 2026 10:49:36 +0000</pubDate>
+      <category>repos</category>
+      <description>Open-Connector is a versatile gateway for AI agents to connect with countless APIs. It simplifies handling credentials and exposes a vast catalog of integrations. The catch: you'll need to set things up yourself; it's not plug-and-play.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>simonlin1212/Vibe-Research</title>
+      <link>https://github.com/simonlin1212/Vibe-Research</link>
+      <guid isPermaLink="false">pepite-45cb25f760aa436e</guid>
+      <pubDate>Sun, 05 Jul 2026 06:30:55 +0000</pubDate>
+      <category>repos</category>
+      <description>Vibe-Research offers a dashboard tailored for analyzing stock markets with your AI tools. It's got built-in data sources and can integrate with custom AI models. Keep in mind, it's a DIY solution—you configure and connect everything yourself.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>LLM-as-a-Verifier: A General-Purpose Verification Framework</title>
+      <link>http://arxiv.org/abs/2607.05391v1</link>
+      <guid isPermaLink="false">pepite-0b0f53288e27aab8</guid>
+      <pubDate>Mon, 06 Jul 2026 17:59:35 +0000</pubDate>
+      <category>research</category>
+      <description>LLM-as-a-Verifier is a new AI framework for verifying task solutions. It provides detailed feedback without needing more training. However, it's a paper proposal, so you'll have to implement it yourself for now.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Evaluating and Understanding Model Editing for Medical Vision Language Models</title>
+      <link>http://arxiv.org/abs/2607.05310v1</link>
+      <guid isPermaLink="false">pepite-a3105d09fd991537</guid>
+      <pubDate>Mon, 06 Jul 2026 16:49:10 +0000</pubDate>
+      <category>finance</category>
+      <description>M3Bench is a benchmark focused on editing models in the medical field. It's meant to test how well models handle clinical variations. But it's specific—and might not apply if you're outside the healthcare sector.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Unified Audio Intelligence Without Regressing on Text Intelligence</title>
+      <link>http://arxiv.org/abs/2607.05196v1</link>
+      <guid isPermaLink="false">pepite-0ef33496fba82fe0</guid>
+      <pubDate>Mon, 06 Jul 2026 15:11:57 +0000</pubDate>
+      <category>research</category>
+      <description>Audex is a unified model that handles both audio and text intelligently. It brings two domains into one system for seamless integration. The catch: it needs a hefty setup, so not for those without experience in similar projects.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>tencent/Hy3</title>
+      <link>https://simonwillison.net/2026/Jul/6/hy3/#atom-everything</link>
+      <guid isPermaLink="false">pepite-27f14f334409a8ad</guid>
+      <pubDate>Mon, 06 Jul 2026 23:57:35 +0000</pubDate>
+      <category>models</category>
+      <description>Hy3 is a massive AI model from Tencent, optimized for various tasks. Its MoE design means you get a big-model feel with more efficiency. Just be ready for its size—it's nearly 600 GB, so plan your hardware accordingly.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm</title>
+      <link>https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/</link>
+      <guid isPermaLink="false">pepite-8aed8c89cf0cc283</guid>
+      <pubDate>Mon, 06 Jul 2026 23:31:47 +0000</pubDate>
+      <category>models</category>
+      <description>PyTorch Monarch now supports AMD GPUs, making training distributed models more accessible. This update opens options beyond NVIDIA hardware. However, new adopters might face learning curves with ROCm specifics.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>Agent orchestration is so two-years ago​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​‍‌‍​‍​﻿​﻿​﻿​﻿​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍‌​​‍﻿‌‌‍​‌​﻿​‌​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍‌‍‌‍​‍‌‍​‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​‍‌‍​﻿​﻿​‍‌‍‌‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​‍‌‍​‍​﻿​﻿​﻿​﻿​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍‌​​‍﻿‌‌‍​‌​﻿​‌​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍‌‍‌‍​‍‌‍​‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​‍‌‍​﻿​﻿​‍‌‍‌‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
+      <link>https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago/</link>
+      <guid isPermaLink="false">pepite-1dfa8f5548a81fbc</guid>
+      <pubDate>Tue, 07 Jul 2026 07:40:00 +0000</pubDate>
+      <category>finance</category>
+      <description>Stack Overflow notes the fading trend of heavy agent orchestration. Newer models manage complex tasks better without elaborate setups. This reflects a shift in design thinking rather than a tool you can grab today.
+
+— via Stack Overflow</description>
+    </item>
+    <item>
       <title>Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes</title>
       <link>https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/</link>
       <guid isPermaLink="false">pepite-dc527b2aef93d4fb</guid>
@@ -1362,145 +1502,5 @@
       <description>A humorous incident report about AI agents getting stuck in a loop. It costs thousands in computational resources and is a reminder of AI's current limits. It's a fictional account for now, so don't take it as actual news.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>What happened after 2,000 people tried to hack my AI assistant</title>
-      <link>https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything</link>
-      <guid isPermaLink="false">pepite-6c6dd7db4f004ef0</guid>
-      <pubDate>Fri, 26 Jun 2026 18:33:14 +0000</pubDate>
-      <category>agents</category>
-      <description>A report on a challenge where people tried and failed to breach an AI assistant's security. Even with 6,000 attempts, no secrets were leaked. It's a fun test but shows security measures still hold strong.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Quoting OpenAI</title>
-      <link>https://simonwillison.net/2026/Jun/26/openai/#atom-everything</link>
-      <guid isPermaLink="false">pepite-c1186f1eb9b3a8b0</guid>
-      <pubDate>Fri, 26 Jun 2026 17:10:43 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI's new GPT models just had a limited preview. They're set to provide broad access and varied capabilities soon. For now, only select groups have access, so most will have to wait.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting</title>
-      <link>http://arxiv.org/abs/2606.27277v1</link>
-      <guid isPermaLink="false">pepite-1d8586417a15fca4</guid>
-      <pubDate>Thu, 25 Jun 2026 16:53:30 +0000</pubDate>
-      <category>research</category>
-      <description>A research paper explores Earth dynamics forecasting through satellite data. It aims to improve predictions under uncertain conditions. Remember, it's technical and geared towards experts in AI and Earth observation.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>When can we expect merged DeepSeek V4 Flash / MiniMax M3 llama.cpp support?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ugsnej/when_can_we_expect_merged_deepseek_v4_flash/</link>
-      <guid isPermaLink="false">pepite-eba05909a11dcc59</guid>
-      <pubDate>Sat, 27 Jun 2026 04:16:00 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit post questions the future support for certain AI tools. It highlights the uncertainty in developing stable software support. It's more about gauging community expectations rather than providing concrete updates.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>The White House is asking OpenAI to slow roll the release of its new model over safety concerns</title>
-      <link>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</link>
-      <guid isPermaLink="false">pepite-ec21de830233163e</guid>
-      <pubDate>Thu, 25 Jun 2026 23:34:39 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI might delay releasing GPT 5.6 under the Trump administration’s request. The move is for safety assessments and careful rollout. However, this means limited access for wider experimentation early on.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.</title>
-      <link>https://www.latent.space/p/ainews-openai-reports-median-internal</link>
-      <guid isPermaLink="false">pepite-b048b4ce3050a7fa</guid>
-      <pubDate>Fri, 26 Jun 2026 01:12:30 +0000</pubDate>
-      <category>other</category>
-      <description>OpenAI reports that its internal Codex output has majorly increased in various fields. This shows the model's growing usefulness in multiple areas. It hints at potential, but specifics on how it’ll affect you are vague.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Most major AI chatbots still lean left on political questions, even "anti-woke" models are no exception</title>
-      <link>https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/</link>
-      <guid isPermaLink="false">pepite-00fd5d3f9f106212</guid>
-      <pubDate>Thu, 25 Jun 2026 16:04:32 +0000</pubDate>
-      <category>models</category>
-      <description>Many major AI chatbots still show a bias towards left-leaning political views. This comes after tests show their leaning despite different branding efforts. Google's model was a notable exception, offering balanced perspectives.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion</title>
-      <link>https://github.com/inkeep/open-knowledge</link>
-      <guid isPermaLink="false">pepite-ef5aecbb88f0c0d5</guid>
-      <pubDate>Thu, 25 Jun 2026 16:04:46 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenKnowledge integrates AI into a markdown editor, like Notion or Obsidian. It connects directly with advanced AI tools like Claude and Codex to enhance your markdown work. But, it's MacOS and web-based, so no Windows support just yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government</title>
-      <link>https://velo.xyz/news/1908</link>
-      <guid isPermaLink="false">pepite-e3578012f1c78e85</guid>
-      <pubDate>Thu, 25 Jun 2026 20:28:25 +0000</pubDate>
-      <category>models</category>
-      <description>The U.S. government asked OpenAI to release GPT 5.6 slowly. The staggered launch is meant to address safety concerns before a full rollout. However, this means the tech will take longer to reach most users.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>GraeLefix/GITVERSE</title>
-      <link>https://github.com/GraeLefix/GITVERSE</link>
-      <guid isPermaLink="false">pepite-35af8fc47a1ae3ec</guid>
-      <pubDate>Thu, 25 Jun 2026 16:50:48 +0000</pubDate>
-      <category>repos</category>
-      <description>GITVERSE helps you analyze codebases with AI to understand and rebuild them easily. It's like having a smart assistant guide you through a code’s architecture and logic. To use it, you’ll need an AI API key, which can be a bit of a hassle for setup.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>QwenLM/Qwen-AgentWorld</title>
-      <link>https://github.com/QwenLM/Qwen-AgentWorld</link>
-      <guid isPermaLink="false">pepite-5b4d7e75d649ef26</guid>
-      <pubDate>Mon, 22 Jun 2026 13:48:37 +0000</pubDate>
-      <category>repos</category>
-      <description>Qwen-AgentWorld is a big AI model open for developers to experiment with. It's great for those interested in pushing agent and AI model boundaries. But be prepared: it requires significant computing power to operate effectively.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>OpenAI and Broadcom unveil LLM-optimized inference chip</title>
-      <link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip/</link>
-      <guid isPermaLink="false">pepite-e9639c49defcff72</guid>
-      <pubDate>Wed, 24 Jun 2026 13:14:39 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI, in collaboration with Broadcom, is creating an AI chip optimized for large language models. It promises to make AI run faster and use less power. The chip is new, so it's not yet a plug-and-play upgrade for all systems.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings</title>
-      <link>http://arxiv.org/abs/2606.27287v1</link>
-      <guid isPermaLink="false">pepite-ddf83139ce00a870</guid>
-      <pubDate>Thu, 25 Jun 2026 17:04:51 +0000</pubDate>
-      <category>finance</category>
-      <description>A study shows that job applicants can manipulate AI résumé screenings with 'prompt injection'. This could make candidates appear better without real qualifications. As more people use this trick, its effectiveness drops sharply.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting</title>
-      <link>http://arxiv.org/abs/2606.27223v1</link>
-      <guid isPermaLink="false">pepite-d6aefbb8d2a898fb</guid>
-      <pubDate>Thu, 25 Jun 2026 16:12:36 +0000</pubDate>
-      <category>research</category>
-      <description>SatSplatDiff aims to improve 3D images from satellite data by refining how they capture buildings. It's a big step forward for detailed geo-imagery. The catch is, the tech's newness means it's still prone to visual errors.
-
-— via arXiv</description>
     </item>
 </channel></rss>
