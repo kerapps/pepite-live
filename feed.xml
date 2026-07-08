@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems</title>
+      <link>https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/</link>
+      <guid isPermaLink="false">pepite-37960ea55283b774</guid>
+      <pubDate>Tue, 07 Jul 2026 17:54:08 +0000</pubDate>
+      <category>models</category>
+      <description>Cohere's Transcribe Arabic model is built to tackle tough transcription challenges in Arabic dialects. It can handle code-switching between Arabic and English seamlessly. The limitation: It's a specific tool for Arabic, so not useful for other languages.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs</title>
+      <link>https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/</link>
+      <guid isPermaLink="false">pepite-87248c3e75db1b14</guid>
+      <pubDate>Tue, 07 Jul 2026 18:35:58 +0000</pubDate>
+      <category>agents</category>
+      <description>Microsoft is switching out OpenAI and Anthropic models in Copilot for their proprietary models to cut costs. This shift promises lower expenses for users. But watch out — this might come with a drop in model performance.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Why the rise of open source AI isn’t hurting Anthropic … yet</title>
+      <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
+      <guid isPermaLink="false">pepite-f6e145185112c153</guid>
+      <pubDate>Tue, 07 Jul 2026 20:04:32 +0000</pubDate>
+      <category>models</category>
+      <description>Open-source AI is thriving but isn't overtaking Anthropic's market share yet. They seem to capture different parts of an AI model's life cycle. It's a competitive scene, but no immediate game-changer here.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Anthropic's Claude Cowork AI agent is now available on mobile and web</title>
+      <link>https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/</link>
+      <guid isPermaLink="false">pepite-a604262c4a2acff4</guid>
+      <pubDate>Tue, 07 Jul 2026 17:04:30 +0000</pubDate>
+      <category>agents</category>
+      <description>Anthropic's Claude Cowork AI agent, now on mobile and web, helps you keep up with tasks even when you're not at your desk by pinging on your phone. It further blurs lines between chat and task management tools. It could be a bit intrusive if notifications aren't managed well.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Facing US export controls, China's DeepSeek plans to make its own chips</title>
+      <link>https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/</link>
+      <guid isPermaLink="false">pepite-8c08d51e348185f7</guid>
+      <pubDate>Tue, 07 Jul 2026 16:14:53 +0000</pubDate>
+      <category>models</category>
+      <description>DeepSeek, facing US export barriers, plans to make its own chips, cutting reliance on Nvidia. It’s a big step towards self-sufficiency in AI tech. But the plan is early-stage, so actual impact remains to be seen.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday</title>
+      <link>https://twitter.com/OpenAI/status/2074704958419792299</link>
+      <guid isPermaLink="false">pepite-ca2c64885b422d87</guid>
+      <pubDate>Wed, 08 Jul 2026 04:12:13 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI is launching three new language models on Thursday: GPT-5.6 Sol, Terra, and Luna. The interesting part is they're aiming to improve reasoning and contextual awareness. Just be prepared — these early releases are often buggy and need time to mature.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop</title>
+      <link>https://github.com/rowboatlabs/rowboat</link>
+      <guid isPermaLink="false">pepite-3d92430eaa70f014</guid>
+      <pubDate>Tue, 07 Jul 2026 16:10:44 +0000</pubDate>
+      <category>models</category>
+      <description>Rowboat is an open-source app designed to replace Claude's desktop chat with more flexible work tools. You can build custom workflows and interfaces on your local machine. The downside? It’s new and might lack the polish of established solutions.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Ask HN: Is GitHub preparing to go behind a login wall?</title>
+      <link>https://news.ycombinator.com/item?id=48821803</link>
+      <guid isPermaLink="false">pepite-d8107c30e483ea3a</guid>
+      <pubDate>Tue, 07 Jul 2026 18:40:40 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on Hacker News is raising questions about GitHub potentially hiding content behind a login wall. If GitHub follows platforms like LinkedIn, casual users might lose easy access to public repos. Keep in mind this is speculative for now, nothing confirmed.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>isjiamu/gzh-design-skill</title>
+      <link>https://github.com/isjiamu/gzh-design-skill</link>
+      <guid isPermaLink="false">pepite-2d391676f3c2dc2c</guid>
+      <pubDate>Wed, 01 Jul 2026 04:28:03 +0000</pubDate>
+      <category>repos</category>
+      <description>Gzh-design-skill is a tool for formatting AI-generated content for WeChat articles. It handles everything, from styling to format compatibility checks. The catch? This is quite niche, focused on specific platforms and styling needs.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>eli-labz/Cognitive-Core-Skills</title>
+      <link>https://github.com/eli-labz/Cognitive-Core-Skills</link>
+      <guid isPermaLink="false">pepite-cbff6dbc5d19b9ea</guid>
+      <pubDate>Sun, 05 Jul 2026 21:25:55 +0000</pubDate>
+      <category>repos</category>
+      <description>Cognitive-Core-Skills is a framework to make AI language models more useful as coworkers by adding things like memory and action control. It offers practical tools for moving beyond simple chat interfaces. However, integrating with existing workflows will require some setup effort.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>github-code Web Component</title>
+      <link>https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything</link>
+      <guid isPermaLink="false">pepite-89e9d622919f2eae</guid>
+      <pubDate>Tue, 07 Jul 2026 16:18:16 +0000</pubDate>
+      <category>models</category>
+      <description>A GitHub Web Component using GPT-5.5 lets you display code directly from GitHub pages. It's straightforward and handy for sharing code snippets. However, it's pretty basic — expect no syntax highlighting.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Intelligence is Free, Now What? &lt;br&gt; Data Systems for, of, and by Agents</title>
+      <link>http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/</link>
+      <guid isPermaLink="false">pepite-74a488c3241f70b5</guid>
+      <pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
+      <category>research</category>
+      <description>AI costs are plummeting, making advanced capabilities more accessible. This shift powers broader AI adoption but also means a deluge of new models to navigate. Decision fatigue might set in as choices multiply.
+
+— via BAIR</description>
+    </item>
+    <item>
+      <title>Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos</title>
+      <link>https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/</link>
+      <guid isPermaLink="false">pepite-283528023d882516</guid>
+      <pubDate>Tue, 07 Jul 2026 22:18:10 +0000</pubDate>
+      <category>models</category>
+      <description>Meta's releasing its latest AI image generator, Muse Image, which is great for creativity but faces backlash over user image rights. It's a reminder of privacy challenges in AI use. Legal complexities around photo usage are a real concern.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>What is the current Memory Meta?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uqfh7r/what_is_the_current_memory_meta/</link>
+      <guid isPermaLink="false">pepite-5c04536273b7e967</guid>
+      <pubDate>Wed, 08 Jul 2026 02:11:18 +0000</pubDate>
+      <category>models</category>
+      <description>A Reddit post inquires about the best memory solutions for local AI models. It's an ongoing search in the AI community for stability and effectiveness. Unfortunately, no silver bullet solution yet.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost</title>
       <link>https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/</link>
       <guid isPermaLink="false">pepite-893f9b81e2aabcfb</guid>
@@ -1362,145 +1502,5 @@
       <description>Launch-Your-Agent helps build on Claude Managed Agents effortlessly. It walks you through setup and automates agent deployment. It's geared towards tech founders, so if you're not on the business-building side, it might not be for you.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>Using Local Coding Agents</title>
-      <link>https://magazine.sebastianraschka.com/p/using-local-coding-agents</link>
-      <guid isPermaLink="false">pepite-39217bafd159845d</guid>
-      <pubDate>Sat, 27 Jun 2026 11:21:58 +0000</pubDate>
-      <category>agents</category>
-      <description>Tips on using local coding agents as an alternative to cloud-based ones. It's ideal if you're looking to cut costs or prefer running everything offline. But remember: the trade-off can be fewer capabilities compared to bigger cloud services.
-
-— via Sebastian Raschka</description>
-    </item>
-    <item>
-      <title>SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype</title>
-      <link>https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/</link>
-      <guid isPermaLink="false">pepite-75c669d80c72738e</guid>
-      <pubDate>Sat, 27 Jun 2026 20:42:36 +0000</pubDate>
-      <category>other</category>
-      <description>SoftBank's CEO questions Musk's orbital data center idea. It's highlighting skepticism about flashy tech announcements. But for now, it's only a talking point with no concrete developments.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning</title>
-      <link>http://arxiv.org/abs/2606.27330v1</link>
-      <guid isPermaLink="false">pepite-c04280d0cee176d9</guid>
-      <pubDate>Thu, 25 Jun 2026 17:44:48 +0000</pubDate>
-      <category>research</category>
-      <description>New research proposes smarter task planning for GUI agents. The method can improve efficiency in repetitive tasks. The catch: it's a complex academic proposal, so implementation requires thorough understanding.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference</title>
-      <link>https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/</link>
-      <guid isPermaLink="false">pepite-956d2bb42c626f9c</guid>
-      <pubDate>Sun, 28 Jun 2026 04:58:20 +0000</pubDate>
-      <category>agents</category>
-      <description>Liquid AI released a tiny model that's fast and efficient on mobile. It can tackle basic tasks effectively, even on older devices. It's limited by its size though, so expect simpler outputs compared to its bigger peers.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners</title>
-      <link>https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna</link>
-      <guid isPermaLink="false">pepite-39412d8a157f3adb</guid>
-      <pubDate>Sat, 27 Jun 2026 05:23:22 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI releases GPT-5.6 models to select partners. These models promise varied costs and capabilities, hinting at future broader releases. They're invite-only for now, so general use isn't yet possible.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</title>
-      <link>https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</link>
-      <guid isPermaLink="false">pepite-bfc22edd885d5ad7</guid>
-      <pubDate>Fri, 26 Jun 2026 17:43:22 +0000</pubDate>
-      <category>other</category>
-      <description>Tech companies, like OpenAI, are building custom chips to reduce their reliance on Nvidia. It marks a shift towards diverse hardware strategies in AI. Custom chips are complex and not an overnight solution for everyone.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run</title>
-      <link>https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/</link>
-      <guid isPermaLink="false">pepite-044fef05a3221bd3</guid>
-      <pubDate>Fri, 26 Jun 2026 17:24:27 +0000</pubDate>
-      <category>research</category>
-      <description>An AI model takes on a long-running coding task, costing thousands to complete. It's a stress test for AI programming capabilities. Current models still struggle with complex tasks, revealing areas for improvement.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies</title>
-      <link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
-      <guid isPermaLink="false">pepite-822cb889915cb54c</guid>
-      <pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
-      <category>other</category>
-      <description>The U.S. government authorizes over 100 entities to use Anthropic's AI. It shows government interest in leveraging AI technologies. Details on how it will be used remain scant.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: Smart model routing directly in Claude, Codex and Cursor</title>
-      <link>https://github.com/workweave/router</link>
-      <guid isPermaLink="false">pepite-625f299dde1117a0</guid>
-      <pubDate>Fri, 26 Jun 2026 16:40:11 +0000</pubDate>
-      <category>agents</category>
-      <description>A tool to automatically choose the best AI model for coding tasks. It plugs into agents like Claude and Codex, picking the right model to save costs. You'll need to set it up yourself — it's not a plug-and-play solution yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>The gap between open weights LLMs and closed source LLMs</title>
-      <link>https://blog.doubleword.ai/frontier-os-llm</link>
-      <guid isPermaLink="false">pepite-a42e36289875366e</guid>
-      <pubDate>Fri, 26 Jun 2026 21:14:47 +0000</pubDate>
-      <category>models</category>
-      <description>A blog post exploring the differences between open and closed source AI models. It highlights the strengths and weaknesses of each, especially regarding accessibility and innovation. But don't expect any clear winner — it's more about trade-offs.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>winsznx/theeleven</title>
-      <link>https://github.com/winsznx/theeleven</link>
-      <guid isPermaLink="false">pepite-64ca6cfb8c7f4703</guid>
-      <pubDate>Thu, 25 Jun 2026 07:42:50 +0000</pubDate>
-      <category>repos</category>
-      <description>AI personas predict football match events and run prediction markets. It's a novel way to engage with games, using AI to spice up the viewing. However, it's still niche, relying on specific blockchain tech that not everyone uses.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Ask HN: MacBook vs. Dedicated GPU for LLM</title>
-      <link>https://news.ycombinator.com/item?id=48694802</link>
-      <guid isPermaLink="false">pepite-18c39188a8666d2c</guid>
-      <pubDate>Sat, 27 Jun 2026 03:17:43 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on using MacBooks vs. dedicated GPUs for running large language models (LLMs). It provides insight into how well MacBooks handle such tasks. Be prepared for a varied discussion with no clear-cut answers.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>kennss/SiliconScope</title>
-      <link>https://github.com/kennss/SiliconScope</link>
-      <guid isPermaLink="false">pepite-ad681c59cdb1acba</guid>
-      <pubDate>Mon, 08 Jun 2026 17:19:50 +0000</pubDate>
-      <category>repos</category>
-      <description>SiliconScope is a monitor for Apple's Silicon performance, without needing extra permissions. It goes beyond standard activity monitors, showing detailed usage of various hardware components. It only works on Apple Silicon devices, leaving others out.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Incident Report: CVE-2026-LGTM</title>
-      <link>https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything</link>
-      <guid isPermaLink="false">pepite-1a165aff3292d4a7</guid>
-      <pubDate>Fri, 26 Jun 2026 17:58:54 +0000</pubDate>
-      <category>agents</category>
-      <description>A humorous incident report about AI agents getting stuck in a loop. It costs thousands in computational resources and is a reminder of AI's current limits. It's a fictional account for now, so don't take it as actual news.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
