@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition</title>
+      <link>https://www.latent.space/p/ainews-spacexai-launches-grok-45</link>
+      <guid isPermaLink="false">pepite-69cfa260d83683c8</guid>
+      <pubDate>Thu, 09 Jul 2026 06:05:41 +0000</pubDate>
+      <category>finance</category>
+      <description>SpaceXAI continues to move faster than any other frontier lab on earth. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much</title>
+      <link>https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/</link>
+      <guid isPermaLink="false">pepite-7d812dd6c6fe604f</guid>
+      <pubDate>Wed, 08 Jul 2026 19:01:44 +0000</pubDate>
+      <category>research</category>
+      <description>xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8. At $2 per million input tokens, it costs a fraction of the competition. EU availability is expected in mid-July. The article Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO</title>
+      <link>https://www.latent.space/p/modal2026</link>
+      <guid isPermaLink="false">pepite-fdf290a36458e778</guid>
+      <pubDate>Wed, 08 Jul 2026 22:55:07 +0000</pubDate>
+      <category>agents</category>
+      <description>2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Why this CEO thinks video games make better training data than the internet</title>
+      <link>https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/</link>
+      <guid isPermaLink="false">pepite-a5342c550d44bcb7</guid>
+      <pubDate>Wed, 08 Jul 2026 17:47:55 +0000</pubDate>
+      <category>models</category>
+      <description>When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be…
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>We made Grok 4.5, GPT-5.5, and Claude build the same apps</title>
+      <link>https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off</link>
+      <guid isPermaLink="false">pepite-5bb720117fd0843d</guid>
+      <pubDate>Wed, 08 Jul 2026 23:27:14 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 469pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>I think I have LLM burnout</title>
+      <link>https://www.alecscollon.com/blog/llm-burnout/</link>
+      <guid isPermaLink="false">pepite-624ed9d0f4bd47f1</guid>
+      <pubDate>Thu, 09 Jul 2026 01:56:28 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 1459pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Microsoft releases Flint, a visualization language for AI agents</title>
+      <link>https://microsoft.github.io/flint-chart/#/</link>
+      <guid isPermaLink="false">pepite-a0ed216b19b2bb2c</guid>
+      <pubDate>Wed, 08 Jul 2026 17:46:12 +0000</pubDate>
+      <category>agents</category>
+      <description>Data visualizations are the bridge between user and data. But building AI agents that can generate visualizations reliably can be very tricky: - simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart specs with explicit details can produce good-looking charts, but they are… It's pulling 470pts/day — real momentum for something this new, not a one-day spike. Still under the radar (249pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>ai4s-research/open-science</title>
+      <link>https://github.com/ai4s-research/open-science</link>
+      <guid isPermaLink="false">pepite-905fd3c77d827dbb</guid>
+      <pubDate>Fri, 03 Jul 2026 09:22:31 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source, local-first, model-agnostic, reproducible AI research workbench — an open alternative to Claude Science and similar AI-for-science products. Not a chat box: a workbench that ties literature, code, figures, reports, and review into one auditable, reproducible workflow. back to its code, data, environment, and the conversation that produced… It's pulling 69★/day — real momentum for something this new, not a one-day spike. Still under the radar (408★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Archive228/loopkit</title>
+      <link>https://github.com/Archive228/loopkit</link>
+      <guid isPermaLink="false">pepite-ad8eee54db98fe43</guid>
+      <pubDate>Tue, 30 Jun 2026 08:46:55 +0000</pubDate>
+      <category>repos</category>
+      <description>Plan → Act → Verify, enforced by files on disk. Ships the floor, keeps out of your way. That's it. Skills load only when a task triggers them. The verifier subagent closes the loop. Straight from my own .claude/ directory. This is the loadout I actually reach for — not a methodology, not a lifecycle, not a framework. Every skill fires inside this shape. The… It's pulling 52★/day — real momentum for something this new, not a one-day spike. Still under the radar (463★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents</title>
+      <link>http://arxiv.org/abs/2607.07676v1</link>
+      <guid isPermaLink="false">pepite-f4781cca81e2fbfd</guid>
+      <pubDate>Wed, 08 Jul 2026 17:34:28 +0000</pubDate>
+      <category>finance</category>
+      <description>Autonomous AI agents can execute complex tasks with limited human review, yet they often lack the grounded operational knowledge to make their outputs not just executable but correct, secure, and maintainable. We introduce SkillCenter, to our knowledge the largest open skill library for agents by total count: 216,938 structured skills across 24 domain… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization</title>
+      <link>http://arxiv.org/abs/2607.07702v1</link>
+      <guid isPermaLink="false">pepite-8e7ad6be19100d6b</guid>
+      <pubDate>Wed, 08 Jul 2026 17:57:27 +0000</pubDate>
+      <category>research</category>
+      <description>The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation</title>
+      <link>http://arxiv.org/abs/2607.07608v1</link>
+      <guid isPermaLink="false">pepite-06bed8fc170306af</guid>
+      <pubDate>Wed, 08 Jul 2026 16:26:06 +0000</pubDate>
+      <category>research</category>
+      <description>Mainstream Vision-Language-Action (VLA) models predict actions primarily from the current observation under a Markovian assumption, thus struggling with long-horizon, temporally dependent tasks. Existing memory-augmented VLAs either expand the observation window or retrieve history from the memory bank as auxiliary policy-side context. However, they leave… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Introducing GPT‑Live</title>
+      <link>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</link>
+      <guid isPermaLink="false">pepite-33f596b1fc089098</guid>
+      <pubDate>Wed, 08 Jul 2026 23:20:48 +0000</pubDate>
+      <category>models</category>
+      <description>Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off harder tasks to GPT-5.5: For questions that require web search, deeper reasoning, or more complex work, it delegates to our latest frontier… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>82 TPS On Qwen 3.6 27b On A Macbook Pro | Introducing MTPLX V2: The Fastest Way To Run MLX Models.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ure84m/82_tps_on_qwen_36_27b_on_a_macbook_pro/</link>
+      <guid isPermaLink="false">pepite-be8f6e94b3eeabdd</guid>
+      <pubDate>Thu, 09 Jul 2026 03:08:56 +0000</pubDate>
+      <category>research</category>
+      <description>Hey Everyone, here is an update on MTPLX! One month after releasing MTPLX V1 which brought a swift based app and upgraded CLI for coding use I am happy to announce MTPLX V2. The biggest change is Turbo Mode: using custom verify-specialized quantized-matmul kernels plus a compiled verify step we have achieved 82 TPS on a Macbook pro m5 max at a temperature… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems</title>
       <link>https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/</link>
       <guid isPermaLink="false">pepite-37960ea55283b774</guid>
@@ -1362,145 +1502,5 @@
       <description>A reflection on how AI agents are joining teams, rather than us joining them. It's a useful mindset shift for developers integrating AI. The constraint: it's an opinion piece, so actionable steps might be sparse.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>It’s not about Anthropic vs. OpenAI anymore</title>
-      <link>https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/</link>
-      <guid isPermaLink="false">pepite-45782107f8382161</guid>
-      <pubDate>Fri, 26 Jun 2026 16:24:47 +0000</pubDate>
-      <category>models</category>
-      <description>Article discusses how AI capabilities need collective action to handle their political impacts. It's a sobering look at AI's growing influence on global policy. Careful: it's more big-picture talk rather than immediate tech tactics.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia</title>
-      <link>https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/</link>
-      <guid isPermaLink="false">pepite-9204d88167ace213</guid>
-      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
-      <category>other</category>
-      <description>OpenAI's Jalapeño chip marks a move away from Nvidia's dominance, hoping for less reliance on single suppliers. The shift is significant in how AI hardware choices might diversify. However, it's still in early stages of development and widespread effect.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>TokenSpeed-Kernel: Portable APIs and High-Performance Kernels for Multi-Silicon LLM Inference</title>
-      <link>https://pytorch.org/blog/lightseek-tokenspeed-kernel/</link>
-      <guid isPermaLink="false">pepite-c4495042a347bf28</guid>
-      <pubDate>Thu, 25 Jun 2026 14:48:06 +0000</pubDate>
-      <category>models</category>
-      <description>TokenSpeed-Kernel is a tool that simplifies the technical mess behind the scenes of AI processing. It makes using different chips easier for developers. But, you still need to know a bit about AI runtime to make full use of it.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>AMD MI210 64GB vs DCU K100 64GB</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uil0w2/amd_mi210_64gb_vs_dcu_k100_64gb/</link>
-      <guid isPermaLink="false">pepite-29f1279cd669c9be</guid>
-      <pubDate>Mon, 29 Jun 2026 06:55:20 +0000</pubDate>
-      <category>models</category>
-      <description>Discussion about two high-performance GPUs, highlighting Chinese market affordability. It's a peek into alternative hardware options without premium pricing. Note: Information on these GPUs can be scant, which may be a gamble.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions</title>
-      <link>https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/</link>
-      <guid isPermaLink="false">pepite-f84ed527eaf56321</guid>
-      <pubDate>Sat, 27 Jun 2026 17:03:06 +0000</pubDate>
-      <category>models</category>
-      <description>Fable 5 might be coming back after regulatory delays. They hope all approvals will quickly get things rolling again. Keep in mind: resuming after a pause can involve unforeseen hiccups in deployment.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Apple Vision Pro exec is reportedly leaving for OpenAI</title>
-      <link>https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/</link>
-      <guid isPermaLink="false">pepite-eed654ab164f6919</guid>
-      <pubDate>Sat, 27 Jun 2026 16:45:09 +0000</pubDate>
-      <category>other</category>
-      <description>An Apple exec is leaving for OpenAI, focusing on hardware. This is big news for those watching AI device integration trends. But it's mostly backroom changes you may not feel directly as an end-user.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>ByteDance's "iLLaDA" is a diffusion language model that keeps up with Qwen2.5</title>
-      <link>https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/</link>
-      <guid isPermaLink="false">pepite-a5f45c04bb77ccd6</guid>
-      <pubDate>Sat, 27 Jun 2026 07:48:29 +0000</pubDate>
-      <category>models</category>
-      <description>ByteDance's iLLaDA uses it's unique method for generating text. It matches popular models like Qwen2.5 before fine-tuning starts. The downside: it lags behind after fine-tuning, so it's not always a top-tier option.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on</title>
-      <link>https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</link>
-      <guid isPermaLink="false">pepite-84e0d65e5b7f0862</guid>
-      <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>Asian startups are filling gaps left by export restrictions on some American AI solutions. They offer models that mimic restricted options, opening new avenues. But if you're reliant on US-based models, switching might require adjustments.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Half of Claude users say AI can already handle half their work according to Anthropic survey</title>
-      <link>https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/</link>
-      <guid isPermaLink="false">pepite-352ea4b5519397ab</guid>
-      <pubDate>Sat, 27 Jun 2026 15:28:59 +0000</pubDate>
-      <category>models</category>
-      <description>An Anthropic survey reveals many users find AI can do half their work already. It's encouraging and shows where automation is headed. Conversely, relying too much could impact those worried about job security.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work</title>
-      <link>https://github.com/kageroumado/adrafinil</link>
-      <guid isPermaLink="false">pepite-df74de89507b3471</guid>
-      <pubDate>Sat, 27 Jun 2026 20:34:53 +0000</pubDate>
-      <category>agents</category>
-      <description>A script for keeping your Mac awake only when needed. Great for folks who have AI agents running and don't want the hassle of manually configuring settings or draining their battery unnecessarily. Be aware: it's a small script and might not have a UI you'll be familiar with.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Wayfinder Router: deterministic routing of queries between local and hosted LLM</title>
-      <link>https://github.com/itsthelore/wayfinder-router</link>
-      <guid isPermaLink="false">pepite-3b1c1643336c2a2f</guid>
-      <pubDate>Sun, 28 Jun 2026 04:31:18 +0000</pubDate>
-      <category>models</category>
-      <description>Wayfinder Router lets you control where your AI queries go. It smartly directs tasks between your local and cloud setups. Just a heads up: you'll need to configure it yourself based on your needs.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>eli-labz/Godcoder</title>
-      <link>https://github.com/eli-labz/Godcoder</link>
-      <guid isPermaLink="false">pepite-f5a881e8971a2da3</guid>
-      <pubDate>Sat, 27 Jun 2026 00:56:36 +0000</pubDate>
-      <category>repos</category>
-      <description>Godcoder is a local AI coding agent that runs on your desktop. It handles coding tasks without relying on a cloud server, keeping your data private. However, the tool might be too hands-off if you prefer more control over coding processes.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Mojo programming language will become open-source soon</title>
-      <link>https://console.modular.com/signup</link>
-      <guid isPermaLink="false">pepite-6544137109bb0a56</guid>
-      <pubDate>Sat, 27 Jun 2026 20:28:37 +0000</pubDate>
-      <category>repos</category>
-      <description>Mojo programming language is opening up to everyone's coding needs. It'll soon be available for all as an open-source project. For now, you'll have to wait until it officially becomes open source.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>anthropics/launch-your-agent</title>
-      <link>https://github.com/anthropics/launch-your-agent</link>
-      <guid isPermaLink="false">pepite-471d18a7427c4a77</guid>
-      <pubDate>Tue, 16 Jun 2026 14:49:50 +0000</pubDate>
-      <category>repos</category>
-      <description>Launch-Your-Agent helps build on Claude Managed Agents effortlessly. It walks you through setup and automates agent deployment. It's geared towards tech founders, so if you're not on the business-building side, it might not be for you.
-
-— via GitHub</description>
     </item>
 </channel></rss>
