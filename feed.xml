@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp</title>
+      <link>https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna</link>
+      <guid isPermaLink="false">pepite-924b6cc8940c1aa2</guid>
+      <pubDate>Fri, 10 Jul 2026 06:19:40 +0000</pubDate>
+      <category>models</category>
+      <description>A big day for OpenAI. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter</title>
+      <link>https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/</link>
+      <guid isPermaLink="false">pepite-2922cfdde0d796dd</guid>
+      <pubDate>Fri, 10 Jul 2026 00:16:54 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Fidji Simo steps down from OpenAI’s no. 2 role</title>
+      <link>https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/</link>
+      <guid isPermaLink="false">pepite-880ee3c2d5501c1e</guid>
+      <pubDate>Thu, 09 Jul 2026 23:38:00 +0000</pubDate>
+      <category>finance</category>
+      <description>OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Anthropic found a hidden space where Claude puzzles over concepts</title>
+      <link>https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/</link>
+      <guid isPermaLink="false">pepite-55c65dbf237fbe24</guid>
+      <pubDate>Thu, 09 Jul 2026 20:22:28 +0000</pubDate>
+      <category>models</category>
+      <description>The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or… It landed in the last few hours.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>Show HN: FableCut – A browser video editor AI agents can drive (zero deps)</title>
+      <link>https://github.com/ronak-create/FableCut</link>
+      <guid isPermaLink="false">pepite-99176f9fcef46fbc</guid>
+      <pubDate>Thu, 09 Jul 2026 13:23:10 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 125pts/day — real momentum for something this new, not a one-day spike. Still under the radar (89pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Getting GLM 5.2 running on my slow computer</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <guid isPermaLink="false">pepite-08ce9a72da993f7c</guid>
+      <pubDate>Thu, 09 Jul 2026 08:05:04 +0000</pubDate>
+      <category>models</category>
+      <description>A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me. But then I thought, "I wonder how it would work on a normal computer like mine," and above all, "I wonder if it would… It's pulling 576pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Reverse-engineering web apps into agent tools</title>
+      <link>https://news.ycombinator.com/item?id=48847834</link>
+      <guid isPermaLink="false">pepite-20dfbac7f095dc33</guid>
+      <pubDate>Thu, 09 Jul 2026 15:45:17 +0000</pubDate>
+      <category>agents</category>
+      <description>Hey HN! We built a browser-based agent that runs inside an authenticated web app, watches how the app calls its own APIs, and automatically turns those into agent tools. You can think of it as an auto-generated MCP server that self-updates as the host app changes. The result is a skilled AI assistant that actually integrates deeply with any product (not… It's pulling 52pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>ComputeRoyale/Compute-Royale</title>
+      <link>https://github.com/ComputeRoyale/Compute-Royale</link>
+      <guid isPermaLink="false">pepite-e471f0eb30d11ac3</guid>
+      <pubDate>Tue, 30 Jun 2026 01:04:13 +0000</pubDate>
+      <category>repos</category>
+      <description>Autonomous agents rent real compute, do hash-verified work, and earn revenue — you stake SOL on whichever one runs the best business. Every crypto casino bets on a coin flip, a candle, or a number that means nothing. Compute Royale bets on something real: which AI agent runs the best compute business. Agents rent actual GPUs off the open market, get handed… It's pulling 48★/day — real momentum for something this new, not a one-day spike. Still under the radar (499★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>lycorp-jp/sim-use</title>
+      <link>https://github.com/lycorp-jp/sim-use</link>
+      <guid isPermaLink="false">pepite-e981dd85f3cc999a</guid>
+      <pubDate>Fri, 26 Jun 2026 05:59:56 +0000</pubDate>
+      <category>repos</category>
+      <description>Give AI agents the ability to observe and act on iOS Simulator and Android emulator / device screens. Plan, code, verify, ship — teach this CLI to your agent and close the last gap in the agentic mobile development loop. Let agents verify what they built so you can focus on what matters. sim-use is a cross-platform CLI that drives Apple's Accessibility… It's pulling 54★/day — real momentum for something this new, not a one-day spike. Still under the radar (757★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators</title>
+      <link>http://arxiv.org/abs/2607.08766v1</link>
+      <guid isPermaLink="false">pepite-9e21d7184f8c39a9</guid>
+      <pubDate>Thu, 09 Jul 2026 17:59:11 +0000</pubDate>
+      <category>research</category>
+      <description>We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low latency, but still suffer from error accumulation and weakened motion dynamics during long autoregressive rollout. OPSD-V reduces long-horizon degradation… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks</title>
+      <link>http://arxiv.org/abs/2607.08768v1</link>
+      <guid isPermaLink="false">pepite-c32ba7d89a5396f9</guid>
+      <pubDate>Thu, 09 Jul 2026 17:59:32 +0000</pubDate>
+      <category>finance</category>
+      <description>The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding</title>
+      <link>http://arxiv.org/abs/2607.08642v1</link>
+      <guid isPermaLink="false">pepite-f768a5fef2cab310</guid>
+      <pubDate>Thu, 09 Jul 2026 16:16:35 +0000</pubDate>
+      <category>research</category>
+      <description>Speculative decoding accelerates LLM inference by drafting several tokens and verifying them in parallel. Block-diffusion drafters such as DFlash produce a draft block in one pass but model only per-position marginals; best-first tree methods such as DDTree expand candidate trees from those marginals. The released Domino drafter adds a GRU-based causal… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Quoting OpenAI</title>
+      <link>https://simonwillison.net/2026/Jul/10/openai/#atom-everything</link>
+      <guid isPermaLink="false">pepite-74428c0e5ca298c0</guid>
+      <pubDate>Fri, 10 Jul 2026 01:05:57 +0000</pubDate>
+      <category>models</category>
+      <description>[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work threads and local files remain on that computer. — OpenAI , trying (unsuccessfully) to clarify ChatGPT Work Tags: openai , chatgpt , ai It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Building more than just an agent harness​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​﻿‌‍‌‍​﻿‍‌​﻿​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿​﻿‌‍​‍‌‍​‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‍​﻿‍‌​‍﻿‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍﻿‌‌‍‌​​﻿​﻿​﻿​‌‌‍‌​​﻿​‌​﻿‍‌​﻿‌‌​﻿​‍​﻿​‍‌‍​﻿‌‍‌​​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​﻿‌‍‌‍​﻿‍‌​﻿​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿​﻿‌‍​‍‌‍​‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‍​﻿‍‌​‍﻿‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍﻿‌‌‍‌​​﻿​﻿​﻿​‌‌‍‌​​﻿​‌​﻿‍‌​﻿‌‌​﻿​‍​﻿​‍‌‍​﻿‌‍‌​​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
+      <link>https://stackoverflow.blog/2026/07/10/building-more-than-just-an-agent-harness/</link>
+      <guid isPermaLink="false">pepite-510876b51f48322c</guid>
+      <pubDate>Fri, 10 Jul 2026 07:40:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Live from Microsoft Build, Ryan is joined by Jay Parikh, Microsoft’s VP of AI Core, for a conversation on what enterprises need to build, deploy, and run AI agents at scale with demonstrable ROI; how Microsoft built an end-to-end agent development system that goes past just the harness; and how you can evaluate for reliability and correctness in models that… It landed in the last few hours.
+
+— via Stack Overflow</description>
+    </item>
+    <item>
       <title>[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition</title>
       <link>https://www.latent.space/p/ainews-spacexai-launches-grok-45</link>
       <guid isPermaLink="false">pepite-69cfa260d83683c8</guid>
@@ -1362,145 +1502,5 @@
       <description>AgentSpace is a workspace where humans and AI agents work seamlessly together. It aims at helping teams integrate agents as equal partners in projects. The catch is, it requires embracing a new way of team collaboration.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>TraceLab: Characterizing Coding Agent Workloads for LLM Serving</title>
-      <link>http://arxiv.org/abs/2606.30560v1</link>
-      <guid isPermaLink="false">pepite-0812225614c4d775</guid>
-      <pubDate>Mon, 29 Jun 2026 16:59:05 +0000</pubDate>
-      <category>research</category>
-      <description>TraceLab provides a dataset for assessing coding agent workloads. It lets you peek into real-world usage patterns of agentic LLMs. The limitation: it's just a dataset, so you'll need to bring your own analysis.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent</title>
-      <link>http://arxiv.org/abs/2606.30616v1</link>
-      <guid isPermaLink="false">pepite-59ad2e42b30c8386</guid>
-      <pubDate>Mon, 29 Jun 2026 17:50:54 +0000</pubDate>
-      <category>research</category>
-      <description>This paper introduces a 35B model performing like a trillion-parameter one by extending its 'horizon.' It shows a novel way to reach powerful results effectively. The catch: it's still theoretical, don't jump in expecting ready-to-use code.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms</title>
-      <link>http://arxiv.org/abs/2606.30577v1</link>
-      <guid isPermaLink="false">pepite-9b379d408b59b4cf</guid>
-      <pubDate>Mon, 29 Jun 2026 17:20:26 +0000</pubDate>
-      <category>research</category>
-      <description>APRIL-MedSeg is a modular framework for medical image segmentation. It's ready to adapt to your experiments with various strategies. The downside: it's complex and could overwhelm if you aren't familiar with medtech.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Why intent prediction needs more than an LLM​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
-      <link>https://stackoverflow.blog/2026/06/30/why-intent-prediction-needs-more-than-an-llm/</link>
-      <guid isPermaLink="false">pepite-4ab30399d9f54d69</guid>
-      <pubDate>Tue, 30 Jun 2026 07:40:00 +0000</pubDate>
-      <category>models</category>
-      <description>Explores why large language models aren't enough for predicting human decisions. Yobi's unique approach integrates graphs with models for more accurate forecasting. The catch: it's a conceptual journey, not an actionable tool for immediate use.
-
-— via Stack Overflow</description>
-    </item>
-    <item>
-      <title>Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't</title>
-      <link>https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/</link>
-      <guid isPermaLink="false">pepite-7fc17092690ce953</guid>
-      <pubDate>Sun, 28 Jun 2026 07:44:41 +0000</pubDate>
-      <category>research</category>
-      <description>VibeThinker-3B shows off by doing almost as well as much bigger models on math without all the fat. It's a small model that punches above its weight in logical reasoning. Don't expect it to ace trivia though, as it lacks broad world knowledge.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Only three AI models finished above starting capital in a 500-day startup survival test</title>
-      <link>https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/</link>
-      <guid isPermaLink="false">pepite-b0474715455b237e</guid>
-      <pubDate>Sun, 28 Jun 2026 10:16:13 +0000</pubDate>
-      <category>agents</category>
-      <description>Princeton's study tasks AI with running a startup for 500 days. It's revealing that most AI flops, favoring even simple strategies over flashiness. However, the test specifics might differ from your real-world use-cases.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence</title>
-      <link>https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/</link>
-      <guid isPermaLink="false">pepite-f5280a99fb2cf7c2</guid>
-      <pubDate>Sun, 28 Jun 2026 09:30:18 +0000</pubDate>
-      <category>models</category>
-      <description>A Chinese firm is making AI security tools to compete with Western ones, casting the effort as a digital arms race. It's notable as part of competitive tech geopolitics. The fit here: current models don't yet match Western capabilities.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Why Wall Street thinks US memory maker Micron is the next Nvidia</title>
-      <link>https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/</link>
-      <guid isPermaLink="false">pepite-1e4f72b2e45c8a48</guid>
-      <pubDate>Sun, 28 Jun 2026 15:00:00 +0000</pubDate>
-      <category>other</category>
-      <description>Investors see Micron as the next big player in AI hardware. It's exciting for those watching the tech market for the next Nvidia. The downside: these are predictions, not guarantees.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch</title>
-      <link>https://github.com/JustVugg/nanoeuler</link>
-      <guid isPermaLink="false">pepite-ffa3b520536a05af</guid>
-      <pubDate>Sun, 28 Jun 2026 19:38:14 +0000</pubDate>
-      <category>models</category>
-      <description>NanoEuler is a GPT-2 scale AI model reimagined in C and CUDA. It's a project anyone can explore to understand how models work under the hood. The catch: you'll need C/CUDA skills and some serious patience to grasp it all.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Do LLMs pass the mirror test?</title>
-      <link>https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test</link>
-      <guid isPermaLink="false">pepite-cd190e6bde354533</guid>
-      <pubDate>Sun, 28 Jun 2026 19:06:07 +0000</pubDate>
-      <category>models</category>
-      <description>A blog asks if AI models pass a kind of self-awareness test, like if they 'see' themselves. It's interesting because it challenges how we measure AI's smarts beyond just outputs. The catch: it's a thought experiment with no clear checklist or solution.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs</title>
-      <link>https://github.com/kamaludu/bash4llm/</link>
-      <guid isPermaLink="false">pepite-772fd95d1cb93d4a</guid>
-      <pubDate>Sun, 28 Jun 2026 19:43:10 +0000</pubDate>
-      <category>models</category>
-      <description>Bash4LLM+ is a simple tool to query language models right from your terminal. It's great for those who just want to send some prompts without dealing with complex setups. The limitation: it's basic Bash, so don't expect flashy features.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Aliu-AiRobot/ESEILANE</title>
-      <link>https://github.com/Aliu-AiRobot/ESEILANE</link>
-      <guid isPermaLink="false">pepite-c312e1e8ca4c915b</guid>
-      <pubDate>Sun, 28 Jun 2026 19:14:42 +0000</pubDate>
-      <category>repos</category>
-      <description>ESEILANE is a high-speed tool for querying large language model data in graph form. It impresses with its speed and scale for apps that need to crunch lots of data fast. But, it requires understanding knowledge graphs and setting up properly.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>tigicion/dao-code</title>
-      <link>https://github.com/tigicion/dao-code</link>
-      <guid isPermaLink="false">pepite-5872fd0c7c5e8047</guid>
-      <pubDate>Mon, 08 Jun 2026 08:10:42 +0000</pubDate>
-      <category>repos</category>
-      <description>Dao Code is like a coder's Swiss Army knife for the terminal — it writes, fixes, and runs code with AI help. It's intriguing as it streams its thinking and tools used, allowing more transparent coding. However, it's optimized for those comfortable with Chinese-first interfaces.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Quoting Jon Udell</title>
-      <link>https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything</link>
-      <guid isPermaLink="false">pepite-190cedab4d1ccb47</guid>
-      <pubDate>Sun, 28 Jun 2026 21:57:41 +0000</pubDate>
-      <category>agents</category>
-      <description>A reflection on how AI agents are joining teams, rather than us joining them. It's a useful mindset shift for developers integrating AI. The constraint: it's an opinion piece, so actionable steps might be sparse.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
