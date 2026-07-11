@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a "fairly underspecified prompt"</title>
+      <link>https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/</link>
+      <guid isPermaLink="false">pepite-f94505a7aa2e3e56</guid>
+      <pubDate>Fri, 10 Jul 2026 21:12:47 +0000</pubDate>
+      <category>research</category>
+      <description>According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single "fairly under-specified prompt." In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. OpenAI believes the "automated researcher" is within reach. The article OpenAI's GPT-5.6 Sol autonomously… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Open source AI matters more than ever, according to Hugging Face’s Clem Delangue</title>
+      <link>https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/</link>
+      <guid isPermaLink="false">pepite-1d85656f77c8e03e</guid>
+      <pubDate>Fri, 10 Jul 2026 19:00:00 +0000</pubDate>
+      <category>research</category>
+      <description>Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […] It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Hugging Face’s CEO on why companies are done renting their AI</title>
+      <link>https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/</link>
+      <guid isPermaLink="false">pepite-e654c4c7eaf2a368</guid>
+      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
+      <category>research</category>
+      <description>Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps</title>
+      <link>https://www.tryai.dev/blog/gpt-5.6-build-off-12-models</link>
+      <guid isPermaLink="false">pepite-f6072d924e8ac2b4</guid>
+      <pubDate>Fri, 10 Jul 2026 20:52:28 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 391pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</title>
+      <link>https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf</link>
+      <guid isPermaLink="false">pepite-6121a378746abdba</guid>
+      <pubDate>Fri, 10 Jul 2026 18:29:19 +0000</pubDate>
+      <category>models</category>
+      <description>https://x.com/__eknight__/status/2075643450196971805 , https://xcancel.com/__eknight__/status/2075643450196971805 Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... It landed in the last few hours. It's pulling 888pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't</title>
+      <link>https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/</link>
+      <guid isPermaLink="false">pepite-c2fe54c2bfb48d50</guid>
+      <pubDate>Fri, 10 Jul 2026 10:40:26 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 90pts/day — real momentum for something this new, not a one-day spike. Still under the radar (71pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>ronak-create/FableCut</title>
+      <link>https://github.com/ronak-create/FableCut</link>
+      <guid isPermaLink="false">pepite-1179c2da0b9142fe</guid>
+      <pubDate>Mon, 06 Jul 2026 16:18:57 +0000</pubDate>
+      <category>repos</category>
+      <description>https://github.com/user-attachments/assets/2430b854-168b-4a9a-af2e-489e5efa7543 FableCut is a Premiere-style non-linear video editor that runs entirely in your browser — and exposes its whole timeline as one JSON document. Edit it by hand, from the UI, or let an AI agent (Claude Code, Claude Desktop, or anything that speaks MCP/REST) cut your video for you… It's pulling 69★/day — real momentum for something this new, not a one-day spike. Still under the radar (314★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>SmileLikeYe/agent-chief</title>
+      <link>https://github.com/SmileLikeYe/agent-chief</link>
+      <guid isPermaLink="false">pepite-afb66a02f53a0d67</guid>
+      <pubDate>Sat, 04 Jul 2026 15:28:56 +0000</pubDate>
+      <category>repos</category>
+      <description>https://github.com/user-attachments/assets/1177a237-3f0f-4512-baef-dcc9f2c75c6d Quickstart · How it works · Evaluated, not asserted · Connect your agent · Docs · 简体中文 · only 75% of events ever reach the LLM — the noisiest 25% dies on hard rules in microseconds, for free · stable-prefix prompts: 70% of judge input tokens cache-hit (system + context blocks) ·… It's pulling 68★/day — real momentum for something this new, not a one-day spike. Still under the radar (450★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>[AINews] not much happened today</title>
+      <link>https://www.latent.space/p/ainews-not-much-happened-today-f5c</link>
+      <guid isPermaLink="false">pepite-056d94f29b6b5a3a</guid>
+      <pubDate>Sat, 11 Jul 2026 02:53:08 +0000</pubDate>
+      <category>models</category>
+      <description>a quiet day after a week of nonstop model releases It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing</title>
+      <link>http://arxiv.org/abs/2607.08497v1</link>
+      <guid isPermaLink="false">pepite-69f17d06b8f3540d</guid>
+      <pubDate>Thu, 09 Jul 2026 13:55:55 +0000</pubDate>
+      <category>research</category>
+      <description>Recent unified multimodal models show a single architecture can jointly perform vision/language understanding and image generation/editing. However, they repeatedly feed all historical visual and textual inputs into a shared context window, limiting long-horizon multimodal dialogue due to visual token explosion and unreliable cross-turn referencing. We… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DrugGen 2: A disease-aware language model for enhancing drug discovery</title>
+      <link>http://arxiv.org/abs/2607.08404v1</link>
+      <guid isPermaLink="false">pepite-aacae44013e74628</guid>
+      <pubDate>Thu, 09 Jul 2026 12:29:33 +0000</pubDate>
+      <category>research</category>
+      <description>Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease context on target behavior and therapeutic outcomes. To address this gap, we introduce DrugGen-2, a novel generative model that designs small molecules conditioned… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels</title>
+      <link>https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/</link>
+      <guid isPermaLink="false">pepite-ca7b952547980585</guid>
+      <pubDate>Fri, 10 Jul 2026 14:35:48 +0000</pubDate>
+      <category>models</category>
+      <description>Code available at: https://github.com/facebookresearch/ads_model_kernel_library/tree/main/multi_cta_norm_fusion and https://github.com/facebookresearch/ads_model_kernel_library/tree/main/gdpa_megakernel TL;DR In this blog post, we present various novel kernel fusion techniques for common normalization ops like LayerNorm and RMSNorm, which provide…
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device</title>
+      <link>http://arxiv.org/abs/2607.08771v1</link>
+      <guid isPermaLink="false">pepite-94fefbadbb015e63</guid>
+      <pubDate>Thu, 09 Jul 2026 17:59:58 +0000</pubDate>
+      <category>research</category>
+      <description>Monocular depth estimation has seen remarkable progress through foundation models achieving robust zero-shot generalization, yet their computational demands place them far beyond the reach of embedded and mobile platforms. Lightweight alternatives exist, but have been developed almost exclusively within single-domain, self-supervised paradigms, failing… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Qwen3.6 35B-A3B (Q8_0, no KV quant) single prompt in opencode: "Create a beautiful, relaxing flight simulator in a single html file with mountains, clouds, and endless procedural terrain"</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1utb6io/qwen36_35ba3b_q8_0_no_kv_quant_single_prompt_in/</link>
+      <guid isPermaLink="false">pepite-7a6c4b78a5937903</guid>
+      <pubDate>Sat, 11 Jul 2026 05:24:45 +0000</pubDate>
+      <category>models</category>
+      <description>Told it that in plan mode, then told it to implement with no changes to the plan. This model punches far, far above its weight. I wasn't impressed until I switched from Q4_K_M on GPU to Q8_0 on CPU. It matters. It's worth the slowdown. submitted by /u/_TheWolfOfWalmart_ [link] [comments] It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp</title>
       <link>https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna</link>
       <guid isPermaLink="false">pepite-924b6cc8940c1aa2</guid>
@@ -1362,145 +1502,5 @@
       <description>ERA helps reduce the processing time for multimodal models by pruning unneeded tokens. This boosts efficiency without losing model accuracy. But, it's a fresh approach with nuances that might not suit all setups.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Cursor now has a mobile app for guiding your coding agent on the go</title>
-      <link>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</link>
-      <guid isPermaLink="false">pepite-132f8d93b46f8da7</guid>
-      <pubDate>Tue, 30 Jun 2026 14:18:25 +0000</pubDate>
-      <category>agents</category>
-      <description>Cursor's new mobile app helps manage coding agents on the go. It's convenient for developers who need to tweak code without sitting at a desk. But it might lack the robustness of full desktop solutions for complex tasks.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Quoting Anthropic</title>
-      <link>https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything</link>
-      <guid isPermaLink="false">pepite-62bdf47fe89c2b69</guid>
-      <pubDate>Tue, 30 Jun 2026 23:58:15 +0000</pubDate>
-      <category>models</category>
-      <description>Simon Willison reports on lifted export controls for new Anthropic models. This means more access and flexibility if you're using these models in development. Policy changes can be unpredictable, so stay updated on the latest.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Nano Banana 2 Lite</title>
-      <link>https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</link>
-      <guid isPermaLink="false">pepite-c605d5da278827be</guid>
-      <pubDate>Tue, 30 Jun 2026 22:15:35 +0000</pubDate>
-      <category>models</category>
-      <description>Nano Banana 2 Lite, or Gemini 3.1 Flash Lite, is a speedy and light AI model for visual tasks. It's engineered for fast and cost-effective deployments. Accuracy might be a trade-off compared to bigger models in tougher tasks.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>[audio.cpp] VibeVoice 1.5B released — 90-min podcast in 22.95 min, 4.08x real-time, 2.86x faster than Python without quantization. Native C++/ggml</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uk7khq/audiocpp_vibevoice_15b_released_90min_podcast_in/</link>
-      <guid isPermaLink="false">pepite-c50fe7e66ba7e697</guid>
-      <pubDate>Wed, 01 Jul 2026 01:15:48 +0000</pubDate>
-      <category>research</category>
-      <description>VibeVoice 1.5B is a C++ tool for faster text-to-speech audio processing. It's remarkable for reducing processing times by over two times compared to Python. However, it's still lacking support for most model quantization features.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Meta restricts use of Claude Code and Codex to keep rival AI out of its training data</title>
-      <link>https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/</link>
-      <guid isPermaLink="false">pepite-d329ba0cd547110d</guid>
-      <pubDate>Mon, 29 Jun 2026 15:47:43 +0000</pubDate>
-      <category>models</category>
-      <description>Meta is blocking its engineers from using certain AI tools to keep outputs from seeping into its own AI training data. It highlights the challenges of balancing tool use and proprietary data integrity. But it's just a policy move, nothing for you to test today.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Cursor now has a mobile app for guiding your coding agent on the go</title>
-      <link>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</link>
-      <guid isPermaLink="false">pepite-0af5768d9dca78ba</guid>
-      <pubDate>Mon, 29 Jun 2026 17:03:50 +0000</pubDate>
-      <category>agents</category>
-      <description>Cursor has launched a mobile app to manage your coding agent remotely. It's handy if you're often on-the-go and need oversight options. The immediate catch: it's an add-on, not a standalone replacement for full code environments.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Vibe coding platform Base44 launches own model as AI startups seek defensibility</title>
-      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
-      <guid isPermaLink="false">pepite-46ee12a57c903e9d</guid>
-      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
-      <category>models</category>
-      <description>Base44, a Wix-owned platform, now has its own AI model aimed at competing with industry leaders. This move is all about control and potential outperformance. But it's early days, so probably not yet ready for every coder.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price</title>
-      <link>https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</link>
-      <guid isPermaLink="false">pepite-b739945b26065fa1</guid>
-      <pubDate>Mon, 29 Jun 2026 18:10:26 +0000</pubDate>
-      <category>models</category>
-      <description>California cut a deal with Anthropic to use its Claude models at half price. It's a rare case of government and cutting-edge AI collaborating cost-effectively. But don't expect big consumer spillovers yet, it's still an institutional setup.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in</title>
-      <link>https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/</link>
-      <guid isPermaLink="false">pepite-482e85d18eed3c42</guid>
-      <pubDate>Mon, 29 Jun 2026 18:05:37 +0000</pubDate>
-      <category>models</category>
-      <description>Amazon's using 'distillation' to shrink its use of large Anthropic models for cheaper processing. This tactic aids in managing the upcoming cost changes per token. It's behind-the-scenes work, so no hands-on changes for your own projects.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Popping the GPU Bubble</title>
-      <link>https://moondream.ai/blog/popping-the-gpu-bubble</link>
-      <guid isPermaLink="false">pepite-c71b7f2c9331a621</guid>
-      <pubDate>Tue, 30 Jun 2026 05:14:35 +0000</pubDate>
-      <category>other</category>
-      <description>A lively discussion on the current state of GPUs. It highlights how scarcity and demand are shaping the GPU landscape. The reality: it's all talk for now, no immediate solutions offered.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Ornith-1.0: self-improving open-source models for agentic coding</title>
-      <link>https://github.com/deepreinforce-ai/Ornith-1</link>
-      <guid isPermaLink="false">pepite-997a649005056070</guid>
-      <pubDate>Mon, 29 Jun 2026 17:16:17 +0000</pubDate>
-      <category>agents</category>
-      <description>Ornith-1.0 is an open-source model that evolves by itself to improve coding. The interesting part: it's open for anyone to tweak and build on. The honest catch: it's early days, so don't expect a polished finish.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>What happens when you run a CUDA kernel?</title>
-      <link>https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/</link>
-      <guid isPermaLink="false">pepite-007c022bd47ba994</guid>
-      <pubDate>Mon, 29 Jun 2026 13:11:08 +0000</pubDate>
-      <category>other</category>
-      <description>A deep dive into the mechanics of running a CUDA kernel on a GPU. It's a chance to understand how your code truly interacts with the hardware. The downside: it's technical and detailed, so non-coders might find it dense.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>fancydirty/mediary-scout</title>
-      <link>https://github.com/fancydirty/mediary-scout</link>
-      <guid isPermaLink="false">pepite-171561a0d01f7592</guid>
-      <pubDate>Sun, 21 Jun 2026 01:25:20 +0000</pubDate>
-      <category>repos</category>
-      <description>Mediary Scout is a media library tool for your cloud drives, driven by agents. It can both search and verify the media files it manages. But heads-up: it's for advanced users who manage their own setups.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>HKUDS/AgentSpace</title>
-      <link>https://github.com/HKUDS/AgentSpace</link>
-      <guid isPermaLink="false">pepite-0e43f7419ecd4f1f</guid>
-      <pubDate>Mon, 22 Jun 2026 04:08:03 +0000</pubDate>
-      <category>repos</category>
-      <description>AgentSpace is a workspace where humans and AI agents work seamlessly together. It aims at helping teams integrate agents as equal partners in projects. The catch is, it requires embracing a new way of team collaboration.
-
-— via GitHub</description>
     </item>
 </channel></rss>
