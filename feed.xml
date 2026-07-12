@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour</title>
+      <link>https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/</link>
+      <guid isPermaLink="false">pepite-c0f6dd207f25c8b5</guid>
+      <pubDate>Sat, 11 Jul 2026 17:38:35 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surprisingly elementary but criticizes the lack of citations for known prior work. The bigger question remains: Does AI just…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Terrorist groups are using every major AI chatbot for attack planning and weapons development</title>
+      <link>https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/</link>
+      <guid isPermaLink="false">pepite-3ff8ee43af6c23fe</guid>
+      <pubDate>Sat, 11 Jul 2026 17:04:28 +0000</pubDate>
+      <category>models</category>
+      <description>A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safety filters repeatedly failed to prevent misuse, voluntary self-regulation by AI…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
+      <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
+      <guid isPermaLink="false">pepite-5f92d55c125d6b18</guid>
+      <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
+      <category>models</category>
+      <description>ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI admits it "didn't get everything quite right" with ChatGPT Work launch and scrambles to fix UX and costs</title>
+      <link>https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/</link>
+      <guid isPermaLink="false">pepite-f13017bd6bd0ec46</guid>
+      <pubDate>Sat, 11 Jul 2026 08:01:09 +0000</pubDate>
+      <category>models</category>
+      <description>Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGPT Work, and regressions in existing workflows. In some cases, GPT-5.6 Sol reportedly deleted data on its own that the…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Mesh LLM: distributed AI computing on iroh</title>
+      <link>https://www.iroh.computer/blog/mesh-llm</link>
+      <guid isPermaLink="false">pepite-7aff107673ab6c13</guid>
+      <pubDate>Sat, 11 Jul 2026 22:38:57 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 590pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Stop Telling Me to Ask an LLM</title>
+      <link>https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/</link>
+      <guid isPermaLink="false">pepite-7715a542847f7196</guid>
+      <pubDate>Sat, 11 Jul 2026 22:28:48 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 573pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom</title>
+      <link>https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom</link>
+      <guid isPermaLink="false">pepite-75305af295b8bd77</guid>
+      <pubDate>Sat, 11 Jul 2026 17:21:49 +0000</pubDate>
+      <category>other</category>
+      <description>It's pulling 413pts/day — real momentum for something this new, not a one-day spike. Still under the radar (213pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Brain0-ai/brain0</title>
+      <link>https://github.com/Brain0-ai/brain0</link>
+      <guid isPermaLink="false">pepite-393f0cdbe95191a5</guid>
+      <pubDate>Thu, 02 Jul 2026 12:02:08 +0000</pubDate>
+      <category>repos</category>
+      <description>git tells you what changed. brain0 tells you why: which prompt wrote it, what the agent read to write it, and whether you can trust it. Quickstart · What it answers · Give your agent memory · How it works · Comparison · Docs Coding agents now write most of the diff: continuously, in parallel, and opaquely. brain0 passively builds a decision graph of your… It's pulling 39★/day — real momentum for something this new, not a one-day spike. Still under the radar (381★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>abundantbeing/hermes-browser-extension</title>
+      <link>https://github.com/abundantbeing/hermes-browser-extension</link>
+      <guid isPermaLink="false">pepite-1af8cb731c1bdb94</guid>
+      <pubDate>Wed, 24 Jun 2026 02:20:56 +0000</pubDate>
+      <category>repos</category>
+      <description>Browser-native side panel for Hermes Agent — connect active web context through a local gateway, Hermes Cloud, or a self-hosted remote gateway. Public alpha v0.1.10 · Load unpacked · Local / Hermes Cloud / Remote · Full Hermes runtime tools Not on the Chrome Web Store yet. Hermes Browser Extension is not a browser chatbot. It is a Chrome/Edge/Chromium side… It's pulling 45★/day — real momentum for something this new, not a one-day spike. Still under the radar (830★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>DeltaV: Thinking with Visual State Updates in Unified Large Multimodal Models</title>
+      <link>http://arxiv.org/abs/2607.08434v1</link>
+      <guid isPermaLink="false">pepite-3730b20026ffb12e</guid>
+      <pubDate>Thu, 09 Jul 2026 12:54:05 +0000</pubDate>
+      <category>research</category>
+      <description>Current Unified Large Multimodal Models (ULMMs) support interleaved multimodal reasoning through textual reasoning and intermediate visual states, but typically generate each visual state as a full image. This full-image generation paradigm introduces substantial visual-token redundancy and dilutes supervision on sparse yet reasoning-critical state… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>WaspMOT: A Benchmark for Long-Term Multi-Object Tracking of Trichogramma Wasps</title>
+      <link>http://arxiv.org/abs/2607.08729v1</link>
+      <guid isPermaLink="false">pepite-20933bcdea2cee72</guid>
+      <pubDate>Thu, 09 Jul 2026 17:34:04 +0000</pubDate>
+      <category>research</category>
+      <description>Multi-object tracking (MOT) has achieved strong performance on benchmarks dominated by short video sequences. However, such datasets do not adequately evaluate long-term identity preservation, where objects must be tracked consistently over extended durations. We introduce WaspMOT, a benchmark designed to address this gap through long-duration tracking of… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN</title>
+      <link>http://arxiv.org/abs/2607.08504v1</link>
+      <guid isPermaLink="false">pepite-5d0e51f7bb6f6975</guid>
+      <pubDate>Thu, 09 Jul 2026 14:00:17 +0000</pubDate>
+      <category>research</category>
+      <description>Most cooperative Vision-Language Navigation (VLN) methods assume unlimited communication, not considering real-world applications where bandwidth is restricted and information efficiency is critical. We introduce \textbf{bandwidth-constrained cooperative VLN} and propose \textbf{hindsight gating}: a lightweight supervised gate that labels… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The new GPT-5.6 family: Luna, Terra, Sol</title>
+      <link>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</link>
+      <guid isPermaLink="false">pepite-3d8f58ac8bbfa714</guid>
+      <pubDate>Thu, 09 Jul 2026 19:46:38 +0000</pubDate>
+      <category>finance</category>
+      <description>OpenAI's latest flagship model hit general availability this morning , and comes in three sizes: Luna, Terra, and Sol (from smallest to largest). The new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.50/$15, Sol $5/$30. For comparison, the Claude Opus series are $5/$25 and the Claude Fable 5 is $10/$50, but price-per-million tokens…
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>I mapped Anthropic’s J-Space Hallucination signal across 7 datasets on Qwen3-4B to find out where it works and where it breaks</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uu61wb/i_mapped_anthropics_jspace_hallucination_signal/</link>
+      <guid isPermaLink="false">pepite-19a57b3fb33d6606</guid>
+      <pubDate>Sun, 12 Jul 2026 05:06:55 +0000</pubDate>
+      <category>research</category>
+      <description>Anthropic recently published their paper on "Global Workspaces" (J-Space) inside language models, showing that looking at internal "workspace noise" (entropy) can catch hallucinations better than just looking at output logprobs. `solarkyle` followed up with a great open-source implementation showing it could route confident errors on TriviaQA. I wanted to… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a "fairly underspecified prompt"</title>
       <link>https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/</link>
       <guid isPermaLink="false">pepite-f94505a7aa2e3e56</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 01 Jul 2026 17:45:51 +0000</pubDate>
       <category>research</category>
       <description>Linkify is a research paper introducing a framework for context-aware part retrieval in assemblies. It's about improving CAD designs using rich geometric data. Note, this is still in the research phase, so applying it directly might take a while.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning</title>
-      <link>http://arxiv.org/abs/2607.01191v1</link>
-      <guid isPermaLink="false">pepite-c7d4ae2702876d64</guid>
-      <pubDate>Wed, 01 Jul 2026 17:24:26 +0000</pubDate>
-      <category>research</category>
-      <description>Perceive-to-Reason, a framework that separates vision from reasoning to enhance visual task efficiency. It can better handle fine visual details. Yet, it's complex to set up and needs significant computing resources.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation</title>
-      <link>http://arxiv.org/abs/2607.01147v1</link>
-      <guid isPermaLink="false">pepite-f560d37739bc543e</guid>
-      <pubDate>Wed, 01 Jul 2026 16:28:11 +0000</pubDate>
-      <category>research</category>
-      <description>EquiSteer aims to correct biases in AI-generated images using a training-free method. It adjusts models at inference time. However, it may not fully eliminate biases without retraining.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency</title>
-      <link>https://www.latent.space/p/aiewf-daily-dispatch-agency</link>
-      <guid isPermaLink="false">pepite-6c68219a57cd0134</guid>
-      <pubDate>Thu, 02 Jul 2026 06:13:49 +0000</pubDate>
-      <category>other</category>
-      <description>A post discusses the balance between autoresearch in AI and human control. It explores maintaining human agency while AI automates tasks. There's no immediate takeaway as it's more of a philosophical exploration.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>qwen 3.6 35a3b on 32gb ram + 8gb vram?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ula7q6/qwen_36_35a3b_on_32gb_ram_8gb_vram/</link>
-      <guid isPermaLink="false">pepite-bd0173a5d179c661</guid>
-      <pubDate>Thu, 02 Jul 2026 06:22:03 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on running a big local language model on a laptop with 32GB RAM. It's possible with some work, but expect to face performance issues with more complex models.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>AIEWF Daily Dispatch: Loops, Software Factories &amp; Forward Deployed Engineers</title>
-      <link>https://www.latent.space/p/aiewf-daily-dispatch-loops</link>
-      <guid isPermaLink="false">pepite-db2a5ab22b1ff2b5</guid>
-      <pubDate>Wed, 01 Jul 2026 04:46:21 +0000</pubDate>
-      <category>agents</category>
-      <description>A fresh roundup from the AI Engineer World's Fair discussing software factories and AI engineering loops. It's worth a read for insights into the next wave of AI development methods. However, it's more of a conceptual overview than actionable steps.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Trump drops restrictions on Anthropic’s Mythos and Fable models</title>
-      <link>https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/</link>
-      <guid isPermaLink="false">pepite-8824530ad2d0a4ab</guid>
-      <pubDate>Wed, 01 Jul 2026 02:16:06 +0000</pubDate>
-      <category>models</category>
-      <description>Major policy update: Trump administration drops restrictions on certain Anthropic models. This opens doors for broader use in AI development. But, it's a shifting landscape — be prepared for sudden changes.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Anthropic launches Claude Sonnet 5 as a cheaper way to run agents</title>
-      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
-      <guid isPermaLink="false">pepite-ed93069ae7772a44</guid>
-      <pubDate>Tue, 30 Jun 2026 18:00:00 +0000</pubDate>
-      <category>agents</category>
-      <description>Anthropic's Claude Sonnet 5 offers cost-effective support for AI agents. It's a great option if you're balancing budget and performance in AI tasks. It's new, so some features might need further development.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)</title>
-      <link>https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/</link>
-      <guid isPermaLink="false">pepite-91ff1e2b31cb1e9a</guid>
-      <pubDate>Tue, 30 Jun 2026 10:34:25 +0000</pubDate>
-      <category>other</category>
-      <description>Zluda 6 lets you run unmodified CUDA apps on non-Nvidia GPUs. It's a big deal if you're eyeing cost savings without scrapping existing CUDA code. But, performance may vary since it's early days for this tool.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>TianhangZhuzth/Fundamental-Ava</title>
-      <link>https://github.com/TianhangZhuzth/Fundamental-Ava</link>
-      <guid isPermaLink="false">pepite-55bc470ef233ce38</guid>
-      <pubDate>Tue, 30 Jun 2026 01:04:13 +0000</pubDate>
-      <category>repos</category>
-      <description>Fundamental-Ava is a tool for creating autonomous, socially intelligent agents. It's about building more human-like AI that can think, remember, and act independently. The downside? It’s still very early and experimental — not ready for production.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Words Are a Byproduct of Consciousness. For LLMs, It's Backwards</title>
-      <link>https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/</link>
-      <guid isPermaLink="false">pepite-2dc3244f9dda6eb5</guid>
-      <pubDate>Tue, 30 Jun 2026 14:16:57 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on how LLMs generate words differently compared to conscious beings. This fresh take questions the essence and future path of AI language models. It's conceptual, so don't expect direct applications.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>shy3130/tickflow-stock-panel</title>
-      <link>https://github.com/shy3130/tickflow-stock-panel</link>
-      <guid isPermaLink="false">pepite-5fc87a26d2ac0f46</guid>
-      <pubDate>Thu, 18 Jun 2026 06:18:29 +0000</pubDate>
-      <category>repos</category>
-      <description>Tickflow-stock-panel helps with backtesting stock strategies based on DuckDB. It offers tools to analyze and visualize market trends easily. However, it's not a complete trading guide and demands some financial know-how.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Surrogate Fidelity: When Can Open LLMs Explain Closed Ones?</title>
-      <link>http://arxiv.org/abs/2606.32008v1</link>
-      <guid isPermaLink="false">pepite-0e5e17845969f7d7</guid>
-      <pubDate>Tue, 30 Jun 2026 17:43:44 +0000</pubDate>
-      <category>research</category>
-      <description>A study on using open models to interpret complex language models indirectly. It explores when these models can reliably be analyzed through surrogates. The methodology is intricate and mainly useful for research, not day-to-day use.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments</title>
-      <link>http://arxiv.org/abs/2606.31966v1</link>
-      <guid isPermaLink="false">pepite-a650a4626c992f24</guid>
-      <pubDate>Tue, 30 Jun 2026 17:07:53 +0000</pubDate>
-      <category>finance</category>
-      <description>MECoBench is a benchmark for studying how multimodal AI agents collaborate. It helps measure and improve how different AI work together in real scenarios. The framework is complex, mostly making sense for teams focused on agent development.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs</title>
-      <link>http://arxiv.org/abs/2606.31982v1</link>
-      <guid isPermaLink="false">pepite-bdcf1bcf2913d4ae</guid>
-      <pubDate>Tue, 30 Jun 2026 17:20:29 +0000</pubDate>
-      <category>research</category>
-      <description>ERA helps reduce the processing time for multimodal models by pruning unneeded tokens. This boosts efficiency without losing model accuracy. But, it's a fresh approach with nuances that might not suit all setups.
 
 — via arXiv</description>
     </item>
