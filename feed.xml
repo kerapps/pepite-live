@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>OpenAI’s new flagship model deletes files on its own, people keep warning</title>
+      <link>https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/</link>
+      <guid isPermaLink="false">pepite-3e68f8ee554f3c0b</guid>
+      <pubDate>Tue, 14 Jul 2026 21:50:11 +0000</pubDate>
+      <category>models</category>
+      <description>A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>5 Trends That Defined AI Engineering at World’s Fair 2026</title>
+      <link>https://www.latent.space/p/aiewf26trends</link>
+      <guid isPermaLink="false">pepite-a01c1d2f0dc45728</guid>
+      <pubDate>Tue, 14 Jul 2026 23:21:21 +0000</pubDate>
+      <category>agents</category>
+      <description>At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>OpenAI’s first hardware device is reportedly a screenless speaker that can move</title>
+      <link>https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/</link>
+      <guid isPermaLink="false">pepite-7218bca86f1b347e</guid>
+      <pubDate>Tue, 14 Jul 2026 22:22:24 +0000</pubDate>
+      <category>models</category>
+      <description>The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and become a physical manifestation of OpenAI’s ChatGPT." It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>QuantumByteOSS/quantumbyte</title>
+      <link>https://github.com/QuantumByteOSS/quantumbyte</link>
+      <guid isPermaLink="false">pepite-0eff2da2c24211a2</guid>
+      <pubDate>Tue, 14 Jul 2026 04:53:39 +0000</pubDate>
+      <category>repos</category>
+      <description>Vibe coding is just the beginning. The open-source Convergence App Builder. Generate a working app from intent, then verify every agent turn against its business requirements. QuantumByte is early, working, and intentionally being built in public. We are looking for founding contributors who believe software should be shaped by the people who understand the… It's pulling 278★/day — real momentum for something this new, not a one-day spike. Still under the radar (283★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations</title>
+      <link>https://agnost.ai</link>
+      <guid isPermaLink="false">pepite-49d60d9f7587e48e</guid>
+      <pubDate>Tue, 14 Jul 2026 16:06:18 +0000</pubDate>
+      <category>agents</category>
+      <description>Hey HN, we’re Shubham &amp; Parth, childhood friends building Agnost AI ( https://agnost.ai ), product analytics for teams building chat and voice agents. We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or… It's pulling 85pts/day — real momentum for something this new, not a one-day spike. Still under the radar (47pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Codex starts encrypting sub-agent prompts</title>
+      <link>https://github.com/openai/codex/issues/28058</link>
+      <guid isPermaLink="false">pepite-6e304a43da6711de</guid>
+      <pubDate>Tue, 14 Jul 2026 11:21:32 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 553pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Guardian Angels: LLM Personalization for Productivity and Security</title>
+      <link>https://gwern.net/guardian-angel</link>
+      <guid isPermaLink="false">pepite-b3724984dd019794</guid>
+      <pubDate>Tue, 14 Jul 2026 12:50:29 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 109pts/day — real momentum for something this new, not a one-day spike. Still under the radar (75pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>modiqo/waggle</title>
+      <link>https://github.com/modiqo/waggle</link>
+      <guid isPermaLink="false">pepite-82410464d94fbe62</guid>
+      <pubDate>Wed, 08 Jul 2026 04:33:09 +0000</pubDate>
+      <category>repos</category>
+      <description>Not a path. Not a URL. A handoff that answers back. Locations are dumb — no per-agent shaping, no receipts, no way to fix them once sent. waggle's 30-byte token resolves into each agent's own view, counts every read , and propagates a correction to every holder. A path can't do that; a URL needs a server; this needs neither. We are entering the world of… It's pulling 94★/day — real momentum for something this new, not a one-day spike. Still under the radar (666★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>PalmClaw: A Native On-Device Agent Framework for Mobile Phones</title>
+      <link>http://arxiv.org/abs/2607.13027v1</link>
+      <guid isPermaLink="false">pepite-a24710e44d7f13bf</guid>
+      <pubDate>Tue, 14 Jul 2026 17:58:57 +0000</pubDate>
+      <category>research</category>
+      <description>Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices are also important agent environments because they are widely… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution</title>
+      <link>http://arxiv.org/abs/2607.13034v1</link>
+      <guid isPermaLink="false">pepite-b3d9ad082bbd4027</guid>
+      <pubDate>Tue, 14 Jul 2026 17:59:31 +0000</pubDate>
+      <category>research</category>
+      <description>Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-context-first strategy--re-reading files and dependencies they have already seen--turning a one-line edit into a small code-base audit. We argue the missing… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>MetaInfer: A Knowledge Only LLM Inference Engine Generator SKILL Toolbox</title>
+      <link>http://arxiv.org/abs/2607.12875v1</link>
+      <guid isPermaLink="false">pepite-ac2a3f5b536a3879</guid>
+      <pubDate>Tue, 14 Jul 2026 15:22:48 +0000</pubDate>
+      <category>research</category>
+      <description>As LLM technology advances, the space of model families, compute hardware, quantization schemes, parallelization strategies, and specialized optimization kernels continues to expand, sharply increasing the code complexity and maintenance cost of general-purpose inference frameworks. Conventional software engineering uses multiple layers of abstraction to… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>simonw/pedalican</title>
+      <link>https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything</link>
+      <guid isPermaLink="false">pepite-f60e8094f327fd49</guid>
+      <pubDate>Tue, 14 Jul 2026 22:29:45 +0000</pubDate>
+      <category>models</category>
+      <description>simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a "pet" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quoting Armin Ronacher</title>
+      <link>https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything</link>
+      <guid isPermaLink="false">pepite-87fb36a4c3ad440e</guid>
+      <pubDate>Tue, 14 Jul 2026 18:04:23 +0000</pubDate>
+      <category>agents</category>
+      <description>The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has the shape it does. This language is rarely written down in one place. It lives partly in documentation and code, but also in code review,… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>If you had a 384GB (4x Blackwell), what model would you put on it and why?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uwv48k/if_you_had_a_384gb_4x_blackwell_what_model_would/</link>
+      <guid isPermaLink="false">pepite-0571f401a392ec75</guid>
+      <pubDate>Wed, 15 Jul 2026 04:10:41 +0000</pubDate>
+      <category>models</category>
+      <description>Hey guys, Company I work for is actually very interested in spending the money to host our own local model for the team. We expect probably 2-3 super users and at the worst case 10-20 concurrent users. The LLM would be mostly used for internal company policies/data management and other various "thinking tasks". No real coding will be done by such a machine… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] Codex usage up &gt;10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??</title>
       <link>https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</link>
       <guid isPermaLink="false">pepite-f170a3464423798a</guid>
@@ -1362,145 +1502,5 @@
       <description>A discussion on using dispersion loss to prevent small models' embeddings from losing detail. This method could maintain model diversity in smaller systems. The hitch: it's theoretical and aimed at developers comfortable with model tweaking.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</title>
-      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</link>
-      <guid isPermaLink="false">pepite-f2aca3c59c5e3a3f</guid>
-      <pubDate>Sun, 05 Jul 2026 01:00:48 +0000</pubDate>
-      <category>models</category>
-      <description>SQLite-utils version 4.0rc2 was significantly built with the help of an AI model. This reflects how AI can integrate into routine coding tasks to boost productivity. The limitation: it's a release candidate (RC2), meaning it's not final and may have some bumps.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Better Models: Worse Tools</title>
-      <link>https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</link>
-      <guid isPermaLink="false">pepite-32dc242138e67d17</guid>
-      <pubDate>Sat, 04 Jul 2026 22:53:52 +0000</pubDate>
-      <category>models</category>
-      <description>Simon Willison points out that new AI models like Claude sometimes complicate basic workflows. This showcases challenges in using newer AI with existing systems. The rub: newer doesn't always mean better, especially if your tools reject the AI's suggestions.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Building a World Map with only 500 bytes</title>
-      <link>https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything</link>
-      <guid isPermaLink="false">pepite-f1af32ab828bba03</guid>
-      <pubDate>Sat, 04 Jul 2026 23:09:02 +0000</pubDate>
-      <category>other</category>
-      <description>A clever hack to generate an ASCII world map using just 500 bytes with Codex's help. It's a neat example of squeezing value from low-resource solutions. The tradeoff: the map is simple, mainly a proof of concept rather than a robust tool.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>I benchmarked 13 models at 65K-128K context to find out what actually matters for agentic workloads</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1unrse9/i_benchmarked_13_models_at_65k128k_context_to/</link>
-      <guid isPermaLink="false">pepite-142322d0397d0d1f</guid>
-      <pubDate>Sun, 05 Jul 2026 03:37:23 +0000</pubDate>
-      <category>research</category>
-      <description>A Redditor shares a benchmark comparing 13 models for their performance in handling large contexts. The detailed assessment highlights what matters most in specific AI workloads. Remember, such benchmarks require a very specific setup—not a quick plug-and-play operation.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents</title>
-      <link>https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/</link>
-      <guid isPermaLink="false">pepite-d9aa27c63dcb5475</guid>
-      <pubDate>Fri, 03 Jul 2026 19:24:40 +0000</pubDate>
-      <category>agents</category>
-      <description>News about Microsoft's push into a combined AI app with enhanced agents. The cool factor is its potential to streamline tasks across areas for users. But, as expected with new features, there's a cost involved for these advanced background services.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do</title>
-      <link>https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/</link>
-      <guid isPermaLink="false">pepite-8e7d5e72e4f3fdf5</guid>
-      <pubDate>Fri, 03 Jul 2026 16:14:44 +0000</pubDate>
-      <category>finance</category>
-      <description>A study showing AI benchmarks might underestimate actual capabilities. It's surprising how much more capable these agents can be with adjusted evaluations. The catch: it's a paper, so practical application may take a while to filter through.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>GPT and Claude failed Bridgewater's finance tests because the right answers were never public</title>
-      <link>https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/</link>
-      <guid isPermaLink="false">pepite-a04c5f85c556af36</guid>
-      <pubDate>Fri, 03 Jul 2026 11:16:42 +0000</pubDate>
-      <category>models</category>
-      <description>A post about fine-tuning models for specific finance tasks with high accuracy. It's notable for its cost-effectiveness against bigger models. However, the claims aren't independently verified, so take them with a grain of salt.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Soatok's Informal Guide to Threat Models</title>
-      <link>https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/</link>
-      <guid isPermaLink="false">pepite-f1d8b9ca5159d73f</guid>
-      <pubDate>Sat, 04 Jul 2026 00:35:49 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on threat models and their importance. It's intriguing because it simplifies the complex idea of understanding risks in software. The catch: it focuses on informal approaches, which might miss technical depth.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Ask HN: Is anyone experimenting with different ways of using LLMs for coding?</title>
-      <link>https://news.ycombinator.com/item?id=48771515</link>
-      <guid isPermaLink="false">pepite-b68e56ae66f3659b</guid>
-      <pubDate>Fri, 03 Jul 2026 06:21:44 +0000</pubDate>
-      <category>models</category>
-      <description>A community chat about using language models for coding. What's cool is the shared struggle and tips on reaching a coding flow with AI. But it's conversational, so expect more talk than actionable steps.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>jmerelnyc/Talos</title>
-      <link>https://github.com/jmerelnyc/Talos</link>
-      <guid isPermaLink="false">pepite-2a6027c6a0a8298b</guid>
-      <pubDate>Thu, 02 Jul 2026 14:43:11 +0000</pubDate>
-      <category>repos</category>
-      <description>A GitHub project that lets you share your GPU for AI jobs and get paid. It's interesting because it opens up new ways to leverage unused GPU power for income. The downside: it needs a decent GPU setup and some initial configuration.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Jamesob's guide to running SOTA LLMs locally</title>
-      <link>https://github.com/jamesob/local-llm</link>
-      <guid isPermaLink="false">pepite-8ce8065b1a85dbc6</guid>
-      <pubDate>Fri, 03 Jul 2026 15:03:43 +0000</pubDate>
-      <category>research</category>
-      <description>A guide on running state-of-the-art language models on your own hardware. It's appealing for those who want control and privacy over cloud solutions. The catch: you'll need a capable machine and some setup time.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>HUANGCHIHHUNGLeo/claude-real-video</title>
-      <link>https://github.com/HUANGCHIHHUNGLeo/claude-real-video</link>
-      <guid isPermaLink="false">pepite-cfd1e767cf792b8c</guid>
-      <pubDate>Tue, 30 Jun 2026 10:55:02 +0000</pubDate>
-      <category>repos</category>
-      <description>A tool that analyzes video locally by focusing on significant frames. It's novel because it processes video more intelligently than just sampling every second. The limitation: it's still limited to certain file types and may not handle all video formats.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Open Source AI Gap Map</title>
-      <link>https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</link>
-      <guid isPermaLink="false">pepite-91e309695503905d</guid>
-      <pubDate>Fri, 03 Jul 2026 22:04:31 +0000</pubDate>
-      <category>research</category>
-      <description>An attempt to catalog open-source AI tools, models, and datasets. The intrigue is in its breadth and the organization of so many entities across the AI landscape. However, the sheer size might be overwhelming if you're just looking for specifics.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>CheckRLM: Effective Knowledge-Thought Coherence Checking in Retrieval-Augmented Reasoning</title>
-      <link>http://arxiv.org/abs/2607.02262v1</link>
-      <guid isPermaLink="false">pepite-abc54faebf6c87bd</guid>
-      <pubDate>Thu, 02 Jul 2026 14:50:25 +0000</pubDate>
-      <category>research</category>
-      <description>Research on enhancing reasoning models by checking their facts as they work. It could make AI-generated content much more reliable. The caveat: this is still research, so don't expect plug-and-play options just yet.
-
-— via arXiv</description>
     </item>
 </channel></rss>
