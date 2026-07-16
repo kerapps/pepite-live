@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic</title>
+      <link>https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/</link>
+      <guid isPermaLink="false">pepite-cce1dcce4c530f32</guid>
+      <pubDate>Wed, 15 Jul 2026 23:59:44 +0000</pubDate>
+      <category>models</category>
+      <description>Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</title>
+      <link>https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</link>
+      <guid isPermaLink="false">pepite-89c9f7f3ade42756</guid>
+      <pubDate>Wed, 15 Jul 2026 22:24:17 +0000</pubDate>
+      <category>agents</category>
+      <description>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises… It landed in the last few hours.
+
+— via VentureBeat AI</description>
+    </item>
+    <item>
+      <title>OpenAI is now using AI to attack its own AI, and it's working better than humans ever did</title>
+      <link>https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/</link>
+      <guid isPermaLink="false">pepite-2ac9497cd90787fa</guid>
+      <pubDate>Wed, 15 Jul 2026 19:47:53 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening models like GPT-5.6 Sol. The article OpenAI is now using AI to attack its own AI, and it's working better than humans ever did appeared first on The Decoder . It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Inkling – Open-Weights 975B Parameter LLM</title>
+      <link>https://thinkingmachines.ai/inkling/</link>
+      <guid isPermaLink="false">pepite-86bdf1f398e78d9e</guid>
+      <pubDate>Wed, 15 Jul 2026 18:14:23 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 259pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>LLM Networking with MikroTik</title>
+      <link>https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html</link>
+      <guid isPermaLink="false">pepite-51c712cfd8b0d5c9</guid>
+      <pubDate>Wed, 15 Jul 2026 22:23:27 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 228pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU</title>
+      <link>https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/</link>
+      <guid isPermaLink="false">pepite-1538a89622fc2eb0</guid>
+      <pubDate>Wed, 15 Jul 2026 15:34:05 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 453pts/day — real momentum for something this new, not a one-day spike. Still under the radar (262pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>William-Lu-stack/Flawless</title>
+      <link>https://github.com/William-Lu-stack/Flawless</link>
+      <guid isPermaLink="false">pepite-8b6c2fac9ecfd97f</guid>
+      <pubDate>Fri, 10 Jul 2026 05:57:02 +0000</pubDate>
+      <category>repos</category>
+      <description>它不是另一个只会给建议的运维聊天框。Flawless 将“发现问题、收集证据、生成预演、人工授权、执行变更、恢复验证、经验沉淀”连接成一个可审计闭环。 Created in Shanghai by 陆宣宇 (Xuanyu Lu). These are real console captures from the running platform, not conceptual mockups. Current release: 3.2.0. Release 3.2 adds persistent remediation lineage: every failed strategy, action, verification result, and replacement plan stays linked… It's pulling 108★/day — real momentum for something this new, not a one-day spike. Still under the radar (648★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>clawkwork/clawk</title>
+      <link>https://github.com/clawkwork/clawk</link>
+      <guid isPermaLink="false">pepite-47c5d04b57b351d9</guid>
+      <pubDate>Mon, 06 Jul 2026 21:30:38 +0000</pubDate>
+      <category>repos</category>
+      <description>A coding agent is only useful when you let it actually do things: install packages, run the code it writes, start servers, use the network. On your own machine that leaves two bad options. You approve every command (and babysit a prompt every few seconds), or you run --dangerously-skip-permissions and hope nothing important is one rm -rf or one leaked token… It's pulling 58★/day — real momentum for something this new, not a one-day spike. Still under the radar (544★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models</title>
+      <link>http://arxiv.org/abs/2607.13860v1</link>
+      <guid isPermaLink="false">pepite-4f702d1ed3d23a4a</guid>
+      <pubDate>Wed, 15 Jul 2026 14:05:58 +0000</pubDate>
+      <category>research</category>
+      <description>While Multimodal Large Language Models (MLLMs) have demonstrated remarkable success in 2D medical image understanding, their extension to 3D volumetric imaging remains hindered by prohibitive annotation costs and dataset opacity. Current data formats, predominantly consisting of rigid Visual Question Answering (VQA) pairs or unstructured final clinical… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>A Self-Evolving Agent for Longitudinal Personal Health Management</title>
+      <link>http://arxiv.org/abs/2607.13940v1</link>
+      <guid isPermaLink="false">pepite-fed7c0891f4a1198</guid>
+      <pubDate>Wed, 15 Jul 2026 15:22:11 +0000</pubDate>
+      <category>research</category>
+      <description>Personal health management unfolds over repeated encounters, yet most health AI systems treat each request in isolation. We developed HealthClaw, an open-source agent architecture that updates support as a person's routines, preferences, measurements and risks change. It separates shared safety rules and medical knowledge from private longitudinal memory… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Post-Training Shifts Confidence: A Three-Stage Analysis of How SFT, RL, and OPD Shape Pre-, Intra-, and Post-CoT Calibration</title>
+      <link>http://arxiv.org/abs/2607.13753v1</link>
+      <guid isPermaLink="false">pepite-32b4f6e2cfadef3e</guid>
+      <pubDate>Wed, 15 Jul 2026 12:12:37 +0000</pubDate>
+      <category>research</category>
+      <description>Large language models have made strong reasoning gains through supervised fine-tuning, reinforcement learning, and on-policy distillation, yet these post-training methods are usually evaluated only by final-answer accuracy. We study how they reshape confidence during reasoning. We introduce a three-stage calibration framework that evaluates confidence… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Mermaid to Unicode box art (grok-mermaid)</title>
+      <link>https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything</link>
+      <guid isPermaLink="false">pepite-a4fed1204385e0c0</guid>
+      <pubDate>Thu, 16 Jul 2026 00:33:18 +0000</pubDate>
+      <category>agents</category>
+      <description>Tool: Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs , a "self-contained terminal renderer for Mermaid diagrams" written in Rust. I figured it would be fun to try that out in a browser via WebAssembly. Here's the prompt I ran in Claude… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>xai-org/grok-build, now open source</title>
+      <link>https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything</link>
+      <guid isPermaLink="false">pepite-c8773762c9175957</guid>
+      <pubDate>Wed, 15 Jul 2026 23:59:30 +0000</pubDate>
+      <category>models</category>
+      <description>xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload "my SSH keys, my password manager database, my documents,… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Qwen3.5 122B-A10B · ROCmFP4 iMatrix</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uxqgke/qwen35_122ba10b_rocmfp4_imatrix/</link>
+      <guid isPermaLink="false">pepite-e93a9f64acb8f17f</guid>
+      <pubDate>Thu, 16 Jul 2026 02:45:52 +0000</pubDate>
+      <category>models</category>
+      <description>Hola Strix and AMD stacker frendios. Read the Lineage and Credits, this uses charlie12345/ROCmFPX, won't work on native llama.cpp yet. 122B total · 10B active · 60.70 GiB · 28.50 tok/s MTP-off · BF16 KLD 0.041366 · Decode 28.505 Decode speed + 36.89% faster Size - 13.47gb smaller submitted by /u/RedParaglider [link] [comments] It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>OpenAI’s new flagship model deletes files on its own, people keep warning</title>
       <link>https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/</link>
       <guid isPermaLink="false">pepite-3e68f8ee554f3c0b</guid>
@@ -1362,145 +1502,5 @@
       <description>Hugging Face has rolled out major updates to their Kernels platform. It's a welcomed boost for running machine learning experiments and model training. If you're new, the updates might take a bit to learn and integrate effectively into your workflow.
 
 — via Hugging Face</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc2</title>
-      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything</link>
-      <guid isPermaLink="false">pepite-bf994a9221ac3e03</guid>
-      <pubDate>Sun, 05 Jul 2026 00:47:38 +0000</pubDate>
-      <category>models</category>
-      <description>Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) .
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Training Gemma-3 for Structured Mathematical Reasoning with Tunix GRPO, LoRA Adapters, and GSM8K Rewards</title>
-      <link>https://www.marktechpost.com/2026/07/05/training-gemma-3-for-structured-mathematical-reasoning-with-tunix-grpo-lora-adapters-and-gsm8k-rewards/</link>
-      <guid isPermaLink="false">pepite-74d41fdc13429b00</guid>
-      <pubDate>Mon, 06 Jul 2026 04:26:58 +0000</pubDate>
-      <category>models</category>
-      <description>Researchers are training Gemma-3 for structured math problem reasoning. They're using an efficient method that keeps training lightweight. But diving into this project means familiarizing yourself with various tools and adapting to its specialized approach.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>Local LLM for legal-document adaptation keeps hallucinating citations with total confidence — grounding/model/pipeline ideas?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uolb4y/local_llm_for_legaldocument_adaptation_keeps/</link>
-      <guid isPermaLink="false">pepite-7854d6cdca1ed09d</guid>
-      <pubDate>Mon, 06 Jul 2026 02:57:26 +0000</pubDate>
-      <category>models</category>
-      <description>A local LLM project focuses on adapting legal documents while avoiding cloud services for privacy. It's crucial for keeping sensitive data secure. The downside: running powerful AI models locally can be taxing on your hardware and time.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Understand to participate</title>
-      <link>https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything</link>
-      <guid isPermaLink="false">pepite-02c7ba65a2e99a15</guid>
-      <pubDate>Thu, 02 Jul 2026 17:07:14 +0000</pubDate>
-      <category>agents</category>
-      <description>I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate Geoffrey was talking about the challenge of collaborating with coding agents as they construct increasingly large and sophisticated changes, and the need to avoid taking on cognitive debt as your understanding drifts from how the…
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%</title>
-      <link>https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/</link>
-      <guid isPermaLink="false">pepite-fe400ddf127bb6a0</guid>
-      <pubDate>Sat, 04 Jul 2026 18:11:33 +0000</pubDate>
-      <category>models</category>
-      <description>Pxpipe is an open-source tool that cleverly hides text prompts in PNGs to cut token costs. This tactic exploits image pricing to potentially save up to 70% in Claude Code uses. Caveat: it risks speed and accuracy for the sake of cost-saving.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>What is Mistral AI? Everything to know about the OpenAI competitor</title>
-      <link>https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
-      <guid isPermaLink="false">pepite-1c046554877efb1a</guid>
-      <pubDate>Sat, 04 Jul 2026 15:51:32 +0000</pubDate>
-      <category>finance</category>
-      <description>An overview of Mistral AI, an open-source contender aiming to rival OpenAI. It serves as an alternative path for those interested in open-source AI development. The limitation: mostly a backgrounder on intentions, not immediate tools or code.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first</title>
-      <link>https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/</link>
-      <guid isPermaLink="false">pepite-c0ca9f9c802563af</guid>
-      <pubDate>Sat, 04 Jul 2026 12:37:51 +0000</pubDate>
-      <category>models</category>
-      <description>Thariq Shihipar from Anthropic shares tips for better Fable 5 prompting by addressing personal blind spots first. It emphasizes the importance of user reflection for improved AI interactions. It's more advice than a tool — it takes effort to see your own blind spots.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI cofounder envisions "almost no interface" future where nobody learns software anymore</title>
-      <link>https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/</link>
-      <guid isPermaLink="false">pepite-75f263f014fb653f</guid>
-      <pubDate>Sat, 04 Jul 2026 09:53:21 +0000</pubDate>
-      <category>agents</category>
-      <description>Greg Brockman suggests a future where software becomes invisible and context-aware. This vision could transform interaction with tech, potentially phasing out traditional interfaces. But it's far from reality, especially as Codex still falls short of this vision.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Midjourney wants Hollywood studios to reveal the details of their AI usage</title>
-      <link>https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</link>
-      <guid isPermaLink="false">pepite-ae006f7d6163cee7</guid>
-      <pubDate>Sat, 04 Jul 2026 18:00:05 +0000</pubDate>
-      <category>other</category>
-      <description>Midjourney's legal push for Hollywood transparency in AI usage hints at broader industry trends. It underscores the growing demand for disclosure in AI applications. But, this is a legal issue, so don’t expect any immediate revelations or changes in your own work.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance</title>
-      <link>https://github.com/openai/codex/issues/30364</link>
-      <guid isPermaLink="false">pepite-0f940ba0b525cd6b</guid>
-      <pubDate>Sat, 04 Jul 2026 21:51:09 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on GPT-5.5's reasoning-token clustering facing performance issues. It highlights how clustering these reasoning tokens might degrade Codex's output quality. The downside: this is mostly talk right now, not a fix you can apply yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Kulaxyz/token-diet</title>
-      <link>https://github.com/Kulaxyz/token-diet</link>
-      <guid isPermaLink="false">pepite-8969f9cf8583c3a9</guid>
-      <pubDate>Fri, 03 Jul 2026 15:20:04 +0000</pubDate>
-      <category>repos</category>
-      <description>Kulaxyz's 'token-diet' helps coding agents spend fewer tokens. It can trim down your token use by around 31% on average. The catch: this tool runs at all times, which could be overkill if savings aren't consistent for you.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>jamesob/local-llm</title>
-      <link>https://github.com/jamesob/local-llm</link>
-      <guid isPermaLink="false">pepite-58eea7d52c07ac69</guid>
-      <pubDate>Fri, 03 Jul 2026 13:06:03 +0000</pubDate>
-      <category>repos</category>
-      <description>Jamesob's 'local-llm' lets you set up powerful AI systems at home with the right hardware. It's a way to explore state-of-the-art machine learning locally without cloud reliance. The downside: it's not cheap — you need a decent budget and knowledge to get the right hardware.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Faster embeddings: how we rebuilt the ONNX path in Manticore</title>
-      <link>https://manticoresearch.com/blog/onnx-embeddings-speedup/</link>
-      <guid isPermaLink="false">pepite-c12a9787fe42aae6</guid>
-      <pubDate>Fri, 03 Jul 2026 03:49:47 +0000</pubDate>
-      <category>other</category>
-      <description>A post revealing how Manticore improved embedding speed by reworking the ONNX path. Faster embeddings can mean quicker responses in AI applications. The catch here is it’s mainly a technical discussion without hands-on details you can implement easily.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Dispersion loss counteracts embedding condensation in small language models</title>
-      <link>https://chenliu-1996.github.io/projects/LM-Dispersion/</link>
-      <guid isPermaLink="false">pepite-6f4490a302d8cc3f</guid>
-      <pubDate>Fri, 03 Jul 2026 22:35:47 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on using dispersion loss to prevent small models' embeddings from losing detail. This method could maintain model diversity in smaller systems. The hitch: it's theoretical and aimed at developers comfortable with model tweaking.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
