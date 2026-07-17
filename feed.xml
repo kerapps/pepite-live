@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI</title>
+      <link>https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/</link>
+      <guid isPermaLink="false">pepite-a3a55cfc227c225b</guid>
+      <pubDate>Thu, 16 Jul 2026 19:49:39 +0000</pubDate>
+      <category>research</category>
+      <description>Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context. In the company's own benchmarks, it comes close to Claude Fable 5 and GPT 5.6 Sol while beating Opus 4.8 and GLM 5.2, in some cases by a wide margin. The model is also significantly pricier than its predecessor. Full weights are scheduled for… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix</title>
+      <link>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</link>
+      <guid isPermaLink="false">pepite-e9ea1363a186c8a2</guid>
+      <pubDate>Thu, 16 Jul 2026 17:06:08 +0000</pubDate>
+      <category>agents</category>
+      <description>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already…
+
+— via VentureBeat AI</description>
+    </item>
+    <item>
+      <title>xAI can’t deny Grok makes CSAM anymore. So it’s suing users.</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</link>
+      <guid isPermaLink="false">pepite-976e25fe768e3c13</guid>
+      <pubDate>Thu, 16 Jul 2026 20:26:23 +0000</pubDate>
+      <category>models</category>
+      <description>Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images. It landed in the last few hours.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>LM Studio Bionic: the AI agent for open models</title>
+      <link>https://lmstudio.ai/blog/introducing-lm-studio-bionic</link>
+      <guid isPermaLink="false">pepite-49c35eab02968fae</guid>
+      <pubDate>Thu, 16 Jul 2026 20:18:15 +0000</pubDate>
+      <category>agents</category>
+      <description>It landed in the last few hours. It's pulling 515pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Detecting LLM-Generated Texts with “Classical” Machine Learning</title>
+      <link>https://blog.lyc8503.net/en/post/llm-classifier/</link>
+      <guid isPermaLink="false">pepite-914e4bd7347cf9a8</guid>
+      <pubDate>Thu, 16 Jul 2026 16:41:37 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 330pts/day — real momentum for something this new, not a one-day spike. Still under the radar (176pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>The LLM Critics Are Right. I Use LLMs Anyway</title>
+      <link>https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/</link>
+      <guid isPermaLink="false">pepite-cb54298db0673ea1</guid>
+      <pubDate>Thu, 16 Jul 2026 11:59:01 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 285pts/day — real momentum for something this new, not a one-day spike. Still under the radar (208pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>alexafinode/claude-arbitrage-bot</title>
+      <link>https://github.com/alexafinode/claude-arbitrage-bot</link>
+      <guid isPermaLink="false">pepite-064e06c37cf26910</guid>
+      <pubDate>Thu, 16 Jul 2026 00:58:40 +0000</pubDate>
+      <category>repos</category>
+      <description>An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call. An arbitrage bot is a smart contract connected to an external automation script that controls its… It's pulling 138★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>deer-flow/llm-space</title>
+      <link>https://github.com/deer-flow/llm-space</link>
+      <guid isPermaLink="false">pepite-e63d27d06589ec3c</guid>
+      <pubDate>Sun, 28 Jun 2026 03:39:34 +0000</pubDate>
+      <category>repos</category>
+      <description>https://github.com/user-attachments/assets/2ba7a600-1f1a-44c0-b9f1-34ad42100213 LLM Space is a sister project of DeerFlow, and we dogfood it heavily: every version of DeerFlow is built and debugged with LLM Space. The project started in March 2023, and v4 is its fourth major iteration. Your files and API keys stay on your local computer. LLM Space collects… It's pulling 47★/day — real momentum for something this new, not a one-day spike. Still under the radar (908★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators</title>
+      <link>http://arxiv.org/abs/2607.15273v1</link>
+      <guid isPermaLink="false">pepite-73378c47d203bcb9</guid>
+      <pubDate>Thu, 16 Jul 2026 17:59:02 +0000</pubDate>
+      <category>research</category>
+      <description>MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific objectives. In particular, DiffusionNFT offers an efficient forward-process… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration</title>
+      <link>http://arxiv.org/abs/2607.15257v1</link>
+      <guid isPermaLink="false">pepite-5119dbef178d84af</guid>
+      <pubDate>Thu, 16 Jul 2026 17:51:23 +0000</pubDate>
+      <category>research</category>
+      <description>Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-agent systems can become trapped in repetitive loops, wasting… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy</title>
+      <link>http://arxiv.org/abs/2607.15176v1</link>
+      <guid isPermaLink="false">pepite-628b7e759de3e8f7</guid>
+      <pubDate>Thu, 16 Jul 2026 16:29:34 +0000</pubDate>
+      <category>finance</category>
+      <description>Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy assessment test, a standardized SciVis literacy assessment… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
+      <link>https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</link>
+      <guid isPermaLink="false">pepite-98a9920bcc16cf1d</guid>
+      <pubDate>Thu, 16 Jul 2026 20:19:30 +0000</pubDate>
+      <category>research</category>
+      <description>Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their "most capable model to date, with 2.8 trillion parameters". It's currently available via their website and API, but an open weight release is promised "by July 27, 2026". Moonshot are calling this the first "open 3T-class model" (I guess they're rounding 2.8 trillion up to 3… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quoting Thibault Sottiaux</title>
+      <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
+      <guid isPermaLink="false">pepite-0474f9c399b0290d</guid>
+      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
+      <category>finance</category>
+      <description>On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled The model attempts to override the $HOME env var to define a temporary… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Developers who move fast still need to do it together​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿‍​‌‍‌‍​﻿‌‌​﻿​‍‌‍‌​​﻿‌﻿‌‍​‍​‍﻿‌‌‍‌‌‌‍‌​​﻿​﻿​﻿‌‌​‍﻿‌​﻿‌​‌‍‌​​﻿​‍​﻿​﻿​‍﻿‌​﻿‍‌​﻿​​​﻿‌​‌‍‌‌​‍﻿‌‌‍‌‌​﻿​‌‌‍​﻿​﻿​﻿​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿‍​‌‍‌‍​﻿‌‌​﻿​‍‌‍‌​​﻿‌﻿‌‍​‍​‍﻿‌‌‍‌‌‌‍‌​​﻿​﻿​﻿‌‌​‍﻿‌​﻿‌​‌‍‌​​﻿​‍​﻿​﻿​‍﻿‌​﻿‍‌​﻿​​​﻿‌​‌‍‌‌​‍﻿‌‌‍‌‌​﻿​‌‌‍​﻿​﻿​﻿​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
+      <link>https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/</link>
+      <guid isPermaLink="false">pepite-9a3b7732daaff909</guid>
+      <pubDate>Fri, 17 Jul 2026 07:40:00 +0000</pubDate>
+      <category>agents</category>
+      <description>At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer… It landed in the last few hours.
+
+— via Stack Overflow</description>
+    </item>
+    <item>
       <title>Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic</title>
       <link>https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/</link>
       <guid isPermaLink="false">pepite-cce1dcce4c530f32</guid>
@@ -1362,145 +1502,5 @@
       <description>M3Bench is a benchmark focused on editing models in the medical field. It's meant to test how well models handle clinical variations. But it's specific—and might not apply if you're outside the healthcare sector.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Unified Audio Intelligence Without Regressing on Text Intelligence</title>
-      <link>http://arxiv.org/abs/2607.05196v1</link>
-      <guid isPermaLink="false">pepite-0ef33496fba82fe0</guid>
-      <pubDate>Mon, 06 Jul 2026 15:11:57 +0000</pubDate>
-      <category>research</category>
-      <description>Audex is a unified model that handles both audio and text intelligently. It brings two domains into one system for seamless integration. The catch: it needs a hefty setup, so not for those without experience in similar projects.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>tencent/Hy3</title>
-      <link>https://simonwillison.net/2026/Jul/6/hy3/#atom-everything</link>
-      <guid isPermaLink="false">pepite-27f14f334409a8ad</guid>
-      <pubDate>Mon, 06 Jul 2026 23:57:35 +0000</pubDate>
-      <category>models</category>
-      <description>Hy3 is a massive AI model from Tencent, optimized for various tasks. Its MoE design means you get a big-model feel with more efficiency. Just be ready for its size—it's nearly 600 GB, so plan your hardware accordingly.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm</title>
-      <link>https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/</link>
-      <guid isPermaLink="false">pepite-8aed8c89cf0cc283</guid>
-      <pubDate>Mon, 06 Jul 2026 23:31:47 +0000</pubDate>
-      <category>models</category>
-      <description>PyTorch Monarch now supports AMD GPUs, making training distributed models more accessible. This update opens options beyond NVIDIA hardware. However, new adopters might face learning curves with ROCm specifics.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>Agent orchestration is so two-years ago​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​‍‌‍​‍​﻿​﻿​﻿​﻿​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍‌​​‍﻿‌‌‍​‌​﻿​‌​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍‌‍‌‍​‍‌‍​‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​‍‌‍​﻿​﻿​‍‌‍‌‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​‍‌‍​‍​﻿​﻿​﻿​﻿​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍‌​​‍﻿‌‌‍​‌​﻿​‌​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍‌‍‌‍​‍‌‍​‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​‍‌‍​﻿​﻿​‍‌‍‌‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
-      <link>https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago/</link>
-      <guid isPermaLink="false">pepite-1dfa8f5548a81fbc</guid>
-      <pubDate>Tue, 07 Jul 2026 07:40:00 +0000</pubDate>
-      <category>finance</category>
-      <description>Stack Overflow notes the fading trend of heavy agent orchestration. Newer models manage complex tasks better without elaborate setups. This reflects a shift in design thinking rather than a tool you can grab today.
-
-— via Stack Overflow</description>
-    </item>
-    <item>
-      <title>Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes</title>
-      <link>https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/</link>
-      <guid isPermaLink="false">pepite-dc527b2aef93d4fb</guid>
-      <pubDate>Sun, 05 Jul 2026 10:22:06 +0000</pubDate>
-      <category>models</category>
-      <description>Mistral’s CEO warns against relying solely on proprietary AI models. They claim these models might compromise your business data privacy for competitive gain. Yet, Mistral's solution, focusing on EU sovereignty, may not match the performance of big dogs like OpenAI.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Claude Code and Fable 5 ported the 2003 PC game Command &amp; Conquer to native iOS in "a few hours"</title>
-      <link>https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/</link>
-      <guid isPermaLink="false">pepite-33e07573602eb47f</guid>
-      <pubDate>Sun, 05 Jul 2026 15:58:56 +0000</pubDate>
-      <category>models</category>
-      <description>Claude Code and Fable 5 quickly ported a classic game to iOS. This showcases a remarkable boost in coding efficiency using modern AI tools. Unfortunately, most might face limitations replicating such rapid prototyping without access to similar resources.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Baidu's "Unlimited OCR" processes dozens of document pages in one pass by treating memory like human forgetting</title>
-      <link>https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/</link>
-      <guid isPermaLink="false">pepite-c7c97e548e073bcc</guid>
-      <pubDate>Sun, 05 Jul 2026 15:25:07 +0000</pubDate>
-      <category>research</category>
-      <description>Baidu developed "Unlimited OCR", which processes multiple document pages in a single sweep. This breakthrough in OCR means handling larger documents faster and more efficiently is now possible. However, it's new, so reliability across varied document types is yet to be fully proven.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>GPT-5.6 Sol Ultra will be in Codex</title>
-      <link>https://twitter.com/thsottiaux/status/2073933490513752151</link>
-      <guid isPermaLink="false">pepite-56905d4afe0a5d31</guid>
-      <pubDate>Mon, 06 Jul 2026 01:04:03 +0000</pubDate>
-      <category>models</category>
-      <description>GPT-5.6 Sol Ultra will integrate with Codex. This signals tighter integration between powerful AI models and coding tools, highlighting a deeper push towards making coding more intuitive and automated. However, keep a lookout—details on exactly how it'll work are sparse right now.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg tells staff that AI agents haven't progressed enough</title>
-      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
-      <guid isPermaLink="false">pepite-3f0db41b6fbbb7a1</guid>
-      <pubDate>Sun, 05 Jul 2026 17:05:35 +0000</pubDate>
-      <category>agents</category>
-      <description>Mark Zuckerberg shared concerns that AI agents aren't advancing as quickly as hoped. This honesty can shape realistic expectations and guide strategic pivots in AI development. But remember, it’s still early days, and the progress bar may just be moving slower than his ambition.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Tell HN: don't trust Bigco AI agents with AI research IP</title>
-      <link>https://news.ycombinator.com/item?id=48798385</link>
-      <guid isPermaLink="false">pepite-d306226d8ed983ca</guid>
-      <pubDate>Sun, 05 Jul 2026 22:08:30 +0000</pubDate>
-      <category>agents</category>
-      <description>A warning emerges on trusting big companies like Claude and Codex with AI research IP. It points to potential risks of these tools using your innovations to outrun you or others. If you're protective about your work, this serves as a cautionary tale of staying vigilant with your data.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>shepherd-agents/shepherd</title>
-      <link>https://github.com/shepherd-agents/shepherd</link>
-      <guid isPermaLink="false">pepite-94a4df97194e7925</guid>
-      <pubDate>Wed, 24 Jun 2026 17:26:46 +0000</pubDate>
-      <category>repos</category>
-      <description>Shepherd is a new tool for managing and inspecting AI agents' work. It lets you review and control what each agent does before finalizing outputs, adding a layer of security and quality. But it requires some setup effort and a learning curve before you see benefits.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>synthetic-sciences/openscience</title>
-      <link>https://github.com/synthetic-sciences/openscience</link>
-      <guid isPermaLink="false">pepite-06974525cf0513ee</guid>
-      <pubDate>Fri, 03 Jul 2026 15:06:45 +0000</pubDate>
-      <category>repos</category>
-      <description>OpenScience acts as an AI research partner, handling everything from reading papers to running experiments. It stakes a claim as a capable AI partner in scientific endeavors. Just note the catch: it works best when paired with specific, powerful models.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc3</title>
-      <link>https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything</link>
-      <guid isPermaLink="false">pepite-b437cfcb8f40c7d2</guid>
-      <pubDate>Mon, 06 Jul 2026 05:40:08 +0000</pubDate>
-      <category>models</category>
-      <description>The new sqlite-utils update brings enhanced foreign key handling. This gives more control over your databases, a big plus for those modeling complex data relationships. Be aware, the changes might break some old scripts, so test carefully before moving to production.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>🤗 Kernels: Major Updates</title>
-      <link>https://huggingface.co/blog/revamped-kernels</link>
-      <guid isPermaLink="false">pepite-c57690ad336e7f8b</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <category>other</category>
-      <description>Hugging Face has rolled out major updates to their Kernels platform. It's a welcomed boost for running machine learning experiments and model training. If you're new, the updates might take a bit to learn and integrate effectively into your workflow.
-
-— via Hugging Face</description>
     </item>
 </channel></rss>
