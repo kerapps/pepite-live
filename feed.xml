@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage</title>
+      <link>https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/</link>
+      <guid isPermaLink="false">pepite-1b0ef02727d227df</guid>
+      <pubDate>Fri, 17 Jul 2026 19:16:07 +0000</pubDate>
+      <category>models</category>
+      <description>Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W. Ball calls it "very good," but, of course, warns that a world dominated by open-weight models would amount to "AI communism." The release is reigniting the debate over how much computing power… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did</title>
+      <link>https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/</link>
+      <guid isPermaLink="false">pepite-11a4a9b666ed870a</guid>
+      <pubDate>Fri, 17 Jul 2026 19:35:52 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected "Full Access Mode." The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation. OpenAI has announced extra safeguards and a detailed post-mortem. The article GPT-5.6 is… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs</title>
+      <link>https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</link>
+      <guid isPermaLink="false">pepite-2eed32c959cdf779</guid>
+      <pubDate>Fri, 17 Jul 2026 22:55:09 +0000</pubDate>
+      <category>agents</category>
+      <description>From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>PengZhang64/circuit-framework</title>
+      <link>https://github.com/PengZhang64/circuit-framework</link>
+      <guid isPermaLink="false">pepite-49f3c2152b0df2f9</guid>
+      <pubDate>Thu, 16 Jul 2026 15:02:10 +0000</pubDate>
+      <category>repos</category>
+      <description>A crypto-native multi-agent research and paper-trading framework where specialized agents analyze market structure, derivatives, sentiment, catalysts and market regime before a deterministic risk engine approves or rejects each trade. Circuit Framework is a fork of TradingAgents (Apache 2.0). The internal Python package remains tradingagents for… It's pulling 301★/day — real momentum for something this new, not a one-day spike. Still under the radar (479★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Homomorphically encrypted CIFAR-10 inference in 200ms</title>
+      <link>https://sofar.belfortlabs.cloud/</link>
+      <guid isPermaLink="false">pepite-db603d19cee7f32d</guid>
+      <pubDate>Fri, 17 Jul 2026 16:29:52 +0000</pubDate>
+      <category>other</category>
+      <description>It's pulling 130pts/day — real momentum for something this new, not a one-day spike. Still under the radar (69pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>VulnHunter: Capital One's agentic AI code security tool</title>
+      <link>https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</link>
+      <guid isPermaLink="false">pepite-3cce9badd69588be</guid>
+      <pubDate>Fri, 17 Jul 2026 12:42:12 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 94pts/day — real momentum for something this new, not a one-day spike. Still under the radar (65pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>MIgHTy-alIeN/Trading-Bot</title>
+      <link>https://github.com/MIgHTy-alIeN/Trading-Bot</link>
+      <guid isPermaLink="false">pepite-bb9f888c06545171</guid>
+      <pubDate>Fri, 17 Jul 2026 09:45:22 +0000</pubDate>
+      <category>repos</category>
+      <description>An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call. An arbitrage bot is a smart contract connected to an external automation script that controls its… It's pulling 222★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol</title>
+      <link>https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6</link>
+      <guid isPermaLink="false">pepite-39a8c3fc999429dd</guid>
+      <pubDate>Thu, 16 Jul 2026 20:03:23 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 279pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>On-Policy Delta Distillation</title>
+      <link>http://arxiv.org/abs/2607.15161v1</link>
+      <guid isPermaLink="false">pepite-6a2d53a6d9fe95d8</guid>
+      <pubDate>Thu, 16 Jul 2026 16:07:19 +0000</pubDate>
+      <category>research</category>
+      <description>On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Symbal: Detecting Systematic Misalignments in Model-Generated Captions</title>
+      <link>http://arxiv.org/abs/2607.15216v1</link>
+      <guid isPermaLink="false">pepite-f7dc442b4ceede39</guid>
+      <pubDate>Thu, 16 Jul 2026 17:18:37 +0000</pubDate>
+      <category>research</category>
+      <description>Multimodal large language models (MLLMs) often introduce errors when generating image captions, resulting in misaligned image-text pairs. Our work focuses on a class of captioning errors that we refer to as systematic misalignments, where a recurring error in MLLM-generated captions is closely associated with the presence of a specific visual feature in the… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget</title>
+      <link>http://arxiv.org/abs/2607.14952v1</link>
+      <guid isPermaLink="false">pepite-2143f051ff8598ec</guid>
+      <pubDate>Thu, 16 Jul 2026 13:00:32 +0000</pubDate>
+      <category>research</category>
+      <description>A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers</title>
+      <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
+      <guid isPermaLink="false">pepite-a0bbc2c6e6f2a453</guid>
+      <pubDate>Fri, 17 Jul 2026 15:57:54 +0000</pubDate>
+      <category>models</category>
+      <description>A new post worth a look.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Databricks hits $188B valuation, extending its run as AI’s favorite second act</title>
+      <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
+      <guid isPermaLink="false">pepite-df39e0ae194be239</guid>
+      <pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate>
+      <category>finance</category>
+      <description>Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Kimi moment. I think the writing is on the wall for Anthropic and OpenAi</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uziqyt/kimi_moment_i_think_the_writing_is_on_the_wall/</link>
+      <guid isPermaLink="false">pepite-059c6100fa94d30e</guid>
+      <pubDate>Sat, 18 Jul 2026 01:50:03 +0000</pubDate>
+      <category>finance</category>
+      <description>New day new model....... can't wait to see in a few weeks how Minimax 3 Pro (2.7T parameters) and GLM 5.3 reinforces the narrative. As a group, all of them are accelerating their progress. THAT is the strength of open source. Meanwhile less enterprises are going to trust Anthropic and OpenAI. Why? Because now to re-establish their moat and justify their… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI</title>
       <link>https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/</link>
       <guid isPermaLink="false">pepite-a3a55cfc227c225b</guid>
@@ -1362,145 +1502,5 @@
       <description>Cognitive-Core-Skills is a framework to make AI language models more useful as coworkers by adding things like memory and action control. It offers practical tools for moving beyond simple chat interfaces. However, integrating with existing workflows will require some setup effort.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>github-code Web Component</title>
-      <link>https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything</link>
-      <guid isPermaLink="false">pepite-89e9d622919f2eae</guid>
-      <pubDate>Tue, 07 Jul 2026 16:18:16 +0000</pubDate>
-      <category>models</category>
-      <description>A GitHub Web Component using GPT-5.5 lets you display code directly from GitHub pages. It's straightforward and handy for sharing code snippets. However, it's pretty basic — expect no syntax highlighting.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Intelligence is Free, Now What? &lt;br&gt; Data Systems for, of, and by Agents</title>
-      <link>http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/</link>
-      <guid isPermaLink="false">pepite-74a488c3241f70b5</guid>
-      <pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
-      <category>research</category>
-      <description>AI costs are plummeting, making advanced capabilities more accessible. This shift powers broader AI adoption but also means a deluge of new models to navigate. Decision fatigue might set in as choices multiply.
-
-— via BAIR</description>
-    </item>
-    <item>
-      <title>Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos</title>
-      <link>https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/</link>
-      <guid isPermaLink="false">pepite-283528023d882516</guid>
-      <pubDate>Tue, 07 Jul 2026 22:18:10 +0000</pubDate>
-      <category>models</category>
-      <description>Meta's releasing its latest AI image generator, Muse Image, which is great for creativity but faces backlash over user image rights. It's a reminder of privacy challenges in AI use. Legal complexities around photo usage are a real concern.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>What is the current Memory Meta?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uqfh7r/what_is_the_current_memory_meta/</link>
-      <guid isPermaLink="false">pepite-5c04536273b7e967</guid>
-      <pubDate>Wed, 08 Jul 2026 02:11:18 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit post inquires about the best memory solutions for local AI models. It's an ongoing search in the AI community for stability and effectiveness. Unfortunately, no silver bullet solution yet.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost</title>
-      <link>https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/</link>
-      <guid isPermaLink="false">pepite-893f9b81e2aabcfb</guid>
-      <pubDate>Mon, 06 Jul 2026 18:28:26 +0000</pubDate>
-      <category>models</category>
-      <description>ZCode is aiming to compete with top coding models at lower costs. It's appealing for economical project scaling with generous trials. But the true throughput vs cost savings ratio will require thorough testing in your context.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Vercel CEO Guillermo Rauch on the fight to split off models from agents</title>
-      <link>https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</link>
-      <guid isPermaLink="false">pepite-de9ac07ba87ead79</guid>
-      <pubDate>Mon, 06 Jul 2026 19:49:10 +0000</pubDate>
-      <category>agents</category>
-      <description>Guillermo Rauch from Vercel talks about separating models from agents for efficiency. The discussion focuses on optimizing usage to cut costs and boost performance. It's more a strategic viewpoint—less about immediate applications and more about mindset shifts.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top</title>
-      <link>https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/</link>
-      <guid isPermaLink="false">pepite-840ba368857d4ad2</guid>
-      <pubDate>Mon, 06 Jul 2026 17:14:11 +0000</pubDate>
-      <category>models</category>
-      <description>The quick turnover of top AI models shows rapid progress. Past giants like GPT-4 held longer reigns, but competition is fierce now. This is newsworthy, but might not directly inform your current model choices.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Ternlight – 7 MB embedding model that runs in browser (WASM)</title>
-      <link>https://ternlight-demo.vercel.app/</link>
-      <guid isPermaLink="false">pepite-281fe7348655874e</guid>
-      <pubDate>Mon, 06 Jul 2026 23:06:31 +0000</pubDate>
-      <category>models</category>
-      <description>Ternlight is a small 7 MB AI model that runs directly in your browser. It's super lightweight, making it handy for local applications without server dependency. But keep in mind, it's only an embedding model—it won't replace a full AI setup.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files</title>
-      <link>https://github.com/iOfficeAI/OfficeCLI</link>
-      <guid isPermaLink="false">pepite-775caf64aaaf1d10</guid>
-      <pubDate>Mon, 06 Jul 2026 16:47:44 +0000</pubDate>
-      <category>agents</category>
-      <description>OfficeCLI lets AI agents read and edit Office documents. This tool can automate tedious editing tasks in Word, Excel, and more. The downside: it's early days, so expect some rough edges or missing features.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Pruning RAG context down to what the answer actually needs</title>
-      <link>https://www.kapa.ai/blog/how-we-prune-rag-context</link>
-      <guid isPermaLink="false">pepite-ebe10613434939e4</guid>
-      <pubDate>Mon, 06 Jul 2026 19:28:24 +0000</pubDate>
-      <category>other</category>
-      <description>This approach prunes Retrieval-Augmented Generation (RAG) context to only what's necessary. It can reduce computation and cost by focusing on essential data. The challenge: getting the pruning just right is key and might need fine-tuning for each use case.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>oomol-lab/open-connector</title>
-      <link>https://github.com/oomol-lab/open-connector</link>
-      <guid isPermaLink="false">pepite-d5fd297100bf7b0f</guid>
-      <pubDate>Mon, 29 Jun 2026 10:49:36 +0000</pubDate>
-      <category>repos</category>
-      <description>Open-Connector is a versatile gateway for AI agents to connect with countless APIs. It simplifies handling credentials and exposes a vast catalog of integrations. The catch: you'll need to set things up yourself; it's not plug-and-play.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>simonlin1212/Vibe-Research</title>
-      <link>https://github.com/simonlin1212/Vibe-Research</link>
-      <guid isPermaLink="false">pepite-45cb25f760aa436e</guid>
-      <pubDate>Sun, 05 Jul 2026 06:30:55 +0000</pubDate>
-      <category>repos</category>
-      <description>Vibe-Research offers a dashboard tailored for analyzing stock markets with your AI tools. It's got built-in data sources and can integrate with custom AI models. Keep in mind, it's a DIY solution—you configure and connect everything yourself.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>LLM-as-a-Verifier: A General-Purpose Verification Framework</title>
-      <link>http://arxiv.org/abs/2607.05391v1</link>
-      <guid isPermaLink="false">pepite-0b0f53288e27aab8</guid>
-      <pubDate>Mon, 06 Jul 2026 17:59:35 +0000</pubDate>
-      <category>research</category>
-      <description>LLM-as-a-Verifier is a new AI framework for verifying task solutions. It provides detailed feedback without needing more training. However, it's a paper proposal, so you'll have to implement it yourself for now.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Evaluating and Understanding Model Editing for Medical Vision Language Models</title>
-      <link>http://arxiv.org/abs/2607.05310v1</link>
-      <guid isPermaLink="false">pepite-a3105d09fd991537</guid>
-      <pubDate>Mon, 06 Jul 2026 16:49:10 +0000</pubDate>
-      <category>finance</category>
-      <description>M3Bench is a benchmark focused on editing models in the medical field. It's meant to test how well models handle clinical variations. But it's specific—and might not apply if you're outside the healthcare sector.
-
-— via arXiv</description>
     </item>
 </channel></rss>
