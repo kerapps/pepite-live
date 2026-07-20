@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is "second only to Fable 5"</title>
+      <link>https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/</link>
+      <guid isPermaLink="false">pepite-e311347a821ec9bc</guid>
+      <pubDate>Sun, 19 Jul 2026 12:07:06 +0000</pubDate>
+      <category>models</category>
+      <description>Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is "second only to Fable 5" appeared first on The Decoder .
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math</title>
+      <link>https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/</link>
+      <guid isPermaLink="false">pepite-b9667c6c71171771</guid>
+      <pubDate>Sun, 19 Jul 2026 09:32:19 +0000</pubDate>
+      <category>models</category>
+      <description>Moonshot's Kimi K3 is the first Chinese model to top the Code Arena: Frontend rankings, beating Claude Fable 5 and GPT-5.6 Sol by a wide margin. But on advanced math, the gap is stark: Kimi K3 scores only about 39 percent on FrontierMath Tier 4, while models from OpenAI and Anthropic hit close to 90. The article Moonshot's Kimi K3 outperforms Fable 5 in…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Google Deepmind argues video generators already contain the world models computer vision has been missing</title>
+      <link>https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/</link>
+      <guid isPermaLink="false">pepite-dfd8adc918e40427</guid>
+      <pubDate>Sun, 19 Jul 2026 10:17:49 +0000</pubDate>
+      <category>models</category>
+      <description>Google Deepmind's GenCeption repurposes a video generator for classic vision tasks such as depth estimation and segmentation, matching state-of-the-art systems with far less training data. The model trained almost entirely on synthetic videos. Its results add to the debate over whether video generators already contain a kind of universal world model. The…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Can an Apple lawsuit derail OpenAI’s hardware plans?</title>
+      <link>https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/</link>
+      <guid isPermaLink="false">pepite-dde9b3e385312c79</guid>
+      <pubDate>Sun, 19 Jul 2026 19:24:45 +0000</pubDate>
+      <category>other</category>
+      <description>On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>lopopolo/harness-engineering</title>
+      <link>https://github.com/lopopolo/harness-engineering</link>
+      <guid isPermaLink="false">pepite-3626b957dbf261f7</guid>
+      <pubDate>Sat, 18 Jul 2026 21:42:28 +0000</pubDate>
+      <category>repos</category>
+      <description>[Ryan Lopopolo]: https://x.com/lopopolo/status/2050698864542482709 Harness engineering, the practice of improving agent output by shaping the environment around it, holds a chosen model and coding agent constant as a black box. It improves the two external levers—context and tools—and curates the environment around them. The worker should be able to recover… It's pulling 446★/day — real momentum for something this new, not a one-day spike. Still under the radar (599★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Show HN: A canvas-based note taking and organizer app</title>
+      <link>https://www.passinote.app/</link>
+      <guid isPermaLink="false">pepite-70f4c00c78307f27</guid>
+      <pubDate>Sun, 19 Jul 2026 21:31:48 +0000</pubDate>
+      <category>models</category>
+      <description>So I've been working on this app for a very long time now. Started off by wanting an app that separates long form notes from short form notes visually and keeps everything organized on a canvas. The app features: -Sticky notes for quick, small notes and A4 notes for long form documents -A quick mode that uses local storage to quickly open the app and jot… It landed in the last few hours. It's pulling 137pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>What's the deal with all the random weekly quota resets for agents lately?</title>
+      <link>https://minimaxir.com/2026/07/agent-quota-reset/</link>
+      <guid isPermaLink="false">pepite-02aad22ff20d2fd7</guid>
+      <pubDate>Sat, 18 Jul 2026 19:06:23 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 52pts/day — real momentum for something this new, not a one-day spike. Still under the radar (76pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AudarAI/Audar-ASR-V1</title>
+      <link>https://github.com/AudarAI/Audar-ASR-V1</link>
+      <guid isPermaLink="false">pepite-f0e427730ff45a21</guid>
+      <pubDate>Mon, 06 Jul 2026 09:57:28 +0000</pubDate>
+      <category>repos</category>
+      <description>AudarAI. It recasts transcription as audio-conditioned next-token prediction over a unified text vocabulary — a language-model decoder rather than a CTC or transducer objective. It is built on a permissively-licensed open-weight audio-LLM foundation, then adapted in-house through 300,000+ hours of labeled audio (primarily Arabic, plus English) and a… It's pulling 40★/day — real momentum for something this new, not a one-day spike. Still under the radar (554★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Quoting Sam Altman</title>
+      <link>https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</link>
+      <guid isPermaLink="false">pepite-4675dab568bb692e</guid>
+      <pubDate>Mon, 20 Jul 2026 03:47:59 +0000</pubDate>
+      <category>models</category>
+      <description>We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</title>
+      <link>https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</link>
+      <guid isPermaLink="false">pepite-abe52f67d56716fa</guid>
+      <pubDate>Sat, 18 Jul 2026 13:00:52 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 343pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2607.16090v1</link>
+      <guid isPermaLink="false">pepite-98902a9521b56cc0</guid>
+      <pubDate>Fri, 17 Jul 2026 16:20:08 +0000</pubDate>
+      <category>research</category>
+      <description>Transferring policies across domains poses a vital challenge in reinforcement learning, due to the dynamics mismatch between the source and target domains. In this paper, we consider the setting of online dynamics adaptation, where policies are trained in the source domain with sufficient data, while only limited interactions with the target domain are… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</title>
+      <link>http://arxiv.org/abs/2607.16038v1</link>
+      <guid isPermaLink="false">pepite-c944092f3b57a1ec</guid>
+      <pubDate>Fri, 17 Jul 2026 15:13:03 +0000</pubDate>
+      <category>research</category>
+      <description>Scientific work increasingly spans heterogeneous artifacts -- papers, code, datasets, scientific file formats, model outputs, figures, manuscripts, and team decisions -- yet general-purpose AI assistants rarely preserve these objects as a coherent, auditable research state. We present SciForge, a multimodal research-native AI workbench that reserves the… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA</title>
+      <link>http://arxiv.org/abs/2607.16189v1</link>
+      <guid isPermaLink="false">pepite-cf2683c1fbdfc8b0</guid>
+      <pubDate>Fri, 17 Jul 2026 17:59:27 +0000</pubDate>
+      <category>finance</category>
+      <description>Grounded long-video question answering (Grounded LVQA) requires answering a question about a long video while localizing the short evidence interval that supports the answer. Recent agentic methods frame this task as multi-turn exploration with a single crop_video(start, end) action, which supports coarse-to-fine narrowing but provides no primitive for… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Good ASR and TTS models?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v1auga/good_asr_and_tts_models/</link>
+      <guid isPermaLink="false">pepite-c2517ff5b84ee14c</guid>
+      <pubDate>Mon, 20 Jul 2026 04:01:36 +0000</pubDate>
+      <category>models</category>
+      <description>Hey everyone, Something I don't see discussed often here are ASR and TTS models. I've been using Whisper and Kokoro (old models, I know!) with koboldcpp for a while now but wondered if there are now solid replacements available. Know of Qwen3-ASR and Qwen3-TTS, but haven't found the time yet to test them. What ASR and TTS models have you been using?… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Kimi: Threat or menace?</title>
       <link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
       <guid isPermaLink="false">pepite-c60035e6bb3c677d</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 09 Jul 2026 17:59:11 +0000</pubDate>
       <category>research</category>
       <description>We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low latency, but still suffer from error accumulation and weakened motion dynamics during long autoregressive rollout. OPSD-V reduces long-horizon degradation… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks</title>
-      <link>http://arxiv.org/abs/2607.08768v1</link>
-      <guid isPermaLink="false">pepite-c32ba7d89a5396f9</guid>
-      <pubDate>Thu, 09 Jul 2026 17:59:32 +0000</pubDate>
-      <category>finance</category>
-      <description>The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding</title>
-      <link>http://arxiv.org/abs/2607.08642v1</link>
-      <guid isPermaLink="false">pepite-f768a5fef2cab310</guid>
-      <pubDate>Thu, 09 Jul 2026 16:16:35 +0000</pubDate>
-      <category>research</category>
-      <description>Speculative decoding accelerates LLM inference by drafting several tokens and verifying them in parallel. Block-diffusion drafters such as DFlash produce a draft block in one pass but model only per-position marginals; best-first tree methods such as DDTree expand candidate trees from those marginals. The released Domino drafter adds a GRU-based causal… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Quoting OpenAI</title>
-      <link>https://simonwillison.net/2026/Jul/10/openai/#atom-everything</link>
-      <guid isPermaLink="false">pepite-74428c0e5ca298c0</guid>
-      <pubDate>Fri, 10 Jul 2026 01:05:57 +0000</pubDate>
-      <category>models</category>
-      <description>[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work threads and local files remain on that computer. — OpenAI , trying (unsuccessfully) to clarify ChatGPT Work Tags: openai , chatgpt , ai It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Building more than just an agent harness​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​﻿‌‍‌‍​﻿‍‌​﻿​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿​﻿‌‍​‍‌‍​‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‍​﻿‍‌​‍﻿‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍﻿‌‌‍‌​​﻿​﻿​﻿​‌‌‍‌​​﻿​‌​﻿‍‌​﻿‌‌​﻿​‍​﻿​‍‌‍​﻿‌‍‌​​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​﻿‌‍‌‍​﻿‍‌​﻿​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿​﻿‌‍​‍‌‍​‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‍​﻿‍‌​‍﻿‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍﻿‌‌‍‌​​﻿​﻿​﻿​‌‌‍‌​​﻿​‌​﻿‍‌​﻿‌‌​﻿​‍​﻿​‍‌‍​﻿‌‍‌​​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
-      <link>https://stackoverflow.blog/2026/07/10/building-more-than-just-an-agent-harness/</link>
-      <guid isPermaLink="false">pepite-510876b51f48322c</guid>
-      <pubDate>Fri, 10 Jul 2026 07:40:00 +0000</pubDate>
-      <category>agents</category>
-      <description>Live from Microsoft Build, Ryan is joined by Jay Parikh, Microsoft’s VP of AI Core, for a conversation on what enterprises need to build, deploy, and run AI agents at scale with demonstrable ROI; how Microsoft built an end-to-end agent development system that goes past just the harness; and how you can evaluate for reliability and correctness in models that… It landed in the last few hours.
-
-— via Stack Overflow</description>
-    </item>
-    <item>
-      <title>[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition</title>
-      <link>https://www.latent.space/p/ainews-spacexai-launches-grok-45</link>
-      <guid isPermaLink="false">pepite-69cfa260d83683c8</guid>
-      <pubDate>Thu, 09 Jul 2026 06:05:41 +0000</pubDate>
-      <category>finance</category>
-      <description>SpaceXAI continues to move faster than any other frontier lab on earth. It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much</title>
-      <link>https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/</link>
-      <guid isPermaLink="false">pepite-7d812dd6c6fe604f</guid>
-      <pubDate>Wed, 08 Jul 2026 19:01:44 +0000</pubDate>
-      <category>research</category>
-      <description>xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8. At $2 per million input tokens, it costs a fraction of the competition. EU availability is expected in mid-July. The article Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO</title>
-      <link>https://www.latent.space/p/modal2026</link>
-      <guid isPermaLink="false">pepite-fdf290a36458e778</guid>
-      <pubDate>Wed, 08 Jul 2026 22:55:07 +0000</pubDate>
-      <category>agents</category>
-      <description>2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud. It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Why this CEO thinks video games make better training data than the internet</title>
-      <link>https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/</link>
-      <guid isPermaLink="false">pepite-a5342c550d44bcb7</guid>
-      <pubDate>Wed, 08 Jul 2026 17:47:55 +0000</pubDate>
-      <category>models</category>
-      <description>When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be…
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>We made Grok 4.5, GPT-5.5, and Claude build the same apps</title>
-      <link>https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off</link>
-      <guid isPermaLink="false">pepite-5bb720117fd0843d</guid>
-      <pubDate>Wed, 08 Jul 2026 23:27:14 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 469pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>I think I have LLM burnout</title>
-      <link>https://www.alecscollon.com/blog/llm-burnout/</link>
-      <guid isPermaLink="false">pepite-624ed9d0f4bd47f1</guid>
-      <pubDate>Thu, 09 Jul 2026 01:56:28 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 1459pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Microsoft releases Flint, a visualization language for AI agents</title>
-      <link>https://microsoft.github.io/flint-chart/#/</link>
-      <guid isPermaLink="false">pepite-a0ed216b19b2bb2c</guid>
-      <pubDate>Wed, 08 Jul 2026 17:46:12 +0000</pubDate>
-      <category>agents</category>
-      <description>Data visualizations are the bridge between user and data. But building AI agents that can generate visualizations reliably can be very tricky: - simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart specs with explicit details can produce good-looking charts, but they are… It's pulling 470pts/day — real momentum for something this new, not a one-day spike. Still under the radar (249pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>ai4s-research/open-science</title>
-      <link>https://github.com/ai4s-research/open-science</link>
-      <guid isPermaLink="false">pepite-905fd3c77d827dbb</guid>
-      <pubDate>Fri, 03 Jul 2026 09:22:31 +0000</pubDate>
-      <category>repos</category>
-      <description>An open-source, local-first, model-agnostic, reproducible AI research workbench — an open alternative to Claude Science and similar AI-for-science products. Not a chat box: a workbench that ties literature, code, figures, reports, and review into one auditable, reproducible workflow. back to its code, data, environment, and the conversation that produced… It's pulling 69★/day — real momentum for something this new, not a one-day spike. Still under the radar (408★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Archive228/loopkit</title>
-      <link>https://github.com/Archive228/loopkit</link>
-      <guid isPermaLink="false">pepite-ad8eee54db98fe43</guid>
-      <pubDate>Tue, 30 Jun 2026 08:46:55 +0000</pubDate>
-      <category>repos</category>
-      <description>Plan → Act → Verify, enforced by files on disk. Ships the floor, keeps out of your way. That's it. Skills load only when a task triggers them. The verifier subagent closes the loop. Straight from my own .claude/ directory. This is the loadout I actually reach for — not a methodology, not a lifecycle, not a framework. Every skill fires inside this shape. The… It's pulling 52★/day — real momentum for something this new, not a one-day spike. Still under the radar (463★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents</title>
-      <link>http://arxiv.org/abs/2607.07676v1</link>
-      <guid isPermaLink="false">pepite-f4781cca81e2fbfd</guid>
-      <pubDate>Wed, 08 Jul 2026 17:34:28 +0000</pubDate>
-      <category>finance</category>
-      <description>Autonomous AI agents can execute complex tasks with limited human review, yet they often lack the grounded operational knowledge to make their outputs not just executable but correct, secure, and maintainable. We introduce SkillCenter, to our knowledge the largest open skill library for agents by total count: 216,938 structured skills across 24 domain… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
