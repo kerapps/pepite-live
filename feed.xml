@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic’s landmark $1.5B copyright settlement is approved</title>
+      <link>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</link>
+      <guid isPermaLink="false">pepite-70097351852cb620</guid>
+      <pubDate>Tue, 21 Jul 2026 00:12:24 +0000</pubDate>
+      <category>models</category>
+      <description>The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI is scared of open-weight models. Should the US be?</title>
+      <link>https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/</link>
+      <guid isPermaLink="false">pepite-502e6d35fbb7908f</guid>
+      <pubDate>Mon, 20 Jul 2026 19:33:25 +0000</pubDate>
+      <category>models</category>
+      <description>Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Google's "Frozen v2" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains</title>
+      <link>https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/</link>
+      <guid isPermaLink="false">pepite-9aae77148b42ef7a</guid>
+      <pubDate>Mon, 20 Jul 2026 18:08:33 +0000</pubDate>
+      <category>models</category>
+      <description>Google is developing "Frozen v2," a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastically cut Google's AI inference costs and could give the company a price advantage over OpenAI and Anthropic. The… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Controlling Reasoning Effort in LLMs</title>
+      <link>https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms</link>
+      <guid isPermaLink="false">pepite-355103f53db28890</guid>
+      <pubDate>Mon, 20 Jul 2026 14:35:19 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 102pts/day — real momentum for something this new, not a one-day spike. Still under the radar (64pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques</title>
+      <link>https://github.com/Saivineeth147/lora-speedrun</link>
+      <guid isPermaLink="false">pepite-e8f9d66f8722f710</guid>
+      <pubDate>Mon, 20 Jul 2026 04:24:48 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 133pts/day — real momentum for something this new, not a one-day spike. Still under the radar (140pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Soofi – Sovereign Open Source Foundation Models</title>
+      <link>https://www.soofi.info/</link>
+      <guid isPermaLink="false">pepite-bfca770c760642a2</guid>
+      <pubDate>Mon, 20 Jul 2026 12:52:03 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 71pts/day — real momentum for something this new, not a one-day spike. Still under the radar (50pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>EthanXiang777/circuit-framework</title>
+      <link>https://github.com/EthanXiang777/circuit-framework</link>
+      <guid isPermaLink="false">pepite-c36dcaf92b1b8ad2</guid>
+      <pubDate>Thu, 16 Jul 2026 15:02:10 +0000</pubDate>
+      <category>repos</category>
+      <description>A crypto-native multi-agent research and paper-trading framework where specialized agents analyze market structure, derivatives, sentiment, catalysts and market regime before a deterministic risk engine approves or rejects each trade. Circuit Framework is a fork of TradingAgents (Apache 2.0). The internal Python package remains tradingagents for… It's pulling 105★/day — real momentum for something this new, not a one-day spike. Still under the radar (486★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Kritt-ai/open-kritt</title>
+      <link>https://github.com/Kritt-ai/open-kritt</link>
+      <guid isPermaLink="false">pepite-ac975fbccbdf9ac0</guid>
+      <pubDate>Mon, 20 Jul 2026 20:26:24 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source, self-hosted security research platform that turns focused AI analysis into de-duplicated, ranked findings with configurable validation and enrichment. Pointing a model at an entire repository and asking it to find vulnerabilities rarely works well. open·kritt takes a focused approach: break the research into small, well-defined tasks, run… It landed in the last few hours. It's pulling 164★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>SWE-Pruner Pro: The Coder LLM Already Knows What to Prune</title>
+      <link>http://arxiv.org/abs/2607.18213v1</link>
+      <guid isPermaLink="false">pepite-28526d8b72461ca0</guid>
+      <pubDate>Mon, 20 Jul 2026 17:47:44 +0000</pubDate>
+      <category>research</category>
+      <description>Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of code context when reading tool output. Based on this… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs</title>
+      <link>http://arxiv.org/abs/2607.18230v1</link>
+      <guid isPermaLink="false">pepite-f042877bd567e5ef</guid>
+      <pubDate>Mon, 20 Jul 2026 17:58:13 +0000</pubDate>
+      <category>research</category>
+      <description>Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level image tampering detection in modern VLMs like ChatGPT,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs</title>
+      <link>http://arxiv.org/abs/2607.18086v1</link>
+      <guid isPermaLink="false">pepite-2725baabea701a36</guid>
+      <pubDate>Mon, 20 Jul 2026 15:53:02 +0000</pubDate>
+      <category>research</category>
+      <description>Background: LLM judges increasingly score whether clinical language models give overconfident answers under incomplete evidence, yet whether a measured "safety gain" reflects real behavior change or the judge's calibration is unresolved. Using a structured evidence-sufficiency prompt as a test case, we asked whether it reduces unsafe overconfident answers,… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Reverse-engineering is cheap now</title>
+      <link>https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</link>
+      <guid isPermaLink="false">pepite-8de942086b0c71d3</guid>
+      <pubDate>Mon, 20 Jul 2026 19:24:05 +0000</pubDate>
+      <category>agents</category>
+      <description>I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to agents, it was entirely possible to reverse-engineer home devices. The problem was the ROI - was it really worth all of that effort? More… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Who’s Afraid of Chinese Models?</title>
+      <link>https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything</link>
+      <guid isPermaLink="false">pepite-51f9e12e58003833</guid>
+      <pubDate>Mon, 20 Jul 2026 17:09:19 +0000</pubDate>
+      <category>models</category>
+      <description>Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts: The U.S. should pass a law that (1) makes explicit that collecting data for…
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>DavidAU somehow managed to improve Qwen 3.6 27B</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v275de/davidau_somehow_managed_to_improve_qwen_36_27b/</link>
+      <guid isPermaLink="false">pepite-28686e41a6653f6a</guid>
+      <pubDate>Tue, 21 Jul 2026 03:42:27 +0000</pubDate>
+      <category>research</category>
+      <description>I know DavidAU gets a bad rap, and rightfully so. I've tried some of his fine tunes in the past and they have been... Interesting. I stumbled on this model on accident. A locallama post asking people to name some of longest model names they have found: https://www.reddit.com/r/LocalLLaMA/s/rsvWBHZasI So I hopped on the HF page and noticed a few things that… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is "second only to Fable 5"</title>
       <link>https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/</link>
       <guid isPermaLink="false">pepite-e311347a821ec9bc</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 09 Jul 2026 13:55:55 +0000</pubDate>
       <category>research</category>
       <description>Recent unified multimodal models show a single architecture can jointly perform vision/language understanding and image generation/editing. However, they repeatedly feed all historical visual and textual inputs into a shared context window, limiting long-horizon multimodal dialogue due to visual token explosion and unreliable cross-turn referencing. We… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>DrugGen 2: A disease-aware language model for enhancing drug discovery</title>
-      <link>http://arxiv.org/abs/2607.08404v1</link>
-      <guid isPermaLink="false">pepite-aacae44013e74628</guid>
-      <pubDate>Thu, 09 Jul 2026 12:29:33 +0000</pubDate>
-      <category>research</category>
-      <description>Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease context on target behavior and therapeutic outcomes. To address this gap, we introduce DrugGen-2, a novel generative model that designs small molecules conditioned… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels</title>
-      <link>https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/</link>
-      <guid isPermaLink="false">pepite-ca7b952547980585</guid>
-      <pubDate>Fri, 10 Jul 2026 14:35:48 +0000</pubDate>
-      <category>models</category>
-      <description>Code available at: https://github.com/facebookresearch/ads_model_kernel_library/tree/main/multi_cta_norm_fusion and https://github.com/facebookresearch/ads_model_kernel_library/tree/main/gdpa_megakernel TL;DR In this blog post, we present various novel kernel fusion techniques for common normalization ops like LayerNorm and RMSNorm, which provide…
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device</title>
-      <link>http://arxiv.org/abs/2607.08771v1</link>
-      <guid isPermaLink="false">pepite-94fefbadbb015e63</guid>
-      <pubDate>Thu, 09 Jul 2026 17:59:58 +0000</pubDate>
-      <category>research</category>
-      <description>Monocular depth estimation has seen remarkable progress through foundation models achieving robust zero-shot generalization, yet their computational demands place them far beyond the reach of embedded and mobile platforms. Lightweight alternatives exist, but have been developed almost exclusively within single-domain, self-supervised paradigms, failing… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Qwen3.6 35B-A3B (Q8_0, no KV quant) single prompt in opencode: "Create a beautiful, relaxing flight simulator in a single html file with mountains, clouds, and endless procedural terrain"</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1utb6io/qwen36_35ba3b_q8_0_no_kv_quant_single_prompt_in/</link>
-      <guid isPermaLink="false">pepite-7a6c4b78a5937903</guid>
-      <pubDate>Sat, 11 Jul 2026 05:24:45 +0000</pubDate>
-      <category>models</category>
-      <description>Told it that in plan mode, then told it to implement with no changes to the plan. This model punches far, far above its weight. I wasn't impressed until I switched from Q4_K_M on GPU to Q8_0 on CPU. It matters. It's worth the slowdown. submitted by /u/_TheWolfOfWalmart_ [link] [comments] It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp</title>
-      <link>https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna</link>
-      <guid isPermaLink="false">pepite-924b6cc8940c1aa2</guid>
-      <pubDate>Fri, 10 Jul 2026 06:19:40 +0000</pubDate>
-      <category>models</category>
-      <description>A big day for OpenAI. It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter</title>
-      <link>https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/</link>
-      <guid isPermaLink="false">pepite-2922cfdde0d796dd</guid>
-      <pubDate>Fri, 10 Jul 2026 00:16:54 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Fidji Simo steps down from OpenAI’s no. 2 role</title>
-      <link>https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/</link>
-      <guid isPermaLink="false">pepite-880ee3c2d5501c1e</guid>
-      <pubDate>Thu, 09 Jul 2026 23:38:00 +0000</pubDate>
-      <category>finance</category>
-      <description>OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Anthropic found a hidden space where Claude puzzles over concepts</title>
-      <link>https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/</link>
-      <guid isPermaLink="false">pepite-55c65dbf237fbe24</guid>
-      <pubDate>Thu, 09 Jul 2026 20:22:28 +0000</pubDate>
-      <category>models</category>
-      <description>The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or… It landed in the last few hours.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>Show HN: FableCut – A browser video editor AI agents can drive (zero deps)</title>
-      <link>https://github.com/ronak-create/FableCut</link>
-      <guid isPermaLink="false">pepite-99176f9fcef46fbc</guid>
-      <pubDate>Thu, 09 Jul 2026 13:23:10 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 125pts/day — real momentum for something this new, not a one-day spike. Still under the radar (89pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Getting GLM 5.2 running on my slow computer</title>
-      <link>https://github.com/JustVugg/colibri</link>
-      <guid isPermaLink="false">pepite-08ce9a72da993f7c</guid>
-      <pubDate>Thu, 09 Jul 2026 08:05:04 +0000</pubDate>
-      <category>models</category>
-      <description>A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me. But then I thought, "I wonder how it would work on a normal computer like mine," and above all, "I wonder if it would… It's pulling 576pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Reverse-engineering web apps into agent tools</title>
-      <link>https://news.ycombinator.com/item?id=48847834</link>
-      <guid isPermaLink="false">pepite-20dfbac7f095dc33</guid>
-      <pubDate>Thu, 09 Jul 2026 15:45:17 +0000</pubDate>
-      <category>agents</category>
-      <description>Hey HN! We built a browser-based agent that runs inside an authenticated web app, watches how the app calls its own APIs, and automatically turns those into agent tools. You can think of it as an auto-generated MCP server that self-updates as the host app changes. The result is a skilled AI assistant that actually integrates deeply with any product (not… It's pulling 52pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>ComputeRoyale/Compute-Royale</title>
-      <link>https://github.com/ComputeRoyale/Compute-Royale</link>
-      <guid isPermaLink="false">pepite-e471f0eb30d11ac3</guid>
-      <pubDate>Tue, 30 Jun 2026 01:04:13 +0000</pubDate>
-      <category>repos</category>
-      <description>Autonomous agents rent real compute, do hash-verified work, and earn revenue — you stake SOL on whichever one runs the best business. Every crypto casino bets on a coin flip, a candle, or a number that means nothing. Compute Royale bets on something real: which AI agent runs the best compute business. Agents rent actual GPUs off the open market, get handed… It's pulling 48★/day — real momentum for something this new, not a one-day spike. Still under the radar (499★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>lycorp-jp/sim-use</title>
-      <link>https://github.com/lycorp-jp/sim-use</link>
-      <guid isPermaLink="false">pepite-e981dd85f3cc999a</guid>
-      <pubDate>Fri, 26 Jun 2026 05:59:56 +0000</pubDate>
-      <category>repos</category>
-      <description>Give AI agents the ability to observe and act on iOS Simulator and Android emulator / device screens. Plan, code, verify, ship — teach this CLI to your agent and close the last gap in the agentic mobile development loop. Let agents verify what they built so you can focus on what matters. sim-use is a cross-platform CLI that drives Apple's Accessibility… It's pulling 54★/day — real momentum for something this new, not a one-day spike. Still under the radar (757★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators</title>
-      <link>http://arxiv.org/abs/2607.08766v1</link>
-      <guid isPermaLink="false">pepite-9e21d7184f8c39a9</guid>
-      <pubDate>Thu, 09 Jul 2026 17:59:11 +0000</pubDate>
-      <category>research</category>
-      <description>We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low latency, but still suffer from error accumulation and weakened motion dynamics during long autoregressive rollout. OPSD-V reduces long-horizon degradation… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
