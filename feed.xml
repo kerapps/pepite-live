@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>The Anthropic-Physical Intelligence rumor roiling AI Twitter</title>
+      <link>https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/</link>
+      <guid isPermaLink="false">pepite-6fe99634987ef3c2</guid>
+      <pubDate>Wed, 22 Jul 2026 03:20:57 +0000</pubDate>
+      <category>finance</category>
+      <description>Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI says Hugging Face was breached by its pre-release models</title>
+      <link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/</link>
+      <guid isPermaLink="false">pepite-3fdc40a5e56bd575</guid>
+      <pubDate>Tue, 21 Jul 2026 20:56:55 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training</title>
+      <link>https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/</link>
+      <guid isPermaLink="false">pepite-1fd45b0165df84b1</guid>
+      <pubDate>Tue, 21 Jul 2026 16:52:51 +0000</pubDate>
+      <category>models</category>
+      <description>Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners. But the anticipated flagship, Gemini 3.5 Pro, is still missing, while OpenAI, Anthropic, and Chinese labs are already competing at the…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>"Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok</title>
+      <link>https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</link>
+      <guid isPermaLink="false">pepite-09fa9f2e67096f69</guid>
+      <pubDate>Tue, 21 Jul 2026 21:13:20 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 453pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting</title>
+      <link>https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git</link>
+      <guid isPermaLink="false">pepite-e165925facce0e06</guid>
+      <pubDate>Tue, 21 Jul 2026 17:14:06 +0000</pubDate>
+      <category>agents</category>
+      <description>https://x.com/jack/status/2079605800998146171 , https://xcancel.com/jack/status/2079605800998146171 https://buzz.xyz/ It's pulling 555pts/day — real momentum for something this new, not a one-day spike. Still under the radar (286pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac</title>
+      <link>https://github.com/cristibaluta/Imagin-Raw</link>
+      <guid isPermaLink="false">pepite-e6623ed6ed340e81</guid>
+      <pubDate>Tue, 21 Jul 2026 17:30:01 +0000</pubDate>
+      <category>repos</category>
+      <description>It's pulling 113pts/day — real momentum for something this new, not a one-day spike. Still under the radar (57pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>MIgHTy-alIeN/MEV-Arbitrage-Bot</title>
+      <link>https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot</link>
+      <guid isPermaLink="false">pepite-9a1ab3459243bad2</guid>
+      <pubDate>Fri, 17 Jul 2026 09:45:22 +0000</pubDate>
+      <category>repos</category>
+      <description>An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call. An arbitrage bot is a smart contract connected to an external automation script that controls its… It's pulling 153★/day — real momentum for something this new, not a one-day spike. Still under the radar (739★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>penecho/penecho</title>
+      <link>https://github.com/penecho/penecho</link>
+      <guid isPermaLink="false">pepite-4f056516670ed8a5</guid>
+      <pubDate>Tue, 14 Jul 2026 14:45:23 +0000</pubDate>
+      <category>repos</category>
+      <description>Think with AI beyond the chat box. PenEcho is a shared canvas where handwriting, equations, diagrams, and spatial context become part of the conversation. Recommended Models &amp;bull; Architecture &amp;bull; Discord PenEcho is an official member of Kimi Open Source Friends, Moonshot AI's program supporting outstanding open source projects. The Kimi team backs… It's pulling 64★/day — real momentum for something this new, not a one-day spike. Still under the radar (491★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>OmniReasoner: Thinking with Long Audio-Video via Native Tool Use</title>
+      <link>http://arxiv.org/abs/2607.19339v1</link>
+      <guid isPermaLink="false">pepite-6380eb174af3b599</guid>
+      <pubDate>Tue, 21 Jul 2026 17:57:50 +0000</pubDate>
+      <category>research</category>
+      <description>Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training framework for Thinking with Long Audio-Video: omni-modal LLMs learn, via supervised fine-tuning and reinforcement… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability</title>
+      <link>http://arxiv.org/abs/2607.19317v1</link>
+      <guid isPermaLink="false">pepite-6d67687df4c977c5</guid>
+      <pubDate>Tue, 21 Jul 2026 17:34:12 +0000</pubDate>
+      <category>finance</category>
+      <description>Circuit analysis can support not only model explanation but also downstream interventions such as pruning, editing, steering, and selective fine-tuning. However, conducting such analyses currently requires stitching together separate implementations for discovery, evaluation, and intervention, as well as hand-authoring the contrastive prompts required by… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards</title>
+      <link>http://arxiv.org/abs/2607.19219v1</link>
+      <guid isPermaLink="false">pepite-0279fa5c4e60c066</guid>
+      <pubDate>Tue, 21 Jul 2026 15:49:02 +0000</pubDate>
+      <category>finance</category>
+      <description>Large language models (LLMs) have been widely applied to automated essay scoring (AES) and automated feedback generation (AFG). However, existing studies rely primarily on prompt engineering or supervised fine-tuning, while systematic research on reinforcement learning (RL) post-training and automated evaluation of feedback quality remains limited. We… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>PyTorch Conference North America Schedule Is Live</title>
+      <link>https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live/</link>
+      <guid isPermaLink="false">pepite-040b0f4ff1cd732b</guid>
+      <pubDate>Tue, 21 Jul 2026 23:52:08 +0000</pubDate>
+      <category>other</category>
+      <description>PyTorch Conference North America will bring developers, researchers, and practitioners to San Jose on October 20–21 for sessions spanning training and inference, compiler innovations, responsible AI, applications, and the PyTorch... It landed in the last few hours.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>Nativ: Run AI models locally on your Mac</title>
+      <link>https://simonwillison.net/2026/Jul/21/nativ/#atom-everything</link>
+      <guid isPermaLink="false">pepite-f9e9285781717688</guid>
+      <pubDate>Tue, 21 Jul 2026 14:22:27 +0000</pubDate>
+      <category>models</category>
+      <description>Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new project, which wraps MLX in a full macOS desktop application. It's similar in shape to LM Studio, providing both a chat interface and a localhost API server for…
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>FlightSimulatorBench: Small MoE edition</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v33dlq/flightsimulatorbench_small_moe_edition/</link>
+      <guid isPermaLink="false">pepite-8866fb76f4e06e77</guid>
+      <pubDate>Wed, 22 Jul 2026 02:42:41 +0000</pubDate>
+      <category>agents</category>
+      <description>Properly done this time. Models as the GIFs are displayed: Qwen3.6-27B - 4bit Qwen3.6-MoE - 6bit Ornith-35B - 6bit Gemma-4-26B - 6bit Qwen3.6-MoE - 4bit HuiHui-Qwen3.6-MoE - 6bit Agents-A1 - 6bit Inference parameters: Qwen3.6 &amp; HuiHui Abliterated: temperature 0.6 - top_p 0.95 - top_k 20 - min_p 0.01 - repeat_penalty 1.05 Ornith-1.0-35B: temperature 1.0 -… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic’s landmark $1.5B copyright settlement is approved</title>
       <link>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</link>
       <guid isPermaLink="false">pepite-70097351852cb620</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 09 Jul 2026 12:54:05 +0000</pubDate>
       <category>research</category>
       <description>Current Unified Large Multimodal Models (ULMMs) support interleaved multimodal reasoning through textual reasoning and intermediate visual states, but typically generate each visual state as a full image. This full-image generation paradigm introduces substantial visual-token redundancy and dilutes supervision on sparse yet reasoning-critical state… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>WaspMOT: A Benchmark for Long-Term Multi-Object Tracking of Trichogramma Wasps</title>
-      <link>http://arxiv.org/abs/2607.08729v1</link>
-      <guid isPermaLink="false">pepite-20933bcdea2cee72</guid>
-      <pubDate>Thu, 09 Jul 2026 17:34:04 +0000</pubDate>
-      <category>research</category>
-      <description>Multi-object tracking (MOT) has achieved strong performance on benchmarks dominated by short video sequences. However, such datasets do not adequately evaluate long-term identity preservation, where objects must be tracked consistently over extended durations. We introduce WaspMOT, a benchmark designed to address this gap through long-duration tracking of… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN</title>
-      <link>http://arxiv.org/abs/2607.08504v1</link>
-      <guid isPermaLink="false">pepite-5d0e51f7bb6f6975</guid>
-      <pubDate>Thu, 09 Jul 2026 14:00:17 +0000</pubDate>
-      <category>research</category>
-      <description>Most cooperative Vision-Language Navigation (VLN) methods assume unlimited communication, not considering real-world applications where bandwidth is restricted and information efficiency is critical. We introduce \textbf{bandwidth-constrained cooperative VLN} and propose \textbf{hindsight gating}: a lightweight supervised gate that labels… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>The new GPT-5.6 family: Luna, Terra, Sol</title>
-      <link>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</link>
-      <guid isPermaLink="false">pepite-3d8f58ac8bbfa714</guid>
-      <pubDate>Thu, 09 Jul 2026 19:46:38 +0000</pubDate>
-      <category>finance</category>
-      <description>OpenAI's latest flagship model hit general availability this morning , and comes in three sizes: Luna, Terra, and Sol (from smallest to largest). The new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.50/$15, Sol $5/$30. For comparison, the Claude Opus series are $5/$25 and the Claude Fable 5 is $10/$50, but price-per-million tokens…
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>I mapped Anthropic’s J-Space Hallucination signal across 7 datasets on Qwen3-4B to find out where it works and where it breaks</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uu61wb/i_mapped_anthropics_jspace_hallucination_signal/</link>
-      <guid isPermaLink="false">pepite-19a57b3fb33d6606</guid>
-      <pubDate>Sun, 12 Jul 2026 05:06:55 +0000</pubDate>
-      <category>research</category>
-      <description>Anthropic recently published their paper on "Global Workspaces" (J-Space) inside language models, showing that looking at internal "workspace noise" (entropy) can catch hallucinations better than just looking at output logprobs. `solarkyle` followed up with a great open-source implementation showing it could route confident errors on TriviaQA. I wanted to… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a "fairly underspecified prompt"</title>
-      <link>https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/</link>
-      <guid isPermaLink="false">pepite-f94505a7aa2e3e56</guid>
-      <pubDate>Fri, 10 Jul 2026 21:12:47 +0000</pubDate>
-      <category>research</category>
-      <description>According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single "fairly under-specified prompt." In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. OpenAI believes the "automated researcher" is within reach. The article OpenAI's GPT-5.6 Sol autonomously… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Open source AI matters more than ever, according to Hugging Face’s Clem Delangue</title>
-      <link>https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/</link>
-      <guid isPermaLink="false">pepite-1d85656f77c8e03e</guid>
-      <pubDate>Fri, 10 Jul 2026 19:00:00 +0000</pubDate>
-      <category>research</category>
-      <description>Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […] It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Hugging Face’s CEO on why companies are done renting their AI</title>
-      <link>https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/</link>
-      <guid isPermaLink="false">pepite-e654c4c7eaf2a368</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
-      <category>research</category>
-      <description>Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps</title>
-      <link>https://www.tryai.dev/blog/gpt-5.6-build-off-12-models</link>
-      <guid isPermaLink="false">pepite-f6072d924e8ac2b4</guid>
-      <pubDate>Fri, 10 Jul 2026 20:52:28 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 391pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</title>
-      <link>https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf</link>
-      <guid isPermaLink="false">pepite-6121a378746abdba</guid>
-      <pubDate>Fri, 10 Jul 2026 18:29:19 +0000</pubDate>
-      <category>models</category>
-      <description>https://x.com/__eknight__/status/2075643450196971805 , https://xcancel.com/__eknight__/status/2075643450196971805 Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... It landed in the last few hours. It's pulling 888pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't</title>
-      <link>https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/</link>
-      <guid isPermaLink="false">pepite-c2fe54c2bfb48d50</guid>
-      <pubDate>Fri, 10 Jul 2026 10:40:26 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 90pts/day — real momentum for something this new, not a one-day spike. Still under the radar (71pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>ronak-create/FableCut</title>
-      <link>https://github.com/ronak-create/FableCut</link>
-      <guid isPermaLink="false">pepite-1179c2da0b9142fe</guid>
-      <pubDate>Mon, 06 Jul 2026 16:18:57 +0000</pubDate>
-      <category>repos</category>
-      <description>https://github.com/user-attachments/assets/2430b854-168b-4a9a-af2e-489e5efa7543 FableCut is a Premiere-style non-linear video editor that runs entirely in your browser — and exposes its whole timeline as one JSON document. Edit it by hand, from the UI, or let an AI agent (Claude Code, Claude Desktop, or anything that speaks MCP/REST) cut your video for you… It's pulling 69★/day — real momentum for something this new, not a one-day spike. Still under the radar (314★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>SmileLikeYe/agent-chief</title>
-      <link>https://github.com/SmileLikeYe/agent-chief</link>
-      <guid isPermaLink="false">pepite-afb66a02f53a0d67</guid>
-      <pubDate>Sat, 04 Jul 2026 15:28:56 +0000</pubDate>
-      <category>repos</category>
-      <description>https://github.com/user-attachments/assets/1177a237-3f0f-4512-baef-dcc9f2c75c6d Quickstart · How it works · Evaluated, not asserted · Connect your agent · Docs · 简体中文 · only 75% of events ever reach the LLM — the noisiest 25% dies on hard rules in microseconds, for free · stable-prefix prompts: 70% of judge input tokens cache-hit (system + context blocks) ·… It's pulling 68★/day — real momentum for something this new, not a one-day spike. Still under the radar (450★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>[AINews] not much happened today</title>
-      <link>https://www.latent.space/p/ainews-not-much-happened-today-f5c</link>
-      <guid isPermaLink="false">pepite-056d94f29b6b5a3a</guid>
-      <pubDate>Sat, 11 Jul 2026 02:53:08 +0000</pubDate>
-      <category>models</category>
-      <description>a quiet day after a week of nonstop model releases It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing</title>
-      <link>http://arxiv.org/abs/2607.08497v1</link>
-      <guid isPermaLink="false">pepite-69f17d06b8f3540d</guid>
-      <pubDate>Thu, 09 Jul 2026 13:55:55 +0000</pubDate>
-      <category>research</category>
-      <description>Recent unified multimodal models show a single architecture can jointly perform vision/language understanding and image generation/editing. However, they repeatedly feed all historical visual and textual inputs into a shared context window, limiting long-horizon multimodal dialogue due to visual token explosion and unreliable cross-turn referencing. We… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
