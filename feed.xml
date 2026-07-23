@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Inside the Model Factory — Eiso Kant, Poolside AI</title>
+      <link>https://www.latent.space/p/poolside</link>
+      <guid isPermaLink="false">pepite-e6a9869ace49a109</guid>
+      <pubDate>Thu, 23 Jul 2026 05:09:14 +0000</pubDate>
+      <category>models</category>
+      <description>Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>[AINews] "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro"</title>
+      <link>https://www.latent.space/p/ainews-laguna-s-21-released-cheaper</link>
+      <guid isPermaLink="false">pepite-d2200398d2e8d039</guid>
+      <pubDate>Thu, 23 Jul 2026 05:18:47 +0000</pubDate>
+      <category>models</category>
+      <description>a quiet day lets us highlight a new neolab win. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion</title>
+      <link>https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/</link>
+      <guid isPermaLink="false">pepite-791832af8f7fe120</guid>
+      <pubDate>Wed, 22 Jul 2026 16:54:26 +0000</pubDate>
+      <category>models</category>
+      <description>AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For AMD, this is another major deal after Meta and OpenAI as it tries to challenge Nvidia as an AI chip supplier. Critics see these agreements as circular cash flows. The article Anthropic will deploy 2…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Petals: Run LLMs at home, BitTorrent-style</title>
+      <link>https://petals.dev/</link>
+      <guid isPermaLink="false">pepite-4230a2ef42b6357e</guid>
+      <pubDate>Thu, 23 Jul 2026 01:33:12 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 519pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong</title>
+      <link>https://github.com/cactus-compute/cactus-hybrid</link>
+      <guid isPermaLink="false">pepite-8ccc6f7ebfb9e628</guid>
+      <pubDate>Wed, 22 Jul 2026 17:56:29 +0000</pubDate>
+      <category>models</category>
+      <description>Hey HN, Henry &amp; Roman here from Cactus. A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it's wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it's high, hand off to a… It landed in the last few hours. It's pulling 204pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Can a MUD evaluate LLMs? A $99 proof of concept</title>
+      <link>https://cruciblebench.ai/</link>
+      <guid isPermaLink="false">pepite-d3efa94d0ff73d83</guid>
+      <pubDate>Wed, 22 Jul 2026 15:39:01 +0000</pubDate>
+      <category>models</category>
+      <description>I'm the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We've spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits. Our experiment did have an interesting… It's pulling 171pts/day — real momentum for something this new, not a one-day spike. Still under the radar (100pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>pireel/pireel</title>
+      <link>https://github.com/pireel/pireel</link>
+      <guid isPermaLink="false">pepite-2311b0d03cd24003</guid>
+      <pubDate>Mon, 20 Jul 2026 09:34:24 +0000</pubDate>
+      <category>repos</category>
+      <description>Import a clip and the canvas follows your footage — editing, storyboarding, designed graphics, kinetic captions, themes, live preview, timeline and export all run fully in the browser. No account, no server. This repository is the source for the editor packages plus a minimal shell that mounts them as a plain Vite app. It is synced one-way from the Pireel… It's pulling 179★/day — real momentum for something this new, not a one-day spike. Still under the radar (510★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Jakubantalik/thinking-orbs</title>
+      <link>https://github.com/Jakubantalik/thinking-orbs</link>
+      <guid isPermaLink="false">pepite-3e08270da010c195</guid>
+      <pubDate>Tue, 21 Jul 2026 07:01:53 +0000</pubDate>
+      <category>repos</category>
+      <description>Dotted thought-orb loading indicators for AI &amp; agent UIs. Six hand-tuned animated states, each shipped at two purpose-tuned sizes, rendered on a plain 2D canvas — no WebGL, no filters, works identically in Chrome, Safari and Firefox. Live demo · Repository · Report an issue Six verbs an agent can be doing, each a distinct animation: Two tuned presets —… It's pulling 346★/day — real momentum for something this new, not a one-day spike. Still under the radar (673★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>LKValues: Aligning Large Language Models with Sri Lankan Societal Values</title>
+      <link>http://arxiv.org/abs/2607.20410v1</link>
+      <guid isPermaLink="false">pepite-044e5e6323a899a6</guid>
+      <pubDate>Wed, 22 Jul 2026 17:49:37 +0000</pubDate>
+      <category>finance</category>
+      <description>Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka that have their unique cultural dynamics. Existing benchmarks overlook Sri Lankan-contextualized values in its official language Sinhala, hindering culturally… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SHFormer: Dynamic Spectral Filtering Convolutional Neural Network and High-pass Kernel Generation Transformer for Adaptive MRI Reconstruction</title>
+      <link>http://arxiv.org/abs/2607.20159v1</link>
+      <guid isPermaLink="false">pepite-bcab883e192badb9</guid>
+      <pubDate>Wed, 22 Jul 2026 13:55:27 +0000</pubDate>
+      <category>research</category>
+      <description>Attention Mechanism (AM) selectively focuses on essential information for imaging tasks and captures relationships between distant pixel neighborhoods to compute feature representations. Accelerated MRI reconstruction benefits from AM, as the imaging process involves Fourier domain measurements that influence image representation non-locally. However,… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>HalluTruthQA: A Fine-Grained Benchmark for Hallucination Detection, Localization, and Explanation in Arabic Question Answering</title>
+      <link>http://arxiv.org/abs/2607.20219v1</link>
+      <guid isPermaLink="false">pepite-e8185460cb481c25</guid>
+      <pubDate>Wed, 22 Jul 2026 14:37:25 +0000</pubDate>
+      <category>finance</category>
+      <description>Large language models (LLMs) can generate fluent Arabic answers, yet factual errors remain difficult to detect, localize, explain, and verify. Existing hallucination benchmarks often provide response-level labels, with limited support for identifying the exact erroneous content, explaining why it is incorrect, or selecting the correct factual answer. We… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Are AI labs pelicanmaxxing?</title>
+      <link>https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything</link>
+      <guid isPermaLink="false">pepite-c7e43a69005cbdc7</guid>
+      <pubDate>Wed, 22 Jul 2026 23:01:00 +0000</pubDate>
+      <category>research</category>
+      <description>Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark . I've been randomly spot-checking this in the past by testing models against other… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quoting Thomas Ptacek</title>
+      <link>https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything</link>
+      <guid isPermaLink="false">pepite-367bb2eccf8c6e88</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:01 +0000</pubDate>
+      <category>models</category>
+      <description>I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes. — Thomas Ptacek , doesn't think this even needs a frontier model Tags: thomas-ptacek , openai , security ,… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Model "distillation" accusations are getting way overblown at this point</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v44aa6/model_distillation_accusations_are_getting_way/</link>
+      <guid isPermaLink="false">pepite-223263f2bec85865</guid>
+      <pubDate>Thu, 23 Jul 2026 05:12:18 +0000</pubDate>
+      <category>models</category>
+      <description>Every time a strong open model drops, the same cycle plays out: ai bro's claims it's "just distilled from GPT4/Claude/whatever," case closed, move on. I think this take doesn't hold up as well as people assume. A few points worth separating out: Training on outputs isn't the same as real distillation. Proper token level distillation needs access to logits,… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>The Anthropic-Physical Intelligence rumor roiling AI Twitter</title>
       <link>https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/</link>
       <guid isPermaLink="false">pepite-6fe99634987ef3c2</guid>
@@ -1362,145 +1502,5 @@
       <description>One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, bumped the date that Fable stops being available in their Claude Max plans: We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, through July 19. As before, you can use up to… It landed in the last few hours.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.1.1</title>
-      <link>https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything</link>
-      <guid isPermaLink="false">pepite-8104959aa08bde58</guid>
-      <pubDate>Sun, 12 Jul 2026 20:55:30 +0000</pubDate>
-      <category>finance</category>
-      <description>Release: sqlite-utils 4.1.1 Mainly a fix for an edge case that regular Claude chat spotted while experimenting with the 4.1 release to answer a question about ON DELETE. table.transform() now raises a TransactionError if called while a transaction is open with PRAGMA foreign_keys enabled and the table is referenced by foreign keys with destructive ON DELETE… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts</title>
-      <link>http://arxiv.org/abs/2607.09526v1</link>
-      <guid isPermaLink="false">pepite-6a52fd32c73b0979</guid>
-      <pubDate>Fri, 10 Jul 2026 15:35:06 +0000</pubDate>
-      <category>research</category>
-      <description>Foundation models are reshaping computational pathology, yet their capabilities remain shaped by pretraining objectives, data sources, and spatial scales, fragmenting complementary expertise across separate backbones. Here we present ALICE, a unified foundation model trained through multi-stage agglomerative distillation that sequentially distills eight… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation</title>
-      <link>http://arxiv.org/abs/2607.09581v1</link>
-      <guid isPermaLink="false">pepite-c7cfdcbb72b45a47</guid>
-      <pubDate>Fri, 10 Jul 2026 16:30:29 +0000</pubDate>
-      <category>research</category>
-      <description>Generating long-duration, high-definition, and rhythmically synchronized dance videos directly from music remains a significant challenge, primarily due to the temporal constraints of current diffusion models, which typically fail beyond 20 seconds. Existing approaches, whether they rely on intermediate 3D skeletons or on end-to-end video synthesis, suffer… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Running Qwen3.5-122B on Mac Studio 96GB: Fixed 3 bugs that made long-context inference usable</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uuwrc0/running_qwen35122b_on_mac_studio_96gb_fixed_3/</link>
-      <guid isPermaLink="false">pepite-c2eada2f77c9d0a5</guid>
-      <pubDate>Mon, 13 Jul 2026 00:47:05 +0000</pubDate>
-      <category>agents</category>
-      <description>Hey everyone, I recently switched from DS4 Flash to Qwen3.5-122B on my M3 Ultra Mac Studio for long-context agentic coding. While the model fit better, I hit a wall where follow-up messages took 3-5 minutes to start generating (cold fills) despite having a "warm" context. Turns out the issue wasn't the model, but three specific bugs in my serving stack… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour</title>
-      <link>https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/</link>
-      <guid isPermaLink="false">pepite-c0f6dd207f25c8b5</guid>
-      <pubDate>Sat, 11 Jul 2026 17:38:35 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surprisingly elementary but criticizes the lack of citations for known prior work. The bigger question remains: Does AI just…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Terrorist groups are using every major AI chatbot for attack planning and weapons development</title>
-      <link>https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/</link>
-      <guid isPermaLink="false">pepite-3ff8ee43af6c23fe</guid>
-      <pubDate>Sat, 11 Jul 2026 17:04:28 +0000</pubDate>
-      <category>models</category>
-      <description>A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safety filters repeatedly failed to prevent misuse, voluntary self-regulation by AI…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
-      <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
-      <guid isPermaLink="false">pepite-5f92d55c125d6b18</guid>
-      <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
-      <category>models</category>
-      <description>ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI admits it "didn't get everything quite right" with ChatGPT Work launch and scrambles to fix UX and costs</title>
-      <link>https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/</link>
-      <guid isPermaLink="false">pepite-f13017bd6bd0ec46</guid>
-      <pubDate>Sat, 11 Jul 2026 08:01:09 +0000</pubDate>
-      <category>models</category>
-      <description>Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGPT Work, and regressions in existing workflows. In some cases, GPT-5.6 Sol reportedly deleted data on its own that the…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Mesh LLM: distributed AI computing on iroh</title>
-      <link>https://www.iroh.computer/blog/mesh-llm</link>
-      <guid isPermaLink="false">pepite-7aff107673ab6c13</guid>
-      <pubDate>Sat, 11 Jul 2026 22:38:57 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 590pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Stop Telling Me to Ask an LLM</title>
-      <link>https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/</link>
-      <guid isPermaLink="false">pepite-7715a542847f7196</guid>
-      <pubDate>Sat, 11 Jul 2026 22:28:48 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 573pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom</title>
-      <link>https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom</link>
-      <guid isPermaLink="false">pepite-75305af295b8bd77</guid>
-      <pubDate>Sat, 11 Jul 2026 17:21:49 +0000</pubDate>
-      <category>other</category>
-      <description>It's pulling 413pts/day — real momentum for something this new, not a one-day spike. Still under the radar (213pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Brain0-ai/brain0</title>
-      <link>https://github.com/Brain0-ai/brain0</link>
-      <guid isPermaLink="false">pepite-393f0cdbe95191a5</guid>
-      <pubDate>Thu, 02 Jul 2026 12:02:08 +0000</pubDate>
-      <category>repos</category>
-      <description>git tells you what changed. brain0 tells you why: which prompt wrote it, what the agent read to write it, and whether you can trust it. Quickstart · What it answers · Give your agent memory · How it works · Comparison · Docs Coding agents now write most of the diff: continuously, in parallel, and opaquely. brain0 passively builds a decision graph of your… It's pulling 39★/day — real momentum for something this new, not a one-day spike. Still under the radar (381★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>abundantbeing/hermes-browser-extension</title>
-      <link>https://github.com/abundantbeing/hermes-browser-extension</link>
-      <guid isPermaLink="false">pepite-1af8cb731c1bdb94</guid>
-      <pubDate>Wed, 24 Jun 2026 02:20:56 +0000</pubDate>
-      <category>repos</category>
-      <description>Browser-native side panel for Hermes Agent — connect active web context through a local gateway, Hermes Cloud, or a self-hosted remote gateway. Public alpha v0.1.10 · Load unpacked · Local / Hermes Cloud / Remote · Full Hermes runtime tools Not on the Chrome Web Store yet. Hermes Browser Extension is not a browser chatbot. It is a Chrome/Edge/Chromium side… It's pulling 45★/day — real momentum for something this new, not a one-day spike. Still under the radar (830★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>DeltaV: Thinking with Visual State Updates in Unified Large Multimodal Models</title>
-      <link>http://arxiv.org/abs/2607.08434v1</link>
-      <guid isPermaLink="false">pepite-3730b20026ffb12e</guid>
-      <pubDate>Thu, 09 Jul 2026 12:54:05 +0000</pubDate>
-      <category>research</category>
-      <description>Current Unified Large Multimodal Models (ULMMs) support interleaved multimodal reasoning through textual reasoning and intermediate visual states, but typically generate each visual state as a full image. This full-image generation paradigm introduces substantial visual-token redundancy and dilutes supervision on sparse yet reasoning-critical state… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
