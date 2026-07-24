@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model</title>
+      <link>https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal</link>
+      <guid isPermaLink="false">pepite-951c38a4cb48d608</guid>
+      <pubDate>Fri, 24 Jul 2026 04:30:12 +0000</pubDate>
+      <category>models</category>
+      <description>A HUGE win for BFL! It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>How AI guardrails are impeding the work of offensive cybersecurity researchers</title>
+      <link>https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</link>
+      <guid isPermaLink="false">pepite-bbe4c3fea4dc27ea</guid>
+      <pubDate>Fri, 24 Jul 2026 01:00:00 +0000</pubDate>
+      <category>other</category>
+      <description>We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>ChatGPT will give you worse health advice if you don't pay</title>
+      <link>https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/</link>
+      <guid isPermaLink="false">pepite-d3e2982c68cbc4ea</guid>
+      <pubDate>Thu, 23 Jul 2026 19:30:51 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI is rolling out "Health in ChatGPT" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but paying users get better answers. The more powerful GPT-5.6 Sol model is reserved for premium subscribers, while free users are stuck with the weaker GPT-5.5… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic updates Claude voice mode with more capable models</title>
+      <link>https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/</link>
+      <guid isPermaLink="false">pepite-c6a17a386bdb2727</guid>
+      <pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>Claude's new voice model will let you reschedule your meeting or draft an email. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: Palmier Pro – Open-source macOS video editor built for AI</title>
+      <link>https://github.com/palmier-io/palmier-pro</link>
+      <guid isPermaLink="false">pepite-13de5e16ec7dc70b</guid>
+      <pubDate>Thu, 23 Jul 2026 15:11:37 +0000</pubDate>
+      <category>agents</category>
+      <description>Hi HN, we are Marcos and Harrison, cofounders of Palmier ( https://palmier.io ). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few demos: - Making some AI transitions: https://www.youtube.com/watch?v=hbM_-eR1GX4 - Multicam editing with Codex:… It's pulling 224pts/day — real momentum for something this new, not a one-day spike. Still under the radar (135pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models</title>
+      <link>https://news.ycombinator.com/item?id=49026810</link>
+      <guid isPermaLink="false">pepite-916b8a1188e72881</guid>
+      <pubDate>Thu, 23 Jul 2026 19:26:01 +0000</pubDate>
+      <category>finance</category>
+      <description>I’ve been building Echo ( https://echo.tracerml.ai/ ), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task. It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what… It landed in the last few hours. It's pulling 712pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents</title>
+      <link>https://github.com/onecli/onecli</link>
+      <guid isPermaLink="false">pepite-386614ef70549e77</guid>
+      <pubDate>Thu, 23 Jul 2026 15:42:40 +0000</pubDate>
+      <category>agents</category>
+      <description>hey HN, Jonathan and Guy here, creators of OneCLI ( https://onecli.sh/ ). OneCLI is an open source vault for AI Agents. Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to keep them safe. We figured that in the agent's world, this is not the case, as you don't know what happens… It's pulling 148pts/day — real momentum for something this new, not a one-day spike. Still under the radar (86pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>gnipbao/story-to-handdrawn-video</title>
+      <link>https://github.com/gnipbao/story-to-handdrawn-video</link>
+      <guid isPermaLink="false">pepite-ef9c56327198f8f2</guid>
+      <pubDate>Tue, 21 Jul 2026 08:54:45 +0000</pubDate>
+      <category>repos</category>
+      <description>把中文故事文案或一组有序的手绘图片,转换成 3:4 竖屏手绘日记漫画动画:手写体字幕、从左到右的「文字 → 黑白画稿 → 彩色插画」揭示、可选的右下角卷页翻书转场、安全不裁剪的画面构图。基于 Remotion,默认输出无配音、无音乐的 H.264 画面轨,方便后期配音。 2. 把 Skill 装进 Agent 的 skills 目录: 3. 告诉 Skill 渲染器项目在哪里(在渲染器项目目录内运行 Agent 时可省略): 装好 Skill 后,全部通过自然语言驱动,分句、分镜、图片生成、导入、渲染由 Agent 按 Skill 约定自动完成。 Skill 的完整行为约定见 skill-package/story-to-handdrawn-video/SKILL.md。 渲染器项目的维护命令:npm run… It's pulling 203★/day — real momentum for something this new, not a one-day spike. Still under the radar (581★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>vshulcz/deja-vu</title>
+      <link>https://github.com/vshulcz/deja-vu</link>
+      <guid isPermaLink="false">pepite-6d32af1b9f48c6f3</guid>
+      <pubDate>Tue, 14 Jul 2026 07:45:44 +0000</pubDate>
+      <category>repos</category>
+      <description>Your agents already solved this. deja finds it. Memory tools start empty and record forward. deja starts full: it indexes the sessions your coding agents already wrote to disk &amp;mdash; months of history from before you installed it &amp;mdash; searches 3.3&amp;nbsp;GB in ~12&amp;nbsp;ms, serves it back to any agent over MCP, and moves with you between machines over SSH.… It's pulling 47★/day — real momentum for something this new, not a one-day spike. Still under the radar (467★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning</title>
+      <link>http://arxiv.org/abs/2607.21591v1</link>
+      <guid isPermaLink="false">pepite-4e35ff6b2c921d8b</guid>
+      <pubDate>Thu, 23 Jul 2026 17:59:46 +0000</pubDate>
+      <category>research</category>
+      <description>Diffusion and flow-matching models dominate conditional image generation, yet inference-time scaling for these models is far less developed than for autoregressive language models. Because final quality is highly sensitive to the initial noise seed, many approaches spend extra compute on seed search or resampling under a black-box reward, but typically… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>3D-Aware VLMs with Implicit and Explicit Geometries</title>
+      <link>http://arxiv.org/abs/2607.21595v1</link>
+      <guid isPermaLink="false">pepite-26d1f299ef12649d</guid>
+      <pubDate>Thu, 23 Jul 2026 17:59:59 +0000</pubDate>
+      <category>research</category>
+      <description>Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation</title>
+      <link>http://arxiv.org/abs/2607.21371v1</link>
+      <guid isPermaLink="false">pepite-da13becfecf9a59c</guid>
+      <pubDate>Thu, 23 Jul 2026 14:37:27 +0000</pubDate>
+      <category>research</category>
+      <description>Open-vocabulary semantic segmentation (OVSS) leverages textual semantics to segment objects beyond predefined categories. While the self-supervised model DINOv3 provides strong structured visual representations, its lack of native textual alignment hinders its direct application to OVSS. To bridge this gap, we propose DINOde, an ODE-based framework that… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
+      <link>https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</link>
+      <guid isPermaLink="false">pepite-e11418d8a71025ca</guid>
+      <pubDate>Thu, 23 Jul 2026 22:53:08 +0000</pubDate>
+      <category>agents</category>
+      <description>The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require executing arbitrary code: Hugging Face has an… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Partnerships can keep open source sustainable​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍‌​﻿‍‌​﻿​‍​﻿​‌​﻿​‍​﻿​​​﻿​‍​‍﻿‌​﻿​‌‌‍‌‍​﻿​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿​​​﻿​﻿​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌‍‌‍​‍​﻿‌﻿​‍﻿‌‌‍​‌​﻿‌﻿​﻿‍​​﻿‌‌​﻿‍​​﻿​‍​﻿‍​​﻿‌﻿​﻿​﻿​﻿​‌​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍‌​﻿‍‌​﻿​‍​﻿​‌​﻿​‍​﻿​​​﻿​‍​‍﻿‌​﻿​‌‌‍‌‍​﻿​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿​​​﻿​﻿​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌‍‌‍​‍​﻿‌﻿​‍﻿‌‌‍​‌​﻿‌﻿​﻿‍​​﻿‌‌​﻿‍​​﻿​‍​﻿‍​​﻿‌﻿​﻿​﻿​﻿​‌​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
+      <link>https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/</link>
+      <guid isPermaLink="false">pepite-5299712c43eb042b</guid>
+      <pubDate>Fri, 24 Jul 2026 07:40:00 +0000</pubDate>
+      <category>finance</category>
+      <description>Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer… It landed in the last few hours.
+
+— via Stack Overflow</description>
+    </item>
+    <item>
       <title>Inside the Model Factory — Eiso Kant, Poolside AI</title>
       <link>https://www.latent.space/p/poolside</link>
       <guid isPermaLink="false">pepite-e6a9869ace49a109</guid>
@@ -1362,145 +1502,5 @@
       <description>We introduce MM-ToolSandBox, a benchmark and evaluation framework for visually grounded tool-calling agents. The framework provides a stateful execution environment spanning 500+ tools across 16 application domains, supporting multi-image, multi-turn tasks where agents must ground progressively arriving visual inputs into executable tool calls while… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments</title>
-      <link>http://arxiv.org/abs/2607.11839v1</link>
-      <guid isPermaLink="false">pepite-93e54cfcc3770e8d</guid>
-      <pubDate>Mon, 13 Jul 2026 17:27:58 +0000</pubDate>
-      <category>research</category>
-      <description>This paper presents a cascaded Low-Rank Adaptation (LoRA)-based multimodal fusion framework for action and activity recognition in healthcare-oriented training environments. The proposed architecture combines parameter-efficient modality-specific adaptation with sequential fusion, enabling modalities to be integrated in stages without retraining previously… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM</title>
-      <link>http://arxiv.org/abs/2607.11683v1</link>
-      <guid isPermaLink="false">pepite-2fb87458908e0ee4</guid>
-      <pubDate>Mon, 13 Jul 2026 15:20:51 +0000</pubDate>
-      <category>research</category>
-      <description>Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses this by separating extraction from consolidation: entities and relations… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>datasette code-frequency chart on GitHub</title>
-      <link>https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything</link>
-      <guid isPermaLink="false">pepite-2a1ce7713b71c0d9</guid>
-      <pubDate>Mon, 13 Jul 2026 21:45:27 +0000</pubDate>
-      <category>research</category>
-      <description>datasette code-frequency chart on GitHub Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best I've found so far is this GitHub chart of frequency of code changes to my Datasette open source project: The big spike in activity at the end aligns with Opus… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>model: add Hy3 (hy_v3) support with MTP speculative decoding by satindergrewal · Pull Request #25395 · ggml-org/llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uvwbb2/model_add_hy3_hy_v3_support_with_mtp_speculative/</link>
-      <guid isPermaLink="false">pepite-46796ce6e8266b38</guid>
-      <pubDate>Tue, 14 Jul 2026 02:46:34 +0000</pubDate>
-      <category>models</category>
-      <description>Adds support for Tencent's Hy3 ( hy_v3 / HYV3ForCausalLM , 299B MoE, 80 layers + 1 MTP layer), including its multi-token-prediction head as a draft-mtp speculative target. submitted by /u/pmttyji [link] [comments] It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory</title>
-      <link>https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/</link>
-      <guid isPermaLink="false">pepite-e74e6d67dea984a4</guid>
-      <pubDate>Sun, 12 Jul 2026 07:45:35 +0000</pubDate>
-      <category>agents</category>
-      <description>The AgenticSTS project replaces the ever-growing chat log of AI agents with five separate memory layers. Tested on the card game Slay the Spire 2, the prompt stays at around 5,000 tokens instead of ballooning past 500,000. The agent wins 6 out of 10 games, while competing agents don't win any. The article AI agents win at Slay the Spire 2 after researchers…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says</title>
-      <link>https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says/</link>
-      <guid isPermaLink="false">pepite-430db2cf179d82a2</guid>
-      <pubDate>Sun, 12 Jul 2026 09:36:39 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic analyzed 1.2 million Claude Cowork sessions from more than 600,000 organizations. About half of all usage goes toward business processes and text creation, what Anthropic calls "the work around the work." That means tasks like compiling status reports, building onboarding checklists, or putting together slide decks. Software development barely…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI CEO Altman is now "pretty sure" AI is net job-creating, which is quite the pivot from predicting mass layoffs</title>
-      <link>https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/</link>
-      <guid isPermaLink="false">pepite-2e50379c134abb2f</guid>
-      <pubDate>Sun, 12 Jul 2026 09:15:49 +0000</pubDate>
-      <category>other</category>
-      <description>OpenAI CEO Sam Altman now says he's "pretty sure" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire professions disappearing. Anthropic CEO Dario Amodei is walking back similar claims, too. But studies so far back neither the old doomsday predictions nor optimism. The article OpenAI CEO Altman is now…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>mereyabdenbekuly-ctrl/clodex-ide</title>
-      <link>https://github.com/mereyabdenbekuly-ctrl/clodex-ide</link>
-      <guid isPermaLink="false">pepite-eb380c4774819820</guid>
-      <pubDate>Sun, 12 Jul 2026 10:35:44 +0000</pubDate>
-      <category>repos</category>
-      <description>Clodex is an open-source agentic development environment that combines persistent AI tasks, code, terminal, browser, Git, models, memory, and controlled execution in one Electron workspace. It is built around a simple principle: implemented and tested locally. Advanced execution lanes remain feature-gated until their live promotion evidence and manual… It's pulling 859★/day — real momentum for something this new, not a one-day spike. Still under the radar (691★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper</title>
-      <link>https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6</link>
-      <guid isPermaLink="false">pepite-9e846b582fd4e9e8</guid>
-      <pubDate>Sun, 12 Jul 2026 17:13:07 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 336pts/day — real momentum for something this new, not a one-day spike. Still under the radar (178pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Mechanistic interpretability researchers applying causality theory to LLMs</title>
-      <link>https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/</link>
-      <guid isPermaLink="false">pepite-59391e9571eb70c0</guid>
-      <pubDate>Sun, 12 Jul 2026 18:04:41 +0000</pubDate>
-      <category>models</category>
-      <description>https://arxiv.org/abs/2301.04709 It landed in the last few hours. It's pulling 190pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Shirei, cross-platform GUI framework in native Go</title>
-      <link>https://github.com/hasenj/go-shirei/</link>
-      <guid isPermaLink="false">pepite-f793efb311d8fa35</guid>
-      <pubDate>Sun, 12 Jul 2026 16:55:42 +0000</pubDate>
-      <category>repos</category>
-      <description>It's pulling 148pts/day — real momentum for something this new, not a one-day spike. Still under the radar (80pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Tencent-Hunyuan/Hy3</title>
-      <link>https://github.com/Tencent-Hunyuan/Hy3</link>
-      <guid isPermaLink="false">pepite-c3e8a8b663818d2d</guid>
-      <pubDate>Thu, 02 Jul 2026 12:48:04 +0000</pubDate>
-      <category>repos</category>
-      <description>🖥️&amp;nbsp; Official Website &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp; 💬&amp;nbsp; GitHub Building on Hy3 Preview, we further improved the quality and diversity of post-training data while scaling up RL training. Hy3 shows solid gains across reasoning, agentic, and long-context tasks, competitive with much larger flagship models. In productivity scenarios such as coding, office… It's pulling 42★/day — real momentum for something this new, not a one-day spike. Still under the radar (453★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Directly Responsible Individuals (DRI)</title>
-      <link>https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything</link>
-      <guid isPermaLink="false">pepite-8da02d59840309d0</guid>
-      <pubDate>Sun, 12 Jul 2026 23:57:14 +0000</pubDate>
-      <category>agents</category>
-      <description>Directly Responsible Individuals (DRI) I went looking for a definition of "Directly Responsible Individuals" and the best I found was in the GitLab handbook. Apparently the term originated at Apple, where it's used to describe the person who is "ultimately accountable for the success or failure of a specific project, initiative, or activity". I've been… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Fable gets another bump</title>
-      <link>https://simonwillison.net/2026/Jul/12/bump/#atom-everything</link>
-      <guid isPermaLink="false">pepite-4ca3a7104e2d6ec3</guid>
-      <pubDate>Sun, 12 Jul 2026 21:20:07 +0000</pubDate>
-      <category>models</category>
-      <description>One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, bumped the date that Fable stops being available in their Claude Max plans: We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, through July 19. As before, you can use up to… It landed in the last few hours.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
