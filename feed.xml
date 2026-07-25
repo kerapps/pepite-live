@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price</title>
+      <link>https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/</link>
+      <guid isPermaLink="false">pepite-90836efcd6b689a9</guid>
+      <pubDate>Fri, 24 Jul 2026 18:36:42 +0000</pubDate>
+      <category>research</category>
+      <description>Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Microsoft's open-weight AI push is so obviously an Azure play it hurts</title>
+      <link>https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/</link>
+      <guid isPermaLink="false">pepite-04193f30b226a262</guid>
+      <pubDate>Fri, 24 Jul 2026 16:06:02 +0000</pubDate>
+      <category>research</category>
+      <description>Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models. The company is also swapping external models in products like Copilot for its in-house MAI family,…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Why Cognition bought Poke: AI personality is becoming a competitive advantage</title>
+      <link>https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/</link>
+      <guid isPermaLink="false">pepite-8622540f1a85c276</guid>
+      <pubDate>Fri, 24 Jul 2026 18:07:32 +0000</pubDate>
+      <category>finance</category>
+      <description>The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>As US weighs response to Chinese AI, industry urges against broad open-weight restrictions</title>
+      <link>https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/</link>
+      <guid isPermaLink="false">pepite-323b1220159cd997</guid>
+      <pubDate>Fri, 24 Jul 2026 15:51:49 +0000</pubDate>
+      <category>models</category>
+      <description>AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Canadian legislator reads out apparent LLM response in floor speech</title>
+      <link>https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</link>
+      <guid isPermaLink="false">pepite-e7c943659275ed0f</guid>
+      <pubDate>Fri, 24 Jul 2026 21:25:15 +0000</pubDate>
+      <category>models</category>
+      <description>"Here’s a more natural, flowing version of that section..." It landed in the last few hours.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Hetzner is working on LLM Inference</title>
+      <link>https://sliplane.io/blog/hetzner-inference</link>
+      <guid isPermaLink="false">pepite-3dc49d184e0ef29b</guid>
+      <pubDate>Fri, 24 Jul 2026 09:24:44 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 174pts/day — real momentum for something this new, not a one-day spike. Still under the radar (146pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Be skeptical of OpenAI's rogue hacker agent story</title>
+      <link>https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker</link>
+      <guid isPermaLink="false">pepite-b84b3d84119b3ae0</guid>
+      <pubDate>Fri, 24 Jul 2026 16:33:31 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 869pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>bytedoger/awesome-OpenPrice</title>
+      <link>https://github.com/bytedoger/awesome-OpenPrice</link>
+      <guid isPermaLink="false">pepite-ad9425eaa9e671db</guid>
+      <pubDate>Thu, 16 Jul 2026 06:28:46 +0000</pubDate>
+      <category>repos</category>
+      <description>open price,就是开放价格的意思。所以这是一个开源的收录全网卡网渠道各种AI订阅价格的项目。项目的目的只有一个，打破信息茧房，让友友们能方便挑选价格更低、更更低的 AI 订阅服务。本项目不提供 AI 服务，只是 AI 订阅产品的搬运工。 如今大家对 AI 订阅如 Claude、chatgpt 有着很大的需求，虽然市面上有着非常多高性价比的产品，但它们往往分散在各个不同的渠道中，例如链动小铺、独角卡网、二次元发卡、微信群、QQ群、闲鱼、淘宝等。这种信息不对称导致了两个主要问题： 1. 对于买家（普通用户）：很难找到靠谱、便宜的购买渠道，往往需要花费很多时间找渠道，甚至容易买贵。 2. 对于卖家（渠道商）：手里有优质、低价的渠道产品，却苦于没有集中曝光的流量池，价格最低但是很难卖出去。… It's pulling 55★/day — real momentum for something this new, not a one-day spike. Still under the radar (494★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents</title>
+      <link>https://news.ycombinator.com/item?id=49024620</link>
+      <guid isPermaLink="false">pepite-2e43f316bd14c757</guid>
+      <pubDate>Thu, 23 Jul 2026 16:48:38 +0000</pubDate>
+      <category>agents</category>
+      <description>Hi Hacker News, I'm Louis. I built Screenpipe ( https://screenpipe.com ), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you've seen, said, and heard. This makes it easier to automate your repetitive tasks, turn them into SOPs (Standard Operating Procedure) and so on. I made a HN-style demo video… It's pulling 54pts/day — real momentum for something this new, not a one-day spike. Still under the radar (83pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>0xsline/OpenChatCut</title>
+      <link>https://github.com/0xsline/OpenChatCut</link>
+      <guid isPermaLink="false">pepite-019417a9628de1ef</guid>
+      <pubDate>Wed, 15 Jul 2026 02:49:42 +0000</pubDate>
+      <category>repos</category>
+      <description>Open-source ChatCut alternative · agent-native · local-first AI video editor Let Codex, Claude Code, and the built-in agent read, edit, and export real video projects that remain fully editable. Website: openchatcut.com From a single instruction to a real timeline: agents, media, previews, motion graphics, transitions, effects, and multitrack audio all work… It's pulling 46★/day — real momentum for something this new, not a one-day spike. Still under the radar (471★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Quoting Boris Cherny</title>
+      <link>https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything</link>
+      <guid isPermaLink="false">pepite-2075c06488d84859</guid>
+      <pubDate>Sat, 25 Jul 2026 00:42:59 +0000</pubDate>
+      <category>research</category>
+      <description>More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully. — Boris Cherny , here's that System Card section , page 73 Tags: prompt-injection , anthropic ,… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Introducing Claude Opus 5</title>
+      <link>https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</link>
+      <guid isPermaLink="false">pepite-91618c85563a547b</guid>
+      <pubDate>Fri, 24 Jul 2026 23:48:50 +0000</pubDate>
+      <category>models</category>
+      <description>Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a "thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price"… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks</title>
+      <link>http://arxiv.org/abs/2607.21482v1</link>
+      <guid isPermaLink="false">pepite-4ac3fdc155432458</guid>
+      <pubDate>Thu, 23 Jul 2026 16:23:42 +0000</pubDate>
+      <category>research</category>
+      <description>Large language models (LLMs) and agents are now widely used tools in code development, with data typically sent to third-party cloud-based models. Their adoption in research using personal data is constrained by governance requirements that typically prohibit data transmission to external services. Locally deployable open-weight models offer an alternative… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DKV: Open-source KV-cache compression framework for local LLM inference (CLI + technical report)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v5wviz/dkv_opensource_kvcache_compression_framework_for/</link>
+      <guid isPermaLink="false">pepite-f99060992d5e8eaf</guid>
+      <pubDate>Sat, 25 Jul 2026 03:27:31 +0000</pubDate>
+      <category>finance</category>
+      <description>Hi everyone! Over the past five months I've been working on DKV (DifferentialKV), an open-source project exploring KV-cache compression for long-context local LLM inference. The goal is to reduce KV-cache memory requirements through anchor-based representations, joint low-rank compression, exact residual preservation, and sparse routed attention. The… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model</title>
       <link>https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal</link>
       <guid isPermaLink="false">pepite-951c38a4cb48d608</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Tue, 14 Jul 2026 17:59:31 +0000</pubDate>
       <category>research</category>
       <description>Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-context-first strategy--re-reading files and dependencies they have already seen--turning a one-line edit into a small code-base audit. We argue the missing… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>MetaInfer: A Knowledge Only LLM Inference Engine Generator SKILL Toolbox</title>
-      <link>http://arxiv.org/abs/2607.12875v1</link>
-      <guid isPermaLink="false">pepite-ac2a3f5b536a3879</guid>
-      <pubDate>Tue, 14 Jul 2026 15:22:48 +0000</pubDate>
-      <category>research</category>
-      <description>As LLM technology advances, the space of model families, compute hardware, quantization schemes, parallelization strategies, and specialized optimization kernels continues to expand, sharply increasing the code complexity and maintenance cost of general-purpose inference frameworks. Conventional software engineering uses multiple layers of abstraction to… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>simonw/pedalican</title>
-      <link>https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything</link>
-      <guid isPermaLink="false">pepite-f60e8094f327fd49</guid>
-      <pubDate>Tue, 14 Jul 2026 22:29:45 +0000</pubDate>
-      <category>models</category>
-      <description>simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a "pet" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Quoting Armin Ronacher</title>
-      <link>https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything</link>
-      <guid isPermaLink="false">pepite-87fb36a4c3ad440e</guid>
-      <pubDate>Tue, 14 Jul 2026 18:04:23 +0000</pubDate>
-      <category>agents</category>
-      <description>The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has the shape it does. This language is rarely written down in one place. It lives partly in documentation and code, but also in code review,… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>If you had a 384GB (4x Blackwell), what model would you put on it and why?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uwv48k/if_you_had_a_384gb_4x_blackwell_what_model_would/</link>
-      <guid isPermaLink="false">pepite-0571f401a392ec75</guid>
-      <pubDate>Wed, 15 Jul 2026 04:10:41 +0000</pubDate>
-      <category>models</category>
-      <description>Hey guys, Company I work for is actually very interested in spending the money to host our own local model for the team. We expect probably 2-3 super users and at the worst case 10-20 concurrent users. The LLM would be mostly used for internal company policies/data management and other various "thinking tasks". No real coding will be done by such a machine… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] Codex usage up &gt;10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??</title>
-      <link>https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</link>
-      <guid isPermaLink="false">pepite-f170a3464423798a</guid>
-      <pubDate>Tue, 14 Jul 2026 01:22:27 +0000</pubDate>
-      <category>models</category>
-      <description>a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting... It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>OpenAI's new prompting guide tells users to stop overthinking and start with the result</title>
-      <link>https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/</link>
-      <guid isPermaLink="false">pepite-f8d858f9e2c85763</guid>
-      <pubDate>Mon, 13 Jul 2026 17:47:39 +0000</pubDate>
-      <category>repos</category>
-      <description>OpenAI has released a prompting guide for everyday users, not developers. Instead of rigid formulas, it suggests four optional building blocks: goal, context, format, and constraints. The core advice is simple: describe the result you want, not the steps to get there. It's the first time OpenAI covers both Chat and Codex in a single framework. The article… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Satya Nadella has issued a shocking warning to companies using AI</title>
-      <link>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</link>
-      <guid isPermaLink="false">pepite-6b47c606258c6384</guid>
-      <pubDate>Mon, 13 Jul 2026 20:59:00 +0000</pubDate>
-      <category>models</category>
-      <description>Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data</title>
-      <link>https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/</link>
-      <guid isPermaLink="false">pepite-fa18b34632865987</guid>
-      <pubDate>Mon, 13 Jul 2026 14:28:50 +0000</pubDate>
-      <category>models</category>
-      <description>Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a "reverse information paradox." They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadella wants companies to control their own learning infrastructure. Microsoft, of course, sells exactly that.…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Show HN: YouTube Guitar Tab Parser</title>
-      <link>https://github.com/marcelpanse/youtube-guitar-tab-parser</link>
-      <guid isPermaLink="false">pepite-73bab64420bf595d</guid>
-      <pubDate>Mon, 13 Jul 2026 20:13:14 +0000</pubDate>
-      <category>models</category>
-      <description>I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab. There are services that transcribe music from Youtube videos into tabs, but they never work well enough for me. Instead I'm taking a simpler approach. It downloads the video, samples frames, uses Claude vision to locate the tab region, crops every frame to that… It landed in the last few hours. It's pulling 233pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: I implemented a neural network in SQL</title>
-      <link>https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py</link>
-      <guid isPermaLink="false">pepite-c8206c5824810696</guid>
-      <pubDate>Mon, 13 Jul 2026 20:00:10 +0000</pubDate>
-      <category>research</category>
-      <description>Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridded rasters (the premise of the project is that every Nd… It landed in the last few hours. It's pulling 181pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Benchmarking 15 “E-Waste” GPUs with Modern Workloads</title>
-      <link>https://esologic.com/benchmarking-tesla-gpus/</link>
-      <guid isPermaLink="false">pepite-714f88b6abf1ea8a</guid>
-      <pubDate>Mon, 13 Jul 2026 13:48:42 +0000</pubDate>
-      <category>research</category>
-      <description>It's pulling 186pts/day — real momentum for something this new, not a one-day spike. Still under the radar (120pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AlephAITech/WorkBuddyGuide</title>
-      <link>https://github.com/AlephAITech/WorkBuddyGuide</link>
-      <guid isPermaLink="false">pepite-23ee4cc626ec1580</guid>
-      <pubDate>Fri, 10 Jul 2026 04:13:51 +0000</pubDate>
-      <category>repos</category>
-      <description>推荐访问 workbuddy.homes 阅读。网站提供完整侧边栏、全文搜索、章节目录、深色模式、流程图和移动端适配。 GitHub 适合了解项目和参与贡献；真正阅读蓝皮书时，网站体验更完整。 如果你有真实的工作场景，却不知道怎样用 WorkBuddy 完成，可以前往 帮你解决 提交场景问卷。 请在问卷中说明你遇到的问题、目前的处理方式、会用到的资料、期望结果和安全边界。我们会阅读并评估每一份需求；如果需要补充信息，会通过你主动留下的联系方式与你沟通。 具有代表性和复用价值的问题，我们会尝试制作成完整的开源 Case，写清所用 Skill、安装与使用方法、任务描述、操作过程和最终效果，并发布到社区案例集，帮助更多遇到类似问题的人。 需要 Node.js 20～24，推荐 Node.js 22。… It's pulling 136★/day — real momentum for something this new, not a one-day spike. Still under the radar (552★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Sahir619/fable-method</title>
-      <link>https://github.com/Sahir619/fable-method</link>
-      <guid isPermaLink="false">pepite-4464488de3d77eb2</guid>
-      <pubDate>Mon, 06 Jul 2026 22:35:18 +0000</pubDate>
-      <category>repos</category>
-      <description>In its final days before deprecation, Claude Fable 5 distilled its own way of approaching problems into a set of skills any model can run: classify the ask before touching anything, define done with a named verification, gather evidence in parallel from primary sources, commit to one recommendation, change the smallest correct thing, verify by observation,… It's pulling 60★/day — real momentum for something this new, not a one-day spike. Still under the radar (437★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents</title>
-      <link>http://arxiv.org/abs/2607.11818v1</link>
-      <guid isPermaLink="false">pepite-1958e34acc09d4fd</guid>
-      <pubDate>Mon, 13 Jul 2026 17:13:09 +0000</pubDate>
-      <category>finance</category>
-      <description>We introduce MM-ToolSandBox, a benchmark and evaluation framework for visually grounded tool-calling agents. The framework provides a stateful execution environment spanning 500+ tools across 16 application domains, supporting multi-image, multi-turn tasks where agents must ground progressively arriving visual inputs into executable tool calls while… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
