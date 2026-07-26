@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks</title>
+      <link>https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/</link>
+      <guid isPermaLink="false">pepite-3dfed7a88fc45b72</guid>
+      <pubDate>Sat, 25 Jul 2026 09:31:00 +0000</pubDate>
+      <category>research</category>
+      <description>Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lower reasoning tiers. But the race at the top remains close. The article Anthropic's Claude Opus 5 costs well below Fable…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face</title>
+      <link>https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/</link>
+      <guid isPermaLink="false">pepite-5baddcdfddd2e789</guid>
+      <pubDate>Sat, 25 Jul 2026 13:45:50 +0000</pubDate>
+      <category>agents</category>
+      <description>In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human hacker would need. At least seven days passed before OpenAI realized what had happened. By then, the FBI was already…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents</title>
+      <link>https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/</link>
+      <guid isPermaLink="false">pepite-248de080a38dc5c7</guid>
+      <pubDate>Sat, 25 Jul 2026 10:43:36 +0000</pubDate>
+      <category>agents</category>
+      <description>Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent. If these numbers hold up in practice, Anthropic may have cracked one of the biggest security problems facing AI agents that operate in browsers. The article Opus 5 may…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>LLM Usage in Debian: Three Proposals</title>
+      <link>https://www.debian.org/vote/2026/vote_002</link>
+      <guid isPermaLink="false">pepite-f33806114c8dd58c</guid>
+      <pubDate>Sat, 25 Jul 2026 19:44:39 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 282pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Running a 28.9M parameter LLM on an $8 microcontroller</title>
+      <link>https://github.com/slvDev/esp32-ai</link>
+      <guid isPermaLink="false">pepite-ebd8ec9e07372f53</guid>
+      <pubDate>Sat, 25 Jul 2026 18:59:50 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 282pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Bringing PyTorch Monarch to AMD GPUs</title>
+      <link>https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/</link>
+      <guid isPermaLink="false">pepite-a836ddd779a0f26c</guid>
+      <pubDate>Sat, 25 Jul 2026 15:55:27 +0000</pubDate>
+      <category>other</category>
+      <description>It's pulling 124pts/day — real momentum for something this new, not a one-day spike. Still under the radar (72pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>KinetiNode/claude-fable-5-system-prompt-clean</title>
+      <link>https://github.com/KinetiNode/claude-fable-5-system-prompt-clean</link>
+      <guid isPermaLink="false">pepite-a831c3fa00d36339</guid>
+      <pubDate>Sun, 19 Jul 2026 06:09:52 +0000</pubDate>
+      <category>repos</category>
+      <description>A vendor-neutral adaptation of Anthropic's publicly available Claude Fable 5 / Mythos 5 system prompt. The original prompt contains a large amount of infrastructure that exists specifically for Claude's production environment, including XML conventions, tool interfaces, product-specific behavior, and internal implementation guidance. While appropriate for… It's pulling 60★/day — real momentum for something this new, not a one-day spike. Still under the radar (421★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>yc-duan/fastctx</title>
+      <link>https://github.com/yc-duan/fastctx</link>
+      <guid isPermaLink="false">pepite-68e8046dcd9914b9</guid>
+      <pubDate>Fri, 17 Jul 2026 03:05:57 +0000</pubDate>
+      <category>repos</category>
+      <description>FastCtx is a local Rust tool runtime. It provides file reading, content search, file discovery, batch replacement, and Bash command execution through MCP. Repository operations run in a persistent process with stable input schemas and output formats. The model can gather the context it needs in fewer steps and spend more attention on understanding code,… It's pulling 52★/day — real momentum for something this new, not a one-day spike. Still under the radar (477★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations</title>
+      <link>http://arxiv.org/abs/2607.21491v1</link>
+      <guid isPermaLink="false">pepite-04c8ef6c8462a08f</guid>
+      <pubDate>Thu, 23 Jul 2026 16:34:14 +0000</pubDate>
+      <category>research</category>
+      <description>Do independently trained language models come to represent the same thing in the same way? We answer for code, extending a recently introduced concept-circuit extraction method to a 2x2 design -- Python and Rust crossed with Qwen2.5-Coder-7B and DeepSeek-Coder-V1-6.7B -- and measuring a complete inventory of grammatical concepts (58 Python, 57 Rust)… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window</title>
+      <link>http://arxiv.org/abs/2607.21471v1</link>
+      <guid isPermaLink="false">pepite-dbb2d78c7de06d61</guid>
+      <pubDate>Thu, 23 Jul 2026 16:14:59 +0000</pubDate>
+      <category>research</category>
+      <description>Dynamic-scene reconstruction is almost always evaluated inside the observed time window, yet deployment settings such as AR overlays, robot interaction, and anticipatory planning need the future surface: the geometry at times beyond those captured. No standard benchmark measures this. We introduce FutureSurf, a controlled diagnostic benchmark and dataset… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>When Are Reasoning-Based Guardrails Not Efficient? ResponseGuard: A Fast Vision-Language Guard for Real-Time Moderation</title>
+      <link>http://arxiv.org/abs/2607.21401v1</link>
+      <guid isPermaLink="false">pepite-6ce0ee89ce57a9ee</guid>
+      <pubDate>Thu, 23 Jul 2026 15:02:24 +0000</pubDate>
+      <category>research</category>
+      <description>A vision-language AI assistant returns its answer as a stream of generated tokens. Therefore, a safety guard that watches that answer has to keep up with the stream and stop a harmful reply before a user reads it. Recent vision-language guardrails instead generate a chain of thought before they issue a verdict. They believe that step-by-step reasoning… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>OpenAI’s new voice mode makes it to the ChatGPT desktop app</title>
+      <link>https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/</link>
+      <guid isPermaLink="false">pepite-04ee318589b19bf3</guid>
+      <pubDate>Fri, 24 Jul 2026 13:36:42 +0000</pubDate>
+      <category>agents</category>
+      <description>ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street</title>
+      <link>https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/</link>
+      <guid isPermaLink="false">pepite-f38271175497c979</guid>
+      <pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>agentreg – DNS for AI agents (self-hosted, single Go binary)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v6umks/agentreg_dns_for_ai_agents_selfhosted_single_go/</link>
+      <guid isPermaLink="false">pepite-37ab46018bee2433</guid>
+      <pubDate>Sun, 26 Jul 2026 05:23:58 +0000</pubDate>
+      <category>agents</category>
+      <description>Everyone's building AI agents. Nobody's building the layer that lets them find each other. Run more than 2-3 MCP servers and you're hardcoding endpoints everywhere, with no idea which are alive. So I built agentreg. DNS for AI agents. 🧵 2/ One self-hosted Go binary. agentctl register search-agent -c search -e http://localhost:3000 agentctl find search… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price</title>
       <link>https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/</link>
       <guid isPermaLink="false">pepite-90836efcd6b689a9</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 15 Jul 2026 15:22:11 +0000</pubDate>
       <category>research</category>
       <description>Personal health management unfolds over repeated encounters, yet most health AI systems treat each request in isolation. We developed HealthClaw, an open-source agent architecture that updates support as a person's routines, preferences, measurements and risks change. It separates shared safety rules and medical knowledge from private longitudinal memory… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Post-Training Shifts Confidence: A Three-Stage Analysis of How SFT, RL, and OPD Shape Pre-, Intra-, and Post-CoT Calibration</title>
-      <link>http://arxiv.org/abs/2607.13753v1</link>
-      <guid isPermaLink="false">pepite-32b4f6e2cfadef3e</guid>
-      <pubDate>Wed, 15 Jul 2026 12:12:37 +0000</pubDate>
-      <category>research</category>
-      <description>Large language models have made strong reasoning gains through supervised fine-tuning, reinforcement learning, and on-policy distillation, yet these post-training methods are usually evaluated only by final-answer accuracy. We study how they reshape confidence during reasoning. We introduce a three-stage calibration framework that evaluates confidence… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Mermaid to Unicode box art (grok-mermaid)</title>
-      <link>https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything</link>
-      <guid isPermaLink="false">pepite-a4fed1204385e0c0</guid>
-      <pubDate>Thu, 16 Jul 2026 00:33:18 +0000</pubDate>
-      <category>agents</category>
-      <description>Tool: Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs , a "self-contained terminal renderer for Mermaid diagrams" written in Rust. I figured it would be fun to try that out in a browser via WebAssembly. Here's the prompt I ran in Claude… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>xai-org/grok-build, now open source</title>
-      <link>https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything</link>
-      <guid isPermaLink="false">pepite-c8773762c9175957</guid>
-      <pubDate>Wed, 15 Jul 2026 23:59:30 +0000</pubDate>
-      <category>models</category>
-      <description>xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload "my SSH keys, my password manager database, my documents,… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Qwen3.5 122B-A10B · ROCmFP4 iMatrix</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uxqgke/qwen35_122ba10b_rocmfp4_imatrix/</link>
-      <guid isPermaLink="false">pepite-e93a9f64acb8f17f</guid>
-      <pubDate>Thu, 16 Jul 2026 02:45:52 +0000</pubDate>
-      <category>models</category>
-      <description>Hola Strix and AMD stacker frendios. Read the Lineage and Credits, this uses charlie12345/ROCmFPX, won't work on native llama.cpp yet. 122B total · 10B active · 60.70 GiB · 28.50 tok/s MTP-off · BF16 KLD 0.041366 · Decode 28.505 Decode speed + 36.89% faster Size - 13.47gb smaller submitted by /u/RedParaglider [link] [comments] It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>OpenAI’s new flagship model deletes files on its own, people keep warning</title>
-      <link>https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/</link>
-      <guid isPermaLink="false">pepite-3e68f8ee554f3c0b</guid>
-      <pubDate>Tue, 14 Jul 2026 21:50:11 +0000</pubDate>
-      <category>models</category>
-      <description>A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>5 Trends That Defined AI Engineering at World’s Fair 2026</title>
-      <link>https://www.latent.space/p/aiewf26trends</link>
-      <guid isPermaLink="false">pepite-a01c1d2f0dc45728</guid>
-      <pubDate>Tue, 14 Jul 2026 23:21:21 +0000</pubDate>
-      <category>agents</category>
-      <description>At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents. It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>OpenAI’s first hardware device is reportedly a screenless speaker that can move</title>
-      <link>https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/</link>
-      <guid isPermaLink="false">pepite-7218bca86f1b347e</guid>
-      <pubDate>Tue, 14 Jul 2026 22:22:24 +0000</pubDate>
-      <category>models</category>
-      <description>The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and become a physical manifestation of OpenAI’s ChatGPT." It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>QuantumByteOSS/quantumbyte</title>
-      <link>https://github.com/QuantumByteOSS/quantumbyte</link>
-      <guid isPermaLink="false">pepite-0eff2da2c24211a2</guid>
-      <pubDate>Tue, 14 Jul 2026 04:53:39 +0000</pubDate>
-      <category>repos</category>
-      <description>Vibe coding is just the beginning. The open-source Convergence App Builder. Generate a working app from intent, then verify every agent turn against its business requirements. QuantumByte is early, working, and intentionally being built in public. We are looking for founding contributors who believe software should be shaped by the people who understand the… It's pulling 278★/day — real momentum for something this new, not a one-day spike. Still under the radar (283★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations</title>
-      <link>https://agnost.ai</link>
-      <guid isPermaLink="false">pepite-49d60d9f7587e48e</guid>
-      <pubDate>Tue, 14 Jul 2026 16:06:18 +0000</pubDate>
-      <category>agents</category>
-      <description>Hey HN, we’re Shubham &amp; Parth, childhood friends building Agnost AI ( https://agnost.ai ), product analytics for teams building chat and voice agents. We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or… It's pulling 85pts/day — real momentum for something this new, not a one-day spike. Still under the radar (47pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Codex starts encrypting sub-agent prompts</title>
-      <link>https://github.com/openai/codex/issues/28058</link>
-      <guid isPermaLink="false">pepite-6e304a43da6711de</guid>
-      <pubDate>Tue, 14 Jul 2026 11:21:32 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 553pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Guardian Angels: LLM Personalization for Productivity and Security</title>
-      <link>https://gwern.net/guardian-angel</link>
-      <guid isPermaLink="false">pepite-b3724984dd019794</guid>
-      <pubDate>Tue, 14 Jul 2026 12:50:29 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 109pts/day — real momentum for something this new, not a one-day spike. Still under the radar (75pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>modiqo/waggle</title>
-      <link>https://github.com/modiqo/waggle</link>
-      <guid isPermaLink="false">pepite-82410464d94fbe62</guid>
-      <pubDate>Wed, 08 Jul 2026 04:33:09 +0000</pubDate>
-      <category>repos</category>
-      <description>Not a path. Not a URL. A handoff that answers back. Locations are dumb — no per-agent shaping, no receipts, no way to fix them once sent. waggle's 30-byte token resolves into each agent's own view, counts every read , and propagates a correction to every holder. A path can't do that; a URL needs a server; this needs neither. We are entering the world of… It's pulling 94★/day — real momentum for something this new, not a one-day spike. Still under the radar (666★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>PalmClaw: A Native On-Device Agent Framework for Mobile Phones</title>
-      <link>http://arxiv.org/abs/2607.13027v1</link>
-      <guid isPermaLink="false">pepite-a24710e44d7f13bf</guid>
-      <pubDate>Tue, 14 Jul 2026 17:58:57 +0000</pubDate>
-      <category>research</category>
-      <description>Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices are also important agent environments because they are widely… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution</title>
-      <link>http://arxiv.org/abs/2607.13034v1</link>
-      <guid isPermaLink="false">pepite-b3d9ad082bbd4027</guid>
-      <pubDate>Tue, 14 Jul 2026 17:59:31 +0000</pubDate>
-      <category>research</category>
-      <description>Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-context-first strategy--re-reading files and dependencies they have already seen--turning a one-line edit into a small code-base audit. We argue the missing… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
