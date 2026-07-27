@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack</title>
+      <link>https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/</link>
+      <guid isPermaLink="false">pepite-8fa0d5fa5bb953d4</guid>
+      <pubDate>Sun, 26 Jul 2026 16:33:13 +0000</pubDate>
+      <category>agents</category>
+      <description>"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work</title>
+      <link>https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/</link>
+      <guid isPermaLink="false">pepite-ba4083338951f9a5</guid>
+      <pubDate>Sun, 26 Jul 2026 15:09:11 +0000</pubDate>
+      <category>agents</category>
+      <description>Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which separates planners from workers, eventually scored 100 percent on the test suite. The old swarm choked on merge conflicts of its own making. The article…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence</title>
+      <link>https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/</link>
+      <guid isPermaLink="false">pepite-533cb942ac1aa140</guid>
+      <pubDate>Sun, 26 Jul 2026 09:43:02 +0000</pubDate>
+      <category>research</category>
+      <description>Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent. The benchmark's developers say the model independently formulated reflection equations, a behavior they had never seen from another model, and attribute to stronger logical reasoning. The article Anthropic's Opus 5 blows past Fable 5…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns</title>
+      <link>https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/</link>
+      <guid isPermaLink="false">pepite-0bb2b7e86a9dc16f</guid>
+      <pubDate>Sun, 26 Jul 2026 07:56:24 +0000</pubDate>
+      <category>models</category>
+      <description>The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models, yet OpenAI and Anthropic continue to lobby privately for those same restrictions amid security concerns and powerful business interests. The…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>0xwilliamortiz/openclaude-improved</title>
+      <link>https://github.com/0xwilliamortiz/openclaude-improved</link>
+      <guid isPermaLink="false">pepite-b8718512b5d09bed</guid>
+      <pubDate>Sun, 26 Jul 2026 21:58:28 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source coding agent for the CLI. Cloud APIs, gateways, and local models — same tools, same agents, same workflow. Built from source. Windows examples below; macOS and Linux are identical minus the shell syntax. No Bun? winget install Oven-sh.Bun or bun.sh. That's it — openclaude is now on your PATH. Run /provider inside OpenClaude for guided setup… It landed in the last few hours. It's pulling 350★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Show HN: Distill and serve models with frontier quality for half the cost</title>
+      <link>https://github.com/experientiallabs/world-model-optimizer</link>
+      <guid isPermaLink="false">pepite-be50ceae7aa44768</guid>
+      <pubDate>Sun, 26 Jul 2026 23:35:15 +0000</pubDate>
+      <category>agents</category>
+      <description>Hi HN, we built world-model-optimizer, an open source tool to continually improve models specialized to agents. Agent traces you already capture are opportunities to get signal on how to make your model cheaper, faster, better. We do this by continuously a) distilling relevant chain of thought from larger open source models into smaller ones, b) model… It landed in the last few hours. It's pulling 155pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>makecindy/cindy</title>
+      <link>https://github.com/makecindy/cindy</link>
+      <guid isPermaLink="false">pepite-ff23d87cb2cd600c</guid>
+      <pubDate>Wed, 22 Jul 2026 17:49:34 +0000</pubDate>
+      <category>repos</category>
+      <description>🌐 cindy.app &amp;nbsp;·&amp;nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time. Cindy runs locally on your own machine, using your real files and logged-in apps. The first supported… It's pulling 144★/day — real momentum for something this new, not a one-day spike. Still under the radar (652★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>What if LLMs escape through inferences itself? This is fiction. For now</title>
+      <link>https://www.agrillo.it/EvasionEn.html</link>
+      <guid isPermaLink="false">pepite-125d6788b37e326c</guid>
+      <pubDate>Sun, 26 Jul 2026 16:23:56 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 56pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Cuts Long Horizon Inference Costs by 50% via external KV Cache Offload</title>
+      <link>https://github.com/openlake-project/openlake</link>
+      <guid isPermaLink="false">pepite-d3ff56d38414188f</guid>
+      <pubDate>Sun, 26 Jul 2026 13:02:21 +0000</pubDate>
+      <category>models</category>
+      <description>Hey HN, we’re the developers of OpenLake, an open source storage engine for offloading LLM KV caches from GPU memory into a shared tier of RAM and NVMe. We built OpenLake because KV caches are outgrowing GPU memory. A single 256K token conversation on Gemma 4 31B produces approximately 43GB of KV state, more than half the memory of an 80GB H100. The problem… It's pulling 29pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Are brain waves the next unlock for physical AI?</title>
+      <link>https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/</link>
+      <guid isPermaLink="false">pepite-81a7106a01095442</guid>
+      <pubDate>Mon, 27 Jul 2026 00:19:14 +0000</pubDate>
+      <category>models</category>
+      <description>Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>An Inside Look at the Relay Market Powering Token Resellers and Fraud</title>
+      <link>https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything</link>
+      <guid isPermaLink="false">pepite-cc1403ff4fc3a478</guid>
+      <pubDate>Sun, 26 Jul 2026 19:30:54 +0000</pubDate>
+      <category>models</category>
+      <description>An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various sources. This looks to be mostly a thing in China. Resellers sell access to an LLM proxy that offers significant discounts on regular API… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction</title>
+      <link>http://bair.berkeley.edu/blog/2026/07/26/abbel/</link>
+      <guid isPermaLink="false">pepite-81a2e769e89fad81</guid>
+      <pubDate>Sun, 26 Jul 2026 09:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>--&gt; .abbel-fig { display: block; text-align: center; margin: 2.4em 0; line-height: 1.4; max-width: 100%; } .abbel-fig img { display: block; margin: 0.65em auto 0; height: auto; max-width: 100%; } /* Image sizes; captions use a narrower measure below */ .abbel-fig--wide img { width: 100%; max-width: 100%; } .abbel-fig--wide-90 img { width: 100%; max-width:…
+
+— via BAIR</description>
+    </item>
+    <item>
+      <title>Kimi K3 vs GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing</title>
+      <link>https://www.together.ai/blog/kimi-k3-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing</link>
+      <guid isPermaLink="false">pepite-bd70e5b68429de77</guid>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>We ran 904 DeepSWE rollouts on Kimi K3 and GPT-5.6 Sol. Sol leads pass@1; Kimi K3 wins pass@4 at 2.8x the solves per dollar, and routing between them reaches ~85.6%.
+
+— via Together AI</description>
+    </item>
+    <item>
+      <title>What local model do you still use after the hype wore off?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v7r87j/what_local_model_do_you_still_use_after_the_hype/</link>
+      <guid isPermaLink="false">pepite-3623d542791bba42</guid>
+      <pubDate>Mon, 27 Jul 2026 05:28:16 +0000</pubDate>
+      <category>research</category>
+      <description>Every time a new model is released, I tend to check it out. The benchmarks, readme, or whatever seem pretty convincing, so I download it, test it for a few hours, and then I just go back to the same couple of ones I already had. Curious what models people here have actually kept using for weeks, months, or even longer. And not just that - but why? Was it… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks</title>
       <link>https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/</link>
       <guid isPermaLink="false">pepite-3dfed7a88fc45b72</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 16 Jul 2026 17:51:23 +0000</pubDate>
       <category>research</category>
       <description>Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-agent systems can become trapped in repetitive loops, wasting… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy</title>
-      <link>http://arxiv.org/abs/2607.15176v1</link>
-      <guid isPermaLink="false">pepite-628b7e759de3e8f7</guid>
-      <pubDate>Thu, 16 Jul 2026 16:29:34 +0000</pubDate>
-      <category>finance</category>
-      <description>Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy assessment test, a standardized SciVis literacy assessment… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
-      <link>https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</link>
-      <guid isPermaLink="false">pepite-98a9920bcc16cf1d</guid>
-      <pubDate>Thu, 16 Jul 2026 20:19:30 +0000</pubDate>
-      <category>research</category>
-      <description>Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their "most capable model to date, with 2.8 trillion parameters". It's currently available via their website and API, but an open weight release is promised "by July 27, 2026". Moonshot are calling this the first "open 3T-class model" (I guess they're rounding 2.8 trillion up to 3… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Quoting Thibault Sottiaux</title>
-      <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
-      <guid isPermaLink="false">pepite-0474f9c399b0290d</guid>
-      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
-      <category>finance</category>
-      <description>On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled The model attempts to override the $HOME env var to define a temporary… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Developers who move fast still need to do it together​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿‍​‌‍‌‍​﻿‌‌​﻿​‍‌‍‌​​﻿‌﻿‌‍​‍​‍﻿‌‌‍‌‌‌‍‌​​﻿​﻿​﻿‌‌​‍﻿‌​﻿‌​‌‍‌​​﻿​‍​﻿​﻿​‍﻿‌​﻿‍‌​﻿​​​﻿‌​‌‍‌‌​‍﻿‌‌‍‌‌​﻿​‌‌‍​﻿​﻿​﻿​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿‍​‌‍‌‍​﻿‌‌​﻿​‍‌‍‌​​﻿‌﻿‌‍​‍​‍﻿‌‌‍‌‌‌‍‌​​﻿​﻿​﻿‌‌​‍﻿‌​﻿‌​‌‍‌​​﻿​‍​﻿​﻿​‍﻿‌​﻿‍‌​﻿​​​﻿‌​‌‍‌‌​‍﻿‌‌‍‌‌​﻿​‌‌‍​﻿​﻿​﻿​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
-      <link>https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/</link>
-      <guid isPermaLink="false">pepite-9a3b7732daaff909</guid>
-      <pubDate>Fri, 17 Jul 2026 07:40:00 +0000</pubDate>
-      <category>agents</category>
-      <description>At MS Build, Ryan is joined by Cassidy Williams, Senior Director of Developer Advocacy at GitHub and former Stack Overflow Podcast host, to discuss how agentic coding is shifting dev work towards higher-level strategy while increasing decision fatigue; why human taste, community feedback, and mentorship are becoming more essential than ever for developer… It landed in the last few hours.
-
-— via Stack Overflow</description>
-    </item>
-    <item>
-      <title>Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic</title>
-      <link>https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/</link>
-      <guid isPermaLink="false">pepite-cce1dcce4c530f32</guid>
-      <pubDate>Wed, 15 Jul 2026 23:59:44 +0000</pubDate>
-      <category>models</category>
-      <description>Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</title>
-      <link>https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</link>
-      <guid isPermaLink="false">pepite-89c9f7f3ade42756</guid>
-      <pubDate>Wed, 15 Jul 2026 22:24:17 +0000</pubDate>
-      <category>agents</category>
-      <description>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises… It landed in the last few hours.
-
-— via VentureBeat AI</description>
-    </item>
-    <item>
-      <title>OpenAI is now using AI to attack its own AI, and it's working better than humans ever did</title>
-      <link>https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/</link>
-      <guid isPermaLink="false">pepite-2ac9497cd90787fa</guid>
-      <pubDate>Wed, 15 Jul 2026 19:47:53 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening models like GPT-5.6 Sol. The article OpenAI is now using AI to attack its own AI, and it's working better than humans ever did appeared first on The Decoder . It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Inkling – Open-Weights 975B Parameter LLM</title>
-      <link>https://thinkingmachines.ai/inkling/</link>
-      <guid isPermaLink="false">pepite-86bdf1f398e78d9e</guid>
-      <pubDate>Wed, 15 Jul 2026 18:14:23 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 259pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>LLM Networking with MikroTik</title>
-      <link>https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html</link>
-      <guid isPermaLink="false">pepite-51c712cfd8b0d5c9</guid>
-      <pubDate>Wed, 15 Jul 2026 22:23:27 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 228pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU</title>
-      <link>https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/</link>
-      <guid isPermaLink="false">pepite-1538a89622fc2eb0</guid>
-      <pubDate>Wed, 15 Jul 2026 15:34:05 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 453pts/day — real momentum for something this new, not a one-day spike. Still under the radar (262pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>William-Lu-stack/Flawless</title>
-      <link>https://github.com/William-Lu-stack/Flawless</link>
-      <guid isPermaLink="false">pepite-8b6c2fac9ecfd97f</guid>
-      <pubDate>Fri, 10 Jul 2026 05:57:02 +0000</pubDate>
-      <category>repos</category>
-      <description>它不是另一个只会给建议的运维聊天框。Flawless 将“发现问题、收集证据、生成预演、人工授权、执行变更、恢复验证、经验沉淀”连接成一个可审计闭环。 Created in Shanghai by 陆宣宇 (Xuanyu Lu). These are real console captures from the running platform, not conceptual mockups. Current release: 3.2.0. Release 3.2 adds persistent remediation lineage: every failed strategy, action, verification result, and replacement plan stays linked… It's pulling 108★/day — real momentum for something this new, not a one-day spike. Still under the radar (648★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>clawkwork/clawk</title>
-      <link>https://github.com/clawkwork/clawk</link>
-      <guid isPermaLink="false">pepite-47c5d04b57b351d9</guid>
-      <pubDate>Mon, 06 Jul 2026 21:30:38 +0000</pubDate>
-      <category>repos</category>
-      <description>A coding agent is only useful when you let it actually do things: install packages, run the code it writes, start servers, use the network. On your own machine that leaves two bad options. You approve every command (and babysit a prompt every few seconds), or you run --dangerously-skip-permissions and hope nothing important is one rm -rf or one leaked token… It's pulling 58★/day — real momentum for something this new, not a one-day spike. Still under the radar (544★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models</title>
-      <link>http://arxiv.org/abs/2607.13860v1</link>
-      <guid isPermaLink="false">pepite-4f702d1ed3d23a4a</guid>
-      <pubDate>Wed, 15 Jul 2026 14:05:58 +0000</pubDate>
-      <category>research</category>
-      <description>While Multimodal Large Language Models (MLLMs) have demonstrated remarkable success in 2D medical image understanding, their extension to 3D volumetric imaging remains hindered by prohibitive annotation costs and dataset opacity. Current data formats, predominantly consisting of rigid Visual Question Answering (VQA) pairs or unstructured final clinical… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>A Self-Evolving Agent for Longitudinal Personal Health Management</title>
-      <link>http://arxiv.org/abs/2607.13940v1</link>
-      <guid isPermaLink="false">pepite-fed7c0891f4a1198</guid>
-      <pubDate>Wed, 15 Jul 2026 15:22:11 +0000</pubDate>
-      <category>research</category>
-      <description>Personal health management unfolds over repeated encounters, yet most health AI systems treat each request in isolation. We developed HealthClaw, an open-source agent architecture that updates support as a person's routines, preferences, measurements and risks change. It separates shared safety rules and medical knowledge from private longitudinal memory… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
