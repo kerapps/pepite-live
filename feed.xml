@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI</title>
+      <link>https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/</link>
+      <guid isPermaLink="false">pepite-287e1596aea7848d</guid>
+      <pubDate>Tue, 28 Jul 2026 00:13:33 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race</title>
+      <link>https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/</link>
+      <guid isPermaLink="false">pepite-bab0dff911946951</guid>
+      <pubDate>Mon, 27 Jul 2026 19:35:08 +0000</pubDate>
+      <category>research</category>
+      <description>Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps in cyber and math performance, possibly pointing to distillation. The article Moonshot AI releases Kimi K3… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks</title>
+      <link>https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/</link>
+      <guid isPermaLink="false">pepite-23c6d0d1adfc33b6</guid>
+      <pubDate>Mon, 27 Jul 2026 18:50:07 +0000</pubDate>
+      <category>research</category>
+      <description>Microsoft introduces MAI-Cyber-1-Flash, a compact security model that scores 96 percent on the CyberGym benchmark when embedded in its MDASH multi-agent system. Microsoft says costs should drop by 50 percent compared to pure frontier models, since only tough cases get passed to GPT-5.4. For complex reasoning, Microsoft still relies on OpenAI. The article… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing</title>
+      <link>https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/</link>
+      <guid isPermaLink="false">pepite-40ec7a28c7a1f75f</guid>
+      <pubDate>Tue, 28 Jul 2026 04:30:00 +0000</pubDate>
+      <category>finance</category>
+      <description>Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>VictorTaelin/OptMem</title>
+      <link>https://github.com/VictorTaelin/OptMem</link>
+      <guid isPermaLink="false">pepite-27d3ec4c2a0eff92</guid>
+      <pubDate>Sat, 25 Jul 2026 16:58:43 +0000</pubDate>
+      <category>repos</category>
+      <description>Permanent memory for AI agents. A 426-token prompt, a script, plug and play. It prints a Memory block. Paste that at the top of your agent's AGENTS.md (or CLAUDE.md), and you are done. Run the same line again to update. The tool lands at ~/.optmem/memo; put ~/.optmem on PATH to type memo. Merges arrive one at a time, in the output of note. Nothing ever runs… It's pulling 264★/day — real momentum for something this new, not a one-day spike. Still under the radar (667★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Kimi K3 Now Available via Telnyx Inference API</title>
+      <link>https://telnyx.com/release-notes/kimi-k3-telnyx-inference</link>
+      <guid isPermaLink="false">pepite-562b025a4c21aa8a</guid>
+      <pubDate>Mon, 27 Jul 2026 22:46:28 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 134pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>All major LLMs are lib-left. Even Grok, half the time</title>
+      <link>https://unslop.run/blog/political-compass-of-llms</link>
+      <guid isPermaLink="false">pepite-d944a9afc326c2a6</guid>
+      <pubDate>Mon, 27 Jul 2026 15:57:15 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 72pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>mikehasa/agentacct</title>
+      <link>https://github.com/mikehasa/agentacct</link>
+      <guid isPermaLink="false">pepite-6af6955316e98c61</guid>
+      <pubDate>Fri, 24 Jul 2026 16:28:06 +0000</pubDate>
+      <category>repos</category>
+      <description>agentacct is local-first Agent Work Intelligence for coding agents. It reads the session logs that Claude Code and Codex already write on your machine, joins them with the work each session records as it goes, and shows the result — tokens, estimated cost, tasks, and evidence — on a local dashboard. Screenshots show a synthetic demo workspace; your… It's pulling 140★/day — real momentum for something this new, not a one-day spike. Still under the radar (497★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding</title>
+      <link>http://arxiv.org/abs/2607.24743v1</link>
+      <guid isPermaLink="false">pepite-562f3ae2c62d6fc0</guid>
+      <pubDate>Mon, 27 Jul 2026 17:59:49 +0000</pubDate>
+      <category>finance</category>
+      <description>Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Beyond Scale and Generation: Understanding Language Model-based Entity Matching</title>
+      <link>http://arxiv.org/abs/2607.24688v1</link>
+      <guid isPermaLink="false">pepite-ae5522de88dd1151</guid>
+      <pubDate>Mon, 27 Jul 2026 17:29:18 +0000</pubDate>
+      <category>research</category>
+      <description>Entity matching identifies records that refer to the same real-world entity. Language models can be adapted to this task through bi-encoder, cross-encoder, and generative matcher architectures. However, prior studies often conflate matcher architecture with differences in model backbone, model variant(reflecting different pretraining objectives), and model… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Data Pyramid for Embodied Manipulation</title>
+      <link>http://arxiv.org/abs/2607.24744v1</link>
+      <guid isPermaLink="false">pepite-7ef244f87c630874</guid>
+      <pubDate>Mon, 27 Jul 2026 17:59:58 +0000</pubDate>
+      <category>research</category>
+      <description>Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this work, we organize the embodied data ecosystem as a "pyramid"… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Don't ask an LLM for a confidence score</title>
+      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
+      <guid isPermaLink="false">pepite-a0c3374425ab479f</guid>
+      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 70pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>An opinionated guide to which AI to use to do stuff</title>
+      <link>https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything</link>
+      <guid isPermaLink="false">pepite-db1f5ea7924a0b63</guid>
+      <pubDate>Mon, 27 Jul 2026 21:55:53 +0000</pubDate>
+      <category>agents</category>
+      <description>An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro as the models and Deep Research as a useful alternative mode. Today it's much more about agentic systems - "where the AI… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Update your chat template for dsv4 if you're using llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v8oalz/update_your_chat_template_for_dsv4_if_youre_using/</link>
+      <guid isPermaLink="false">pepite-52fc7a348f515313</guid>
+      <pubDate>Tue, 28 Jul 2026 04:58:07 +0000</pubDate>
+      <category>agents</category>
+      <description>Following some recent commits in llama.cpp, preserve_thinking behavior for chat templates included in older DSV4 ggufs got broken. This makes the model pretty dumb in a coding agent context. Adding kwargs won't fix it. Just add: --chat-template-file /path/to/llama.cpp/models/templates/deepseek-ai-DeepSeek-V4.jinja to override the gguf's template with the… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack</title>
       <link>https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/</link>
       <guid isPermaLink="false">pepite-8fa0d5fa5bb953d4</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 16 Jul 2026 17:18:37 +0000</pubDate>
       <category>research</category>
       <description>Multimodal large language models (MLLMs) often introduce errors when generating image captions, resulting in misaligned image-text pairs. Our work focuses on a class of captioning errors that we refer to as systematic misalignments, where a recurring error in MLLM-generated captions is closely associated with the presence of a specific visual feature in the… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget</title>
-      <link>http://arxiv.org/abs/2607.14952v1</link>
-      <guid isPermaLink="false">pepite-2143f051ff8598ec</guid>
-      <pubDate>Thu, 16 Jul 2026 13:00:32 +0000</pubDate>
-      <category>research</category>
-      <description>A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers</title>
-      <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
-      <guid isPermaLink="false">pepite-a0bbc2c6e6f2a453</guid>
-      <pubDate>Fri, 17 Jul 2026 15:57:54 +0000</pubDate>
-      <category>models</category>
-      <description>A new post worth a look.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>Databricks hits $188B valuation, extending its run as AI’s favorite second act</title>
-      <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
-      <guid isPermaLink="false">pepite-df39e0ae194be239</guid>
-      <pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate>
-      <category>finance</category>
-      <description>Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Kimi moment. I think the writing is on the wall for Anthropic and OpenAi</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uziqyt/kimi_moment_i_think_the_writing_is_on_the_wall/</link>
-      <guid isPermaLink="false">pepite-059c6100fa94d30e</guid>
-      <pubDate>Sat, 18 Jul 2026 01:50:03 +0000</pubDate>
-      <category>finance</category>
-      <description>New day new model....... can't wait to see in a few weeks how Minimax 3 Pro (2.7T parameters) and GLM 5.3 reinforces the narrative. As a group, all of them are accelerating their progress. THAT is the strength of open source. Meanwhile less enterprises are going to trust Anthropic and OpenAI. Why? Because now to re-establish their moat and justify their… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI</title>
-      <link>https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/</link>
-      <guid isPermaLink="false">pepite-a3a55cfc227c225b</guid>
-      <pubDate>Thu, 16 Jul 2026 19:49:39 +0000</pubDate>
-      <category>research</category>
-      <description>Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context. In the company's own benchmarks, it comes close to Claude Fable 5 and GPT 5.6 Sol while beating Opus 4.8 and GLM 5.2, in some cases by a wide margin. The model is also significantly pricier than its predecessor. Full weights are scheduled for… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix</title>
-      <link>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</link>
-      <guid isPermaLink="false">pepite-e9ea1363a186c8a2</guid>
-      <pubDate>Thu, 16 Jul 2026 17:06:08 +0000</pubDate>
-      <category>agents</category>
-      <description>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already…
-
-— via VentureBeat AI</description>
-    </item>
-    <item>
-      <title>xAI can’t deny Grok makes CSAM anymore. So it’s suing users.</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</link>
-      <guid isPermaLink="false">pepite-976e25fe768e3c13</guid>
-      <pubDate>Thu, 16 Jul 2026 20:26:23 +0000</pubDate>
-      <category>models</category>
-      <description>Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images. It landed in the last few hours.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>LM Studio Bionic: the AI agent for open models</title>
-      <link>https://lmstudio.ai/blog/introducing-lm-studio-bionic</link>
-      <guid isPermaLink="false">pepite-49c35eab02968fae</guid>
-      <pubDate>Thu, 16 Jul 2026 20:18:15 +0000</pubDate>
-      <category>agents</category>
-      <description>It landed in the last few hours. It's pulling 515pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Detecting LLM-Generated Texts with “Classical” Machine Learning</title>
-      <link>https://blog.lyc8503.net/en/post/llm-classifier/</link>
-      <guid isPermaLink="false">pepite-914e4bd7347cf9a8</guid>
-      <pubDate>Thu, 16 Jul 2026 16:41:37 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 330pts/day — real momentum for something this new, not a one-day spike. Still under the radar (176pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>The LLM Critics Are Right. I Use LLMs Anyway</title>
-      <link>https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/</link>
-      <guid isPermaLink="false">pepite-cb54298db0673ea1</guid>
-      <pubDate>Thu, 16 Jul 2026 11:59:01 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 285pts/day — real momentum for something this new, not a one-day spike. Still under the radar (208pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>alexafinode/claude-arbitrage-bot</title>
-      <link>https://github.com/alexafinode/claude-arbitrage-bot</link>
-      <guid isPermaLink="false">pepite-064e06c37cf26910</guid>
-      <pubDate>Thu, 16 Jul 2026 00:58:40 +0000</pubDate>
-      <category>repos</category>
-      <description>An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call. An arbitrage bot is a smart contract connected to an external automation script that controls its… It's pulling 138★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>deer-flow/llm-space</title>
-      <link>https://github.com/deer-flow/llm-space</link>
-      <guid isPermaLink="false">pepite-e63d27d06589ec3c</guid>
-      <pubDate>Sun, 28 Jun 2026 03:39:34 +0000</pubDate>
-      <category>repos</category>
-      <description>https://github.com/user-attachments/assets/2ba7a600-1f1a-44c0-b9f1-34ad42100213 LLM Space is a sister project of DeerFlow, and we dogfood it heavily: every version of DeerFlow is built and debugged with LLM Space. The project started in March 2023, and v4 is its fourth major iteration. Your files and API keys stay on your local computer. LLM Space collects… It's pulling 47★/day — real momentum for something this new, not a one-day spike. Still under the radar (908★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators</title>
-      <link>http://arxiv.org/abs/2607.15273v1</link>
-      <guid isPermaLink="false">pepite-73378c47d203bcb9</guid>
-      <pubDate>Thu, 16 Jul 2026 17:59:02 +0000</pubDate>
-      <category>research</category>
-      <description>MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific objectives. In particular, DiffusionNFT offers an efficient forward-process… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration</title>
-      <link>http://arxiv.org/abs/2607.15257v1</link>
-      <guid isPermaLink="false">pepite-5119dbef178d84af</guid>
-      <pubDate>Thu, 16 Jul 2026 17:51:23 +0000</pubDate>
-      <category>research</category>
-      <description>Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-agent systems can become trapped in repetitive loops, wasting… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
