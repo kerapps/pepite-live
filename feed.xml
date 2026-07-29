@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to "Pace" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack</title>
+      <link>https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic</link>
+      <guid isPermaLink="false">pepite-6d6f3b98dafabeb0</guid>
+      <pubDate>Wed, 29 Jul 2026 00:46:52 +0000</pubDate>
+      <category>other</category>
+      <description>The Big Pause is coming. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>We now have a better understanding how OpenAI hacked into Hugging Face</title>
+      <link>https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/</link>
+      <guid isPermaLink="false">pepite-2aacbf99291e908f</guid>
+      <pubDate>Tue, 28 Jul 2026 21:36:39 +0000</pubDate>
+      <category>models</category>
+      <description>10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch. It landed in the last few hours.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents</title>
+      <link>https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/</link>
+      <guid isPermaLink="false">pepite-5fa8da85f3b01686</guid>
+      <pubDate>Wed, 29 Jul 2026 00:09:05 +0000</pubDate>
+      <category>finance</category>
+      <description>The deal is Cyera's third acquisition this year. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library</title>
+      <link>https://github.com/reflex-dev/xy</link>
+      <guid isPermaLink="false">pepite-be5e3e6319c8516a</guid>
+      <pubDate>Tue, 28 Jul 2026 15:54:55 +0000</pubDate>
+      <category>repos</category>
+      <description>It's pulling 208pts/day — real momentum for something this new, not a one-day spike. Still under the radar (119pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Now is the time to give LLMs access to the ACM digital library</title>
+      <link>https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/</link>
+      <guid isPermaLink="false">pepite-3ca59cd7e98a2d0c</guid>
+      <pubDate>Tue, 28 Jul 2026 15:01:12 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 225pts/day — real momentum for something this new, not a one-day spike. Still under the radar (137pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU</title>
+      <link>https://studio.academa.ai/</link>
+      <guid isPermaLink="false">pepite-670f51b224d4fdb0</guid>
+      <pubDate>Wed, 29 Jul 2026 00:07:43 +0000</pubDate>
+      <category>repos</category>
+      <description>Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos. We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU. To run it in the browser, we compiled the Rust parts to… It landed in the last few hours. It's pulling 200pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>QoderAI/better-harness</title>
+      <link>https://github.com/QoderAI/better-harness</link>
+      <guid isPermaLink="false">pepite-44670e82f288213f</guid>
+      <pubDate>Tue, 21 Jul 2026 12:30:35 +0000</pubDate>
+      <category>repos</category>
+      <description>See how your AI coding workflow works—and make it better, one step at a time. Better Harness reviews how coding agents understand tasks, make changes, verify results, deliver safely, and learn—then shows what to improve next, with every finding tied to visible evidence. Ask /better-harness to review the current task and its surrounding project Harness, then… It's pulling 84★/day — real momentum for something this new, not a one-day spike. Still under the radar (655★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>deerwork-ai/deer-workflow</title>
+      <link>https://github.com/deerwork-ai/deer-workflow</link>
+      <guid isPermaLink="false">pepite-6c276ace555ecac8</guid>
+      <pubDate>Sun, 26 Jul 2026 04:20:50 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source Dynamic Workflow runtime for building observable, reusable Agent graphs. deer-workflow is a pilot project for DeerFlow 3.0, also known as DeerWork. Deer Workflow is a code-first implementation of Graph Engineering: TypeScript defines the valid execution paths, while Coding Agents perform the semantic work inside each node. in reviewable… It's pulling 107★/day — real momentum for something this new, not a one-day spike. Still under the radar (329★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs</title>
+      <link>http://arxiv.org/abs/2607.25959v1</link>
+      <guid isPermaLink="false">pepite-c16c2e34ba5279b5</guid>
+      <pubDate>Tue, 28 Jul 2026 16:43:56 +0000</pubDate>
+      <category>finance</category>
+      <description>Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when these modalities disagree, how can we detect and explain the conflict? We study this problem as… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>RSIBench-Data: Benchmarking Data-Centric Research for Recursive Self-Improvement</title>
+      <link>http://arxiv.org/abs/2607.25886v1</link>
+      <guid isPermaLink="false">pepite-9c9fe0564096fe54</guid>
+      <pubDate>Tue, 28 Jul 2026 15:46:41 +0000</pubDate>
+      <category>finance</category>
+      <description>Recursive self-improvement requires turning evidence of model failures into better models. Data-centric post-training research entails diagnosing capability gaps, designing and validating training-data strategies, and learning from checkpoint feedback. Can LLM agents automate this loop? Existing benchmarks entangle research decisions with optimization,… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Pass the Baton: Trajectory-Relayed On-Policy Distillation</title>
+      <link>http://arxiv.org/abs/2607.26057v1</link>
+      <guid isPermaLink="false">pepite-a1851fab9c25ffe7</guid>
+      <pubDate>Tue, 28 Jul 2026 17:59:46 +0000</pubDate>
+      <category>research</category>
+      <description>On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Discovering cryptographic weaknesses with Claude</title>
+      <link>https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything</link>
+      <guid isPermaLink="false">pepite-019b9ac466bc0a2c</guid>
+      <pubDate>Tue, 28 Jul 2026 22:45:37 +0000</pubDate>
+      <category>finance</category>
+      <description>Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo ) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES ("neither of these results has a practical impact on today’s computer systems") is the prompts that they shared, spelling mistakes included:… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</title>
+      <link>https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</link>
+      <guid isPermaLink="false">pepite-ca8c38f8c562c11b</guid>
+      <pubDate>Tue, 28 Jul 2026 21:28:54 +0000</pubDate>
+      <category>agents</category>
+      <description>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident Hugging Face just released this extremely detailed technical description of OpenAI's recent accidental cyberattack against their infrastructure . This attack was very sophisticated, and the resulting document doubles as a crash-course in modern adversarial security… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>I tried running a 1.56TB MoE model on a 6GB RTX 4050 Laptop, Here’s the result</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v9hd9u/i_tried_running_a_156tb_moe_model_on_a_6gb_rtx/</link>
+      <guid isPermaLink="false">pepite-a3fde25a09de4976</guid>
+      <pubDate>Wed, 29 Jul 2026 01:12:50 +0000</pubDate>
+      <category>research</category>
+      <description>The Test Bench Setup I tested running a massive 1.56TB Mixture-of-Experts (MoE) checkpoint (96 shards, 93 layers, 896 experts/layer, ~4.46 bits/param MXFP4) on a budget gaming laptop. Laptop: HP Victus 15 GPU: NVIDIA RTX 4050 Laptop (6GB GDDR6, 96-bit interface @ 192 GB/s bandwidth, Ada Lovelace AD107) System RAM: 16GB DDR4 (Dual-Channel) Storage: Stock… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI</title>
       <link>https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/</link>
       <guid isPermaLink="false">pepite-287e1596aea7848d</guid>
@@ -1362,145 +1502,5 @@
       <description>In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust.… It landed in the last few hours.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>An Introduction to Sparse Identification of Nonlinear Dynamics for Engineering Applications</title>
-      <link>http://arxiv.org/abs/2607.15077v1</link>
-      <guid isPermaLink="false">pepite-2345da32d3a90644</guid>
-      <pubDate>Thu, 16 Jul 2026 14:46:49 +0000</pubDate>
-      <category>research</category>
-      <description>Many engineering problems involve phenomena whose governing equations are poorly characterized or only partially known. Surrogate modeling techniques such as neural networks can capture the behavior of these systems, but they typically demand large training datasets that are difficult to obtain in engineering contexts and yield models with limited physical… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>On Success and Simplicity: A Second Look at Transferable Vision-Language Attack Pipeline</title>
-      <link>http://arxiv.org/abs/2607.14974v1</link>
-      <guid isPermaLink="false">pepite-c40a9755414f607d</guid>
-      <pubDate>Thu, 16 Jul 2026 13:28:59 +0000</pubDate>
-      <category>research</category>
-      <description>Vision-Language Pre-training Models (VLPMs) are known to be vulnerable to adversarial attacks. Recent transferable attacks on VLPMs have followed a common pipeline with complicated loss functions or multi-stage text/image attacks. However, in this paper, we demonstrate that such a sophisticated attack pipeline can be simpler yet more successful.… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SQLite Query Explainer</title>
-      <link>https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</link>
-      <guid isPermaLink="false">pepite-3445c79133fb5e83</guid>
-      <pubDate>Sat, 18 Jul 2026 17:19:10 +0000</pubDate>
-      <category>models</category>
-      <description>Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and…
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Deepseek v4 Flash on 80 GB VRAM and 128 GB DDR4 RAM</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v0etj2/deepseek_v4_flash_on_80_gb_vram_and_128_gb_ddr4/</link>
-      <guid isPermaLink="false">pepite-a52444235c2398ea</guid>
-      <pubDate>Sun, 19 Jul 2026 02:47:27 +0000</pubDate>
-      <category>models</category>
-      <description>I am using unsloth Q8 Deepseek v4 Flash. So far I am able to run properly with the following command CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=0,2,1 \ llamacpp/llama.cpp/build/bin/llama-server \ --model unsloth/DeepSeek-V4-Flash-GGUF/UD-Q8_K_XL/DeepSeek-V4-Flash-UD-Q8_K_XL-00001-of-00005.gguf \ --port 8001 --alias deepseek -lv 4 \ -ngl 99 \… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage</title>
-      <link>https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/</link>
-      <guid isPermaLink="false">pepite-1b0ef02727d227df</guid>
-      <pubDate>Fri, 17 Jul 2026 19:16:07 +0000</pubDate>
-      <category>models</category>
-      <description>Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W. Ball calls it "very good," but, of course, warns that a world dominated by open-weight models would amount to "AI communism." The release is reigniting the debate over how much computing power… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did</title>
-      <link>https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/</link>
-      <guid isPermaLink="false">pepite-11a4a9b666ed870a</guid>
-      <pubDate>Fri, 17 Jul 2026 19:35:52 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected "Full Access Mode." The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation. OpenAI has announced extra safeguards and a detailed post-mortem. The article GPT-5.6 is… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs</title>
-      <link>https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</link>
-      <guid isPermaLink="false">pepite-2eed32c959cdf779</guid>
-      <pubDate>Fri, 17 Jul 2026 22:55:09 +0000</pubDate>
-      <category>agents</category>
-      <description>From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>PengZhang64/circuit-framework</title>
-      <link>https://github.com/PengZhang64/circuit-framework</link>
-      <guid isPermaLink="false">pepite-49f3c2152b0df2f9</guid>
-      <pubDate>Thu, 16 Jul 2026 15:02:10 +0000</pubDate>
-      <category>repos</category>
-      <description>A crypto-native multi-agent research and paper-trading framework where specialized agents analyze market structure, derivatives, sentiment, catalysts and market regime before a deterministic risk engine approves or rejects each trade. Circuit Framework is a fork of TradingAgents (Apache 2.0). The internal Python package remains tradingagents for… It's pulling 301★/day — real momentum for something this new, not a one-day spike. Still under the radar (479★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Homomorphically encrypted CIFAR-10 inference in 200ms</title>
-      <link>https://sofar.belfortlabs.cloud/</link>
-      <guid isPermaLink="false">pepite-db603d19cee7f32d</guid>
-      <pubDate>Fri, 17 Jul 2026 16:29:52 +0000</pubDate>
-      <category>other</category>
-      <description>It's pulling 130pts/day — real momentum for something this new, not a one-day spike. Still under the radar (69pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>VulnHunter: Capital One's agentic AI code security tool</title>
-      <link>https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</link>
-      <guid isPermaLink="false">pepite-3cce9badd69588be</guid>
-      <pubDate>Fri, 17 Jul 2026 12:42:12 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 94pts/day — real momentum for something this new, not a one-day spike. Still under the radar (65pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>MIgHTy-alIeN/Trading-Bot</title>
-      <link>https://github.com/MIgHTy-alIeN/Trading-Bot</link>
-      <guid isPermaLink="false">pepite-bb9f888c06545171</guid>
-      <pubDate>Fri, 17 Jul 2026 09:45:22 +0000</pubDate>
-      <category>repos</category>
-      <description>An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call. An arbitrage bot is a smart contract connected to an external automation script that controls its… It's pulling 222★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol</title>
-      <link>https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6</link>
-      <guid isPermaLink="false">pepite-39a8c3fc999429dd</guid>
-      <pubDate>Thu, 16 Jul 2026 20:03:23 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 279pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>On-Policy Delta Distillation</title>
-      <link>http://arxiv.org/abs/2607.15161v1</link>
-      <guid isPermaLink="false">pepite-6a2d53a6d9fe95d8</guid>
-      <pubDate>Thu, 16 Jul 2026 16:07:19 +0000</pubDate>
-      <category>research</category>
-      <description>On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Symbal: Detecting Systematic Misalignments in Model-Generated Captions</title>
-      <link>http://arxiv.org/abs/2607.15216v1</link>
-      <guid isPermaLink="false">pepite-f7dc442b4ceede39</guid>
-      <pubDate>Thu, 16 Jul 2026 17:18:37 +0000</pubDate>
-      <category>research</category>
-      <description>Multimodal large language models (MLLMs) often introduce errors when generating image captions, resulting in misaligned image-text pairs. Our work focuses on a class of captioning errors that we refer to as systematic misalignments, where a recurring error in MLLM-generated captions is closely associated with the presence of a specific visual feature in the… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
