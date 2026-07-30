@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Microsoft is openly competing with OpenAI, Anthropic more than ever</title>
+      <link>https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/</link>
+      <guid isPermaLink="false">pepite-98d58a46009d50a3</guid>
+      <pubDate>Thu, 30 Jul 2026 00:21:06 +0000</pubDate>
+      <category>models</category>
+      <description>Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval</title>
+      <link>https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/</link>
+      <guid isPermaLink="false">pepite-b70af95cd49a0ad6</guid>
+      <pubDate>Wed, 29 Jul 2026 16:26:56 +0000</pubDate>
+      <category>finance</category>
+      <description>During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers. The models were apparently trying to steal test answers rather than…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg predicts that billions of people will have personal AI agents in five years</title>
+      <link>https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/</link>
+      <guid isPermaLink="false">pepite-2c4524fd57261d20</guid>
+      <pubDate>Wed, 29 Jul 2026 23:00:11 +0000</pubDate>
+      <category>agents</category>
+      <description>As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents</title>
+      <link>https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/</link>
+      <guid isPermaLink="false">pepite-fbfcaca9c3f0c93b</guid>
+      <pubDate>Wed, 29 Jul 2026 22:23:12 +0000</pubDate>
+      <category>agents</category>
+      <description>On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates</title>
+      <link>https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/</link>
+      <guid isPermaLink="false">pepite-a501e41bc292fe4c</guid>
+      <pubDate>Wed, 29 Jul 2026 12:45:33 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI has released GPT Transcribe and GPT Live Transcribe, two new speech recognition models available through its API. The article GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates appeared first on The Decoder .
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>LLM Honeypot</title>
+      <link>https://llm2human.pages.dev/</link>
+      <guid isPermaLink="false">pepite-29878cc568cb76b7</guid>
+      <pubDate>Wed, 29 Jul 2026 22:51:03 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 490pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?</title>
+      <link>https://juliahub.com/blog/frontier-models-physical-ai-evaluation</link>
+      <guid isPermaLink="false">pepite-823b9a0cf0021ec1</guid>
+      <pubDate>Wed, 29 Jul 2026 14:56:28 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 149pts/day — real momentum for something this new, not a one-day spike. Still under the radar (90pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: CheapFoodMap – A map of good meals under $10</title>
+      <link>https://cheapfoodmap.com/</link>
+      <guid isPermaLink="false">pepite-e823e4b239f805f4</guid>
+      <pubDate>Wed, 29 Jul 2026 16:59:52 +0000</pubDate>
+      <category>other</category>
+      <description>I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only. It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats. Ocverage is heaviest in Texas, since I live in Dallas, but have… It's pulling 319pts/day — real momentum for something this new, not a one-day spike. Still under the radar (165pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>0xwilliamortiz/ponytail-improved</title>
+      <link>https://github.com/0xwilliamortiz/ponytail-improved</link>
+      <guid isPermaLink="false">pepite-326815af7dd12467</guid>
+      <pubDate>Tue, 28 Jul 2026 14:16:19 +0000</pubDate>
+      <category>repos</category>
+      <description>He says nothing. He writes one line. It works. You know him. Long ponytail. Oval glasses. Been at the company longer than the version control. You show him fifty lines; he says nothing and replaces them with one. Ponytail puts him inside your AI agent. Skills plus two lifecycle hooks, installed in one command. You ask for a date picker. Before writing code,… It's pulling 336★/day — real momentum for something this new, not a one-day spike. Still under the radar (548★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>XYZ-AI-Lab/axrl</title>
+      <link>https://github.com/XYZ-AI-Lab/axrl</link>
+      <guid isPermaLink="false">pepite-017eb74d490eb54d</guid>
+      <pubDate>Thu, 23 Jul 2026 06:07:23 +0000</pubDate>
+      <category>repos</category>
+      <description>AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows. AxisRL connects high-throughput rollout, large-scale training, weight synchronization, data movement, resource scheduling, and reproducible debugging inside one coherent framework. SGLang and Megatron remain the core serving and… It's pulling 91★/day — real momentum for something this new, not a one-day spike. Still under the radar (637★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>APEX-Accounting</title>
+      <link>http://arxiv.org/abs/2607.27189v1</link>
+      <guid isPermaLink="false">pepite-cf660509aa3f2216</guid>
+      <pubDate>Wed, 29 Jul 2026 17:56:49 +0000</pubDate>
+      <category>research</category>
+      <description>We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing expenses, posting transactions, and producing reports. The private eval set comprises 160 tasks, split across 10 worlds. Each world contains an accounting… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Visual Credit Audit for Multimodal Spatial Reasoning</title>
+      <link>http://arxiv.org/abs/2607.27069v1</link>
+      <guid isPermaLink="false">pepite-4b73ef8269f6e37c</guid>
+      <pubDate>Wed, 29 Jul 2026 15:55:31 +0000</pubDate>
+      <category>research</category>
+      <description>Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives the model's declared decision more support than text-only and blank controls, and whether the model responds… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection</title>
+      <link>http://arxiv.org/abs/2607.27113v1</link>
+      <guid isPermaLink="false">pepite-dd83ed9c4c142f5a</guid>
+      <pubDate>Wed, 29 Jul 2026 16:43:59 +0000</pubDate>
+      <category>research</category>
+      <description>The growing capability of image generation models has made synthetic images a routine presence in open media, making robust and generalizable AI-Generated Image (AIGI) detection increasingly essential. While multi-modal large language models (MLLMs) offer a transparent alternative to black-box binary scoring, we observe that current MLLM-based detectors… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Bought a 5090 to escape API fees. Ended up building a mini datacenter. Sound familiar?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vacf09/bought_a_5090_to_escape_api_fees_ended_up/</link>
+      <guid isPermaLink="false">pepite-fe6abb380ebd4f0d</guid>
+      <pubDate>Wed, 29 Jul 2026 23:16:20 +0000</pubDate>
+      <category>models</category>
+      <description>I bought an RTX 5090 last year just to run 27B models natively. I even fine-tuned it with my own data using LoRA, building RAGs and was pretty damn happy with the results at first. But, Q8 quantization 130k context was barely squeezing through. Naturally, I bought two RTX 6000 Pros, just waiting for the next-gen releases. When I back to reality, minimum… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to "Pace" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack</title>
       <link>https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic</link>
       <guid isPermaLink="false">pepite-6d6f3b98dafabeb0</guid>
@@ -1362,145 +1502,5 @@
       <description>It's pulling 343pts/day — real momentum for something this new, not a one-day spike.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning</title>
-      <link>http://arxiv.org/abs/2607.16090v1</link>
-      <guid isPermaLink="false">pepite-98902a9521b56cc0</guid>
-      <pubDate>Fri, 17 Jul 2026 16:20:08 +0000</pubDate>
-      <category>research</category>
-      <description>Transferring policies across domains poses a vital challenge in reinforcement learning, due to the dynamics mismatch between the source and target domains. In this paper, we consider the setting of online dynamics adaptation, where policies are trained in the source domain with sufficient data, while only limited interactions with the target domain are… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</title>
-      <link>http://arxiv.org/abs/2607.16038v1</link>
-      <guid isPermaLink="false">pepite-c944092f3b57a1ec</guid>
-      <pubDate>Fri, 17 Jul 2026 15:13:03 +0000</pubDate>
-      <category>research</category>
-      <description>Scientific work increasingly spans heterogeneous artifacts -- papers, code, datasets, scientific file formats, model outputs, figures, manuscripts, and team decisions -- yet general-purpose AI assistants rarely preserve these objects as a coherent, auditable research state. We present SciForge, a multimodal research-native AI workbench that reserves the… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA</title>
-      <link>http://arxiv.org/abs/2607.16189v1</link>
-      <guid isPermaLink="false">pepite-cf2683c1fbdfc8b0</guid>
-      <pubDate>Fri, 17 Jul 2026 17:59:27 +0000</pubDate>
-      <category>finance</category>
-      <description>Grounded long-video question answering (Grounded LVQA) requires answering a question about a long video while localizing the short evidence interval that supports the answer. Recent agentic methods frame this task as multi-turn exploration with a single crop_video(start, end) action, which supports coarse-to-fine narrowing but provides no primitive for… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Good ASR and TTS models?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v1auga/good_asr_and_tts_models/</link>
-      <guid isPermaLink="false">pepite-c2517ff5b84ee14c</guid>
-      <pubDate>Mon, 20 Jul 2026 04:01:36 +0000</pubDate>
-      <category>models</category>
-      <description>Hey everyone, Something I don't see discussed often here are ASR and TTS models. I've been using Whisper and Kokoro (old models, I know!) with koboldcpp for a while now but wondered if there are now solid replacements available. Know of Qwen3-ASR and Qwen3-TTS, but haven't found the time yet to test them. What ASR and TTS models have you been using?… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Kimi: Threat or menace?</title>
-      <link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
-      <guid isPermaLink="false">pepite-c60035e6bb3c677d</guid>
-      <pubDate>Sat, 18 Jul 2026 18:51:07 +0000</pubDate>
-      <category>models</category>
-      <description>Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism." It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost</title>
-      <link>https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/</link>
-      <guid isPermaLink="false">pepite-4b94226974811703</guid>
-      <pubDate>Sat, 18 Jul 2026 10:16:02 +0000</pubDate>
-      <category>models</category>
-      <description>The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, the gap was still six to ten months. It also found that safety measures on open models are largely ineffective, leaving defenders less time to prepare. The…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing</title>
-      <link>https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/</link>
-      <guid isPermaLink="false">pepite-2a5f0708e285c9f1</guid>
-      <pubDate>Sat, 18 Jul 2026 07:17:11 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third that same day. Pro users get a one-time $100 credit, then pay API rates. The reversal from Anthropic's original plan to pull Fable from subscriptions entirely likely comes down to competitive…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Setting up your spare Mac for Claude Code to control, a step-by-step guide</title>
-      <link>https://ykdojo.github.io/claude-controls-mac/</link>
-      <guid isPermaLink="false">pepite-472918563ea0c4c6</guid>
-      <pubDate>Sat, 18 Jul 2026 16:12:08 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 372pts/day — real momentum for something this new, not a one-day spike. Still under the radar (208pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?</title>
-      <link>https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/</link>
-      <guid isPermaLink="false">pepite-a4f603111a61b65f</guid>
-      <pubDate>Sat, 18 Jul 2026 11:00:29 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 296pts/day — real momentum for something this new, not a one-day spike. Still under the radar (230pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>LLM-Integrated Multivariable Calculus Course</title>
-      <link>https://calculus.academa.ai/</link>
-      <guid isPermaLink="false">pepite-1fc1728058782046</guid>
-      <pubDate>Sun, 19 Jul 2026 02:55:43 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 240pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>nethical6/conversation-steganography</title>
-      <link>https://github.com/nethical6/conversation-steganography</link>
-      <guid isPermaLink="false">pepite-ca6abdbf1ac70a0b</guid>
-      <pubDate>Fri, 17 Jul 2026 04:58:22 +0000</pubDate>
-      <category>repos</category>
-      <description>Conversation Stenography lets two people have a completely private conversation through any messaging app (WhatsApp, Telegram, Signal, iMessage, email, or even Instagram DMs). Your secret messages are encrypted and then disguised as innocent, natural-sounding text generated by a local AI model. No one reading the chat can tell there's a hidden message.… It's pulling 357★/day — real momentum for something this new, not a one-day spike. Still under the radar (725★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>PromptPartner/agentsmith</title>
-      <link>https://github.com/PromptPartner/agentsmith</link>
-      <guid isPermaLink="false">pepite-4d34001516d6ee07</guid>
-      <pubDate>Thu, 16 Jul 2026 11:37:15 +0000</pubDate>
-      <category>repos</category>
-      <description>Vibe coding gets you a working demo. AI-assisted engineering is what keeps it standing once customers arrive, the product changes, or another engineer has to touch it. Agentsmith is that second layer — a portable, battle-tested operating system for Claude Code (and any agent that reads a CLAUDE.md / AGENTS.md / GEMINI.md). Drop it on any machine, pick the… It's pulling 112★/day — real momentum for something this new, not a one-day spike. Still under the radar (308★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>AI Mania Is Eviscerating Global Decision-Making</title>
-      <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
-      <guid isPermaLink="false">pepite-5f3d53932c9822f0</guid>
-      <pubDate>Sun, 19 Jul 2026 05:06:21 +0000</pubDate>
-      <category>models</category>
-      <description>AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life,… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Claude Code uses Bun written in Rust now</title>
-      <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</link>
-      <guid isPermaLink="false">pepite-dbd57b2637da08ce</guid>
-      <pubDate>Sun, 19 Jul 2026 03:54:09 +0000</pubDate>
-      <category>models</category>
-      <description>In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust.… It landed in the last few hours.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
