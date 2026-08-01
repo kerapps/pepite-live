@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>OpenAI reportedly finds evidence that more of its agents ran amok</title>
+      <link>https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/</link>
+      <guid isPermaLink="false">pepite-ac16dfe35be63552</guid>
+      <pubDate>Fri, 31 Jul 2026 22:47:26 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Thinking Machines bets on efficiency over size with its second model, Inkling Small</title>
+      <link>https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/</link>
+      <guid isPermaLink="false">pepite-efa717a05bee7e7c</guid>
+      <pubDate>Fri, 31 Jul 2026 17:41:50 +0000</pubDate>
+      <category>research</category>
+      <description>Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks. The article Thinking Machines bets on efficiency over size with its second model, Inkling Small appeared first on The Decoder . It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids</title>
+      <link>https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/</link>
+      <guid isPermaLink="false">pepite-79c0522597770dd7</guid>
+      <pubDate>Fri, 31 Jul 2026 18:25:08 +0000</pubDate>
+      <category>models</category>
+      <description>Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-level reasoning layer for robotics tasks. The article Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost</title>
+      <link>https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/</link>
+      <guid isPermaLink="false">pepite-15f5e24e95e128ba</guid>
+      <pubDate>Fri, 31 Jul 2026 16:39:25 +0000</pubDate>
+      <category>models</category>
+      <description>Deepseek's budget model V4 Flash gets a major boost with the "0731" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task. The article New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost appeared…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>0xwilliamortiz/ratchet</title>
+      <link>https://github.com/0xwilliamortiz/ratchet</link>
+      <guid isPermaLink="false">pepite-5a1c723180f76daf</guid>
+      <pubDate>Fri, 31 Jul 2026 17:54:30 +0000</pubDate>
+      <category>repos</category>
+      <description>A ratchet turns one way. Complexity in your codebase goes down or stays flat, unless someone deliberately turns it the other way and writes down why. Every minimalism ruleset for coding agents is an open loop. You inject prefer the standard library, do not add dependencies, keep the diff small, the model reads it, and then nothing checks whether any of it… It landed in the last few hours. It's pulling 804★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Everyone is building LLM routers, we deprecated ours</title>
+      <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
+      <guid isPermaLink="false">pepite-c3faf1e86431c4d7</guid>
+      <pubDate>Fri, 31 Jul 2026 18:06:39 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 228pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Is AI reasoning right for the wrong reasons?</title>
+      <link>https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/</link>
+      <guid isPermaLink="false">pepite-e8b7098da39125a0</guid>
+      <pubDate>Fri, 31 Jul 2026 15:29:39 +0000</pubDate>
+      <category>other</category>
+      <description>It's pulling 236pts/day — real momentum for something this new, not a one-day spike. Still under the radar (140pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>The Maxwell Conjecture Is False (GPT 5.6 Sol)</title>
+      <link>https://arxiv.org/abs/2607.27197</link>
+      <guid isPermaLink="false">pepite-9e6282c587e76552</guid>
+      <pubDate>Fri, 31 Jul 2026 11:37:12 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 192pts/day — real momentum for something this new, not a one-day spike. Still under the radar (145pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>gavamedia/deltafin</title>
+      <link>https://github.com/gavamedia/deltafin</link>
+      <guid isPermaLink="false">pepite-f5d82d1538868ce0</guid>
+      <pubDate>Tue, 28 Jul 2026 01:01:23 +0000</pubDate>
+      <category>repos</category>
+      <description>Deltafin is a small research project that runs a Mixture-of-Experts model far larger than the machine it sits on. It supports Apple Silicon macOS and x86-64/aarch64 Linux, automatically selecting MPS, CUDA or CPU for the resident model path and a qualified Metal, CUDA or CPU MXFP4 expert kernel. The maintainer-run exact-oracle reference is now 0.2660… It's pulling 135★/day — real momentum for something this new, not a one-day spike. Still under the radar (569★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)</title>
+      <link>https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</link>
+      <guid isPermaLink="false">pepite-7896b3091183ec38</guid>
+      <pubDate>Fri, 31 Jul 2026 23:13:22 +0000</pubDate>
+      <category>research</category>
+      <description>Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched, and has also served to reignite my personal interest in the protocol. For background: MCP is the Model Context Protocol,… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>llm-mcp-client 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything</link>
+      <guid isPermaLink="false">pepite-53c8cd13c0b3d848</guid>
+      <pubDate>Fri, 31 Jul 2026 23:03:47 +0000</pubDate>
+      <category>agents</category>
+      <description>Release: llm-mcp-client 0.1a0 See this blog entry . Tags: llm , model-context-protocol It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>smevals - a small eval suite for evaluating models, prompts, and harnesses</title>
+      <link>https://simonwillison.net/2026/Jul/31/smevals/#atom-everything</link>
+      <guid isPermaLink="false">pepite-11246b3958410aba</guid>
+      <pubDate>Fri, 31 Jul 2026 21:15:23 +0000</pubDate>
+      <category>research</category>
+      <description>smevals - a small eval suite for evaluating models, prompts, and harnesses I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the capabilities of different models. The result is smevals , a new tool for running small eval suites across different model configurations… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>RefCaptioner: Multi-Reference Image-Grounded Video Captioning</title>
+      <link>http://arxiv.org/abs/2607.28509v1</link>
+      <guid isPermaLink="false">pepite-60aa6ea14cc3ba2d</guid>
+      <pubDate>Thu, 30 Jul 2026 16:48:28 +0000</pubDate>
+      <category>research</category>
+      <description>Existing video captioning models generate natural descriptions of video content but cannot explicitly ground local visual elements to multiple reference images. We introduce multi-reference image-grounded video captioning, a new task requiring factual video descriptions with phrase-level reference grounding, and propose RefCaptioner, a two-stage… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>What speeds are everyone getting with deepseek v4 flash 0731?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vcaztx/what_speeds_are_everyone_getting_with_deepseek_v4/</link>
+      <guid isPermaLink="false">pepite-a12f44f1d2207094</guid>
+      <pubDate>Sat, 01 Aug 2026 02:35:54 +0000</pubDate>
+      <category>models</category>
+      <description>What speeds are everyone getting with deepseek v4 flash 0731? I’m getting~200 tps prompt processing / ~11 tps token gen, on 4x5060ti16gb with ddr4 3200 ram at 4-channel, via llamacpp, with context window of 128000, -ub/-b at 4096, “q8” unsloth’s lossless quant submitted by /u/Ambitious_Fold_2874 [link] [comments] It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic says its own AI models breached three companies during security tests</title>
       <link>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</link>
       <guid isPermaLink="false">pepite-32ac40c413564ad2</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Tue, 21 Jul 2026 17:34:12 +0000</pubDate>
       <category>finance</category>
       <description>Circuit analysis can support not only model explanation but also downstream interventions such as pruning, editing, steering, and selective fine-tuning. However, conducting such analyses currently requires stitching together separate implementations for discovery, evaluation, and intervention, as well as hand-authoring the contrastive prompts required by… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards</title>
-      <link>http://arxiv.org/abs/2607.19219v1</link>
-      <guid isPermaLink="false">pepite-0279fa5c4e60c066</guid>
-      <pubDate>Tue, 21 Jul 2026 15:49:02 +0000</pubDate>
-      <category>finance</category>
-      <description>Large language models (LLMs) have been widely applied to automated essay scoring (AES) and automated feedback generation (AFG). However, existing studies rely primarily on prompt engineering or supervised fine-tuning, while systematic research on reinforcement learning (RL) post-training and automated evaluation of feedback quality remains limited. We… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>PyTorch Conference North America Schedule Is Live</title>
-      <link>https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live/</link>
-      <guid isPermaLink="false">pepite-040b0f4ff1cd732b</guid>
-      <pubDate>Tue, 21 Jul 2026 23:52:08 +0000</pubDate>
-      <category>other</category>
-      <description>PyTorch Conference North America will bring developers, researchers, and practitioners to San Jose on October 20–21 for sessions spanning training and inference, compiler innovations, responsible AI, applications, and the PyTorch... It landed in the last few hours.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>Nativ: Run AI models locally on your Mac</title>
-      <link>https://simonwillison.net/2026/Jul/21/nativ/#atom-everything</link>
-      <guid isPermaLink="false">pepite-f9e9285781717688</guid>
-      <pubDate>Tue, 21 Jul 2026 14:22:27 +0000</pubDate>
-      <category>models</category>
-      <description>Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new project, which wraps MLX in a full macOS desktop application. It's similar in shape to LM Studio, providing both a chat interface and a localhost API server for…
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>FlightSimulatorBench: Small MoE edition</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v33dlq/flightsimulatorbench_small_moe_edition/</link>
-      <guid isPermaLink="false">pepite-8866fb76f4e06e77</guid>
-      <pubDate>Wed, 22 Jul 2026 02:42:41 +0000</pubDate>
-      <category>agents</category>
-      <description>Properly done this time. Models as the GIFs are displayed: Qwen3.6-27B - 4bit Qwen3.6-MoE - 6bit Ornith-35B - 6bit Gemma-4-26B - 6bit Qwen3.6-MoE - 4bit HuiHui-Qwen3.6-MoE - 6bit Agents-A1 - 6bit Inference parameters: Qwen3.6 &amp; HuiHui Abliterated: temperature 0.6 - top_p 0.95 - top_k 20 - min_p 0.01 - repeat_penalty 1.05 Ornith-1.0-35B: temperature 1.0 -… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Anthropic’s landmark $1.5B copyright settlement is approved</title>
-      <link>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</link>
-      <guid isPermaLink="false">pepite-70097351852cb620</guid>
-      <pubDate>Tue, 21 Jul 2026 00:12:24 +0000</pubDate>
-      <category>models</category>
-      <description>The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI is scared of open-weight models. Should the US be?</title>
-      <link>https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/</link>
-      <guid isPermaLink="false">pepite-502e6d35fbb7908f</guid>
-      <pubDate>Mon, 20 Jul 2026 19:33:25 +0000</pubDate>
-      <category>models</category>
-      <description>Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Google's "Frozen v2" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains</title>
-      <link>https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/</link>
-      <guid isPermaLink="false">pepite-9aae77148b42ef7a</guid>
-      <pubDate>Mon, 20 Jul 2026 18:08:33 +0000</pubDate>
-      <category>models</category>
-      <description>Google is developing "Frozen v2," a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastically cut Google's AI inference costs and could give the company a price advantage over OpenAI and Anthropic. The… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Controlling Reasoning Effort in LLMs</title>
-      <link>https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms</link>
-      <guid isPermaLink="false">pepite-355103f53db28890</guid>
-      <pubDate>Mon, 20 Jul 2026 14:35:19 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 102pts/day — real momentum for something this new, not a one-day spike. Still under the radar (64pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques</title>
-      <link>https://github.com/Saivineeth147/lora-speedrun</link>
-      <guid isPermaLink="false">pepite-e8f9d66f8722f710</guid>
-      <pubDate>Mon, 20 Jul 2026 04:24:48 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 133pts/day — real momentum for something this new, not a one-day spike. Still under the radar (140pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Soofi – Sovereign Open Source Foundation Models</title>
-      <link>https://www.soofi.info/</link>
-      <guid isPermaLink="false">pepite-bfca770c760642a2</guid>
-      <pubDate>Mon, 20 Jul 2026 12:52:03 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 71pts/day — real momentum for something this new, not a one-day spike. Still under the radar (50pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>EthanXiang777/circuit-framework</title>
-      <link>https://github.com/EthanXiang777/circuit-framework</link>
-      <guid isPermaLink="false">pepite-c36dcaf92b1b8ad2</guid>
-      <pubDate>Thu, 16 Jul 2026 15:02:10 +0000</pubDate>
-      <category>repos</category>
-      <description>A crypto-native multi-agent research and paper-trading framework where specialized agents analyze market structure, derivatives, sentiment, catalysts and market regime before a deterministic risk engine approves or rejects each trade. Circuit Framework is a fork of TradingAgents (Apache 2.0). The internal Python package remains tradingagents for… It's pulling 105★/day — real momentum for something this new, not a one-day spike. Still under the radar (486★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Kritt-ai/open-kritt</title>
-      <link>https://github.com/Kritt-ai/open-kritt</link>
-      <guid isPermaLink="false">pepite-ac975fbccbdf9ac0</guid>
-      <pubDate>Mon, 20 Jul 2026 20:26:24 +0000</pubDate>
-      <category>repos</category>
-      <description>An open-source, self-hosted security research platform that turns focused AI analysis into de-duplicated, ranked findings with configurable validation and enrichment. Pointing a model at an entire repository and asking it to find vulnerabilities rarely works well. open·kritt takes a focused approach: break the research into small, well-defined tasks, run… It landed in the last few hours. It's pulling 164★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>SWE-Pruner Pro: The Coder LLM Already Knows What to Prune</title>
-      <link>http://arxiv.org/abs/2607.18213v1</link>
-      <guid isPermaLink="false">pepite-28526d8b72461ca0</guid>
-      <pubDate>Mon, 20 Jul 2026 17:47:44 +0000</pubDate>
-      <category>research</category>
-      <description>Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of code context when reading tool output. Based on this… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs</title>
-      <link>http://arxiv.org/abs/2607.18230v1</link>
-      <guid isPermaLink="false">pepite-f042877bd567e5ef</guid>
-      <pubDate>Mon, 20 Jul 2026 17:58:13 +0000</pubDate>
-      <category>research</category>
-      <description>Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level image tampering detection in modern VLMs like ChatGPT,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
