@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>AI coding agents can modernize research software but can't judge if the science is right</title>
+      <link>https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/</link>
+      <guid isPermaLink="false">pepite-afb5f37bcb3bc6e3</guid>
+      <pubDate>Sat, 01 Aug 2026 14:26:28 +0000</pubDate>
+      <category>agents</category>
+      <description>A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are "eloquent, convincing, and confidently wrong in ways that are easy to miss," participants say. The effort shifts from writing code to the time-consuming work of verifying scientific correctness. The…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI announces its "next major model" Astra by dropping ten previously unsolved math solutions</title>
+      <link>https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/</link>
+      <guid isPermaLink="false">pepite-d4c08f5e7cc8d27c</guid>
+      <pubDate>Sat, 01 Aug 2026 09:29:49 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI is building a new model family called "Astra" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in Washington. OpenAI hasn't decided whether to release it as GPT-6 or a new GPT-5 variant. The article OpenAI announces its "next major model" Astra by dropping…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Sam Altman is still making the case for parenting via ChatGPT</title>
+      <link>https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/</link>
+      <guid isPermaLink="false">pepite-ba0eb6022ed8437e</guid>
+      <pubDate>Sat, 01 Aug 2026 17:07:34 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI's CEO seemed excited to share a "cool use case" for parents.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>AI keeps cracking unsolved math problems, and mathematicians have mixed feelings</title>
+      <link>https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/</link>
+      <guid isPermaLink="false">pepite-0fe27c3654b9387e</guid>
+      <pubDate>Sat, 01 Aug 2026 16:01:31 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt. He warns of the "possible destruction of mathematical culture" if mathematicians stop building the…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Explorative modeling: Train on the best of K guesses</title>
+      <link>https://alexiglad.github.io/blog/2026/explorative_modeling/</link>
+      <guid isPermaLink="false">pepite-5e3b0748d12cbb57</guid>
+      <pubDate>Sat, 01 Aug 2026 15:23:15 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 149pts/day — real momentum for something this new, not a one-day spike. Still under the radar (89pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]</title>
+      <link>https://philarchive.org/archive/NIEWTCv17</link>
+      <guid isPermaLink="false">pepite-114fed356ba4ede5</guid>
+      <pubDate>Sun, 02 Aug 2026 03:41:38 +0000</pubDate>
+      <category>other</category>
+      <description>It landed in the last few hours. It's pulling 358pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Don't credit the LLM</title>
+      <link>https://isaacsu.com/2026/08/dont-credit-the-llm/</link>
+      <guid isPermaLink="false">pepite-d9d887f197e5a741</guid>
+      <pubDate>Sun, 02 Aug 2026 04:07:46 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 335pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>sqliteai/waste</title>
+      <link>https://github.com/sqliteai/waste</link>
+      <guid isPermaLink="false">pepite-2ac95dc5179d9bd9</guid>
+      <pubDate>Tue, 28 Jul 2026 20:56:00 +0000</pubDate>
+      <category>repos</category>
+      <description>WASTE is an embeddable inference engine written in C, with no third-party runtime dependencies. It keeps the model trunk in memory, streams selected experts directly from disk, and uses the remaining RAM as a bounded expert cache. Its current proof point is the complete open-weights Kimi K3 model: 2.78 trillion parameters, converted into a 982 GiB container… It's pulling 164★/day — real momentum for something this new, not a one-day spike. Still under the radar (716★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>QwenAudio/qwen-audio-agent</title>
+      <link>https://github.com/QwenAudio/qwen-audio-agent</link>
+      <guid isPermaLink="false">pepite-7be54b8ada73efaa</guid>
+      <pubDate>Mon, 27 Jul 2026 05:04:26 +0000</pubDate>
+      <category>repos</category>
+      <description>真正的交流，不该在说完一句话后，就陷入漫长的等待。也不该因为 Agent 正在查资料、调用工具或处理任务，整场对话就此暂停。 所以，我们做了 qwen-audio-agent——让 Agent 持续交流、持续工作、持续在场的实时语音运行时。无论是聊天、思考，还是处理任务，Agent 都始终在这场对话里。它会倾听，会回应，也会在任务完成时自然地告诉你： 🚀 正式版发布，推出内置 Gateway 的 macOS 桌面版。 - 2026-07-28 · v0.9.0 🌍 项目正式开源，后台 Agent 统一接入 ACP 架构。 对话不会因为后台任务而停下；任务完成后，结果会自然回到当前对话：… It's pulling 243★/day — real momentum for something this new, not a one-day spike. Still under the radar (1465★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>July 2026 newsletter</title>
+      <link>https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything</link>
+      <guid isPermaLink="false">pepite-6ba596fa8fc25d6b</guid>
+      <pubDate>Sun, 02 Aug 2026 04:12:41 +0000</pubDate>
+      <category>agents</category>
+      <description>The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Accidental cyberattacks by OpenAl and Anthropic models under test GPT-5.6 Sol, Terra, and Luna Claude Opus 5 Kimi K3 and DeepSeek-V4-Flash-0731 Open letters about Al development A fireside chat and a… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Open letters about AI development</title>
+      <link>https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</link>
+      <guid isPermaLink="false">pepite-c1de4f1e6af54e9c</guid>
+      <pubDate>Sun, 02 Aug 2026 04:16:52 +0000</pubDate>
+      <category>models</category>
+      <description>Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA, Amazon, Y Combinator, The Linux… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Ten advances in mathematics and theoretical computer science</title>
+      <link>https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything</link>
+      <guid isPermaLink="false">pepite-80a4db1af93c388f</guid>
+      <pubDate>Sat, 01 Aug 2026 20:34:49 +0000</pubDate>
+      <category>models</category>
+      <description>Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included "again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings." Now it's OpenAI's turn to… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning</title>
+      <link>http://arxiv.org/abs/2607.28478v1</link>
+      <guid isPermaLink="false">pepite-011ab5a3e7c659c8</guid>
+      <pubDate>Thu, 30 Jul 2026 16:30:08 +0000</pubDate>
+      <category>research</category>
+      <description>As large language models (LLMs) continue to advance in complex reasoning tasks, they have learned to heavily prioritize explicit conditions provided in the input. However, in everyday commonsense reasoning, this mechanism exposes a critical vulnerability which we term Salience Bias: models become easily hijacked by useless explicit distractors (e.g.,… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>What’s the community’s favorite benchmark to validate performance?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vd8cu0/whats_the_communitys_favorite_benchmark_to/</link>
+      <guid isPermaLink="false">pepite-3a4071c9f7a593fd</guid>
+      <pubDate>Sun, 02 Aug 2026 04:34:36 +0000</pubDate>
+      <category>research</category>
+      <description>Built my 1st inference machine and have been tweaking models trying to get the most out of my modest hardware. I think I’m at a good place but I’m testing with my own prompts. I’ve looked into some of the popular benchmarks but I’m honestly lost. I use my models for Hermes agent mainly and a little bit with paperless ngx and home assistant. I don’t know how… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>OpenAI reportedly finds evidence that more of its agents ran amok</title>
       <link>https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/</link>
       <guid isPermaLink="false">pepite-ac16dfe35be63552</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 22 Jul 2026 13:55:27 +0000</pubDate>
       <category>research</category>
       <description>Attention Mechanism (AM) selectively focuses on essential information for imaging tasks and captures relationships between distant pixel neighborhoods to compute feature representations. Accelerated MRI reconstruction benefits from AM, as the imaging process involves Fourier domain measurements that influence image representation non-locally. However,… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>HalluTruthQA: A Fine-Grained Benchmark for Hallucination Detection, Localization, and Explanation in Arabic Question Answering</title>
-      <link>http://arxiv.org/abs/2607.20219v1</link>
-      <guid isPermaLink="false">pepite-e8185460cb481c25</guid>
-      <pubDate>Wed, 22 Jul 2026 14:37:25 +0000</pubDate>
-      <category>finance</category>
-      <description>Large language models (LLMs) can generate fluent Arabic answers, yet factual errors remain difficult to detect, localize, explain, and verify. Existing hallucination benchmarks often provide response-level labels, with limited support for identifying the exact erroneous content, explaining why it is incorrect, or selecting the correct factual answer. We… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Are AI labs pelicanmaxxing?</title>
-      <link>https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything</link>
-      <guid isPermaLink="false">pepite-c7e43a69005cbdc7</guid>
-      <pubDate>Wed, 22 Jul 2026 23:01:00 +0000</pubDate>
-      <category>research</category>
-      <description>Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark . I've been randomly spot-checking this in the past by testing models against other… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Quoting Thomas Ptacek</title>
-      <link>https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything</link>
-      <guid isPermaLink="false">pepite-367bb2eccf8c6e88</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:01 +0000</pubDate>
-      <category>models</category>
-      <description>I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes. — Thomas Ptacek , doesn't think this even needs a frontier model Tags: thomas-ptacek , openai , security ,… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Model "distillation" accusations are getting way overblown at this point</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v44aa6/model_distillation_accusations_are_getting_way/</link>
-      <guid isPermaLink="false">pepite-223263f2bec85865</guid>
-      <pubDate>Thu, 23 Jul 2026 05:12:18 +0000</pubDate>
-      <category>models</category>
-      <description>Every time a strong open model drops, the same cycle plays out: ai bro's claims it's "just distilled from GPT4/Claude/whatever," case closed, move on. I think this take doesn't hold up as well as people assume. A few points worth separating out: Training on outputs isn't the same as real distillation. Proper token level distillation needs access to logits,… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>The Anthropic-Physical Intelligence rumor roiling AI Twitter</title>
-      <link>https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/</link>
-      <guid isPermaLink="false">pepite-6fe99634987ef3c2</guid>
-      <pubDate>Wed, 22 Jul 2026 03:20:57 +0000</pubDate>
-      <category>finance</category>
-      <description>Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI says Hugging Face was breached by its pre-release models</title>
-      <link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/</link>
-      <guid isPermaLink="false">pepite-3fdc40a5e56bd575</guid>
-      <pubDate>Tue, 21 Jul 2026 20:56:55 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training</title>
-      <link>https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/</link>
-      <guid isPermaLink="false">pepite-1fd45b0165df84b1</guid>
-      <pubDate>Tue, 21 Jul 2026 16:52:51 +0000</pubDate>
-      <category>models</category>
-      <description>Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners. But the anticipated flagship, Gemini 3.5 Pro, is still missing, while OpenAI, Anthropic, and Chinese labs are already competing at the…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>"Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok</title>
-      <link>https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</link>
-      <guid isPermaLink="false">pepite-09fa9f2e67096f69</guid>
-      <pubDate>Tue, 21 Jul 2026 21:13:20 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 453pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting</title>
-      <link>https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git</link>
-      <guid isPermaLink="false">pepite-e165925facce0e06</guid>
-      <pubDate>Tue, 21 Jul 2026 17:14:06 +0000</pubDate>
-      <category>agents</category>
-      <description>https://x.com/jack/status/2079605800998146171 , https://xcancel.com/jack/status/2079605800998146171 https://buzz.xyz/ It's pulling 555pts/day — real momentum for something this new, not a one-day spike. Still under the radar (286pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac</title>
-      <link>https://github.com/cristibaluta/Imagin-Raw</link>
-      <guid isPermaLink="false">pepite-e6623ed6ed340e81</guid>
-      <pubDate>Tue, 21 Jul 2026 17:30:01 +0000</pubDate>
-      <category>repos</category>
-      <description>It's pulling 113pts/day — real momentum for something this new, not a one-day spike. Still under the radar (57pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>MIgHTy-alIeN/MEV-Arbitrage-Bot</title>
-      <link>https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot</link>
-      <guid isPermaLink="false">pepite-9a1ab3459243bad2</guid>
-      <pubDate>Fri, 17 Jul 2026 09:45:22 +0000</pubDate>
-      <category>repos</category>
-      <description>An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call. An arbitrage bot is a smart contract connected to an external automation script that controls its… It's pulling 153★/day — real momentum for something this new, not a one-day spike. Still under the radar (739★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>penecho/penecho</title>
-      <link>https://github.com/penecho/penecho</link>
-      <guid isPermaLink="false">pepite-4f056516670ed8a5</guid>
-      <pubDate>Tue, 14 Jul 2026 14:45:23 +0000</pubDate>
-      <category>repos</category>
-      <description>Think with AI beyond the chat box. PenEcho is a shared canvas where handwriting, equations, diagrams, and spatial context become part of the conversation. Recommended Models &amp;bull; Architecture &amp;bull; Discord PenEcho is an official member of Kimi Open Source Friends, Moonshot AI's program supporting outstanding open source projects. The Kimi team backs… It's pulling 64★/day — real momentum for something this new, not a one-day spike. Still under the radar (491★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>OmniReasoner: Thinking with Long Audio-Video via Native Tool Use</title>
-      <link>http://arxiv.org/abs/2607.19339v1</link>
-      <guid isPermaLink="false">pepite-6380eb174af3b599</guid>
-      <pubDate>Tue, 21 Jul 2026 17:57:50 +0000</pubDate>
-      <category>research</category>
-      <description>Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training framework for Thinking with Long Audio-Video: omni-modal LLMs learn, via supervised fine-tuning and reinforcement… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability</title>
-      <link>http://arxiv.org/abs/2607.19317v1</link>
-      <guid isPermaLink="false">pepite-6d67687df4c977c5</guid>
-      <pubDate>Tue, 21 Jul 2026 17:34:12 +0000</pubDate>
-      <category>finance</category>
-      <description>Circuit analysis can support not only model explanation but also downstream interventions such as pruning, editing, steering, and selective fine-tuning. However, conducting such analyses currently requires stitching together separate implementations for discovery, evaluation, and intervention, as well as hand-authoring the contrastive prompts required by… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
