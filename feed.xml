@@ -4,6 +4,146 @@
   <link>index.html</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>OpenAI Presence wants to make AI agents production-ready for businesses</title>
+      <link>https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/</link>
+      <guid isPermaLink="false">pepite-0ed2d2ff9e3fb37b</guid>
+      <pubDate>Sun, 02 Aug 2026 13:10:21 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external deployments. For complex cases, OpenAI's own engineers step in. The article OpenAI Presence wants to make AI agents production-ready for businesses appeared…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Meta AI uses a second AI agent as a memory coach to keep long tasks on track</title>
+      <link>https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/</link>
+      <guid isPermaLink="false">pepite-119eed93eb7fab22</guid>
+      <pubDate>Sun, 02 Aug 2026 12:57:38 +0000</pubDate>
+      <category>research</category>
+      <description>Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent maintains a structured memory bank and decides when to remind the main agent and when to stay silent. The system improved scores by up to 8.3 percentage points across two benchmarks. The article Meta AI…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior</title>
+      <link>https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/</link>
+      <guid isPermaLink="false">pepite-f6214c12bcb13dbb</guid>
+      <pubDate>Sun, 02 Aug 2026 07:33:17 +0000</pubDate>
+      <category>agents</category>
+      <description>Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions. The push comes partly in response to the Hugging Face hack carried out by OpenAI models. METR's own Frontier Risk Report documented 44 such incidents across all major AI companies, including sandbox…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI's super PAC is funding AI-generated news site attacking industry critics</title>
+      <link>https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda</link>
+      <guid isPermaLink="false">pepite-5515cf870e86553d</guid>
+      <pubDate>Mon, 03 Aug 2026 02:30:30 +0000</pubDate>
+      <category>finance</category>
+      <description>It landed in the last few hours. It's pulling 839pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Sprocket – The Best AI Agent for Hardware and Software Development</title>
+      <link>https://sprocket-demo.spikonado.com</link>
+      <guid isPermaLink="false">pepite-813523eaea138470</guid>
+      <pubDate>Sun, 02 Aug 2026 16:26:19 +0000</pubDate>
+      <category>agents</category>
+      <description>Hey HN, I am 16y/o and have been working on Sprocket for a while. It's an open-source AI agent that beats every other agent out there at both hardware and software. And here's the best part: Sprocket can (on its own) buy anything from any website when you tell it to do so. From hardware parts to SaaS subscriptions. Sprocket retrieves best-in-class context… It's pulling 218pts/day — real momentum for something this new, not a one-day spike. Still under the radar (123pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Bor – Open-source policy management for Linux desktops</title>
+      <link>https://getbor.dev/blog/2026-08-02-bor-v080-release/</link>
+      <guid isPermaLink="false">pepite-c958b21b6eb611db</guid>
+      <pubDate>Sun, 02 Aug 2026 09:06:33 +0000</pubDate>
+      <category>agents</category>
+      <description>Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management. Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming. Version 0.8 introduces… It's pulling 199pts/day — real momentum for something this new, not a one-day spike. Still under the radar (173pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>FareedKhan-dev/kimi-k3-in-c</title>
+      <link>https://github.com/FareedKhan-dev/kimi-k3-in-c</link>
+      <guid isPermaLink="false">pepite-f6608baff6918a6d</guid>
+      <pubDate>Sat, 01 Aug 2026 09:29:38 +0000</pubDate>
+      <category>repos</category>
+      <description>A 2.78-trillion-parameter model. One CPU. 8 GB of RAM. Kimi K3 inference in portable C99. No BLAS. No framework. No GPU. 1.56 TB checkpoint on disk 8.24 GB peak RSS, measured 176 KB the whole engine 0 GPUs Slow, and answering correctly, in 8.24 GB, from a checkpoint of 1.56 TB. This is a base model, so what follows " Paris." is a continuation rather than a… It's pulling 210★/day — real momentum for something this new, not a one-day spike. Still under the radar (390★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Anionex/codex-vision-proxy</title>
+      <link>https://github.com/Anionex/codex-vision-proxy</link>
+      <guid isPermaLink="false">pepite-8c0ccb123d8d1b54</guid>
+      <pubDate>Sat, 01 Aug 2026 10:00:13 +0000</pubDate>
+      <category>repos</category>
+      <description>formerly codex-deepseek-vision If your Codex is already connected to DeepSeek, but you're frustrated that the model has no multimodal ability — it can't see images, and every attempt to look at an image is blocked by the system — this repository offers a way to let a text-only model call Codex's built-in viewimage without errors. Instead of failing, it… It's pulling 116★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>condense-json 1.0</title>
+      <link>https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything</link>
+      <guid isPermaLink="false">pepite-52fa0518bee102d3</guid>
+      <pubDate>Sun, 02 Aug 2026 22:19:59 +0000</pubDate>
+      <category>repos</category>
+      <description>Release: condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's an example of what it can do, lifted from the README: { "foo" : { "bar" : { "string" : " This is a string with foxes in it " , "nested" :… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction</title>
+      <link>http://arxiv.org/abs/2607.29677v1</link>
+      <guid isPermaLink="false">pepite-2be1268d182dfdb7</guid>
+      <pubDate>Fri, 31 Jul 2026 17:55:58 +0000</pubDate>
+      <category>finance</category>
+      <description>Enterprise workflows increasingly rely on agents for \emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided extraction and, to our knowledge, the first to score value… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Zero-Mem: Zero-Token Memory Operations for LLM Agents</title>
+      <link>http://arxiv.org/abs/2607.29377v1</link>
+      <guid isPermaLink="false">pepite-7d4af580d0b15f6d</guid>
+      <pubDate>Fri, 31 Jul 2026 13:01:06 +0000</pubDate>
+      <category>research</category>
+      <description>LLM agents need memory to act consistently over long interactions, yet many systems use additional LLM calls to operate that memory. Generating intermediate records and mediating their retrieval adds recurring token and time costs, while omitted or merged details can obscure the original evidence. We ask whether structured memory access requires generation… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding</title>
+      <link>http://arxiv.org/abs/2607.29637v1</link>
+      <guid isPermaLink="false">pepite-81dedb024c75ff0f</guid>
+      <pubDate>Fri, 31 Jul 2026 17:15:51 +0000</pubDate>
+      <category>research</category>
+      <description>Rendering source code as images offers a promising way to reduce the input costs of Multimodal Large Language Models (MLLMs). Adjusting image resolution can trade visual token cost against content fidelity. However, resolution scaling alone overlooks two sources of inefficiency: blank regions created by line breaks and indentation, and code regions… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Quoting Greg Brockman</title>
+      <link>https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything</link>
+      <guid isPermaLink="false">pepite-270f796fc0b75ee3</guid>
+      <pubDate>Sat, 01 Aug 2026 22:29:44 +0000</pubDate>
+      <category>models</category>
+      <description>at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker. reinforces how much people care about human relationships and helping each other, and want AI to give time back — or enhance…
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>MiniMax-H3 now on huggingface</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ve1mvh/minimaxh3_now_on_huggingface/</link>
+      <guid isPermaLink="false">pepite-a5801404bbe8a2da</guid>
+      <pubDate>Mon, 03 Aug 2026 03:06:38 +0000</pubDate>
+      <category>models</category>
+      <description>MiniMax H3 is a general-purpose, omni-modal generative system. It supports unified understanding of multimodal contexts composed of text, images, video, and audio, and can generate video with native stereo audio at resolutions up to 2K and durations of up to 15 seconds. Thanks to its task-generalization-oriented system design, H3 already possesses broad… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>AI coding agents can modernize research software but can't judge if the science is right</title>
       <link>https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/</link>
       <guid isPermaLink="false">pepite-afb5f37bcb3bc6e3</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 23 Jul 2026 17:59:46 +0000</pubDate>
       <category>research</category>
       <description>Diffusion and flow-matching models dominate conditional image generation, yet inference-time scaling for these models is far less developed than for autoregressive language models. Because final quality is highly sensitive to the initial noise seed, many approaches spend extra compute on seed search or resampling under a black-box reward, but typically… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>3D-Aware VLMs with Implicit and Explicit Geometries</title>
-      <link>http://arxiv.org/abs/2607.21595v1</link>
-      <guid isPermaLink="false">pepite-26d1f299ef12649d</guid>
-      <pubDate>Thu, 23 Jul 2026 17:59:59 +0000</pubDate>
-      <category>research</category>
-      <description>Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation</title>
-      <link>http://arxiv.org/abs/2607.21371v1</link>
-      <guid isPermaLink="false">pepite-da13becfecf9a59c</guid>
-      <pubDate>Thu, 23 Jul 2026 14:37:27 +0000</pubDate>
-      <category>research</category>
-      <description>Open-vocabulary semantic segmentation (OVSS) leverages textual semantics to segment objects beyond predefined categories. While the self-supervised model DINOv3 provides strong structured visual representations, its lack of native textual alignment hinders its direct application to OVSS. To bridge this gap, we propose DINOde, an ODE-based framework that… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
-      <link>https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</link>
-      <guid isPermaLink="false">pepite-e11418d8a71025ca</guid>
-      <pubDate>Thu, 23 Jul 2026 22:53:08 +0000</pubDate>
-      <category>agents</category>
-      <description>The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require executing arbitrary code: Hugging Face has an… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Partnerships can keep open source sustainable​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍‌​﻿‍‌​﻿​‍​﻿​‌​﻿​‍​﻿​​​﻿​‍​‍﻿‌​﻿​‌‌‍‌‍​﻿​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿​​​﻿​﻿​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌‍‌‍​‍​﻿‌﻿​‍﻿‌‌‍​‌​﻿‌﻿​﻿‍​​﻿‌‌​﻿‍​​﻿​‍​﻿‍​​﻿‌﻿​﻿​﻿​﻿​‌​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍‌​﻿‍‌​﻿​‍​﻿​‌​﻿​‍​﻿​​​﻿​‍​‍﻿‌​﻿​‌‌‍‌‍​﻿​﻿​﻿​‌​‍﻿‌​﻿‌​​﻿​​​﻿​﻿​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌‍‌‍​‍​﻿‌﻿​‍﻿‌‌‍​‌​﻿‌﻿​﻿‍​​﻿‌‌​﻿‍​​﻿​‍​﻿‍​​﻿‌﻿​﻿​﻿​﻿​‌​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</title>
-      <link>https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/</link>
-      <guid isPermaLink="false">pepite-5299712c43eb042b</guid>
-      <pubDate>Fri, 24 Jul 2026 07:40:00 +0000</pubDate>
-      <category>finance</category>
-      <description>Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects stay maintained and sustainably monetized, and how Cloudflare’s distributed systems are helping to improve developer… It landed in the last few hours.
-
-— via Stack Overflow</description>
-    </item>
-    <item>
-      <title>Inside the Model Factory — Eiso Kant, Poolside AI</title>
-      <link>https://www.latent.space/p/poolside</link>
-      <guid isPermaLink="false">pepite-e6a9869ace49a109</guid>
-      <pubDate>Thu, 23 Jul 2026 05:09:14 +0000</pubDate>
-      <category>models</category>
-      <description>Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning. It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>[AINews] "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro"</title>
-      <link>https://www.latent.space/p/ainews-laguna-s-21-released-cheaper</link>
-      <guid isPermaLink="false">pepite-d2200398d2e8d039</guid>
-      <pubDate>Thu, 23 Jul 2026 05:18:47 +0000</pubDate>
-      <category>models</category>
-      <description>a quiet day lets us highlight a new neolab win. It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion</title>
-      <link>https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/</link>
-      <guid isPermaLink="false">pepite-791832af8f7fe120</guid>
-      <pubDate>Wed, 22 Jul 2026 16:54:26 +0000</pubDate>
-      <category>models</category>
-      <description>AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For AMD, this is another major deal after Meta and OpenAI as it tries to challenge Nvidia as an AI chip supplier. Critics see these agreements as circular cash flows. The article Anthropic will deploy 2…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Petals: Run LLMs at home, BitTorrent-style</title>
-      <link>https://petals.dev/</link>
-      <guid isPermaLink="false">pepite-4230a2ef42b6357e</guid>
-      <pubDate>Thu, 23 Jul 2026 01:33:12 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 519pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong</title>
-      <link>https://github.com/cactus-compute/cactus-hybrid</link>
-      <guid isPermaLink="false">pepite-8ccc6f7ebfb9e628</guid>
-      <pubDate>Wed, 22 Jul 2026 17:56:29 +0000</pubDate>
-      <category>models</category>
-      <description>Hey HN, Henry &amp; Roman here from Cactus. A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it's wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it's high, hand off to a… It landed in the last few hours. It's pulling 204pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Can a MUD evaluate LLMs? A $99 proof of concept</title>
-      <link>https://cruciblebench.ai/</link>
-      <guid isPermaLink="false">pepite-d3efa94d0ff73d83</guid>
-      <pubDate>Wed, 22 Jul 2026 15:39:01 +0000</pubDate>
-      <category>models</category>
-      <description>I'm the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We've spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits. Our experiment did have an interesting… It's pulling 171pts/day — real momentum for something this new, not a one-day spike. Still under the radar (100pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>pireel/pireel</title>
-      <link>https://github.com/pireel/pireel</link>
-      <guid isPermaLink="false">pepite-2311b0d03cd24003</guid>
-      <pubDate>Mon, 20 Jul 2026 09:34:24 +0000</pubDate>
-      <category>repos</category>
-      <description>Import a clip and the canvas follows your footage — editing, storyboarding, designed graphics, kinetic captions, themes, live preview, timeline and export all run fully in the browser. No account, no server. This repository is the source for the editor packages plus a minimal shell that mounts them as a plain Vite app. It is synced one-way from the Pireel… It's pulling 179★/day — real momentum for something this new, not a one-day spike. Still under the radar (510★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Jakubantalik/thinking-orbs</title>
-      <link>https://github.com/Jakubantalik/thinking-orbs</link>
-      <guid isPermaLink="false">pepite-3e08270da010c195</guid>
-      <pubDate>Tue, 21 Jul 2026 07:01:53 +0000</pubDate>
-      <category>repos</category>
-      <description>Dotted thought-orb loading indicators for AI &amp; agent UIs. Six hand-tuned animated states, each shipped at two purpose-tuned sizes, rendered on a plain 2D canvas — no WebGL, no filters, works identically in Chrome, Safari and Firefox. Live demo · Repository · Report an issue Six verbs an agent can be doing, each a distinct animation: Two tuned presets —… It's pulling 346★/day — real momentum for something this new, not a one-day spike. Still under the radar (673★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>LKValues: Aligning Large Language Models with Sri Lankan Societal Values</title>
-      <link>http://arxiv.org/abs/2607.20410v1</link>
-      <guid isPermaLink="false">pepite-044e5e6323a899a6</guid>
-      <pubDate>Wed, 22 Jul 2026 17:49:37 +0000</pubDate>
-      <category>finance</category>
-      <description>Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka that have their unique cultural dynamics. Existing benchmarks overlook Sri Lankan-contextualized values in its official language Sinhala, hindering culturally… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SHFormer: Dynamic Spectral Filtering Convolutional Neural Network and High-pass Kernel Generation Transformer for Adaptive MRI Reconstruction</title>
-      <link>http://arxiv.org/abs/2607.20159v1</link>
-      <guid isPermaLink="false">pepite-bcab883e192badb9</guid>
-      <pubDate>Wed, 22 Jul 2026 13:55:27 +0000</pubDate>
-      <category>research</category>
-      <description>Attention Mechanism (AM) selectively focuses on essential information for imaging tasks and captures relationships between distant pixel neighborhoods to compute feature representations. Accelerated MRI reconstruction benefits from AM, as the imaging process involves Fourier domain measurements that influence image representation non-locally. However,… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
