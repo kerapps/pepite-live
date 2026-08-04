@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
   <title>Pépite</title>
-  <link>index.html</link>
+  <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
       <title>[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork</title>
