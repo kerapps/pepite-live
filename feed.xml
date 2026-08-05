@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Megakernels are so dead and so back</title>
+      <link>https://www.latent.space/p/ainews-megakernels-are-so-dead-and</link>
+      <guid isPermaLink="false">pepite-c4ef08c8c3fb6e3f</guid>
+      <pubDate>Wed, 05 Aug 2026 01:21:47 +0000</pubDate>
+      <category>agents</category>
+      <description>A quiet day lets us highlight a Cursor launch and an engineering debate It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress</title>
+      <link>https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/</link>
+      <guid isPermaLink="false">pepite-30e8185e86cb5876</guid>
+      <pubDate>Tue, 04 Aug 2026 19:28:49 +0000</pubDate>
+      <category>agents</category>
+      <description>The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Open-weight AI models are catching up to the frontier. The safety gap remains.</title>
+      <link>https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/</link>
+      <guid isPermaLink="false">pepite-167f98deda50e7bd</guid>
+      <pubDate>Tue, 04 Aug 2026 20:05:26 +0000</pubDate>
+      <category>models</category>
+      <description>A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: Fine-tune an 8B model on a 4 GB laptop GPU</title>
+      <link>https://github.com/MakazhanAlpamys/Soup</link>
+      <guid isPermaLink="false">pepite-6c88cdf1f739b7b9</guid>
+      <pubDate>Tue, 04 Aug 2026 11:17:57 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 164pts/day — real momentum for something this new, not a one-day spike. Still under the radar (125pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>I am retiring from fulltime writing (&amp; pseudonymity) to launch Guardian Angel</title>
+      <link>https://twitter.com/gwern/status/2084739205071343837</link>
+      <guid isPermaLink="false">pepite-1f1218af98d5f218</guid>
+      <pubDate>Tue, 04 Aug 2026 20:48:17 +0000</pubDate>
+      <category>other</category>
+      <description>https://twitter.com/willdepue/status/2084750925013434768 , https://xcancel.com/willdepue/status/2084750925013434768 https://gwern.net/guardian-angel It landed in the last few hours. It's pulling 646pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research</title>
+      <link>https://edotenv.com/</link>
+      <guid isPermaLink="false">pepite-87b2552162bd8802</guid>
+      <pubDate>Tue, 04 Aug 2026 18:36:02 +0000</pubDate>
+      <category>research</category>
+      <description>We are Rui and Michael and we’re building EdotEnv ( https://edotenv.com ): self-improving RL environments from Quant Trading workflows. With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has… It landed in the last few hours. It's pulling 72pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>MemTensor/memmy-agent</title>
+      <link>https://github.com/MemTensor/memmy-agent</link>
+      <guid isPermaLink="false">pepite-2dec1c29fe4c9328</guid>
+      <pubDate>Thu, 16 Jul 2026 07:57:45 +0000</pubDate>
+      <category>repos</category>
+      <description>Get Memmy from Official Website or GitHub Release. Sign up to get free tokens. Model routing is automatic — start exploring the full Memory + Agent Runtime with zero config. Every AI session generates context. Most of it gets thrown away. Switch agents, close a tab, start a new session, and you're re-introducing yourself from scratch. With a unified memory… It's pulling 28★/day — real momentum for something this new, not a one-day spike. Still under the radar (568★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>NVIDIA-NeMo/labs-OO-Agents</title>
+      <link>https://github.com/NVIDIA-NeMo/labs-OO-Agents</link>
+      <guid isPermaLink="false">pepite-dedb09e67287b21d</guid>
+      <pubDate>Mon, 20 Jul 2026 15:48:25 +0000</pubDate>
+      <category>repos</category>
+      <description>A Pythonic way to build AI agents. NVIDIA-labs OO Agents (NOOA) is a model-agnostic Python framework designed to support reliable AI agent development. Many agent frameworks represent prompts, tools, callbacks, and workflows as separate abstractions. NOOA offers an alternative object-oriented interface that brings these concepts together in a Python class.… It's pulling 54★/day — real momentum for something this new, not a one-day spike. Still under the radar (842★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent</title>
+      <link>http://arxiv.org/abs/2608.03979v1</link>
+      <guid isPermaLink="false">pepite-b615ad6b89f54fbd</guid>
+      <pubDate>Tue, 04 Aug 2026 17:45:16 +0000</pubDate>
+      <category>finance</category>
+      <description>We introduce Video-DeepResearch (Video-DR), extending multimodal agents from static images to continuous video streams, a setting that demands dense spatiotemporal grounding coupled with open-web exploration. Preliminary evaluations reveal two critical bottlenecks in current models: (1) modality bias, where agents bypass visual tools in favor of textual… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs</title>
+      <link>http://arxiv.org/abs/2608.04010v1</link>
+      <guid isPermaLink="false">pepite-c2b280409ddb9b7a</guid>
+      <pubDate>Tue, 04 Aug 2026 17:59:58 +0000</pubDate>
+      <category>finance</category>
+      <description>Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computation allocation between the Vision Transformer and the Large Language Model… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning</title>
+      <link>http://arxiv.org/abs/2608.04007v1</link>
+      <guid isPermaLink="false">pepite-2d51622114173ecd</guid>
+      <pubDate>Tue, 04 Aug 2026 17:59:21 +0000</pubDate>
+      <category>research</category>
+      <description>Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation offers denser signals through teacher branches with privileged… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging</title>
+      <link>https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything</link>
+      <guid isPermaLink="false">pepite-fb817c6a0b154cf2</guid>
+      <pubDate>Tue, 04 Aug 2026 23:58:24 +0000</pubDate>
+      <category>models</category>
+      <description>I released LLM 0.32 this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider tools, redesigned content-addressable SQLite logs, new models, and new features enabled by the OpenAI Responses API. I also released a new version of the… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>llm-anthropic 0.26</title>
+      <link>https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything</link>
+      <guid isPermaLink="false">pepite-dace681f7641d31c</guid>
+      <pubDate>Tue, 04 Aug 2026 22:00:58 +0000</pubDate>
+      <category>agents</category>
+      <description>Release: llm-anthropic 0.26 Includes new features enabled by LLM 0.32 : New models: claude-fable-5 , claude-sonnet-5 , and claude-opus-5 . #75 , #76 Added server-side tools for WebSearch , WebFetch , CodeExecution , and AnthropicMCP , available through LLM's -T interface or Python tools= . The previous -o web_search* options have been removed in favor of -T… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>DeepSeek-V4-Flash on SM89 4x48gb 4090s with DSpark</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vfrjwl/deepseekv4flash_on_sm89_4x48gb_4090s_with_dspark/</link>
+      <guid isPermaLink="false">pepite-14214b5be3f61d39</guid>
+      <pubDate>Wed, 05 Aug 2026 00:10:25 +0000</pubDate>
+      <category>models</category>
+      <description>https://github.com/yhfgyyf/vllm-deepseek-v4-sm89 I couldn't believe that someone actually got vLLM working with this particular set of GPUs, but here it is. The video is from right after I got it working with 64k context, but it is now running with 256k. submitted by /u/dangerous_inference [link] [comments] It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork</title>
       <link>https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new</link>
       <guid isPermaLink="false">pepite-28cb612f2fb1d325</guid>
@@ -1362,145 +1502,5 @@
       <description>Dynamic-scene reconstruction is almost always evaluated inside the observed time window, yet deployment settings such as AR overlays, robot interaction, and anticipatory planning need the future surface: the geometry at times beyond those captured. No standard benchmark measures this. We introduce FutureSurf, a controlled diagnostic benchmark and dataset… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>When Are Reasoning-Based Guardrails Not Efficient? ResponseGuard: A Fast Vision-Language Guard for Real-Time Moderation</title>
-      <link>http://arxiv.org/abs/2607.21401v1</link>
-      <guid isPermaLink="false">pepite-6ce0ee89ce57a9ee</guid>
-      <pubDate>Thu, 23 Jul 2026 15:02:24 +0000</pubDate>
-      <category>research</category>
-      <description>A vision-language AI assistant returns its answer as a stream of generated tokens. Therefore, a safety guard that watches that answer has to keep up with the stream and stop a harmful reply before a user reads it. Recent vision-language guardrails instead generate a chain of thought before they issue a verdict. They believe that step-by-step reasoning… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>OpenAI’s new voice mode makes it to the ChatGPT desktop app</title>
-      <link>https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/</link>
-      <guid isPermaLink="false">pepite-04ee318589b19bf3</guid>
-      <pubDate>Fri, 24 Jul 2026 13:36:42 +0000</pubDate>
-      <category>agents</category>
-      <description>ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street</title>
-      <link>https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/</link>
-      <guid isPermaLink="false">pepite-f38271175497c979</guid>
-      <pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>agentreg – DNS for AI agents (self-hosted, single Go binary)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v6umks/agentreg_dns_for_ai_agents_selfhosted_single_go/</link>
-      <guid isPermaLink="false">pepite-37ab46018bee2433</guid>
-      <pubDate>Sun, 26 Jul 2026 05:23:58 +0000</pubDate>
-      <category>agents</category>
-      <description>Everyone's building AI agents. Nobody's building the layer that lets them find each other. Run more than 2-3 MCP servers and you're hardcoding endpoints everywhere, with no idea which are alive. So I built agentreg. DNS for AI agents. 🧵 2/ One self-hosted Go binary. agentctl register search-agent -c search -e http://localhost:3000 agentctl find search… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price</title>
-      <link>https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/</link>
-      <guid isPermaLink="false">pepite-90836efcd6b689a9</guid>
-      <pubDate>Fri, 24 Jul 2026 18:36:42 +0000</pubDate>
-      <category>research</category>
-      <description>Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Microsoft's open-weight AI push is so obviously an Azure play it hurts</title>
-      <link>https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/</link>
-      <guid isPermaLink="false">pepite-04193f30b226a262</guid>
-      <pubDate>Fri, 24 Jul 2026 16:06:02 +0000</pubDate>
-      <category>research</category>
-      <description>Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models. The company is also swapping external models in products like Copilot for its in-house MAI family,…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Why Cognition bought Poke: AI personality is becoming a competitive advantage</title>
-      <link>https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/</link>
-      <guid isPermaLink="false">pepite-8622540f1a85c276</guid>
-      <pubDate>Fri, 24 Jul 2026 18:07:32 +0000</pubDate>
-      <category>finance</category>
-      <description>The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>As US weighs response to Chinese AI, industry urges against broad open-weight restrictions</title>
-      <link>https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/</link>
-      <guid isPermaLink="false">pepite-323b1220159cd997</guid>
-      <pubDate>Fri, 24 Jul 2026 15:51:49 +0000</pubDate>
-      <category>models</category>
-      <description>AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Canadian legislator reads out apparent LLM response in floor speech</title>
-      <link>https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</link>
-      <guid isPermaLink="false">pepite-e7c943659275ed0f</guid>
-      <pubDate>Fri, 24 Jul 2026 21:25:15 +0000</pubDate>
-      <category>models</category>
-      <description>"Here’s a more natural, flowing version of that section..." It landed in the last few hours.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>Hetzner is working on LLM Inference</title>
-      <link>https://sliplane.io/blog/hetzner-inference</link>
-      <guid isPermaLink="false">pepite-3dc49d184e0ef29b</guid>
-      <pubDate>Fri, 24 Jul 2026 09:24:44 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 174pts/day — real momentum for something this new, not a one-day spike. Still under the radar (146pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Be skeptical of OpenAI's rogue hacker agent story</title>
-      <link>https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker</link>
-      <guid isPermaLink="false">pepite-b84b3d84119b3ae0</guid>
-      <pubDate>Fri, 24 Jul 2026 16:33:31 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 869pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>bytedoger/awesome-OpenPrice</title>
-      <link>https://github.com/bytedoger/awesome-OpenPrice</link>
-      <guid isPermaLink="false">pepite-ad9425eaa9e671db</guid>
-      <pubDate>Thu, 16 Jul 2026 06:28:46 +0000</pubDate>
-      <category>repos</category>
-      <description>open price,就是开放价格的意思。所以这是一个开源的收录全网卡网渠道各种AI订阅价格的项目。项目的目的只有一个，打破信息茧房，让友友们能方便挑选价格更低、更更低的 AI 订阅服务。本项目不提供 AI 服务，只是 AI 订阅产品的搬运工。 如今大家对 AI 订阅如 Claude、chatgpt 有着很大的需求，虽然市面上有着非常多高性价比的产品，但它们往往分散在各个不同的渠道中，例如链动小铺、独角卡网、二次元发卡、微信群、QQ群、闲鱼、淘宝等。这种信息不对称导致了两个主要问题： 1. 对于买家（普通用户）：很难找到靠谱、便宜的购买渠道，往往需要花费很多时间找渠道，甚至容易买贵。 2. 对于卖家（渠道商）：手里有优质、低价的渠道产品，却苦于没有集中曝光的流量池，价格最低但是很难卖出去。… It's pulling 55★/day — real momentum for something this new, not a one-day spike. Still under the radar (494★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents</title>
-      <link>https://news.ycombinator.com/item?id=49024620</link>
-      <guid isPermaLink="false">pepite-2e43f316bd14c757</guid>
-      <pubDate>Thu, 23 Jul 2026 16:48:38 +0000</pubDate>
-      <category>agents</category>
-      <description>Hi Hacker News, I'm Louis. I built Screenpipe ( https://screenpipe.com ), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you've seen, said, and heard. This makes it easier to automate your repetitive tasks, turn them into SOPs (Standard Operating Procedure) and so on. I made a HN-style demo video… It's pulling 54pts/day — real momentum for something this new, not a one-day spike. Still under the radar (83pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>0xsline/OpenChatCut</title>
-      <link>https://github.com/0xsline/OpenChatCut</link>
-      <guid isPermaLink="false">pepite-019417a9628de1ef</guid>
-      <pubDate>Wed, 15 Jul 2026 02:49:42 +0000</pubDate>
-      <category>repos</category>
-      <description>Open-source ChatCut alternative · agent-native · local-first AI video editor Let Codex, Claude Code, and the built-in agent read, edit, and export real video projects that remain fully editable. Website: openchatcut.com From a single instruction to a real timeline: agents, media, previews, motion graphics, transitions, effects, and multitrack audio all work… It's pulling 46★/day — real momentum for something this new, not a one-day spike. Still under the radar (471★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
     </item>
 </channel></rss>
