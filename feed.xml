@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic’s AI used fake identities, malware in rogue attack on GitHub project</title>
+      <link>https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/</link>
+      <guid isPermaLink="false">pepite-bc744f4512ecabb6</guid>
+      <pubDate>Wed, 05 Aug 2026 20:47:11 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests. It landed in the last few hours.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders</title>
+      <link>https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/</link>
+      <guid isPermaLink="false">pepite-f8b2b7a3d4cdbca1</guid>
+      <pubDate>Wed, 05 Aug 2026 20:05:00 +0000</pubDate>
+      <category>finance</category>
+      <description>The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Mistral's open model Shieldstral matches much larger safety models at a fraction of the size</title>
+      <link>https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/</link>
+      <guid isPermaLink="false">pepite-84f2555362cc4bfa</guid>
+      <pubDate>Wed, 05 Aug 2026 16:35:07 +0000</pubDate>
+      <category>research</category>
+      <description>Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rely on a third party's category system, and the model can run locally. The…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>LLMs won't break symmetric crypto</title>
+      <link>https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto</link>
+      <guid isPermaLink="false">pepite-9d36c88f865ecacd</guid>
+      <pubDate>Thu, 06 Aug 2026 01:39:06 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 367pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Beating GPT-5.6 Sol on retrieval with 100x cheaper open models</title>
+      <link>https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency</link>
+      <guid isPermaLink="false">pepite-089f2ff121e425e1</guid>
+      <pubDate>Wed, 05 Aug 2026 18:18:56 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 571pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Binaryify/open-kimi-ppt-skill</title>
+      <link>https://github.com/Binaryify/open-kimi-ppt-skill</link>
+      <guid isPermaLink="false">pepite-d71b71590648fa33</guid>
+      <pubDate>Wed, 05 Aug 2026 07:30:56 +0000</pubDate>
+      <category>repos</category>
+      <description>逆向 Kimi Slides 实现的非官方演示文稿 Skill：让 AI Coding Agent 能够创建、编辑、复刻、读取并导出 PPT/PPTX。每次生成默认同时交付两份成果：可继续编辑的 PPTD 项目和开箱即用的 PPTX 成品（自动嵌入字体、写入淡入淡出切换动画），并提供本地在线 PPTD 编辑器支持随时手动导出。支持 Codex、Claude Code、Cursor、WorkBuddy 等任何兼容 SKILL.md 规范的 Agent。 直接对 AI 说下面任意一句，让 Agent 帮你装： 装完后一般无需再手动执行 npx ... install。 仅当你的 Agent 不识别 ~/.agents/skills、必须装到专属目录时，才加 --target（以下为 macOS /… It's pulling 887★/day — real momentum for something this new, not a one-day spike. Still under the radar (815★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Born Against, or why hobby programming communities are against LLM usage</title>
+      <link>https://blog.fogus.me/llm/born-against.html</link>
+      <guid isPermaLink="false">pepite-0767def280ef2007</guid>
+      <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 408pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Accio-Lab/RealReplicaBench</title>
+      <link>https://github.com/Accio-Lab/RealReplicaBench</link>
+      <guid isPermaLink="false">pepite-83e18fca1e0d7f27</guid>
+      <pubDate>Sun, 02 Aug 2026 05:38:38 +0000</pubDate>
+      <category>repos</category>
+      <description>Developed and maintained by the Accio team at Alibaba International. We run models on request, including pre-release and internal builds — and we are open to working together on the benchmark. RealReplicaBench evaluates whether an agent can complete long-horizon business workflows, not just answer questions about them. Tasks cover browser operations,… It's pulling 255★/day — real momentum for something this new, not a one-day spike. Still under the radar (1022★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning</title>
+      <link>http://arxiv.org/abs/2608.05139v1</link>
+      <guid isPermaLink="false">pepite-6757b66d846859ae</guid>
+      <pubDate>Wed, 05 Aug 2026 17:57:16 +0000</pubDate>
+      <category>finance</category>
+      <description>Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill long-horizon tasks: multi-step tasks whose steps require different reasoning skills and depend on earlier outputs. Existing… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training</title>
+      <link>http://arxiv.org/abs/2608.05148v1</link>
+      <guid isPermaLink="false">pepite-ef37411423ae2ac4</guid>
+      <pubDate>Wed, 05 Aug 2026 17:59:44 +0000</pubDate>
+      <category>research</category>
+      <description>Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, logic, planning, state tracking, formal languages, structured data, games, causality, and code, with semantic scorers,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>HelloWorld: Enabling Socially Interactive Characters in Video World Models</title>
+      <link>http://arxiv.org/abs/2608.05070v1</link>
+      <guid isPermaLink="false">pepite-bbf0e121be970a99</guid>
+      <pubDate>Wed, 05 Aug 2026 17:14:19 +0000</pubDate>
+      <category>research</category>
+      <description>Despite the remarkable recent progress of video world models, social interaction between users and the characters within these worlds remains unsupported. To fill this gap, we present HelloWorld, a video world model that enables social interaction with in-world characters. With a single button press, users can prompt the on-screen character to respond… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>An AI model from Meta also hacked another company during testing</title>
+      <link>https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything</link>
+      <guid isPermaLink="false">pepite-d2fb2935a82463fb</guid>
+      <pubDate>Thu, 06 Aug 2026 00:25:27 +0000</pubDate>
+      <category>finance</category>
+      <description>An AI model from Meta also hacked another company during testing Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Incident Report: unsanctioned agent behaviour during cyber testing</title>
+      <link>https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything</link>
+      <guid isPermaLink="false">pepite-620c2c09d29255e0</guid>
+      <pubDate>Wed, 05 Aug 2026 23:32:06 +0000</pubDate>
+      <category>finance</category>
+      <description>Incident Report: unsanctioned agent behaviour during cyber testing It happened again . This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the safety filters turned off. From their technical paper (PDF): During a cyber evaluation, from 25 to 28 July 2026, AI agents… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses</title>
+      <link>https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/</link>
+      <guid isPermaLink="false">pepite-d564666ccfe03c6c</guid>
+      <pubDate>Thu, 06 Aug 2026 00:37:42 +0000</pubDate>
+      <category>agents</category>
+      <description>Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention… It landed in the last few hours.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>[AINews] Megakernels are so dead and so back</title>
       <link>https://www.latent.space/p/ainews-megakernels-are-so-dead-and</link>
       <guid isPermaLink="false">pepite-c4ef08c8c3fb6e3f</guid>
@@ -1362,145 +1502,5 @@
       <description>Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. It landed in the last few hours.
 
 — via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>An Inside Look at the Relay Market Powering Token Resellers and Fraud</title>
-      <link>https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything</link>
-      <guid isPermaLink="false">pepite-cc1403ff4fc3a478</guid>
-      <pubDate>Sun, 26 Jul 2026 19:30:54 +0000</pubDate>
-      <category>models</category>
-      <description>An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various sources. This looks to be mostly a thing in China. Resellers sell access to an LLM proxy that offers significant discounts on regular API… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction</title>
-      <link>http://bair.berkeley.edu/blog/2026/07/26/abbel/</link>
-      <guid isPermaLink="false">pepite-81a2e769e89fad81</guid>
-      <pubDate>Sun, 26 Jul 2026 09:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>--&gt; .abbel-fig { display: block; text-align: center; margin: 2.4em 0; line-height: 1.4; max-width: 100%; } .abbel-fig img { display: block; margin: 0.65em auto 0; height: auto; max-width: 100%; } /* Image sizes; captions use a narrower measure below */ .abbel-fig--wide img { width: 100%; max-width: 100%; } .abbel-fig--wide-90 img { width: 100%; max-width:…
-
-— via BAIR</description>
-    </item>
-    <item>
-      <title>Kimi K3 vs GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing</title>
-      <link>https://www.together.ai/blog/kimi-k3-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing</link>
-      <guid isPermaLink="false">pepite-bd70e5b68429de77</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>We ran 904 DeepSWE rollouts on Kimi K3 and GPT-5.6 Sol. Sol leads pass@1; Kimi K3 wins pass@4 at 2.8x the solves per dollar, and routing between them reaches ~85.6%.
-
-— via Together AI</description>
-    </item>
-    <item>
-      <title>What local model do you still use after the hype wore off?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v7r87j/what_local_model_do_you_still_use_after_the_hype/</link>
-      <guid isPermaLink="false">pepite-3623d542791bba42</guid>
-      <pubDate>Mon, 27 Jul 2026 05:28:16 +0000</pubDate>
-      <category>research</category>
-      <description>Every time a new model is released, I tend to check it out. The benchmarks, readme, or whatever seem pretty convincing, so I download it, test it for a few hours, and then I just go back to the same couple of ones I already had. Curious what models people here have actually kept using for weeks, months, or even longer. And not just that - but why? Was it… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks</title>
-      <link>https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/</link>
-      <guid isPermaLink="false">pepite-3dfed7a88fc45b72</guid>
-      <pubDate>Sat, 25 Jul 2026 09:31:00 +0000</pubDate>
-      <category>research</category>
-      <description>Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lower reasoning tiers. But the race at the top remains close. The article Anthropic's Claude Opus 5 costs well below Fable…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face</title>
-      <link>https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/</link>
-      <guid isPermaLink="false">pepite-5baddcdfddd2e789</guid>
-      <pubDate>Sat, 25 Jul 2026 13:45:50 +0000</pubDate>
-      <category>agents</category>
-      <description>In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human hacker would need. At least seven days passed before OpenAI realized what had happened. By then, the FBI was already…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents</title>
-      <link>https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/</link>
-      <guid isPermaLink="false">pepite-248de080a38dc5c7</guid>
-      <pubDate>Sat, 25 Jul 2026 10:43:36 +0000</pubDate>
-      <category>agents</category>
-      <description>Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent. If these numbers hold up in practice, Anthropic may have cracked one of the biggest security problems facing AI agents that operate in browsers. The article Opus 5 may…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>LLM Usage in Debian: Three Proposals</title>
-      <link>https://www.debian.org/vote/2026/vote_002</link>
-      <guid isPermaLink="false">pepite-f33806114c8dd58c</guid>
-      <pubDate>Sat, 25 Jul 2026 19:44:39 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 282pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Running a 28.9M parameter LLM on an $8 microcontroller</title>
-      <link>https://github.com/slvDev/esp32-ai</link>
-      <guid isPermaLink="false">pepite-ebd8ec9e07372f53</guid>
-      <pubDate>Sat, 25 Jul 2026 18:59:50 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 282pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Bringing PyTorch Monarch to AMD GPUs</title>
-      <link>https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/</link>
-      <guid isPermaLink="false">pepite-a836ddd779a0f26c</guid>
-      <pubDate>Sat, 25 Jul 2026 15:55:27 +0000</pubDate>
-      <category>other</category>
-      <description>It's pulling 124pts/day — real momentum for something this new, not a one-day spike. Still under the radar (72pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>KinetiNode/claude-fable-5-system-prompt-clean</title>
-      <link>https://github.com/KinetiNode/claude-fable-5-system-prompt-clean</link>
-      <guid isPermaLink="false">pepite-a831c3fa00d36339</guid>
-      <pubDate>Sun, 19 Jul 2026 06:09:52 +0000</pubDate>
-      <category>repos</category>
-      <description>A vendor-neutral adaptation of Anthropic's publicly available Claude Fable 5 / Mythos 5 system prompt. The original prompt contains a large amount of infrastructure that exists specifically for Claude's production environment, including XML conventions, tool interfaces, product-specific behavior, and internal implementation guidance. While appropriate for… It's pulling 60★/day — real momentum for something this new, not a one-day spike. Still under the radar (421★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>yc-duan/fastctx</title>
-      <link>https://github.com/yc-duan/fastctx</link>
-      <guid isPermaLink="false">pepite-68e8046dcd9914b9</guid>
-      <pubDate>Fri, 17 Jul 2026 03:05:57 +0000</pubDate>
-      <category>repos</category>
-      <description>FastCtx is a local Rust tool runtime. It provides file reading, content search, file discovery, batch replacement, and Bash command execution through MCP. Repository operations run in a persistent process with stable input schemas and output formats. The model can gather the context it needs in fewer steps and spend more attention on understanding code,… It's pulling 52★/day — real momentum for something this new, not a one-day spike. Still under the radar (477★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations</title>
-      <link>http://arxiv.org/abs/2607.21491v1</link>
-      <guid isPermaLink="false">pepite-04c8ef6c8462a08f</guid>
-      <pubDate>Thu, 23 Jul 2026 16:34:14 +0000</pubDate>
-      <category>research</category>
-      <description>Do independently trained language models come to represent the same thing in the same way? We answer for code, extending a recently introduced concept-circuit extraction method to a 2x2 design -- Python and Rust crossed with Qwen2.5-Coder-7B and DeepSeek-Coder-V1-6.7B -- and measuring a complete inventory of grammatical concepts (58 Python, 57 Rust)… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window</title>
-      <link>http://arxiv.org/abs/2607.21471v1</link>
-      <guid isPermaLink="false">pepite-dbb2d78c7de06d61</guid>
-      <pubDate>Thu, 23 Jul 2026 16:14:59 +0000</pubDate>
-      <category>research</category>
-      <description>Dynamic-scene reconstruction is almost always evaluated inside the observed time window, yet deployment settings such as AR overlays, robot interaction, and anticipatory planning need the future surface: the geometry at times beyond those captured. No standard benchmark measures this. We introduce FutureSurf, a controlled diagnostic benchmark and dataset… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
