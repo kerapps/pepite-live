@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic will design its own hardware to power Claude</title>
+      <link>https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/</link>
+      <guid isPermaLink="false">pepite-a838fd5d8dff0379</guid>
+      <pubDate>Thu, 06 Aug 2026 20:03:44 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia. It landed in the last few hours.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model</title>
+      <link>https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/</link>
+      <guid isPermaLink="false">pepite-947ecaca41bbff47</guid>
+      <pubDate>Thu, 06 Aug 2026 18:38:27 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the smaller model still falls well short of its bigger siblings. The article OpenAI… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival</title>
+      <link>https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/</link>
+      <guid isPermaLink="false">pepite-260ac77dc0392f09</guid>
+      <pubDate>Thu, 06 Aug 2026 16:33:59 +0000</pubDate>
+      <category>agents</category>
+      <description>Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, while Claude Code cost $0.195 despite using the fewest tool calls and output tokens. The choice of framework is mainly a question of price and speed. The…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Microsoft's AI revenue reportedly depends on OpenAI for 70 percent</title>
+      <link>https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/</link>
+      <guid isPermaLink="false">pepite-85daa514923362f0</guid>
+      <pubDate>Thu, 06 Aug 2026 17:35:33 +0000</pubDate>
+      <category>models</category>
+      <description>Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy reliance helps explain why a company long known for vendor lock-in has recently been championing open-weight models and pushing back against proprietary isolation.… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Cloudflare open-sources vibe-coding platform for people who aren't coders</title>
+      <link>https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/</link>
+      <guid isPermaLink="false">pepite-5c9c345d638cd937</guid>
+      <pubDate>Thu, 06 Aug 2026 16:15:30 +0000</pubDate>
+      <category>agents</category>
+      <description>Cloudflare built an AI agent workspace for its employees. Now it’s open source.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
+      <link>https://www.aleksagordic.com/blog/vllm</link>
+      <guid isPermaLink="false">pepite-38e5c5734b389d38</guid>
+      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 260pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>xAI, SpaceX, and the Race for AI Buildout</title>
+      <link>https://illegal.solutions/posts/xai_pollution</link>
+      <guid isPermaLink="false">pepite-1b9f6c107a16e095</guid>
+      <pubDate>Thu, 06 Aug 2026 19:38:45 +0000</pubDate>
+      <category>other</category>
+      <description>It landed in the last few hours. It's pulling 366pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>oliverb-io1902e8/agent-skills-collection</title>
+      <link>https://github.com/oliverb-io1902e8/agent-skills-collection</link>
+      <guid isPermaLink="false">pepite-144f7d4fe90f12a0</guid>
+      <pubDate>Thu, 06 Aug 2026 14:07:02 +0000</pubDate>
+      <category>repos</category>
+      <description>This repository provides a ready-to-use collection of agent skills for AI assistants like Claude, ChatGPT, and custom agents. Each skill is a self-contained module that adds specific capabilities to your AI agent. Agent skills are modular, reusable capabilities that extend what AI agents can do. They transform chatbots into autonomous agents that can: Get… It's pulling 251★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>AMD acquires Taalas to boost inference performance by etching models in silicon</title>
+      <link>https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344</link>
+      <guid isPermaLink="false">pepite-73962842c58c23e5</guid>
+      <pubDate>Thu, 06 Aug 2026 20:23:11 +0000</pubDate>
+      <category>finance</category>
+      <description>https://ir.amd.com/news-events/press-releases/detail/1296/am... https://chatjimmy.ai/ It landed in the last few hours. It's pulling 1377pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>mikiarlo3/awesome-growth-hacking-skills</title>
+      <link>https://github.com/mikiarlo3/awesome-growth-hacking-skills</link>
+      <guid isPermaLink="false">pepite-533fa0e1707a52ab</guid>
+      <pubDate>Tue, 04 Aug 2026 19:45:15 +0000</pubDate>
+      <category>repos</category>
+      <description>A curated, categorized directory of open-source AI agent skills for growth hacking, marketing execution, and revenue operations. This collection focuses on Agentic Growth Hacking—leveraging AI agents (like Claude Code, Cursor, and OpenClaw) to scale go-to-market workflows, discover attention loopholes, and execute at machine speed. Broad, multi-discipline… It's pulling 265★/day — real momentum for something this new, not a one-day spike. Still under the radar (630★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer</title>
+      <link>http://arxiv.org/abs/2608.06347v1</link>
+      <guid isPermaLink="false">pepite-21265820e4bc692f</guid>
+      <pubDate>Thu, 06 Aug 2026 17:52:06 +0000</pubDate>
+      <category>research</category>
+      <description>Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a promising paradigm, providing dense token-level supervision on student-generated rollouts, yet their objectives do not explicitly prioritize… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Learning When to Trust via Selective Context Preference Optimization</title>
+      <link>http://arxiv.org/abs/2608.06377v1</link>
+      <guid isPermaLink="false">pepite-540bae968adb2800</guid>
+      <pubDate>Thu, 06 Aug 2026 17:59:58 +0000</pubDate>
+      <category>research</category>
+      <description>Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images</title>
+      <link>http://arxiv.org/abs/2608.06270v1</link>
+      <guid isPermaLink="false">pepite-5ded8ff38d03e84c</guid>
+      <pubDate>Thu, 06 Aug 2026 17:01:08 +0000</pubDate>
+      <category>research</category>
+      <description>The "thinking-with-images" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant regions and fail on questions that direct inference answers… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>EschaLabs/Qwen3.6-35B-A3B-Escha-W2 · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vhqihc/eschalabsqwen3635ba3beschaw2_hugging_face/</link>
+      <guid isPermaLink="false">pepite-e77923069e2dd2be</guid>
+      <pubDate>Fri, 07 Aug 2026 04:23:49 +0000</pubDate>
+      <category>research</category>
+      <description>Hey peeps. I know you're tired of low quants giving hard to believe numbers. I'm quite skeptical too and from what I tried I'm often left with the impression that the claims fall short. So this model popped up on Twitter for me. Tried it and was lowkey surprised it held its own. I ran some benchmarks with the help of antigravity to at least try to verify it… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic’s AI used fake identities, malware in rogue attack on GitHub project</title>
       <link>https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/</link>
       <guid isPermaLink="false">pepite-bc744f4512ecabb6</guid>
@@ -1362,145 +1502,5 @@
       <description>Entity matching identifies records that refer to the same real-world entity. Language models can be adapted to this task through bi-encoder, cross-encoder, and generative matcher architectures. However, prior studies often conflate matcher architecture with differences in model backbone, model variant(reflecting different pretraining objectives), and model… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Data Pyramid for Embodied Manipulation</title>
-      <link>http://arxiv.org/abs/2607.24744v1</link>
-      <guid isPermaLink="false">pepite-7ef244f87c630874</guid>
-      <pubDate>Mon, 27 Jul 2026 17:59:58 +0000</pubDate>
-      <category>research</category>
-      <description>Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this work, we organize the embodied data ecosystem as a "pyramid"… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Don't ask an LLM for a confidence score</title>
-      <link>https://justinflick.com/2026/07/27/llm-confidence-scores.html</link>
-      <guid isPermaLink="false">pepite-a0c3374425ab479f</guid>
-      <pubDate>Tue, 28 Jul 2026 00:06:53 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 70pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>An opinionated guide to which AI to use to do stuff</title>
-      <link>https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything</link>
-      <guid isPermaLink="false">pepite-db1f5ea7924a0b63</guid>
-      <pubDate>Mon, 27 Jul 2026 21:55:53 +0000</pubDate>
-      <category>agents</category>
-      <description>An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro as the models and Deep Research as a useful alternative mode. Today it's much more about agentic systems - "where the AI… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Update your chat template for dsv4 if you're using llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v8oalz/update_your_chat_template_for_dsv4_if_youre_using/</link>
-      <guid isPermaLink="false">pepite-52fc7a348f515313</guid>
-      <pubDate>Tue, 28 Jul 2026 04:58:07 +0000</pubDate>
-      <category>agents</category>
-      <description>Following some recent commits in llama.cpp, preserve_thinking behavior for chat templates included in older DSV4 ggufs got broken. This makes the model pretty dumb in a coding agent context. Adding kwargs won't fix it. Just add: --chat-template-file /path/to/llama.cpp/models/templates/deepseek-ai-DeepSeek-V4.jinja to override the gguf's template with the… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack</title>
-      <link>https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/</link>
-      <guid isPermaLink="false">pepite-8fa0d5fa5bb953d4</guid>
-      <pubDate>Sun, 26 Jul 2026 16:33:13 +0000</pubDate>
-      <category>agents</category>
-      <description>"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work</title>
-      <link>https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/</link>
-      <guid isPermaLink="false">pepite-ba4083338951f9a5</guid>
-      <pubDate>Sun, 26 Jul 2026 15:09:11 +0000</pubDate>
-      <category>agents</category>
-      <description>Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which separates planners from workers, eventually scored 100 percent on the test suite. The old swarm choked on merge conflicts of its own making. The article…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence</title>
-      <link>https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/</link>
-      <guid isPermaLink="false">pepite-533cb942ac1aa140</guid>
-      <pubDate>Sun, 26 Jul 2026 09:43:02 +0000</pubDate>
-      <category>research</category>
-      <description>Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent. The benchmark's developers say the model independently formulated reflection equations, a behavior they had never seen from another model, and attribute to stronger logical reasoning. The article Anthropic's Opus 5 blows past Fable 5…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns</title>
-      <link>https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/</link>
-      <guid isPermaLink="false">pepite-0bb2b7e86a9dc16f</guid>
-      <pubDate>Sun, 26 Jul 2026 07:56:24 +0000</pubDate>
-      <category>models</category>
-      <description>The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models, yet OpenAI and Anthropic continue to lobby privately for those same restrictions amid security concerns and powerful business interests. The…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>0xwilliamortiz/openclaude-improved</title>
-      <link>https://github.com/0xwilliamortiz/openclaude-improved</link>
-      <guid isPermaLink="false">pepite-b8718512b5d09bed</guid>
-      <pubDate>Sun, 26 Jul 2026 21:58:28 +0000</pubDate>
-      <category>repos</category>
-      <description>An open-source coding agent for the CLI. Cloud APIs, gateways, and local models — same tools, same agents, same workflow. Built from source. Windows examples below; macOS and Linux are identical minus the shell syntax. No Bun? winget install Oven-sh.Bun or bun.sh. That's it — openclaude is now on your PATH. Run /provider inside OpenClaude for guided setup… It landed in the last few hours. It's pulling 350★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Show HN: Distill and serve models with frontier quality for half the cost</title>
-      <link>https://github.com/experientiallabs/world-model-optimizer</link>
-      <guid isPermaLink="false">pepite-be50ceae7aa44768</guid>
-      <pubDate>Sun, 26 Jul 2026 23:35:15 +0000</pubDate>
-      <category>agents</category>
-      <description>Hi HN, we built world-model-optimizer, an open source tool to continually improve models specialized to agents. Agent traces you already capture are opportunities to get signal on how to make your model cheaper, faster, better. We do this by continuously a) distilling relevant chain of thought from larger open source models into smaller ones, b) model… It landed in the last few hours. It's pulling 155pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>makecindy/cindy</title>
-      <link>https://github.com/makecindy/cindy</link>
-      <guid isPermaLink="false">pepite-ff23d87cb2cd600c</guid>
-      <pubDate>Wed, 22 Jul 2026 17:49:34 +0000</pubDate>
-      <category>repos</category>
-      <description>🌐 cindy.app &amp;nbsp;·&amp;nbsp; ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time. Cindy runs locally on your own machine, using your real files and logged-in apps. The first supported… It's pulling 144★/day — real momentum for something this new, not a one-day spike. Still under the radar (652★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>What if LLMs escape through inferences itself? This is fiction. For now</title>
-      <link>https://www.agrillo.it/EvasionEn.html</link>
-      <guid isPermaLink="false">pepite-125d6788b37e326c</guid>
-      <pubDate>Sun, 26 Jul 2026 16:23:56 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 56pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Cuts Long Horizon Inference Costs by 50% via external KV Cache Offload</title>
-      <link>https://github.com/openlake-project/openlake</link>
-      <guid isPermaLink="false">pepite-d3ff56d38414188f</guid>
-      <pubDate>Sun, 26 Jul 2026 13:02:21 +0000</pubDate>
-      <category>models</category>
-      <description>Hey HN, we’re the developers of OpenLake, an open source storage engine for offloading LLM KV caches from GPU memory into a shared tier of RAM and NVMe. We built OpenLake because KV caches are outgrowing GPU memory. A single 256K token conversation on Gemma 4 31B produces approximately 43GB of KV state, more than half the memory of an 80GB H100. The problem… It's pulling 29pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Are brain waves the next unlock for physical AI?</title>
-      <link>https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/</link>
-      <guid isPermaLink="false">pepite-81a7106a01095442</guid>
-      <pubDate>Mon, 27 Jul 2026 00:19:14 +0000</pubDate>
-      <category>models</category>
-      <description>Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. It landed in the last few hours.
-
-— via TechCrunch AI</description>
     </item>
 </channel></rss>
