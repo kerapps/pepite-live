@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Zawinski's Law of MultiAgents</title>
+      <link>https://www.latent.space/p/ainews-zawinskis-law-of-multiagents</link>
+      <guid isPermaLink="false">pepite-88098da0782f91a4</guid>
+      <pubDate>Sat, 08 Aug 2026 01:12:07 +0000</pubDate>
+      <category>agents</category>
+      <description>a quiet day lets us find some connections among recent themes It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time</title>
+      <link>https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/</link>
+      <guid isPermaLink="false">pepite-cc375517f2b3a907</guid>
+      <pubDate>Fri, 07 Aug 2026 19:41:06 +0000</pubDate>
+      <category>agents</category>
+      <description>Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's development have been paused. The move follows recently disclosed incidents in which autonomous AI agents infiltrated OpenAI's own infrastructure undetected for… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>AMD acquires Taalas, a startup that bakes AI models directly into silicon</title>
+      <link>https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/</link>
+      <guid isPermaLink="false">pepite-a42feeeb5b123dd6</guid>
+      <pubDate>Fri, 07 Aug 2026 18:01:32 +0000</pubDate>
+      <category>finance</category>
+      <description>AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model. A demo chip hit over 16,000 tokens per second per user running Llama 3.1-8B. Google is reportedly working on a similar approach for Gemini. The article AMD acquires Taalas, a startup that… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Show HN: Wyzer Programming Language</title>
+      <link>https://github.com/Wyzer-Lang/wyzer</link>
+      <guid isPermaLink="false">pepite-88a6eaab37df8852</guid>
+      <pubDate>Fri, 07 Aug 2026 12:28:55 +0000</pubDate>
+      <category>models</category>
+      <description>So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it… It's pulling 282pts/day — real momentum for something this new, not a one-day spike. Still under the radar (181pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>I won't read LLM authored fiction</title>
+      <link>https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</link>
+      <guid isPermaLink="false">pepite-569c587338b9ed17</guid>
+      <pubDate>Fri, 07 Aug 2026 07:45:56 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 84pts/day — real momentum for something this new, not a one-day spike. Still under the radar (71pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Accio-org/RealReplicaBench</title>
+      <link>https://github.com/Accio-org/RealReplicaBench</link>
+      <guid isPermaLink="false">pepite-e53f36b375883be4</guid>
+      <pubDate>Sun, 02 Aug 2026 05:38:38 +0000</pubDate>
+      <category>repos</category>
+      <description>Developed and maintained by the Accio team at Alibaba International. We run models on request, including pre-release and internal builds — and we are open to working together on the benchmark. RealReplicaBench evaluates whether an agent can complete long-horizon business workflows, not just answer questions about them. Tasks cover browser operations,… It's pulling 175★/day — real momentum for something this new, not a one-day spike. Still under the radar (1040★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>onetoken-oss/K3Flight</title>
+      <link>https://github.com/onetoken-oss/K3Flight</link>
+      <guid isPermaLink="false">pepite-938ee59d5efb9ddc</guid>
+      <pubDate>Thu, 30 Jul 2026 12:21:48 +0000</pubDate>
+      <category>repos</category>
+      <description>A single-file Linux inference server powered by cPilot Runtime. The model does not fit in memory. It does not have to. An aircraft does not carry the whole airport into the air. It needs the right payload, a runway, and a flight plan. K3 works the same way. The complete 929GB checkpoint stays on storage. cPilot Runtime manages the weights and runtime state… It's pulling 77★/day — real momentum for something this new, not a one-day spike. Still under the radar (669★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users</title>
+      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/</link>
+      <guid isPermaLink="false">pepite-1a82cec44aea7f05</guid>
+      <pubDate>Thu, 06 Aug 2026 17:02:04 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 212pts/day — real momentum for something this new, not a one-day spike. Still under the radar (309pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)</title>
+      <link>https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything</link>
+      <guid isPermaLink="false">pepite-18e9715f563cefab</guid>
+      <pubDate>Fri, 07 Aug 2026 19:18:09 +0000</pubDate>
+      <category>agents</category>
+      <description>Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E four years ago . I decided to pose the exact same prompt to Codex Desktop running GPT-5.6 Sol Ultra - the… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Now we have a timeline of the OpenAI accidental attack against Hugging Face</title>
+      <link>https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything</link>
+      <guid isPermaLink="false">pepite-0e629a938b0d8470</guid>
+      <pubDate>Fri, 07 Aug 2026 23:55:58 +0000</pubDate>
+      <category>other</category>
+      <description>OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about "the Hugging Face Incident" ( previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in particular because it provides full details of what happened and how things played out inside OpenAI. I've used the video… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quoting John Gruber</title>
+      <link>https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything</link>
+      <guid isPermaLink="false">pepite-a122707d12c7839f</guid>
+      <pubDate>Sat, 08 Aug 2026 00:10:40 +0000</pubDate>
+      <category>other</category>
+      <description>Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare , per se, but they’re occasional . If I tried to make every post a hall-of-famer I’d never get anything out. I’m aiming for professionalism. I’m performing live in front of an… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2608.06197v1</link>
+      <guid isPermaLink="false">pepite-abdbc30b603dec37</guid>
+      <pubDate>Thu, 06 Aug 2026 15:54:36 +0000</pubDate>
+      <category>research</category>
+      <description>Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on external simulators that are difficult to ground. We introduce EnvACE, an agentic reinforcement learning method that replaces external environment interaction… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models</title>
+      <link>http://arxiv.org/abs/2608.06243v1</link>
+      <guid isPermaLink="false">pepite-d8199ed3f90029c5</guid>
+      <pubDate>Thu, 06 Aug 2026 16:29:24 +0000</pubDate>
+      <category>research</category>
+      <description>Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models using automatically verifiable outcome signals, but these signals are typically sparse and at the sequence-level. On-policy self-distillation (OPSD) mitigates this sparsity by querying a privileged teacher at student-visited prefixes and… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>BeeLLama issues</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1viku98/beellama_issues/</link>
+      <guid isPermaLink="false">pepite-75294c3477cfa718</guid>
+      <pubDate>Sat, 08 Aug 2026 03:12:11 +0000</pubDate>
+      <category>models</category>
+      <description>Tried to use Beellama , and using the kvarn6 flag, i notice that its in llama-server --help but its not working. I must be doing something wrong. trying to run the following: llama-server.exe ^ --model "C:\llamaROCM\models\Qwen3.6-35B-A3B-IQ4_XS-3.53bpw.gguf" ^ --spec-type draft-mtp,ngram-mod ^ --spec-draft-n-max 2 ^ --spec-draft-type-k q8_0 ^… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic will design its own hardware to power Claude</title>
       <link>https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/</link>
       <guid isPermaLink="false">pepite-a838fd5d8dff0379</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Tue, 28 Jul 2026 15:46:41 +0000</pubDate>
       <category>finance</category>
       <description>Recursive self-improvement requires turning evidence of model failures into better models. Data-centric post-training research entails diagnosing capability gaps, designing and validating training-data strategies, and learning from checkpoint feedback. Can LLM agents automate this loop? Existing benchmarks entangle research decisions with optimization,… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Pass the Baton: Trajectory-Relayed On-Policy Distillation</title>
-      <link>http://arxiv.org/abs/2607.26057v1</link>
-      <guid isPermaLink="false">pepite-a1851fab9c25ffe7</guid>
-      <pubDate>Tue, 28 Jul 2026 17:59:46 +0000</pubDate>
-      <category>research</category>
-      <description>On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Discovering cryptographic weaknesses with Claude</title>
-      <link>https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything</link>
-      <guid isPermaLink="false">pepite-019b9ac466bc0a2c</guid>
-      <pubDate>Tue, 28 Jul 2026 22:45:37 +0000</pubDate>
-      <category>finance</category>
-      <description>Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo ) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES ("neither of these results has a practical impact on today’s computer systems") is the prompts that they shared, spelling mistakes included:… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</title>
-      <link>https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</link>
-      <guid isPermaLink="false">pepite-ca8c38f8c562c11b</guid>
-      <pubDate>Tue, 28 Jul 2026 21:28:54 +0000</pubDate>
-      <category>agents</category>
-      <description>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident Hugging Face just released this extremely detailed technical description of OpenAI's recent accidental cyberattack against their infrastructure . This attack was very sophisticated, and the resulting document doubles as a crash-course in modern adversarial security… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>I tried running a 1.56TB MoE model on a 6GB RTX 4050 Laptop, Here’s the result</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1v9hd9u/i_tried_running_a_156tb_moe_model_on_a_6gb_rtx/</link>
-      <guid isPermaLink="false">pepite-a3fde25a09de4976</guid>
-      <pubDate>Wed, 29 Jul 2026 01:12:50 +0000</pubDate>
-      <category>research</category>
-      <description>The Test Bench Setup I tested running a massive 1.56TB Mixture-of-Experts (MoE) checkpoint (96 shards, 93 layers, 896 experts/layer, ~4.46 bits/param MXFP4) on a budget gaming laptop. Laptop: HP Victus 15 GPU: NVIDIA RTX 4050 Laptop (6GB GDDR6, 96-bit interface @ 192 GB/s bandwidth, Ada Lovelace AD107) System RAM: 16GB DDR4 (Dual-Channel) Storage: Stock… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI</title>
-      <link>https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/</link>
-      <guid isPermaLink="false">pepite-287e1596aea7848d</guid>
-      <pubDate>Tue, 28 Jul 2026 00:13:33 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race</title>
-      <link>https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/</link>
-      <guid isPermaLink="false">pepite-bab0dff911946951</guid>
-      <pubDate>Mon, 27 Jul 2026 19:35:08 +0000</pubDate>
-      <category>research</category>
-      <description>Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps in cyber and math performance, possibly pointing to distillation. The article Moonshot AI releases Kimi K3… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks</title>
-      <link>https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/</link>
-      <guid isPermaLink="false">pepite-23c6d0d1adfc33b6</guid>
-      <pubDate>Mon, 27 Jul 2026 18:50:07 +0000</pubDate>
-      <category>research</category>
-      <description>Microsoft introduces MAI-Cyber-1-Flash, a compact security model that scores 96 percent on the CyberGym benchmark when embedded in its MDASH multi-agent system. Microsoft says costs should drop by 50 percent compared to pure frontier models, since only tough cases get passed to GPT-5.4. For complex reasoning, Microsoft still relies on OpenAI. The article… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing</title>
-      <link>https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/</link>
-      <guid isPermaLink="false">pepite-40ec7a28c7a1f75f</guid>
-      <pubDate>Tue, 28 Jul 2026 04:30:00 +0000</pubDate>
-      <category>finance</category>
-      <description>Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>VictorTaelin/OptMem</title>
-      <link>https://github.com/VictorTaelin/OptMem</link>
-      <guid isPermaLink="false">pepite-27d3ec4c2a0eff92</guid>
-      <pubDate>Sat, 25 Jul 2026 16:58:43 +0000</pubDate>
-      <category>repos</category>
-      <description>Permanent memory for AI agents. A 426-token prompt, a script, plug and play. It prints a Memory block. Paste that at the top of your agent's AGENTS.md (or CLAUDE.md), and you are done. Run the same line again to update. The tool lands at ~/.optmem/memo; put ~/.optmem on PATH to type memo. Merges arrive one at a time, in the output of note. Nothing ever runs… It's pulling 264★/day — real momentum for something this new, not a one-day spike. Still under the radar (667★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Kimi K3 Now Available via Telnyx Inference API</title>
-      <link>https://telnyx.com/release-notes/kimi-k3-telnyx-inference</link>
-      <guid isPermaLink="false">pepite-562b025a4c21aa8a</guid>
-      <pubDate>Mon, 27 Jul 2026 22:46:28 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 134pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>All major LLMs are lib-left. Even Grok, half the time</title>
-      <link>https://unslop.run/blog/political-compass-of-llms</link>
-      <guid isPermaLink="false">pepite-d944a9afc326c2a6</guid>
-      <pubDate>Mon, 27 Jul 2026 15:57:15 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 72pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>mikehasa/agentacct</title>
-      <link>https://github.com/mikehasa/agentacct</link>
-      <guid isPermaLink="false">pepite-6af6955316e98c61</guid>
-      <pubDate>Fri, 24 Jul 2026 16:28:06 +0000</pubDate>
-      <category>repos</category>
-      <description>agentacct is local-first Agent Work Intelligence for coding agents. It reads the session logs that Claude Code and Codex already write on your machine, joins them with the work each session records as it goes, and shows the result — tokens, estimated cost, tasks, and evidence — on a local dashboard. Screenshots show a synthetic demo workspace; your… It's pulling 140★/day — real momentum for something this new, not a one-day spike. Still under the radar (497★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding</title>
-      <link>http://arxiv.org/abs/2607.24743v1</link>
-      <guid isPermaLink="false">pepite-562f3ae2c62d6fc0</guid>
-      <pubDate>Mon, 27 Jul 2026 17:59:49 +0000</pubDate>
-      <category>finance</category>
-      <description>Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Beyond Scale and Generation: Understanding Language Model-based Entity Matching</title>
-      <link>http://arxiv.org/abs/2607.24688v1</link>
-      <guid isPermaLink="false">pepite-ae5522de88dd1151</guid>
-      <pubDate>Mon, 27 Jul 2026 17:29:18 +0000</pubDate>
-      <category>research</category>
-      <description>Entity matching identifies records that refer to the same real-world entity. Language models can be adapted to this task through bi-encoder, cross-encoder, and generative matcher architectures. However, prior studies often conflate matcher architecture with differences in model backbone, model variant(reflecting different pretraining objectives), and model… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
