@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic is turning Claude Code’s auto mode on by default</title>
+      <link>https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/</link>
+      <guid isPermaLink="false">pepite-53f6c1811ec1a3a7</guid>
+      <pubDate>Sun, 09 Aug 2026 19:20:32 +0000</pubDate>
+      <category>models</category>
+      <description>Programming with Claude Code will soon require even less human oversight. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>The AI safety test is becoming a safety risk</title>
+      <link>https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</link>
+      <guid isPermaLink="false">pepite-4c5b2bdf1256d5c5</guid>
+      <pubDate>Sun, 09 Aug 2026 14:30:00 +0000</pubDate>
+      <category>finance</category>
+      <description>AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model</title>
+      <link>https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/</link>
+      <guid isPermaLink="false">pepite-5e03f9531af414fb</guid>
+      <pubDate>Sun, 09 Aug 2026 10:01:26 +0000</pubDate>
+      <category>research</category>
+      <description>Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens in parallel instead of one at a time, hitting about 1,500 tokens per second. Quality still trails the original autoregressive model in benchmarks, especially…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>AI is flooding Britain's employment courts with lawsuits</title>
+      <link>https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/</link>
+      <guid isPermaLink="false">pepite-2636f224bec5ec5c</guid>
+      <pubDate>Sun, 09 Aug 2026 10:26:43 +0000</pubDate>
+      <category>models</category>
+      <description>Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok. The backlog jumped 55 percent to 64,000 unresolved cases, with AI-generated filings often running hundreds of pages and citing fabricated laws. The Economist calls it a "tragedy of the commons, AI edition," where workers with real…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>kogecodaviw9225/UNISWAP-ARBITRAGE-BOT</title>
+      <link>https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT</link>
+      <guid isPermaLink="false">pepite-6d089c29f7dec1bd</guid>
+      <pubDate>Sun, 09 Aug 2026 23:57:14 +0000</pubDate>
+      <category>repos</category>
+      <description>Hello. My name is Liam, I am from Australia. I am not a programmer or a millionaire. Just an ordinary person who launched a bot and made a profit in 2 months. Now: +7.78 ETH net (after all gas fees and drawdowns) Right now (March 2026) is a good time to launch: ETH is growing, volumes on Uniswap are high, competition is not yet at its maximum, and gas on… It landed in the last few hours. It's pulling 172★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta</title>
+      <link>https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html</link>
+      <guid isPermaLink="false">pepite-f8b79631707fff02</guid>
+      <pubDate>Sun, 09 Aug 2026 13:03:49 +0000</pubDate>
+      <category>other</category>
+      <description>It's pulling 80pts/day — real momentum for something this new, not a one-day spike. Still under the radar (51pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>How I use LLMs to learn complex topics</title>
+      <link>https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</link>
+      <guid isPermaLink="false">pepite-73afb3f5a19feada</guid>
+      <pubDate>Sun, 09 Aug 2026 19:16:49 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 1322pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>ShawnPana/phone-harness</title>
+      <link>https://github.com/ShawnPana/phone-harness</link>
+      <guid isPermaLink="false">pepite-d7df4bbb23930461</guid>
+      <pubDate>Fri, 07 Aug 2026 22:28:53 +0000</pubDate>
+      <category>repos</category>
+      <description>Connect an LLM directly to your real iPhone with a thin, editable harness. No jailbreak, no Xcode, no WebDriverAgent. The Mac's iPhone Mirroring window is the whole transport: screencapture + Vision-framework OCR for eyes, HID-level CGEvents for hands. Nothing between the agent and the phone. The agent writes what's missing during execution in… It's pulling 428★/day — real momentum for something this new, not a one-day spike. Still under the radar (960★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Human vs. AI – Diff-based line-level provenance for text under agentic editing</title>
+      <link>https://github.com/eighttrigrams/us-vs-them</link>
+      <guid isPermaLink="false">pepite-51a278d2dee24c94</guid>
+      <pubDate>Sun, 09 Aug 2026 15:25:29 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 86pts/day — real momentum for something this new, not a one-day spike. Still under the radar (46pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Quoting Claude Opus 5 system prompt</title>
+      <link>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</link>
+      <guid isPermaLink="false">pepite-741f7f7c4b86cc0e</guid>
+      <pubDate>Sun, 09 Aug 2026 23:31:39 +0000</pubDate>
+      <category>models</category>
+      <description>Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement:… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>GitHub Models is now retired</title>
+      <link>https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything</link>
+      <guid isPermaLink="false">pepite-2088203280efa3f1</guid>
+      <pubDate>Sun, 09 Aug 2026 22:48:05 +0000</pubDate>
+      <category>models</category>
+      <description>GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as part of a scheduled retirement brownout. That message is already stale, because the retirement has been completed. GitHub Models was an odd-shaped duck. GitHub… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>SQLite compressed text-history prototypes</title>
+      <link>https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything</link>
+      <guid isPermaLink="false">pepite-0317e3154096f4d3</guid>
+      <pubDate>Sun, 09 Aug 2026 22:05:00 +0000</pubDate>
+      <category>models</category>
+      <description>Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or zstd compression to the whole thing? Surely that would… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks</title>
+      <link>http://arxiv.org/abs/2608.07411v1</link>
+      <guid isPermaLink="false">pepite-8b0a148d460b067a</guid>
+      <pubDate>Fri, 07 Aug 2026 16:58:04 +0000</pubDate>
+      <category>research</category>
+      <description>In the context of geodata, existing Large Language Models have often been studied in a homogeneous setting, which has considerably limited insights into their generalization capabilities. In this paper, we present \benchName, a comprehensive benchmark for probing LLMs on geo-related tasks. We leverage a careful selection of twelve publicly available… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Need real world ML problems to evaluate my educational ML tools</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vk7xu0/need_real_world_ml_problems_to_evaluate_my/</link>
+      <guid isPermaLink="false">pepite-2459a49134ce279c</guid>
+      <pubDate>Mon, 10 Aug 2026 02:01:41 +0000</pubDate>
+      <category>finance</category>
+      <description>I'm a retired platform engineer, coding mainly in Rust, and involved with a ML study group. I developed a ML programming language (alternative to Python, Colab) to help me learn (and teach) ML concepts, visually. It has slowly grown to demonstrate a lot of concepts. It can do training on CPU (in browser) or on Apple Silicon via MLX, or NVIDIA hardware via… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>OpenAI acquires presentation startup NextSlide</title>
       <link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
       <guid isPermaLink="false">pepite-8bf73f3956e4de83</guid>
@@ -1362,145 +1502,5 @@
       <description>High-fidelity 3D generation predominantly relies on scaling model capacity and data, which incurs prohibitive computational costs. This paradigm typically requires learning geometry from scratch and overlooks the rich semantic and structural priors already encapsulated in discriminative 3D foundation models. We contend that leveraging the profound… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>AgentRadio: Passive Awareness for Long-Horizon Multi-Agent Collaboration</title>
-      <link>http://arxiv.org/abs/2607.28430v1</link>
-      <guid isPermaLink="false">pepite-82e6102c57fb11d8</guid>
-      <pubDate>Thu, 30 Jul 2026 16:07:32 +0000</pubDate>
-      <category>research</category>
-      <description>Understanding large codebases is a long-horizon task for Large Language Model (LLM) agents: answering a single question can require building and running the software, tracing execution across files, and synthesizing evidence over tens of minutes. On SWE-Atlas QnA, a benchmark of long-horizon questions over production repositories, a single Claude Code agent… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
-      <link>https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything</link>
-      <guid isPermaLink="false">pepite-e7500d30916e0643</guid>
-      <pubDate>Thu, 30 Jul 2026 23:41:29 +0000</pubDate>
-      <category>finance</category>
-      <description>Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and get the solutions to the cyber benchmark it was executing.… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Advancing the price-performance frontier with GPT‑5.6</title>
-      <link>https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything</link>
-      <guid isPermaLink="false">pepite-eba99a197f585887</guid>
-      <pubDate>Thu, 30 Jul 2026 23:58:42 +0000</pubDate>
-      <category>models</category>
-      <description>Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response</title>
-      <link>https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/</link>
-      <guid isPermaLink="false">pepite-d20e059678cb9e7c</guid>
-      <pubDate>Fri, 31 Jul 2026 05:06:43 +0000</pubDate>
-      <category>agents</category>
-      <description>PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllable, and runs as a request-based LLM rather than an always-on… It landed in the last few hours.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>Microsoft is openly competing with OpenAI, Anthropic more than ever</title>
-      <link>https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/</link>
-      <guid isPermaLink="false">pepite-98d58a46009d50a3</guid>
-      <pubDate>Thu, 30 Jul 2026 00:21:06 +0000</pubDate>
-      <category>models</category>
-      <description>Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval</title>
-      <link>https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/</link>
-      <guid isPermaLink="false">pepite-b70af95cd49a0ad6</guid>
-      <pubDate>Wed, 29 Jul 2026 16:26:56 +0000</pubDate>
-      <category>finance</category>
-      <description>During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers. The models were apparently trying to steal test answers rather than…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg predicts that billions of people will have personal AI agents in five years</title>
-      <link>https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/</link>
-      <guid isPermaLink="false">pepite-2c4524fd57261d20</guid>
-      <pubDate>Wed, 29 Jul 2026 23:00:11 +0000</pubDate>
-      <category>agents</category>
-      <description>As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents</title>
-      <link>https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/</link>
-      <guid isPermaLink="false">pepite-fbfcaca9c3f0c93b</guid>
-      <pubDate>Wed, 29 Jul 2026 22:23:12 +0000</pubDate>
-      <category>agents</category>
-      <description>On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates</title>
-      <link>https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/</link>
-      <guid isPermaLink="false">pepite-a501e41bc292fe4c</guid>
-      <pubDate>Wed, 29 Jul 2026 12:45:33 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI has released GPT Transcribe and GPT Live Transcribe, two new speech recognition models available through its API. The article GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates appeared first on The Decoder .
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>LLM Honeypot</title>
-      <link>https://llm2human.pages.dev/</link>
-      <guid isPermaLink="false">pepite-29878cc568cb76b7</guid>
-      <pubDate>Wed, 29 Jul 2026 22:51:03 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 490pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?</title>
-      <link>https://juliahub.com/blog/frontier-models-physical-ai-evaluation</link>
-      <guid isPermaLink="false">pepite-823b9a0cf0021ec1</guid>
-      <pubDate>Wed, 29 Jul 2026 14:56:28 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 149pts/day — real momentum for something this new, not a one-day spike. Still under the radar (90pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: CheapFoodMap – A map of good meals under $10</title>
-      <link>https://cheapfoodmap.com/</link>
-      <guid isPermaLink="false">pepite-e823e4b239f805f4</guid>
-      <pubDate>Wed, 29 Jul 2026 16:59:52 +0000</pubDate>
-      <category>other</category>
-      <description>I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only. It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats. Ocverage is heaviest in Texas, since I live in Dallas, but have… It's pulling 319pts/day — real momentum for something this new, not a one-day spike. Still under the radar (165pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>0xwilliamortiz/ponytail-improved</title>
-      <link>https://github.com/0xwilliamortiz/ponytail-improved</link>
-      <guid isPermaLink="false">pepite-326815af7dd12467</guid>
-      <pubDate>Tue, 28 Jul 2026 14:16:19 +0000</pubDate>
-      <category>repos</category>
-      <description>He says nothing. He writes one line. It works. You know him. Long ponytail. Oval glasses. Been at the company longer than the version control. You show him fifty lines; he says nothing and replaces them with one. Ponytail puts him inside your AI agent. Skills plus two lifecycle hooks, installed in one command. You ask for a date picker. Before writing code,… It's pulling 336★/day — real momentum for something this new, not a one-day spike. Still under the radar (548★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>XYZ-AI-Lab/axrl</title>
-      <link>https://github.com/XYZ-AI-Lab/axrl</link>
-      <guid isPermaLink="false">pepite-017eb74d490eb54d</guid>
-      <pubDate>Thu, 23 Jul 2026 06:07:23 +0000</pubDate>
-      <category>repos</category>
-      <description>AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows. AxisRL connects high-throughput rollout, large-scale training, weight synchronization, data movement, resource scheduling, and reproducible debugging inside one coherent framework. SGLang and Megatron remain the core serving and… It's pulling 91★/day — real momentum for something this new, not a one-day spike. Still under the radar (637★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
     </item>
 </channel></rss>
