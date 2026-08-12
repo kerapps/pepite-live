@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>"But marinade" and leaked passwords are what researchers found in ChatGPT's hidden reasoning</title>
+      <link>https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/</link>
+      <guid isPermaLink="false">pepite-0a06fec6cc3275e5</guid>
+      <pubDate>Tue, 11 Aug 2026 17:38:49 +0000</pubDate>
+      <category>models</category>
+      <description>Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys. The traces also show that the reasoning summaries users see often hide what the models are actually doing. The article… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>General Catalyst leads $1.1B round into 2-month-old River AI</title>
+      <link>https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/</link>
+      <guid isPermaLink="false">pepite-f66a8ff91a416f88</guid>
+      <pubDate>Tue, 11 Aug 2026 17:41:22 +0000</pubDate>
+      <category>agents</category>
+      <description>River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence</title>
+      <link>https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/</link>
+      <guid isPermaLink="false">pepite-96ff4263752d2c6f</guid>
+      <pubDate>Tue, 11 Aug 2026 15:07:44 +0000</pubDate>
+      <category>models</category>
+      <description>Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index despite being four times smaller. At nearly 670 tokens per second, it's also the fastest model in the comparison, showing Nvidia is betting on efficiency over raw size. The article Nvidia's open-weight…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Gemini becomes Google's fastest-growing product ever as it hits 1B users</title>
+      <link>https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/</link>
+      <guid isPermaLink="false">pepite-fc18235bff71058e</guid>
+      <pubDate>Tue, 11 Aug 2026 19:48:12 +0000</pubDate>
+      <category>models</category>
+      <description>But will Gemini's surge survive slowing model releases? It landed in the last few hours.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
+      <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
+      <guid isPermaLink="false">pepite-d1c04a0cf2fc864c</guid>
+      <pubDate>Tue, 11 Aug 2026 14:50:33 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 511pts/day — real momentum for something this new, not a one-day spike. Still under the radar (289pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>sv-number/mcp-server</title>
+      <link>https://github.com/sv-number/mcp-server</link>
+      <guid isPermaLink="false">pepite-aea460d7828b1609</guid>
+      <pubDate>Fri, 07 Aug 2026 11:13:26 +0000</pubDate>
+      <category>repos</category>
+      <description>Phone numbers as tools. Your agent orders a private number in the country a service expects, reads the SMS verification code straight from the API, and hands the number back. Nine tools over stdio, no SDK to learn. 200+ countries, the widest coverage in this category. Every other claim on this page is checkable too, but this one takes a single call: run… It's pulling 132★/day — real momentum for something this new, not a one-day spike. Still under the radar (623★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>SaladDay/pi-from-scratch</title>
+      <link>https://github.com/SaladDay/pi-from-scratch</link>
+      <guid isPermaLink="false">pepite-c1e6883f4f578723</guid>
+      <pubDate>Sun, 09 Aug 2026 12:15:30 +0000</pubDate>
+      <category>repos</category>
+      <description>从零手写一个能读文件、改代码、执行命令的 TypeScript coding agent。 项目沿着 pi 的数据流拆解，需要什么、我们造什么，所有组件都是符合直觉的。 放轻松，这是一篇文章，不是一本书，你会很容易看懂。 网站把文章和源码放在一起。阅读推进时，右侧编辑器会逐步补全代码，当你看完的时候，nano-pi 的代码也会全部呈现在编辑器中。 同时设计了一个 Trace 跟踪，可以打断点逐行过代码，希望能帮助大家理解代码执行流。 需要 Node.js 22 或更高版本，以及一个 OpenAI 兼容 API。 线上 trace It's pulling 219★/day — real momentum for something this new, not a one-day spike. Still under the radar (587★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
+      <link>https://stolen-thoughts.com/</link>
+      <guid isPermaLink="false">pepite-03faac93cba56f8c</guid>
+      <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 874pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Voice driven murder mystery, Interview AI suspects with your voice</title>
+      <link>https://www.whodunnitai.com/</link>
+      <guid isPermaLink="false">pepite-63d82ed3e1bacb64</guid>
+      <pubDate>Mon, 10 Aug 2026 03:18:40 +0000</pubDate>
+      <category>agents</category>
+      <description>Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it. I recently had the desire to check out the tech again, and know many of you will be… It's pulling 101pts/day — real momentum for something this new, not a one-day spike. Still under the radar (208pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Agentic Configuration Management (ACM): A Reference Configuration Model for Governed Agentic Systems</title>
+      <link>http://arxiv.org/abs/2608.11166v1</link>
+      <guid isPermaLink="false">pepite-130d3e129f1b22c2</guid>
+      <pubDate>Tue, 11 Aug 2026 17:28:39 +0000</pubDate>
+      <category>research</category>
+      <description>Agentic systems are increasingly composed of heterogeneous agents, prompts, tools, models, skills, composite subsystems, policies, and execution workflows whose configurations evolve across frameworks and runtime environments. Existing LLMOps and AgentOps platforms support orchestration and observability but do not provide a common configuration-governance… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>PRMU: A Corpus-Free Benchmark for Person-Centric Knowledge Unlearning in Multimodal Large Language Models</title>
+      <link>http://arxiv.org/abs/2608.11149v1</link>
+      <guid isPermaLink="false">pepite-02893a8d3d58b708</guid>
+      <pubDate>Tue, 11 Aug 2026 17:09:28 +0000</pubDate>
+      <category>finance</category>
+      <description>Multimodal large language models (MLLMs) have demonstrated remarkable capabilities in storing and recalling rich person-related knowledge, raising increasing concerns about reliable knowledge removal. However, existing machine unlearning approaches for MLLMs typically assume access to original forget and retain corpora, which are often unavailable in… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Are We Really Making Progress in Group Recommendation? Unmasking the Tie-Breaking Illusion</title>
+      <link>http://arxiv.org/abs/2608.11190v1</link>
+      <guid isPermaLink="false">pepite-ddc6a4d501da5fd5</guid>
+      <pubDate>Tue, 11 Aug 2026 17:50:08 +0000</pubDate>
+      <category>finance</category>
+      <description>Recent group recommendation methods have reported strong improvements on standard benchmarks, but it remains unclear whether these gains always reflect genuine advances in modeling group preferences. In this paper, we show that several recent methods are affected by a systematic evaluation bias caused by the interaction between training-time score… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>There are no lossless transformations of natural-language text</title>
+      <link>https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything</link>
+      <guid isPermaLink="false">pepite-dbdfce63780157b4</guid>
+      <pubDate>Tue, 11 Aug 2026 23:48:35 +0000</pubDate>
+      <category>models</category>
+      <description>There are no lossless transformations of natural-language text Sophie Alpert shares her "internal policy on acceptable use of AI writing by engineers". It's a short read (supporting its own recommendations) and really good. If you chose to have LLMs help massage your writing the following rule seems crucial to me: You must stand behind every idea and every… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>What unique, custom QOL upgrades have you given your local agents?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vm3fvr/what_unique_custom_qol_upgrades_have_you_given/</link>
+      <guid isPermaLink="false">pepite-31a451d625659a00</guid>
+      <pubDate>Wed, 12 Aug 2026 03:58:46 +0000</pubDate>
+      <category>agents</category>
+      <description>Warning : Kinda long post. If you don't like reading, please skip for your own sanity. Also, I've got nothing to sell, just a tinkerer, so I just want to share ideas and learn from you guys too. When I recently started my agentic journey, I hit a number of walls, the first being tool use eating up way too much context. Also, LM Studio had super slow prompt… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>As AI-led attacks multiply, OpenAI launches a new cyber model</title>
       <link>https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</link>
       <guid isPermaLink="false">pepite-166724c6c84d5395</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Sun, 02 Aug 2026 04:12:41 +0000</pubDate>
       <category>agents</category>
       <description>The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Accidental cyberattacks by OpenAl and Anthropic models under test GPT-5.6 Sol, Terra, and Luna Claude Opus 5 Kimi K3 and DeepSeek-V4-Flash-0731 Open letters about Al development A fireside chat and a… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Open letters about AI development</title>
-      <link>https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</link>
-      <guid isPermaLink="false">pepite-c1de4f1e6af54e9c</guid>
-      <pubDate>Sun, 02 Aug 2026 04:16:52 +0000</pubDate>
-      <category>models</category>
-      <description>Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA, Amazon, Y Combinator, The Linux… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Ten advances in mathematics and theoretical computer science</title>
-      <link>https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything</link>
-      <guid isPermaLink="false">pepite-80a4db1af93c388f</guid>
-      <pubDate>Sat, 01 Aug 2026 20:34:49 +0000</pubDate>
-      <category>models</category>
-      <description>Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included "again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings." Now it's OpenAI's turn to… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning</title>
-      <link>http://arxiv.org/abs/2607.28478v1</link>
-      <guid isPermaLink="false">pepite-011ab5a3e7c659c8</guid>
-      <pubDate>Thu, 30 Jul 2026 16:30:08 +0000</pubDate>
-      <category>research</category>
-      <description>As large language models (LLMs) continue to advance in complex reasoning tasks, they have learned to heavily prioritize explicit conditions provided in the input. However, in everyday commonsense reasoning, this mechanism exposes a critical vulnerability which we term Salience Bias: models become easily hijacked by useless explicit distractors (e.g.,… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>What’s the community’s favorite benchmark to validate performance?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vd8cu0/whats_the_communitys_favorite_benchmark_to/</link>
-      <guid isPermaLink="false">pepite-3a4071c9f7a593fd</guid>
-      <pubDate>Sun, 02 Aug 2026 04:34:36 +0000</pubDate>
-      <category>research</category>
-      <description>Built my 1st inference machine and have been tweaking models trying to get the most out of my modest hardware. I think I’m at a good place but I’m testing with my own prompts. I’ve looked into some of the popular benchmarks but I’m honestly lost. I use my models for Hermes agent mainly and a little bit with paperless ngx and home assistant. I don’t know how… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>OpenAI reportedly finds evidence that more of its agents ran amok</title>
-      <link>https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/</link>
-      <guid isPermaLink="false">pepite-ac16dfe35be63552</guid>
-      <pubDate>Fri, 31 Jul 2026 22:47:26 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Thinking Machines bets on efficiency over size with its second model, Inkling Small</title>
-      <link>https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/</link>
-      <guid isPermaLink="false">pepite-efa717a05bee7e7c</guid>
-      <pubDate>Fri, 31 Jul 2026 17:41:50 +0000</pubDate>
-      <category>research</category>
-      <description>Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks. The article Thinking Machines bets on efficiency over size with its second model, Inkling Small appeared first on The Decoder . It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids</title>
-      <link>https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/</link>
-      <guid isPermaLink="false">pepite-79c0522597770dd7</guid>
-      <pubDate>Fri, 31 Jul 2026 18:25:08 +0000</pubDate>
-      <category>models</category>
-      <description>Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-level reasoning layer for robotics tasks. The article Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost</title>
-      <link>https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/</link>
-      <guid isPermaLink="false">pepite-15f5e24e95e128ba</guid>
-      <pubDate>Fri, 31 Jul 2026 16:39:25 +0000</pubDate>
-      <category>models</category>
-      <description>Deepseek's budget model V4 Flash gets a major boost with the "0731" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task. The article New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost appeared…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>0xwilliamortiz/ratchet</title>
-      <link>https://github.com/0xwilliamortiz/ratchet</link>
-      <guid isPermaLink="false">pepite-5a1c723180f76daf</guid>
-      <pubDate>Fri, 31 Jul 2026 17:54:30 +0000</pubDate>
-      <category>repos</category>
-      <description>A ratchet turns one way. Complexity in your codebase goes down or stays flat, unless someone deliberately turns it the other way and writes down why. Every minimalism ruleset for coding agents is an open loop. You inject prefer the standard library, do not add dependencies, keep the diff small, the model reads it, and then nothing checks whether any of it… It landed in the last few hours. It's pulling 804★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Everyone is building LLM routers, we deprecated ours</title>
-      <link>https://manifest.build/blog/why-we-deprecated-our-llm-router/</link>
-      <guid isPermaLink="false">pepite-c3faf1e86431c4d7</guid>
-      <pubDate>Fri, 31 Jul 2026 18:06:39 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 228pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Is AI reasoning right for the wrong reasons?</title>
-      <link>https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/</link>
-      <guid isPermaLink="false">pepite-e8b7098da39125a0</guid>
-      <pubDate>Fri, 31 Jul 2026 15:29:39 +0000</pubDate>
-      <category>other</category>
-      <description>It's pulling 236pts/day — real momentum for something this new, not a one-day spike. Still under the radar (140pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>The Maxwell Conjecture Is False (GPT 5.6 Sol)</title>
-      <link>https://arxiv.org/abs/2607.27197</link>
-      <guid isPermaLink="false">pepite-9e6282c587e76552</guid>
-      <pubDate>Fri, 31 Jul 2026 11:37:12 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 192pts/day — real momentum for something this new, not a one-day spike. Still under the radar (145pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>gavamedia/deltafin</title>
-      <link>https://github.com/gavamedia/deltafin</link>
-      <guid isPermaLink="false">pepite-f5d82d1538868ce0</guid>
-      <pubDate>Tue, 28 Jul 2026 01:01:23 +0000</pubDate>
-      <category>repos</category>
-      <description>Deltafin is a small research project that runs a Mixture-of-Experts model far larger than the machine it sits on. It supports Apple Silicon macOS and x86-64/aarch64 Linux, automatically selecting MPS, CUDA or CPU for the resident model path and a qualified Metal, CUDA or CPU MXFP4 expert kernel. The maintainer-run exact-oracle reference is now 0.2660… It's pulling 135★/day — real momentum for something this new, not a one-day spike. Still under the radar (569★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)</title>
-      <link>https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</link>
-      <guid isPermaLink="false">pepite-7896b3091183ec38</guid>
-      <pubDate>Fri, 31 Jul 2026 23:13:22 +0000</pubDate>
-      <category>research</category>
-      <description>Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched, and has also served to reignite my personal interest in the protocol. For background: MCP is the Model Context Protocol,… It landed in the last few hours.
 
 — via Simon Willison</description>
     </item>
