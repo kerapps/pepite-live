@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] SpaceXAI Grok 4.6 and Grok @Bot</title>
+      <link>https://www.latent.space/p/ainews-spacexai-grok-46-and-grok</link>
+      <guid isPermaLink="false">pepite-e64c69cd1c8d9764</guid>
+      <pubDate>Thu, 13 Aug 2026 01:53:47 +0000</pubDate>
+      <category>models</category>
+      <description>AI teammate category just had its most significant new entrant yet It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price</title>
+      <link>https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/</link>
+      <guid isPermaLink="false">pepite-2218c6058dd521fa</guid>
+      <pubDate>Wed, 12 Aug 2026 18:33:21 +0000</pubDate>
+      <category>agents</category>
+      <description>xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price more than 60 percent lower. The article SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</title>
+      <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
+      <guid isPermaLink="false">pepite-3daa30d9847f91f5</guid>
+      <pubDate>Wed, 12 Aug 2026 22:26:37 +0000</pubDate>
+      <category>models</category>
+      <description>Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials</title>
+      <link>https://discoveredmaterials.com/research/</link>
+      <guid isPermaLink="false">pepite-3c8b82679caf4940</guid>
+      <pubDate>Wed, 12 Aug 2026 07:51:20 +0000</pubDate>
+      <category>agents</category>
+      <description>Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ). We build AI agents that discover new materials for the semiconductor industry. GPUs today have a heat problem. Nvidia &amp; AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Blackwell… It's pulling 145pts/day — real momentum for something this new, not a one-day spike. Still under the radar (125pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation</title>
+      <link>https://woxi.ad-si.com</link>
+      <guid isPermaLink="false">pepite-04bfb8c1b6c5165e</guid>
+      <pubDate>Wed, 12 Aug 2026 10:06:29 +0000</pubDate>
+      <category>repos</category>
+      <description>Woxi is an interpreter for the Wolfram Language written in Rust. It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module. Compared with wolframscript / Mathematica, the main differences are: - Free and open source - Very fast startup - Typically… It's pulling 347pts/day — real momentum for something this new, not a one-day spike. Still under the radar (266pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>What sort of maths are LLMs good at?</title>
+      <link>https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</link>
+      <guid isPermaLink="false">pepite-53695e5041d535d4</guid>
+      <pubDate>Wed, 12 Aug 2026 10:04:25 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 319pts/day — real momentum for something this new, not a one-day spike. Still under the radar (245pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AMAP-ML/LongHorizon-Harness</title>
+      <link>https://github.com/AMAP-ML/LongHorizon-Harness</link>
+      <guid isPermaLink="false">pepite-ec22eec1fdb182e5</guid>
+      <pubDate>Tue, 04 Aug 2026 04:30:58 +0000</pubDate>
+      <category>repos</category>
+      <description>Usage · The Loop · Computer Use · Results · Project Website · 简体中文 LongHorizon-Harness turns existing agents into long-running computer-use systems. Across desktop apps and the terminal CLI, it continuously recovers the goal and verified state, selects the next bounded step, executes it with a fresh context, checks the actual result, and then checkpoints… It's pulling 72★/day — real momentum for something this new, not a one-day spike. Still under the radar (651★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>egoist/waku</title>
+      <link>https://github.com/egoist/waku</link>
+      <guid isPermaLink="false">pepite-debdb52cfda32038</guid>
+      <pubDate>Fri, 31 Jul 2026 09:38:33 +0000</pubDate>
+      <category>repos</category>
+      <description>Waku is a fast, native desktop app for working with local coding agents. It is built in Rust with GPUI and keeps projects, sessions, transcripts on your machine. Install and authenticate at least one supported agent CLI before starting Waku. Waku detects available CLIs automatically and uses each provider's native structured protocol and session continuity.… It's pulling 50★/day — real momentum for something this new, not a one-day spike. Still under the radar (643★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies</title>
+      <link>http://arxiv.org/abs/2608.12282v1</link>
+      <guid isPermaLink="false">pepite-4b5bc23b201ab767</guid>
+      <pubDate>Wed, 12 Aug 2026 17:27:27 +0000</pubDate>
+      <category>research</category>
+      <description>Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\textbf{V}aluating \textbf{A}PI and \textbf{K}nowledge \textbf{R}etrieval \textbf{A}gents), a benchmark of over $8{,}000$ executable APIs across $62$ domains with tasks… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization</title>
+      <link>http://arxiv.org/abs/2608.12158v1</link>
+      <guid isPermaLink="false">pepite-8fff931e3bc53555</guid>
+      <pubDate>Wed, 12 Aug 2026 15:20:29 +0000</pubDate>
+      <category>research</category>
+      <description>Multimodal large language models (MLLMs) have made rapid progress, yet they still exhibit object hallucination, generating plausible but incorrect descriptions that are inconsistent with the visual input. Direct Preference Optimization (DPO) mitigates this by training models to prefer non-hallucinated responses over hallucinated ones, and recent efforts… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ScreenShot: A Foundation Model for Few-Shot Combination Drug Screening</title>
+      <link>http://arxiv.org/abs/2608.12219v1</link>
+      <guid isPermaLink="false">pepite-e3c06580dfd56ba5</guid>
+      <pubDate>Wed, 12 Aug 2026 16:13:50 +0000</pubDate>
+      <category>research</category>
+      <description>Treating patients with combinations of drugs reduces the risk of resistance to any individual drug. Finding effective combinations is difficult because the large search space makes combinatorial screens prohibitively expensive, time consuming, and often technically infeasible. Predictive models can fill this gap, yet existing methods typically require… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DeepSeek V4 Pro 0813 (on OpenRouter)</title>
+      <link>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</link>
+      <guid isPermaLink="false">pepite-e28e8fba6612207c</guid>
+      <pubDate>Wed, 12 Aug 2026 23:59:23 +0000</pubDate>
+      <category>models</category>
+      <description>DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model. I haven't been able to confirm if they plan to release the open weights, but given the weights are available for both April's deepseek-ai/DeepSeek-V4-Pro… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>alchemy-utils 0.1a0</title>
+      <link>https://simonwillison.net/2026/Aug/12/alchemy-utils/</link>
+      <guid isPermaLink="false">pepite-e48e65b70f34db22</guid>
+      <pubDate>Wed, 12 Aug 2026 19:51:30 +0000</pubDate>
+      <category>models</category>
+      <description>Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked Codex and GPT-5.6 Sol Ultra with building a prototype: Do a research spike to see what it would take to build a library with the same core API as SQLite-utils -… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>How do you plan to run Qwen3.8-2.4T-A95B locally?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vmvpjc/how_do_you_plan_to_run_qwen3824ta95b_locally/</link>
+      <guid isPermaLink="false">pepite-240256b240b9e6c3</guid>
+      <pubDate>Thu, 13 Aug 2026 00:35:20 +0000</pubDate>
+      <category>models</category>
+      <description>To my fellow crazies, the few. Those who dared wrestle with llama-70b, mistral-large, goliath, mistral8x22B, DeepSeekV2/3, wept when llama4 behemoth was announced, picked yourself up and are now wrestling with DeepSeekV4Pro, GLM5.2, MiMoV2.5Pro and sometimes dare dream of KimiK3, well Qwen3.8-2.4T is here. Smaller than KimiK3, but looks like it might be… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>"But marinade" and leaked passwords are what researchers found in ChatGPT's hidden reasoning</title>
       <link>https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/</link>
       <guid isPermaLink="false">pepite-0a06fec6cc3275e5</guid>
@@ -1362,145 +1502,5 @@
       <description>Enterprise workflows increasingly rely on agents for \emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided extraction and, to our knowledge, the first to score value… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Zero-Mem: Zero-Token Memory Operations for LLM Agents</title>
-      <link>http://arxiv.org/abs/2607.29377v1</link>
-      <guid isPermaLink="false">pepite-7d4af580d0b15f6d</guid>
-      <pubDate>Fri, 31 Jul 2026 13:01:06 +0000</pubDate>
-      <category>research</category>
-      <description>LLM agents need memory to act consistently over long interactions, yet many systems use additional LLM calls to operate that memory. Generating intermediate records and mediating their retrieval adds recurring token and time costs, while omitted or merged details can obscure the original evidence. We ask whether structured memory access requires generation… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding</title>
-      <link>http://arxiv.org/abs/2607.29637v1</link>
-      <guid isPermaLink="false">pepite-81dedb024c75ff0f</guid>
-      <pubDate>Fri, 31 Jul 2026 17:15:51 +0000</pubDate>
-      <category>research</category>
-      <description>Rendering source code as images offers a promising way to reduce the input costs of Multimodal Large Language Models (MLLMs). Adjusting image resolution can trade visual token cost against content fidelity. However, resolution scaling alone overlooks two sources of inefficiency: blank regions created by line breaks and indentation, and code regions… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Quoting Greg Brockman</title>
-      <link>https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything</link>
-      <guid isPermaLink="false">pepite-270f796fc0b75ee3</guid>
-      <pubDate>Sat, 01 Aug 2026 22:29:44 +0000</pubDate>
-      <category>models</category>
-      <description>at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker. reinforces how much people care about human relationships and helping each other, and want AI to give time back — or enhance…
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>MiniMax-H3 now on huggingface</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ve1mvh/minimaxh3_now_on_huggingface/</link>
-      <guid isPermaLink="false">pepite-a5801404bbe8a2da</guid>
-      <pubDate>Mon, 03 Aug 2026 03:06:38 +0000</pubDate>
-      <category>models</category>
-      <description>MiniMax H3 is a general-purpose, omni-modal generative system. It supports unified understanding of multimodal contexts composed of text, images, video, and audio, and can generate video with native stereo audio at resolutions up to 2K and durations of up to 15 seconds. Thanks to its task-generalization-oriented system design, H3 already possesses broad… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>AI coding agents can modernize research software but can't judge if the science is right</title>
-      <link>https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/</link>
-      <guid isPermaLink="false">pepite-afb5f37bcb3bc6e3</guid>
-      <pubDate>Sat, 01 Aug 2026 14:26:28 +0000</pubDate>
-      <category>agents</category>
-      <description>A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are "eloquent, convincing, and confidently wrong in ways that are easy to miss," participants say. The effort shifts from writing code to the time-consuming work of verifying scientific correctness. The…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI announces its "next major model" Astra by dropping ten previously unsolved math solutions</title>
-      <link>https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/</link>
-      <guid isPermaLink="false">pepite-d4c08f5e7cc8d27c</guid>
-      <pubDate>Sat, 01 Aug 2026 09:29:49 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI is building a new model family called "Astra" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in Washington. OpenAI hasn't decided whether to release it as GPT-6 or a new GPT-5 variant. The article OpenAI announces its "next major model" Astra by dropping…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Sam Altman is still making the case for parenting via ChatGPT</title>
-      <link>https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/</link>
-      <guid isPermaLink="false">pepite-ba0eb6022ed8437e</guid>
-      <pubDate>Sat, 01 Aug 2026 17:07:34 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI's CEO seemed excited to share a "cool use case" for parents.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>AI keeps cracking unsolved math problems, and mathematicians have mixed feelings</title>
-      <link>https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/</link>
-      <guid isPermaLink="false">pepite-0fe27c3654b9387e</guid>
-      <pubDate>Sat, 01 Aug 2026 16:01:31 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt. He warns of the "possible destruction of mathematical culture" if mathematicians stop building the…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Explorative modeling: Train on the best of K guesses</title>
-      <link>https://alexiglad.github.io/blog/2026/explorative_modeling/</link>
-      <guid isPermaLink="false">pepite-5e3b0748d12cbb57</guid>
-      <pubDate>Sat, 01 Aug 2026 15:23:15 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 149pts/day — real momentum for something this new, not a one-day spike. Still under the radar (89pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]</title>
-      <link>https://philarchive.org/archive/NIEWTCv17</link>
-      <guid isPermaLink="false">pepite-114fed356ba4ede5</guid>
-      <pubDate>Sun, 02 Aug 2026 03:41:38 +0000</pubDate>
-      <category>other</category>
-      <description>It landed in the last few hours. It's pulling 358pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Don't credit the LLM</title>
-      <link>https://isaacsu.com/2026/08/dont-credit-the-llm/</link>
-      <guid isPermaLink="false">pepite-d9d887f197e5a741</guid>
-      <pubDate>Sun, 02 Aug 2026 04:07:46 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 335pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>sqliteai/waste</title>
-      <link>https://github.com/sqliteai/waste</link>
-      <guid isPermaLink="false">pepite-2ac95dc5179d9bd9</guid>
-      <pubDate>Tue, 28 Jul 2026 20:56:00 +0000</pubDate>
-      <category>repos</category>
-      <description>WASTE is an embeddable inference engine written in C, with no third-party runtime dependencies. It keeps the model trunk in memory, streams selected experts directly from disk, and uses the remaining RAM as a bounded expert cache. Its current proof point is the complete open-weights Kimi K3 model: 2.78 trillion parameters, converted into a 982 GiB container… It's pulling 164★/day — real momentum for something this new, not a one-day spike. Still under the radar (716★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>QwenAudio/qwen-audio-agent</title>
-      <link>https://github.com/QwenAudio/qwen-audio-agent</link>
-      <guid isPermaLink="false">pepite-7be54b8ada73efaa</guid>
-      <pubDate>Mon, 27 Jul 2026 05:04:26 +0000</pubDate>
-      <category>repos</category>
-      <description>真正的交流，不该在说完一句话后，就陷入漫长的等待。也不该因为 Agent 正在查资料、调用工具或处理任务，整场对话就此暂停。 所以，我们做了 qwen-audio-agent——让 Agent 持续交流、持续工作、持续在场的实时语音运行时。无论是聊天、思考，还是处理任务，Agent 都始终在这场对话里。它会倾听，会回应，也会在任务完成时自然地告诉你： 🚀 正式版发布，推出内置 Gateway 的 macOS 桌面版。 - 2026-07-28 · v0.9.0 🌍 项目正式开源，后台 Agent 统一接入 ACP 架构。 对话不会因为后台任务而停下；任务完成后，结果会自然回到当前对话：… It's pulling 243★/day — real momentum for something this new, not a one-day spike. Still under the radar (1465★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>July 2026 newsletter</title>
-      <link>https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything</link>
-      <guid isPermaLink="false">pepite-6ba596fa8fc25d6b</guid>
-      <pubDate>Sun, 02 Aug 2026 04:12:41 +0000</pubDate>
-      <category>agents</category>
-      <description>The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Accidental cyberattacks by OpenAl and Anthropic models under test GPT-5.6 Sol, Terra, and Luna Claude Opus 5 Kimi K3 and DeepSeek-V4-Flash-0731 Open letters about Al development A fireside chat and a… It landed in the last few hours.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
