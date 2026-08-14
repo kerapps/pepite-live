@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%</title>
+      <link>https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/</link>
+      <guid isPermaLink="false">pepite-bd251169f9f092de</guid>
+      <pubDate>Thu, 13 Aug 2026 18:41:52 +0000</pubDate>
+      <category>research</category>
+      <description>Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price. The article Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Writer introduces new AI model and upgraded harness to contain token costs</title>
+      <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
+      <guid isPermaLink="false">pepite-db3e778cea5d66ad</guid>
+      <pubDate>Thu, 13 Aug 2026 21:13:24 +0000</pubDate>
+      <category>models</category>
+      <description>Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed</title>
+      <link>https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/</link>
+      <guid isPermaLink="false">pepite-71f28f1b3fcc8fba</guid>
+      <pubDate>Thu, 13 Aug 2026 19:22:40 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Leutenegger/book-to-skill</title>
+      <link>https://github.com/Leutenegger/book-to-skill</link>
+      <guid isPermaLink="false">pepite-9c12da9ea6c35da7</guid>
+      <pubDate>Thu, 13 Aug 2026 13:15:23 +0000</pubDate>
+      <category>repos</category>
+      <description>Turn any technical book, document folder, or collection of sources into a unified agent skill — ready to study, reference, and use while you work in GitHub Copilot CLI, Amp, or Claude Code. 24×–51× fewer tokens than dumping the book into context to answer one question, measured on real books. book-to-skill &amp;lt;path-to-book.pdf&amp;gt; 1. Point it at a file,… It's pulling 1644★/day — real momentum for something this new, not a one-day spike. Still under the radar (1038★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>AI agents lie, cheat and steal. That is putting off users</title>
+      <link>https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users</link>
+      <guid isPermaLink="false">pepite-9f348cd1cae27dbf</guid>
+      <pubDate>Thu, 13 Aug 2026 13:28:45 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 254pts/day — real momentum for something this new, not a one-day spike. Still under the radar (158pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>elie222/rakazo</title>
+      <link>https://github.com/elie222/rakazo</link>
+      <guid isPermaLink="false">pepite-4cceb5e2f9e1e9ae</guid>
+      <pubDate>Thu, 13 Aug 2026 06:28:56 +0000</pubDate>
+      <category>repos</category>
+      <description>Open-source Grok Bot alternative, built with Cursor and Grok 4.6. Web, desktop, and mobile. Bring your own AI and sandbox. The product is still early (beta). Notable product changes are in CHANGELOG.md. Each bot has one thread, one computer, memory, routines, and history. A bot can also spawn more bots — each a regular peer with its own thread and computer… It's pulling 296★/day — real momentum for something this new, not a one-day spike. Still under the radar (271★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Launch HN: Bullet (YC S26) – A Faster Coding Agent</title>
+      <link>https://www.codewithbullet.com</link>
+      <guid isPermaLink="false">pepite-aac6a77b2ac3cf43</guid>
+      <pubDate>Thu, 13 Aug 2026 08:14:30 +0000</pubDate>
+      <category>agents</category>
+      <description>Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding agent. Bullet started in a senior year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure path to startup success. We were going to use our skills optimizing stock pricing calculation speeds and agent document context to take over the world. So,… It's pulling 105pts/day — real momentum for something this new, not a one-day spike. Still under the radar (89pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>US Navy sailors try to throw themselves overboard after 250 days at sea</title>
+      <link>https://www.telegraph.co.uk/world-news/2026/08/13/us-navy-sailors-jump-overboard-after-nine-months-at-sea/</link>
+      <guid isPermaLink="false">pepite-70bfa80a5712daa5</guid>
+      <pubDate>Thu, 13 Aug 2026 16:44:38 +0000</pubDate>
+      <category>other</category>
+      <description>It landed in the last few hours. It's pulling 82pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data</title>
+      <link>http://arxiv.org/abs/2608.13517v1</link>
+      <guid isPermaLink="false">pepite-879efcfda769b58c</guid>
+      <pubDate>Thu, 13 Aug 2026 17:37:53 +0000</pubDate>
+      <category>research</category>
+      <description>Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter language model based on the Hierarchical Reasoning Model (HRM) architecture, that is trained from scratch and delivers highly… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design</title>
+      <link>http://arxiv.org/abs/2608.13560v1</link>
+      <guid isPermaLink="false">pepite-55bdca2dbc68c7ac</guid>
+      <pubDate>Thu, 13 Aug 2026 17:59:57 +0000</pubDate>
+      <category>research</category>
+      <description>Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination</title>
+      <link>http://arxiv.org/abs/2608.13476v1</link>
+      <guid isPermaLink="false">pepite-9da9ed0b10768223</guid>
+      <pubDate>Thu, 13 Aug 2026 17:00:08 +0000</pubDate>
+      <category>finance</category>
+      <description>We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer generation, and evaluation, with explicit context passing and traceable intermediate outputs,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>llm-gemini 0.33</title>
+      <link>https://simonwillison.net/2026/Aug/13/llm-gemini/</link>
+      <guid isPermaLink="false">pepite-0d1d047935ed1c6f</guid>
+      <pubDate>Thu, 13 Aug 2026 19:37:34 +0000</pubDate>
+      <category>models</category>
+      <description>Release: llm-gemini 0.33 It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash , gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001 . The plugin is also upgraded for compatibility with LLM 0.32, which means you can now… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
+      <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
+      <guid isPermaLink="false">pepite-c1c988556190aa29</guid>
+      <pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
+      <category>agents</category>
+      <description>It landed in the last few hours.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus</title>
+      <link>https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/</link>
+      <guid isPermaLink="false">pepite-d8e6b45fe391f60b</guid>
+      <pubDate>Fri, 14 Aug 2026 03:09:45 +0000</pubDate>
+      <category>research</category>
+      <description>This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline—from dataset analysis and heuristic cleaning… It landed in the last few hours.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>[AINews] SpaceXAI Grok 4.6 and Grok @Bot</title>
       <link>https://www.latent.space/p/ainews-spacexai-grok-46-and-grok</link>
       <guid isPermaLink="false">pepite-e64c69cd1c8d9764</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Mon, 03 Aug 2026 16:42:54 +0000</pubDate>
       <category>research</category>
       <description>Audio-driven video generation (A2V) has achieved promising progress in synthesizing temporally coherent and audio-visually aligned videos, yet its inference remains expensive due to the iterative denoising process of diffusion models. Existing caching methods mainly exploit temporal redundancy in visual features while overlooking the cross-modal alignment… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States</title>
-      <link>http://arxiv.org/abs/2608.02508v1</link>
-      <guid isPermaLink="false">pepite-b6b1834f68f24814</guid>
-      <pubDate>Mon, 03 Aug 2026 17:07:50 +0000</pubDate>
-      <category>research</category>
-      <description>Learning-based memory systems for self-evolving LLM agents face two tightly coupled challenges. First, trajectory-indexed utilities grow with the interaction history, thereby dispersing limited feedback over an ever-expanding state space. Second, because trajectory-level rewards are jointly assigned to co-retrieved memories, irrelevant experiences may… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Quoting Steve Yegge</title>
-      <link>https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything</link>
-      <guid isPermaLink="false">pepite-077af0e958a7f3c7</guid>
-      <pubDate>Tue, 04 Aug 2026 00:42:45 +0000</pubDate>
-      <category>agents</category>
-      <description>Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the "just two more things" tic, which prevented Opus from ever converging on being ready to do real work—it always wanted to fiddle with Gas… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Don't be a meat proxy</title>
-      <link>https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything</link>
-      <guid isPermaLink="false">pepite-2c11071748b5359d</guid>
-      <pubDate>Mon, 03 Aug 2026 23:45:04 +0000</pubDate>
-      <category>models</category>
-      <description>Don't be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But don't just relay the output. Read it, understand it, validate it, and then write a response in your own words (a decent certificate that you've done the prior steps). Making… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web</title>
-      <link>https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/</link>
-      <guid isPermaLink="false">pepite-be6e58b152432988</guid>
-      <pubDate>Tue, 04 Aug 2026 04:17:18 +0000</pubDate>
-      <category>agents</category>
-      <description>Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox. Pi, OpenCode,… It landed in the last few hours.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>OpenAI Presence wants to make AI agents production-ready for businesses</title>
-      <link>https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/</link>
-      <guid isPermaLink="false">pepite-0ed2d2ff9e3fb37b</guid>
-      <pubDate>Sun, 02 Aug 2026 13:10:21 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external deployments. For complex cases, OpenAI's own engineers step in. The article OpenAI Presence wants to make AI agents production-ready for businesses appeared…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Meta AI uses a second AI agent as a memory coach to keep long tasks on track</title>
-      <link>https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/</link>
-      <guid isPermaLink="false">pepite-119eed93eb7fab22</guid>
-      <pubDate>Sun, 02 Aug 2026 12:57:38 +0000</pubDate>
-      <category>research</category>
-      <description>Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent maintains a structured memory bank and decides when to remind the main agent and when to stay silent. The system improved scores by up to 8.3 percentage points across two benchmarks. The article Meta AI…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior</title>
-      <link>https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/</link>
-      <guid isPermaLink="false">pepite-f6214c12bcb13dbb</guid>
-      <pubDate>Sun, 02 Aug 2026 07:33:17 +0000</pubDate>
-      <category>agents</category>
-      <description>Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions. The push comes partly in response to the Hugging Face hack carried out by OpenAI models. METR's own Frontier Risk Report documented 44 such incidents across all major AI companies, including sandbox…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI's super PAC is funding AI-generated news site attacking industry critics</title>
-      <link>https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda</link>
-      <guid isPermaLink="false">pepite-5515cf870e86553d</guid>
-      <pubDate>Mon, 03 Aug 2026 02:30:30 +0000</pubDate>
-      <category>finance</category>
-      <description>It landed in the last few hours. It's pulling 839pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Sprocket – The Best AI Agent for Hardware and Software Development</title>
-      <link>https://sprocket-demo.spikonado.com</link>
-      <guid isPermaLink="false">pepite-813523eaea138470</guid>
-      <pubDate>Sun, 02 Aug 2026 16:26:19 +0000</pubDate>
-      <category>agents</category>
-      <description>Hey HN, I am 16y/o and have been working on Sprocket for a while. It's an open-source AI agent that beats every other agent out there at both hardware and software. And here's the best part: Sprocket can (on its own) buy anything from any website when you tell it to do so. From hardware parts to SaaS subscriptions. Sprocket retrieves best-in-class context… It's pulling 218pts/day — real momentum for something this new, not a one-day spike. Still under the radar (123pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Bor – Open-source policy management for Linux desktops</title>
-      <link>https://getbor.dev/blog/2026-08-02-bor-v080-release/</link>
-      <guid isPermaLink="false">pepite-c958b21b6eb611db</guid>
-      <pubDate>Sun, 02 Aug 2026 09:06:33 +0000</pubDate>
-      <category>agents</category>
-      <description>Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management. Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming. Version 0.8 introduces… It's pulling 199pts/day — real momentum for something this new, not a one-day spike. Still under the radar (173pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>FareedKhan-dev/kimi-k3-in-c</title>
-      <link>https://github.com/FareedKhan-dev/kimi-k3-in-c</link>
-      <guid isPermaLink="false">pepite-f6608baff6918a6d</guid>
-      <pubDate>Sat, 01 Aug 2026 09:29:38 +0000</pubDate>
-      <category>repos</category>
-      <description>A 2.78-trillion-parameter model. One CPU. 8 GB of RAM. Kimi K3 inference in portable C99. No BLAS. No framework. No GPU. 1.56 TB checkpoint on disk 8.24 GB peak RSS, measured 176 KB the whole engine 0 GPUs Slow, and answering correctly, in 8.24 GB, from a checkpoint of 1.56 TB. This is a base model, so what follows " Paris." is a continuation rather than a… It's pulling 210★/day — real momentum for something this new, not a one-day spike. Still under the radar (390★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Anionex/codex-vision-proxy</title>
-      <link>https://github.com/Anionex/codex-vision-proxy</link>
-      <guid isPermaLink="false">pepite-8c0ccb123d8d1b54</guid>
-      <pubDate>Sat, 01 Aug 2026 10:00:13 +0000</pubDate>
-      <category>repos</category>
-      <description>formerly codex-deepseek-vision If your Codex is already connected to DeepSeek, but you're frustrated that the model has no multimodal ability — it can't see images, and every attempt to look at an image is blocked by the system — this repository offers a way to let a text-only model call Codex's built-in viewimage without errors. Instead of failing, it… It's pulling 116★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>condense-json 1.0</title>
-      <link>https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything</link>
-      <guid isPermaLink="false">pepite-52fa0518bee102d3</guid>
-      <pubDate>Sun, 02 Aug 2026 22:19:59 +0000</pubDate>
-      <category>repos</category>
-      <description>Release: condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's an example of what it can do, lifted from the README: { "foo" : { "bar" : { "string" : " This is a string with foxes in it " , "nested" :… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction</title>
-      <link>http://arxiv.org/abs/2607.29677v1</link>
-      <guid isPermaLink="false">pepite-2be1268d182dfdb7</guid>
-      <pubDate>Fri, 31 Jul 2026 17:55:58 +0000</pubDate>
-      <category>finance</category>
-      <description>Enterprise workflows increasingly rely on agents for \emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided extraction and, to our knowledge, the first to score value… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
