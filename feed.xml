@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
+      <link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</link>
+      <guid isPermaLink="false">pepite-7086513972fc7e6b</guid>
+      <pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
+      <category>models</category>
+      <description>How will the watermarking actually work? Can it be hidden with editing? And how does this affect code? It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings</title>
+      <link>https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/</link>
+      <guid isPermaLink="false">pepite-c3e8135aa0d72056</guid>
+      <pubDate>Sat, 15 Aug 2026 15:41:02 +0000</pubDate>
+      <category>finance</category>
+      <description>Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion in a single quarter. The article Investor pressure forces Nvidia to… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</title>
+      <link>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</link>
+      <guid isPermaLink="false">pepite-d8cebe97b9a5af38</guid>
+      <pubDate>Sat, 15 Aug 2026 21:29:19 +0000</pubDate>
+      <category>models</category>
+      <description>The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse." It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue</title>
+      <link>https://www.latent.space/p/flue-2</link>
+      <guid isPermaLink="false">pepite-8e7673c9b915a39e</guid>
+      <pubDate>Sat, 15 Aug 2026 15:46:22 +0000</pubDate>
+      <category>agents</category>
+      <description>Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>New benchmark confirms AI models still perform poorly at visual perception</title>
+      <link>https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/</link>
+      <guid isPermaLink="false">pepite-b0484f8b80b050c7</guid>
+      <pubDate>Sat, 15 Aug 2026 05:30:18 +0000</pubDate>
+      <category>research</category>
+      <description>Moonshot AI's PerceptionBench tests how well multimodal AI models can actually "see," separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually happen as early as the image-reading stage. The article New benchmark confirms AI models still perform poorly…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Israeli PR wants to answer your ChatGPT questions</title>
+      <link>https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138</link>
+      <guid isPermaLink="false">pepite-22e3e6ef680fdb47</guid>
+      <pubDate>Sat, 15 Aug 2026 19:26:33 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 170pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
+      <link>https://chenxiachan.github.io/thoughtdag/</link>
+      <guid isPermaLink="false">pepite-20ead19486323023</guid>
+      <pubDate>Sat, 15 Aug 2026 04:42:07 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 119pts/day — real momentum for something this new, not a one-day spike. Still under the radar (113pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Yadda 3.0.0: BDD in the Age of AI Agents</title>
+      <link>http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</link>
+      <guid isPermaLink="false">pepite-e92e8d22be1bb7ef</guid>
+      <pubDate>Sat, 15 Aug 2026 13:43:46 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 99pts/day — real momentum for something this new, not a one-day spike. Still under the radar (57pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>NousResearch/Hermes-Bot-Mode</title>
+      <link>https://github.com/NousResearch/Hermes-Bot-Mode</link>
+      <guid isPermaLink="false">pepite-a864dc4cecceb1d4</guid>
+      <pubDate>Thu, 13 Aug 2026 16:40:20 +0000</pubDate>
+      <category>repos</category>
+      <description>A desktop-app plugin for Hermes Agent (installs where the desktop app runs — see Install) that turns your agent profiles into a roster of named bots — each with its own chat, avatar, personality, and schedule. A bot is a Hermes profile — isolated config, memory, skills, credentials, and chat history under ~/.hermes/profiles/ /. This plugin is a UI over that… It's pulling 207★/day — real momentum for something this new, not a one-day spike. Still under the radar (508★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Anionex/agent-vision-toolkit</title>
+      <link>https://github.com/Anionex/agent-vision-toolkit</link>
+      <guid isPermaLink="false">pepite-539053e4db435867</guid>
+      <pubDate>Sat, 01 Aug 2026 10:00:13 +0000</pubDate>
+      <category>repos</category>
+      <description>🎯 An agent's vision capability doesn't have to live in the model — it can live in the harness. If your agent already runs on a text-only model such as DeepSeek but is held back by the lack of multimodality — unable to see images, with every attempt to use an image tool blocked by the system — this repository provides tools, skills, and proxy integrations… It's pulling 61★/day — real momentum for something this new, not a one-day spike. Still under the radar (912★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>CORS Chat</title>
+      <link>https://simonwillison.net/2026/Aug/15/cors-chat/</link>
+      <guid isPermaLink="false">pepite-e25d8c268c6a65ab</guid>
+      <pubDate>Sat, 15 Aug 2026 14:49:54 +0000</pubDate>
+      <category>models</category>
+      <description>Tool: CORS Chat I built this today ( with GPT-5.6-Sol xhigh ) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine. Conversations are…
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Building an AI Text Detector From Scratch</title>
+      <link>https://magazine.sebastianraschka.com/p/ai-detector-from-scratch</link>
+      <guid isPermaLink="false">pepite-53ddef6230f10e58</guid>
+      <pubDate>Sat, 15 Aug 2026 11:54:24 +0000</pubDate>
+      <category>research</category>
+      <description>An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR
+
+— via Sebastian Raschka</description>
+    </item>
+    <item>
+      <title>Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ</title>
+      <link>http://arxiv.org/abs/2608.13441v1</link>
+      <guid isPermaLink="false">pepite-1676894e015c58cf</guid>
+      <pubDate>Thu, 13 Aug 2026 16:27:18 +0000</pubDate>
+      <category>research</category>
+      <description>Although multimodal large language models (MLLMs) have shown substantial potential in visual understanding and graphic code generation, editing scientific figures through code presents a greater challenge: a model must jointly recover visual structure, ground the requested change, generate compilable code, and preserve all unrelated content. While existing… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/</link>
+      <guid isPermaLink="false">pepite-5b8d6b17cd39c5ca</guid>
+      <pubDate>Sun, 16 Aug 2026 00:45:04 +0000</pubDate>
+      <category>agents</category>
+      <description>one of my llm hobbies is re-creating graphics demos i used to write in BASIC in the late 1980s. i slopped together an agentic harness and a basic-to-js transpiler in a web page i've been playing with for a few months. the agent can write basic programs, run them, examine the resulting images, and iterate. qwen3.6 could do a ray-tracer with some user input… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach</title>
       <link>https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/</link>
       <guid isPermaLink="false">pepite-88f400c021bed710</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 05 Aug 2026 17:59:44 +0000</pubDate>
       <category>research</category>
       <description>Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, logic, planning, state tracking, formal languages, structured data, games, causality, and code, with semantic scorers,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>HelloWorld: Enabling Socially Interactive Characters in Video World Models</title>
-      <link>http://arxiv.org/abs/2608.05070v1</link>
-      <guid isPermaLink="false">pepite-bbf0e121be970a99</guid>
-      <pubDate>Wed, 05 Aug 2026 17:14:19 +0000</pubDate>
-      <category>research</category>
-      <description>Despite the remarkable recent progress of video world models, social interaction between users and the characters within these worlds remains unsupported. To fill this gap, we present HelloWorld, a video world model that enables social interaction with in-world characters. With a single button press, users can prompt the on-screen character to respond… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>An AI model from Meta also hacked another company during testing</title>
-      <link>https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything</link>
-      <guid isPermaLink="false">pepite-d2fb2935a82463fb</guid>
-      <pubDate>Thu, 06 Aug 2026 00:25:27 +0000</pubDate>
-      <category>finance</category>
-      <description>An AI model from Meta also hacked another company during testing Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Incident Report: unsanctioned agent behaviour during cyber testing</title>
-      <link>https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything</link>
-      <guid isPermaLink="false">pepite-620c2c09d29255e0</guid>
-      <pubDate>Wed, 05 Aug 2026 23:32:06 +0000</pubDate>
-      <category>finance</category>
-      <description>Incident Report: unsanctioned agent behaviour during cyber testing It happened again . This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the safety filters turned off. From their technical paper (PDF): During a cyber evaluation, from 25 to 28 July 2026, AI agents… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses</title>
-      <link>https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/</link>
-      <guid isPermaLink="false">pepite-d564666ccfe03c6c</guid>
-      <pubDate>Thu, 06 Aug 2026 00:37:42 +0000</pubDate>
-      <category>agents</category>
-      <description>Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention… It landed in the last few hours.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>[AINews] Megakernels are so dead and so back</title>
-      <link>https://www.latent.space/p/ainews-megakernels-are-so-dead-and</link>
-      <guid isPermaLink="false">pepite-c4ef08c8c3fb6e3f</guid>
-      <pubDate>Wed, 05 Aug 2026 01:21:47 +0000</pubDate>
-      <category>agents</category>
-      <description>A quiet day lets us highlight a Cursor launch and an engineering debate It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress</title>
-      <link>https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/</link>
-      <guid isPermaLink="false">pepite-30e8185e86cb5876</guid>
-      <pubDate>Tue, 04 Aug 2026 19:28:49 +0000</pubDate>
-      <category>agents</category>
-      <description>The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Open-weight AI models are catching up to the frontier. The safety gap remains.</title>
-      <link>https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/</link>
-      <guid isPermaLink="false">pepite-167f98deda50e7bd</guid>
-      <pubDate>Tue, 04 Aug 2026 20:05:26 +0000</pubDate>
-      <category>models</category>
-      <description>A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: Fine-tune an 8B model on a 4 GB laptop GPU</title>
-      <link>https://github.com/MakazhanAlpamys/Soup</link>
-      <guid isPermaLink="false">pepite-6c88cdf1f739b7b9</guid>
-      <pubDate>Tue, 04 Aug 2026 11:17:57 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 164pts/day — real momentum for something this new, not a one-day spike. Still under the radar (125pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>I am retiring from fulltime writing (&amp; pseudonymity) to launch Guardian Angel</title>
-      <link>https://twitter.com/gwern/status/2084739205071343837</link>
-      <guid isPermaLink="false">pepite-1f1218af98d5f218</guid>
-      <pubDate>Tue, 04 Aug 2026 20:48:17 +0000</pubDate>
-      <category>other</category>
-      <description>https://twitter.com/willdepue/status/2084750925013434768 , https://xcancel.com/willdepue/status/2084750925013434768 https://gwern.net/guardian-angel It landed in the last few hours. It's pulling 646pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research</title>
-      <link>https://edotenv.com/</link>
-      <guid isPermaLink="false">pepite-87b2552162bd8802</guid>
-      <pubDate>Tue, 04 Aug 2026 18:36:02 +0000</pubDate>
-      <category>research</category>
-      <description>We are Rui and Michael and we’re building EdotEnv ( https://edotenv.com ): self-improving RL environments from Quant Trading workflows. With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has… It landed in the last few hours. It's pulling 72pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>MemTensor/memmy-agent</title>
-      <link>https://github.com/MemTensor/memmy-agent</link>
-      <guid isPermaLink="false">pepite-2dec1c29fe4c9328</guid>
-      <pubDate>Thu, 16 Jul 2026 07:57:45 +0000</pubDate>
-      <category>repos</category>
-      <description>Get Memmy from Official Website or GitHub Release. Sign up to get free tokens. Model routing is automatic — start exploring the full Memory + Agent Runtime with zero config. Every AI session generates context. Most of it gets thrown away. Switch agents, close a tab, start a new session, and you're re-introducing yourself from scratch. With a unified memory… It's pulling 28★/day — real momentum for something this new, not a one-day spike. Still under the radar (568★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>NVIDIA-NeMo/labs-OO-Agents</title>
-      <link>https://github.com/NVIDIA-NeMo/labs-OO-Agents</link>
-      <guid isPermaLink="false">pepite-dedb09e67287b21d</guid>
-      <pubDate>Mon, 20 Jul 2026 15:48:25 +0000</pubDate>
-      <category>repos</category>
-      <description>A Pythonic way to build AI agents. NVIDIA-labs OO Agents (NOOA) is a model-agnostic Python framework designed to support reliable AI agent development. Many agent frameworks represent prompts, tools, callbacks, and workflows as separate abstractions. NOOA offers an alternative object-oriented interface that brings these concepts together in a Python class.… It's pulling 54★/day — real momentum for something this new, not a one-day spike. Still under the radar (842★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent</title>
-      <link>http://arxiv.org/abs/2608.03979v1</link>
-      <guid isPermaLink="false">pepite-b615ad6b89f54fbd</guid>
-      <pubDate>Tue, 04 Aug 2026 17:45:16 +0000</pubDate>
-      <category>finance</category>
-      <description>We introduce Video-DeepResearch (Video-DR), extending multimodal agents from static images to continuous video streams, a setting that demands dense spatiotemporal grounding coupled with open-web exploration. Preliminary evaluations reveal two critical bottlenecks in current models: (1) modality bias, where agents bypass visual tools in favor of textual… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs</title>
-      <link>http://arxiv.org/abs/2608.04010v1</link>
-      <guid isPermaLink="false">pepite-c2b280409ddb9b7a</guid>
-      <pubDate>Tue, 04 Aug 2026 17:59:58 +0000</pubDate>
-      <category>finance</category>
-      <description>Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computation allocation between the Vision Transformer and the Large Language Model… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
