@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Top mathematicians say LLMs are strong calculators but poor creative thinkers</title>
+      <link>https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/</link>
+      <guid isPermaLink="false">pepite-9fc930c398fd5847</guid>
+      <pubDate>Sun, 16 Aug 2026 15:31:21 +0000</pubDate>
+      <category>models</category>
+      <description>Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas. The article Top mathematicians say LLMs are strong calculators but poor creative thinkers appeared first on The Decoder . It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups</title>
+      <link>https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/</link>
+      <guid isPermaLink="false">pepite-9c0a8fdd2f98eaaf</guid>
+      <pubDate>Sun, 16 Aug 2026 08:12:52 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI shut down its "Preparedness" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a "burbling sense of responsibility and dread" that OpenAI isn't doing enough on…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’</title>
+      <link>https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/</link>
+      <guid isPermaLink="false">pepite-d6cf8a00384c7939</guid>
+      <pubDate>Sun, 16 Aug 2026 16:53:51 +0000</pubDate>
+      <category>other</category>
+      <description>Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee</title>
+      <link>https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</link>
+      <guid isPermaLink="false">pepite-d0ae2d05b3215139</guid>
+      <pubDate>Sun, 16 Aug 2026 21:07:10 +0000</pubDate>
+      <category>other</category>
+      <description>It landed in the last few hours. It's pulling 505pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>MathCode, Mathematical Coding Agent</title>
+      <link>https://math-ai-org.github.io/mathcode/</link>
+      <guid isPermaLink="false">pepite-c2c6d02b1e7097a3</guid>
+      <pubDate>Sun, 16 Aug 2026 18:17:10 +0000</pubDate>
+      <category>agents</category>
+      <description>It landed in the last few hours. It's pulling 187pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Ask HN: Do you know of any company that went back to hand-written code?</title>
+      <link>https://news.ycombinator.com/item?id=49318906</link>
+      <guid isPermaLink="false">pepite-afe6d06eb52b3159</guid>
+      <pubDate>Sun, 16 Aug 2026 11:05:47 +0000</pubDate>
+      <category>models</category>
+      <description>This is intended as a question about the current phase of the LLM hype cycle, and, at the same time, as a reality check about whether reluctance to rely on LLMs is economically viable for an average developer. You've definitely seen that many companies progressed from "use LLMs for anything and everything" policies to limiting budgets and scopes of approved… It's pulling 137pts/day — real momentum for something this new, not a one-day spike. Still under the radar (94pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Anionex/dsh-vision-toolkit</title>
+      <link>https://github.com/Anionex/dsh-vision-toolkit</link>
+      <guid isPermaLink="false">pepite-d46784a257bd2070</guid>
+      <pubDate>Thu, 13 Aug 2026 12:36:34 +0000</pubDate>
+      <category>repos</category>
+      <description>🚀 Paste an image and ask directly | Install with one command | Built-in free vision | Broad use cases If you use DeepSeek or another text-only model in DeepSeek Harness (DSH), you may have run into the same problems: the model cannot see a screenshot, generic descriptions miss the point, buttons have no usable coordinates, and a rebuilt page can look “close… It's pulling 151★/day — real momentum for something this new, not a one-day spike. Still under the radar (550★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>fuxicodex/Fuxi</title>
+      <link>https://github.com/fuxicodex/Fuxi</link>
+      <guid isPermaLink="false">pepite-78c6a8ca7fe6ba71</guid>
+      <pubDate>Tue, 04 Aug 2026 07:32:11 +0000</pubDate>
+      <category>repos</category>
+      <description>FuXi is a fast, self-contained AI developer terminal: read code, edit files, run commands, and drive tools from a rich TUI, with cost-aware routing across many LLM providers and automatic failover. One static binary, no runtime dependencies. Homepage: https://www.fuxicode.com questions; FuXi turns it into a worker — reasoning, acting on your real codebase,… It's pulling 59★/day — real momentum for something this new, not a one-day spike. Still under the radar (760★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</title>
+      <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
+      <guid isPermaLink="false">pepite-81603460e9838e67</guid>
+      <pubDate>Sun, 16 Aug 2026 22:00:39 +0000</pubDate>
+      <category>research</category>
+      <description>Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening.… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Why people aren’t buying Mark Zuckerberg’s AI future</title>
+      <link>https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/</link>
+      <guid isPermaLink="false">pepite-25e650ae358e19b6</guid>
+      <pubDate>Sun, 16 Aug 2026 20:32:01 +0000</pubDate>
+      <category>other</category>
+      <description>On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>A Survey of Large Models in Sports</title>
+      <link>http://arxiv.org/abs/2608.14377v1</link>
+      <guid isPermaLink="false">pepite-35bb6894bac73a3d</guid>
+      <pubDate>Fri, 14 Aug 2026 15:17:54 +0000</pubDate>
+      <category>research</category>
+      <description>Sports have witnessed growing global enthusiasm in recent years, serving as a vital force for physical health, cultural exchange, social connection, and economic growth. The rapid advancement of large models, particularly (multimodal) large language models (M)LLMs, has demonstrated transformative potential to reshape sports understanding, analysis, and… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Envs-FORGE: Frontier-Optimized Reward-Grounded Environment Synthesis for Agent RL</title>
+      <link>http://arxiv.org/abs/2608.14312v1</link>
+      <guid isPermaLink="false">pepite-825d1b3ef1f1a779</guid>
+      <pubDate>Fri, 14 Aug 2026 13:54:22 +0000</pubDate>
+      <category>research</category>
+      <description>Reinforcement learning (RL) for terminal agents needs executable training environments with reliable rewards and useful difficulty. Fixed recipes such as few-shot, Self-Instruct, and Evol-Instruct apply the same prompting policy to every seed, even when the current policy would benefit from a harder, easier, or simply different task. We present Envs-FORGE,… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments</title>
+      <link>http://arxiv.org/abs/2608.14441v1</link>
+      <guid isPermaLink="false">pepite-1e159e918342a0a8</guid>
+      <pubDate>Fri, 14 Aug 2026 16:25:43 +0000</pubDate>
+      <category>finance</category>
+      <description>Self-evolving agents improve future behavior from interaction experience, yet existing evaluations typically optimize under fixed execution conditions and do not test recovery after those conditions change. To address this gap, we introduce PACE-Bench (Physics Adaptation via Code Evolution), a simulator-grounded benchmark of 144 source-to-target adaptation… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>I just ran Qwen 3.8 27 in Q4 against GPT 5.6 Sol high - and it easily won against SOL - complex animated SVG tasks</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vqfyr6/i_just_ran_qwen_38_27_in_q4_against_gpt_56_sol/</link>
+      <guid isPermaLink="false">pepite-82ab42a76cb79cbc</guid>
+      <pubDate>Mon, 17 Aug 2026 02:35:31 +0000</pubDate>
+      <category>models</category>
+      <description>I created 3 SVG prompts, each one rather hard. Perspective : A animated drone view perspective on a park. Beauty : A beach scene with an evil cat Composition : An AGI breaking out of a virtual sandbox prison in a lab I deliberately ran Qwen 3.8 27B in just 4 bit quantization, and used a 8 bit KV cache (given the hard long context reasoning required I didn't… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
       <link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</link>
       <guid isPermaLink="false">pepite-7086513972fc7e6b</guid>
@@ -1362,145 +1502,5 @@
       <description>A curated, categorized directory of open-source AI agent skills for growth hacking, marketing execution, and revenue operations. This collection focuses on Agentic Growth Hacking—leveraging AI agents (like Claude Code, Cursor, and OpenClaw) to scale go-to-market workflows, discover attention loopholes, and execute at machine speed. Broad, multi-discipline… It's pulling 265★/day — real momentum for something this new, not a one-day spike. Still under the radar (630★) — early enough to be worth a look before everyone piles in.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer</title>
-      <link>http://arxiv.org/abs/2608.06347v1</link>
-      <guid isPermaLink="false">pepite-21265820e4bc692f</guid>
-      <pubDate>Thu, 06 Aug 2026 17:52:06 +0000</pubDate>
-      <category>research</category>
-      <description>Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a promising paradigm, providing dense token-level supervision on student-generated rollouts, yet their objectives do not explicitly prioritize… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Learning When to Trust via Selective Context Preference Optimization</title>
-      <link>http://arxiv.org/abs/2608.06377v1</link>
-      <guid isPermaLink="false">pepite-540bae968adb2800</guid>
-      <pubDate>Thu, 06 Aug 2026 17:59:58 +0000</pubDate>
-      <category>research</category>
-      <description>Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images</title>
-      <link>http://arxiv.org/abs/2608.06270v1</link>
-      <guid isPermaLink="false">pepite-5ded8ff38d03e84c</guid>
-      <pubDate>Thu, 06 Aug 2026 17:01:08 +0000</pubDate>
-      <category>research</category>
-      <description>The "thinking-with-images" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant regions and fail on questions that direct inference answers… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>EschaLabs/Qwen3.6-35B-A3B-Escha-W2 · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vhqihc/eschalabsqwen3635ba3beschaw2_hugging_face/</link>
-      <guid isPermaLink="false">pepite-e77923069e2dd2be</guid>
-      <pubDate>Fri, 07 Aug 2026 04:23:49 +0000</pubDate>
-      <category>research</category>
-      <description>Hey peeps. I know you're tired of low quants giving hard to believe numbers. I'm quite skeptical too and from what I tried I'm often left with the impression that the claims fall short. So this model popped up on Twitter for me. Tried it and was lowkey surprised it held its own. I ran some benchmarks with the help of antigravity to at least try to verify it… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Anthropic’s AI used fake identities, malware in rogue attack on GitHub project</title>
-      <link>https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/</link>
-      <guid isPermaLink="false">pepite-bc744f4512ecabb6</guid>
-      <pubDate>Wed, 05 Aug 2026 20:47:11 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests. It landed in the last few hours.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders</title>
-      <link>https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/</link>
-      <guid isPermaLink="false">pepite-f8b2b7a3d4cdbca1</guid>
-      <pubDate>Wed, 05 Aug 2026 20:05:00 +0000</pubDate>
-      <category>finance</category>
-      <description>The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Mistral's open model Shieldstral matches much larger safety models at a fraction of the size</title>
-      <link>https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/</link>
-      <guid isPermaLink="false">pepite-84f2555362cc4bfa</guid>
-      <pubDate>Wed, 05 Aug 2026 16:35:07 +0000</pubDate>
-      <category>research</category>
-      <description>Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rely on a third party's category system, and the model can run locally. The…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>LLMs won't break symmetric crypto</title>
-      <link>https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto</link>
-      <guid isPermaLink="false">pepite-9d36c88f865ecacd</guid>
-      <pubDate>Thu, 06 Aug 2026 01:39:06 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 367pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Beating GPT-5.6 Sol on retrieval with 100x cheaper open models</title>
-      <link>https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency</link>
-      <guid isPermaLink="false">pepite-089f2ff121e425e1</guid>
-      <pubDate>Wed, 05 Aug 2026 18:18:56 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 571pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Binaryify/open-kimi-ppt-skill</title>
-      <link>https://github.com/Binaryify/open-kimi-ppt-skill</link>
-      <guid isPermaLink="false">pepite-d71b71590648fa33</guid>
-      <pubDate>Wed, 05 Aug 2026 07:30:56 +0000</pubDate>
-      <category>repos</category>
-      <description>逆向 Kimi Slides 实现的非官方演示文稿 Skill：让 AI Coding Agent 能够创建、编辑、复刻、读取并导出 PPT/PPTX。每次生成默认同时交付两份成果：可继续编辑的 PPTD 项目和开箱即用的 PPTX 成品（自动嵌入字体、写入淡入淡出切换动画），并提供本地在线 PPTD 编辑器支持随时手动导出。支持 Codex、Claude Code、Cursor、WorkBuddy 等任何兼容 SKILL.md 规范的 Agent。 直接对 AI 说下面任意一句，让 Agent 帮你装： 装完后一般无需再手动执行 npx ... install。 仅当你的 Agent 不识别 ~/.agents/skills、必须装到专属目录时，才加 --target（以下为 macOS /… It's pulling 887★/day — real momentum for something this new, not a one-day spike. Still under the radar (815★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Born Against, or why hobby programming communities are against LLM usage</title>
-      <link>https://blog.fogus.me/llm/born-against.html</link>
-      <guid isPermaLink="false">pepite-0767def280ef2007</guid>
-      <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 408pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Accio-Lab/RealReplicaBench</title>
-      <link>https://github.com/Accio-Lab/RealReplicaBench</link>
-      <guid isPermaLink="false">pepite-83e18fca1e0d7f27</guid>
-      <pubDate>Sun, 02 Aug 2026 05:38:38 +0000</pubDate>
-      <category>repos</category>
-      <description>Developed and maintained by the Accio team at Alibaba International. We run models on request, including pre-release and internal builds — and we are open to working together on the benchmark. RealReplicaBench evaluates whether an agent can complete long-horizon business workflows, not just answer questions about them. Tasks cover browser operations,… It's pulling 255★/day — real momentum for something this new, not a one-day spike. Still under the radar (1022★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning</title>
-      <link>http://arxiv.org/abs/2608.05139v1</link>
-      <guid isPermaLink="false">pepite-6757b66d846859ae</guid>
-      <pubDate>Wed, 05 Aug 2026 17:57:16 +0000</pubDate>
-      <category>finance</category>
-      <description>Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill long-horizon tasks: multi-step tasks whose steps require different reasoning skills and depend on earlier outputs. Existing… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training</title>
-      <link>http://arxiv.org/abs/2608.05148v1</link>
-      <guid isPermaLink="false">pepite-ef37411423ae2ac4</guid>
-      <pubDate>Wed, 05 Aug 2026 17:59:44 +0000</pubDate>
-      <category>research</category>
-      <description>Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, logic, planning, state tracking, formal languages, structured data, games, causality, and code, with semantic scorers,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
