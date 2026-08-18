@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Stripe buys OpenRouter for $7B</title>
+      <link>https://www.latent.space/p/ainews-stripe-buys-openrouter-for</link>
+      <guid isPermaLink="false">pepite-6aefefd8f930c8a3</guid>
+      <pubDate>Mon, 17 Aug 2026 23:13:41 +0000</pubDate>
+      <category>finance</category>
+      <description>No GPUs, no Agents, just really, really, really good infra and distribution. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Anthropic’s annualized revenue surges to $65B</title>
+      <link>https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/</link>
+      <guid isPermaLink="false">pepite-bee5424cbe19e52c</guid>
+      <pubDate>Mon, 17 Aug 2026 23:56:26 +0000</pubDate>
+      <category>models</category>
+      <description>The model maker added $18 billion in annualized revenue in two months. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Amazon, which started off selling books, is destroying rare texts to train AI</title>
+      <link>https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/</link>
+      <guid isPermaLink="false">pepite-966ff312c3d31c89</guid>
+      <pubDate>Mon, 17 Aug 2026 16:38:44 +0000</pubDate>
+      <category>models</category>
+      <description>Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Groq raises $350M to fuel its pivot from AI chips to neocloud</title>
+      <link>https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/</link>
+      <guid isPermaLink="false">pepite-d25c9a2bc4f16c78</guid>
+      <pubDate>Mon, 17 Aug 2026 16:15:12 +0000</pubDate>
+      <category>finance</category>
+      <description>Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Launch HN: Speko (YC S26) – OpenRouter for Voice AI</title>
+      <link>https://speko.ai/</link>
+      <guid isPermaLink="false">pepite-d560fa7606311391</guid>
+      <pubDate>Mon, 17 Aug 2026 15:36:18 +0000</pubDate>
+      <category>research</category>
+      <description>Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://www.youtube.com/watch?v=no2LY2gRh-c Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS. Each of… It landed in the last few hours. It's pulling 191pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol Pricing Cut by 50%</title>
+      <link>https://openrouter.ai/openai/gpt-5.6-sol</link>
+      <guid isPermaLink="false">pepite-427db91a5c5d01c2</guid>
+      <pubDate>Mon, 17 Aug 2026 21:03:18 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 714pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>yetone/cumora</title>
+      <link>https://github.com/yetone/cumora</link>
+      <guid isPermaLink="false">pepite-ea4e1c10253a419d</guid>
+      <pubDate>Mon, 17 Aug 2026 09:13:52 +0000</pubDate>
+      <category>repos</category>
+      <description>Cumora is cross-platform team chat where AI agents are first-class participants alongside humans — same roster, same DMs, same group conversations, same Kanban board and calendar. Agents don't just answer when poked: they hold personas and memory, claim work, coordinate with each other without colliding, send and receive real email, and run on either… It's pulling 2107★/day — real momentum for something this new, not a one-day spike. Still under the radar (1596★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>GPU Offload in Rust: Portable, Safe, and Fast</title>
+      <link>https://arxiv.org/abs/2608.13759</link>
+      <guid isPermaLink="false">pepite-060bf8b4793cc33f</guid>
+      <pubDate>Mon, 17 Aug 2026 17:54:59 +0000</pubDate>
+      <category>other</category>
+      <description>It landed in the last few hours. It's pulling 427pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>ysr666/dsh-vision-router</title>
+      <link>https://github.com/ysr666/dsh-vision-router</link>
+      <guid isPermaLink="false">pepite-bb090258fac7f2e7</guid>
+      <pubDate>Thu, 13 Aug 2026 18:57:47 +0000</pubDate>
+      <category>repos</category>
+      <description>Paste an image and it just works — eyes for text-only agents on DeepSeek Harness. Free out of the box, no key, no Python, one command. DeepSeek keeps thinking; the built-in free vision chain and fourteen deep tools do the seeing. Image turns behave like ordinary tool-calling turns — grounded, measurable, repeatable. 💬 QQ community group: 1105463028 Most DSH… It's pulling 150★/day — real momentum for something this new, not a one-day spike. Still under the radar (656★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>GenRouter: Unified Workflow Routing for Agentic Image Generation</title>
+      <link>http://arxiv.org/abs/2608.16721v1</link>
+      <guid isPermaLink="false">pepite-f41bae4ecb47a47e</guid>
+      <pubDate>Mon, 17 Aug 2026 15:36:45 +0000</pubDate>
+      <category>research</category>
+      <description>The rapid evolution of text-to-image (T2I) generation models has effectively solved the foundational challenge of raw pixel synthesis, shifting the community's focus toward fulfilling increasingly intricate user requests. While recent agentic image generation workflows enhance static inference with advanced capabilities like external knowledge retrieval and… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>PixRestore: Unified Image Restoration via Pixel Diffusion Transformer</title>
+      <link>http://arxiv.org/abs/2608.16793v1</link>
+      <guid isPermaLink="false">pepite-3c92d35c8542ca20</guid>
+      <pubDate>Mon, 17 Aug 2026 16:49:55 +0000</pubDate>
+      <category>research</category>
+      <description>Unified image restoration (UIR) aims to recover high-quality (HQ) content from low-quality (LQ) images with different degradations using a single model. Most recent methods adapt large pretrained text-to-image (T2I) latent diffusion models for their strong capacity and generative priors. However, the variational autoencoder (VAE) in latent T2I models may… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement</title>
+      <link>http://arxiv.org/abs/2608.16628v1</link>
+      <guid isPermaLink="false">pepite-54a49d8bd7e28700</guid>
+      <pubDate>Mon, 17 Aug 2026 14:30:09 +0000</pubDate>
+      <category>research</category>
+      <description>Modern Multimodal Retrieval-Augmented Generation (M-RAG) systems are fundamentally limited by the binary connectivity paradigm of traditional simple graphs, which fails to capture the intricate, high-order correlations among heterogeneous entities, such as the N-ary relationships between a visual chart, its scattered textual descriptions, and underlying… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</title>
+      <link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
+      <guid isPermaLink="false">pepite-6aa6db5f712edc5a</guid>
+      <pubDate>Mon, 17 Aug 2026 23:58:14 +0000</pubDate>
+      <category>models</category>
+      <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.6B parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Made this game in two prompts with Q4, Qwen 3.8 is amazing</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vrabno/made_this_game_in_two_prompts_with_q4_qwen_38_is/</link>
+      <guid isPermaLink="false">pepite-774e642ec20f9244</guid>
+      <pubDate>Tue, 18 Aug 2026 00:49:54 +0000</pubDate>
+      <category>models</category>
+      <description>This took one prompt to build, and another follow up prompt to fix two issues (player got stuck with the bomb and broken enemies path-finding), this is only html, css and js, no external assets, all done by Qwen. Using UD-Q4_K_XL in llama.cpp with 128k context and k5_0/v4_1 quantized cache in 2x RTX 3060, Deepseek Harness, around 20 t/s average. The main… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Top mathematicians say LLMs are strong calculators but poor creative thinkers</title>
       <link>https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/</link>
       <guid isPermaLink="false">pepite-9fc930c398fd5847</guid>
@@ -1362,145 +1502,5 @@
       <description>OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about "the Hugging Face Incident" ( previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in particular because it provides full details of what happened and how things played out inside OpenAI. I've used the video… It landed in the last few hours.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>Quoting John Gruber</title>
-      <link>https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything</link>
-      <guid isPermaLink="false">pepite-a122707d12c7839f</guid>
-      <pubDate>Sat, 08 Aug 2026 00:10:40 +0000</pubDate>
-      <category>other</category>
-      <description>Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare , per se, but they’re occasional . If I tried to make every post a hall-of-famer I’d never get anything out. I’m aiming for professionalism. I’m performing live in front of an… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning</title>
-      <link>http://arxiv.org/abs/2608.06197v1</link>
-      <guid isPermaLink="false">pepite-abdbc30b603dec37</guid>
-      <pubDate>Thu, 06 Aug 2026 15:54:36 +0000</pubDate>
-      <category>research</category>
-      <description>Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on external simulators that are difficult to ground. We introduce EnvACE, an agentic reinforcement learning method that replaces external environment interaction… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models</title>
-      <link>http://arxiv.org/abs/2608.06243v1</link>
-      <guid isPermaLink="false">pepite-d8199ed3f90029c5</guid>
-      <pubDate>Thu, 06 Aug 2026 16:29:24 +0000</pubDate>
-      <category>research</category>
-      <description>Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models using automatically verifiable outcome signals, but these signals are typically sparse and at the sequence-level. On-policy self-distillation (OPSD) mitigates this sparsity by querying a privileged teacher at student-visited prefixes and… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>BeeLLama issues</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1viku98/beellama_issues/</link>
-      <guid isPermaLink="false">pepite-75294c3477cfa718</guid>
-      <pubDate>Sat, 08 Aug 2026 03:12:11 +0000</pubDate>
-      <category>models</category>
-      <description>Tried to use Beellama , and using the kvarn6 flag, i notice that its in llama-server --help but its not working. I must be doing something wrong. trying to run the following: llama-server.exe ^ --model "C:\llamaROCM\models\Qwen3.6-35B-A3B-IQ4_XS-3.53bpw.gguf" ^ --spec-type draft-mtp,ngram-mod ^ --spec-draft-n-max 2 ^ --spec-draft-type-k q8_0 ^… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Anthropic will design its own hardware to power Claude</title>
-      <link>https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/</link>
-      <guid isPermaLink="false">pepite-a838fd5d8dff0379</guid>
-      <pubDate>Thu, 06 Aug 2026 20:03:44 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia. It landed in the last few hours.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model</title>
-      <link>https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/</link>
-      <guid isPermaLink="false">pepite-947ecaca41bbff47</guid>
-      <pubDate>Thu, 06 Aug 2026 18:38:27 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the smaller model still falls well short of its bigger siblings. The article OpenAI… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival</title>
-      <link>https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/</link>
-      <guid isPermaLink="false">pepite-260ac77dc0392f09</guid>
-      <pubDate>Thu, 06 Aug 2026 16:33:59 +0000</pubDate>
-      <category>agents</category>
-      <description>Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, while Claude Code cost $0.195 despite using the fewest tool calls and output tokens. The choice of framework is mainly a question of price and speed. The…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Microsoft's AI revenue reportedly depends on OpenAI for 70 percent</title>
-      <link>https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/</link>
-      <guid isPermaLink="false">pepite-85daa514923362f0</guid>
-      <pubDate>Thu, 06 Aug 2026 17:35:33 +0000</pubDate>
-      <category>models</category>
-      <description>Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy reliance helps explain why a company long known for vendor lock-in has recently been championing open-weight models and pushing back against proprietary isolation.… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Cloudflare open-sources vibe-coding platform for people who aren't coders</title>
-      <link>https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/</link>
-      <guid isPermaLink="false">pepite-5c9c345d638cd937</guid>
-      <pubDate>Thu, 06 Aug 2026 16:15:30 +0000</pubDate>
-      <category>agents</category>
-      <description>Cloudflare built an AI agent workspace for its employees. Now it’s open source.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
-      <link>https://www.aleksagordic.com/blog/vllm</link>
-      <guid isPermaLink="false">pepite-38e5c5734b389d38</guid>
-      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 260pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>xAI, SpaceX, and the Race for AI Buildout</title>
-      <link>https://illegal.solutions/posts/xai_pollution</link>
-      <guid isPermaLink="false">pepite-1b9f6c107a16e095</guid>
-      <pubDate>Thu, 06 Aug 2026 19:38:45 +0000</pubDate>
-      <category>other</category>
-      <description>It landed in the last few hours. It's pulling 366pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>oliverb-io1902e8/agent-skills-collection</title>
-      <link>https://github.com/oliverb-io1902e8/agent-skills-collection</link>
-      <guid isPermaLink="false">pepite-144f7d4fe90f12a0</guid>
-      <pubDate>Thu, 06 Aug 2026 14:07:02 +0000</pubDate>
-      <category>repos</category>
-      <description>This repository provides a ready-to-use collection of agent skills for AI assistants like Claude, ChatGPT, and custom agents. Each skill is a self-contained module that adds specific capabilities to your AI agent. Agent skills are modular, reusable capabilities that extend what AI agents can do. They transform chatbots into autonomous agents that can: Get… It's pulling 251★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>AMD acquires Taalas to boost inference performance by etching models in silicon</title>
-      <link>https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344</link>
-      <guid isPermaLink="false">pepite-73962842c58c23e5</guid>
-      <pubDate>Thu, 06 Aug 2026 20:23:11 +0000</pubDate>
-      <category>finance</category>
-      <description>https://ir.amd.com/news-events/press-releases/detail/1296/am... https://chatjimmy.ai/ It landed in the last few hours. It's pulling 1377pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>mikiarlo3/awesome-growth-hacking-skills</title>
-      <link>https://github.com/mikiarlo3/awesome-growth-hacking-skills</link>
-      <guid isPermaLink="false">pepite-533fa0e1707a52ab</guid>
-      <pubDate>Tue, 04 Aug 2026 19:45:15 +0000</pubDate>
-      <category>repos</category>
-      <description>A curated, categorized directory of open-source AI agent skills for growth hacking, marketing execution, and revenue operations. This collection focuses on Agentic Growth Hacking—leveraging AI agents (like Claude Code, Cursor, and OpenClaw) to scale go-to-market workflows, discover attention loopholes, and execute at machine speed. Broad, multi-discipline… It's pulling 265★/day — real momentum for something this new, not a one-day spike. Still under the radar (630★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
     </item>
 </channel></rss>
