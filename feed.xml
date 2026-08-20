@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Cognition CEO denies report that SpaceX tried to acquire the startup</title>
+      <link>https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/</link>
+      <guid isPermaLink="false">pepite-c0a2363cc6027f0a</guid>
+      <pubDate>Wed, 19 Aug 2026 21:51:23 +0000</pubDate>
+      <category>finance</category>
+      <description>SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Stripe didn’t really buy OpenRouter because of the ‘singularity’</title>
+      <link>https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/</link>
+      <guid isPermaLink="false">pepite-77011f59b88856c9</guid>
+      <pubDate>Wed, 19 Aug 2026 23:32:00 +0000</pubDate>
+      <category>models</category>
+      <description>What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of "the singularity" but it's really for a far more real and powerful reason. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI seeks to one-up Anthropic with new customer privacy protections</title>
+      <link>https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/</link>
+      <guid isPermaLink="false">pepite-801a3672f2c6a152</guid>
+      <pubDate>Wed, 19 Aug 2026 22:10:46 +0000</pubDate>
+      <category>other</category>
+      <description>A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI fixes Codex bug that deleted real user files without permission</title>
+      <link>https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/</link>
+      <guid isPermaLink="false">pepite-166f0c3dac3e9517</guid>
+      <pubDate>Wed, 19 Aug 2026 18:18:34 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI patched Codex after GPT-5.6 Sol started deleting real user files on its own. A cleanup command meant for temporary folders was wiping home directories instead. Codex now verifies deletion targets first, and full-access mode can no longer be triggered by accident. The article OpenAI fixes Codex bug that deleted real user files without permission… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Extensible Software in the age of LLMs</title>
+      <link>https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/</link>
+      <guid isPermaLink="false">pepite-b0c907d3d16a97eb</guid>
+      <pubDate>Wed, 19 Aug 2026 16:26:05 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 255pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>CopilotKit/openbot</title>
+      <link>https://github.com/CopilotKit/openbot</link>
+      <guid isPermaLink="false">pepite-95f0a09140e3d0cf</guid>
+      <pubDate>Mon, 17 Aug 2026 00:44:59 +0000</pubDate>
+      <category>repos</category>
+      <description>https://github.com/user-attachments/assets/535ef7ee-1631-4a69-b839-564c56cf90b4 Bring any AG-UI agent, written on a framework or by hand, and it arrives as a coworker with a channel of its own. Watch it work on its own screen, take the wheel when it reaches something it should not do alone, then hand it back. It answers with components rather than only… It's pulling 205★/day — real momentum for something this new, not a one-day spike. Still under the radar (638★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>The Mojo language (by Modular, now Qualcomm) is now open-source</title>
+      <link>https://www.modular.com/blog/modcon-announcements</link>
+      <guid isPermaLink="false">pepite-b6f9da9f2b319527</guid>
+      <pubDate>Wed, 19 Aug 2026 07:47:19 +0000</pubDate>
+      <category>repos</category>
+      <description>It's pulling 257pts/day — real momentum for something this new, not a one-day spike. Still under the radar (211pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams</title>
+      <link>https://github.com/onecli/onecli</link>
+      <guid isPermaLink="false">pepite-9f8ab41393f40697</guid>
+      <pubDate>Wed, 19 Aug 2026 16:29:02 +0000</pubDate>
+      <category>agents</category>
+      <description>Hi HN, Jonathan &amp; Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent. Here’s what you can do with it: 1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat. 2. deterministic human in the loop approval… It landed in the last few hours. It's pulling 118pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>cinderline/northcinder</title>
+      <link>https://github.com/cinderline/northcinder</link>
+      <guid isPermaLink="false">pepite-ce275d4f0432aa07</guid>
+      <pubDate>Mon, 17 Aug 2026 11:42:31 +0000</pubDate>
+      <category>repos</category>
+      <description>NorthCinder is an open-source MCP server that helps an AI agent compare products against your brief. It returns a ranked shortlist with reasons, reports which stores it could and could not search, and requires a separate approval before checkout. Seller payment and affiliate data never improve a result's position. NorthCinder is software you run. It works… It's pulling 449★/day — real momentum for something this new, not a one-day spike. Still under the radar (1193★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>SPADE: Self-Play in Adaptive Synthetic Executable Environments</title>
+      <link>http://arxiv.org/abs/2608.19197v1</link>
+      <guid isPermaLink="false">pepite-53c9b820426ca7da</guid>
+      <pubDate>Wed, 19 Aug 2026 17:58:56 +0000</pubDate>
+      <category>research</category>
+      <description>Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier) keep the goal distribution fixed as the learner scales. We introduce SPADE (Self-Play in Adaptive Synthetic Executable Environments), a… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets</title>
+      <link>http://arxiv.org/abs/2608.19147v1</link>
+      <guid isPermaLink="false">pepite-162e9802ccde0d51</guid>
+      <pubDate>Wed, 19 Aug 2026 17:33:28 +0000</pubDate>
+      <category>research</category>
+      <description>Modern Intel AI PCs ship capable integrated GPUs and NPUs with 16+ GB of unified memory, and they spend considerable time idle. That is not enough memory to fit a large model such as a 70B-parameter LLM. We show that a handful of AIPCs, working together over an ordinary network, can serve models beyond the capability of any single one. We use pipeline… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning</title>
+      <link>http://arxiv.org/abs/2608.19181v1</link>
+      <guid isPermaLink="false">pepite-9c6ddd21fc9d5f7e</guid>
+      <pubDate>Wed, 19 Aug 2026 17:54:58 +0000</pubDate>
+      <category>research</category>
+      <description>On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor locally plausible responses that omit evidence distributed across the input or violate global task constraints. Task-specific verifiers, in contrast, evaluate task… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Conceptual integrity and counting lines of code</title>
+      <link>https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/</link>
+      <guid isPermaLink="false">pepite-986320ef31b6f3af</guid>
+      <pubDate>Wed, 19 Aug 2026 22:46:07 +0000</pubDate>
+      <category>agents</category>
+      <description>Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of "How AI is changing software development". We had a really great conversation. Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: "very minor edits to remove disfluencies"). This is the latest version of an argument I've… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Qwen3.8-27b has the highest level of "agency" I've ever seen in a local model</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/</link>
+      <guid isPermaLink="false">pepite-5a3e62559c6bd779</guid>
+      <pubDate>Thu, 20 Aug 2026 02:45:59 +0000</pubDate>
+      <category>models</category>
+      <description>Off a single prompt, given my credentials and the name of my university, qwen3.8-27b was able to successfully pull my class schedule from the kinda shitty and convoluted web of university websites. It needed no human intervention, and executed 80 tool calls. Another time, I asked it to investigate a user on a social media network, and it found one public… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>New benchmark ranks search APIs for AI agents on quality, cost, and speed</title>
       <link>https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/</link>
       <guid isPermaLink="false">pepite-e655dc69f8b6b21f</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Sun, 09 Aug 2026 23:31:39 +0000</pubDate>
       <category>models</category>
       <description>Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement:… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>GitHub Models is now retired</title>
-      <link>https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything</link>
-      <guid isPermaLink="false">pepite-2088203280efa3f1</guid>
-      <pubDate>Sun, 09 Aug 2026 22:48:05 +0000</pubDate>
-      <category>models</category>
-      <description>GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as part of a scheduled retirement brownout. That message is already stale, because the retirement has been completed. GitHub Models was an odd-shaped duck. GitHub… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>SQLite compressed text-history prototypes</title>
-      <link>https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything</link>
-      <guid isPermaLink="false">pepite-0317e3154096f4d3</guid>
-      <pubDate>Sun, 09 Aug 2026 22:05:00 +0000</pubDate>
-      <category>models</category>
-      <description>Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or zstd compression to the whole thing? Surely that would… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks</title>
-      <link>http://arxiv.org/abs/2608.07411v1</link>
-      <guid isPermaLink="false">pepite-8b0a148d460b067a</guid>
-      <pubDate>Fri, 07 Aug 2026 16:58:04 +0000</pubDate>
-      <category>research</category>
-      <description>In the context of geodata, existing Large Language Models have often been studied in a homogeneous setting, which has considerably limited insights into their generalization capabilities. In this paper, we present \benchName, a comprehensive benchmark for probing LLMs on geo-related tasks. We leverage a careful selection of twelve publicly available… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Need real world ML problems to evaluate my educational ML tools</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vk7xu0/need_real_world_ml_problems_to_evaluate_my/</link>
-      <guid isPermaLink="false">pepite-2459a49134ce279c</guid>
-      <pubDate>Mon, 10 Aug 2026 02:01:41 +0000</pubDate>
-      <category>finance</category>
-      <description>I'm a retired platform engineer, coding mainly in Rust, and involved with a ML study group. I developed a ML programming language (alternative to Python, Colab) to help me learn (and teach) ML concepts, visually. It has slowly grown to demonstrate a lot of concepts. It can do training on CPU (in browser) or on Apple Silicon via MLX, or NVIDIA hardware via… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>OpenAI acquires presentation startup NextSlide</title>
-      <link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
-      <guid isPermaLink="false">pepite-8bf73f3956e4de83</guid>
-      <pubDate>Sat, 08 Aug 2026 19:41:13 +0000</pubDate>
-      <category>finance</category>
-      <description>NextSlide says its team members are now working on ChatGPT. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>AI agents use roughly 600 times more energy than a simple chat prompt</title>
-      <link>https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/</link>
-      <guid isPermaLink="false">pepite-a9228bdd33547a0d</guid>
-      <pubDate>Sat, 08 Aug 2026 09:44:06 +0000</pubDate>
-      <category>finance</category>
-      <description>Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity. Per prompt, that's roughly 600 times more than a typical AI chat. His data shows how much the low figures reported by Google and OpenAI distort the reality of agent-based AI. The article AI agents use roughly 600…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks</title>
-      <link>https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/</link>
-      <guid isPermaLink="false">pepite-c860c3531f67826f</guid>
-      <pubDate>Sat, 08 Aug 2026 08:22:39 +0000</pubDate>
-      <category>research</category>
-      <description>xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New editing tools like Magic Wand and Multi-Ref Editing, along with preconfigured templates, target practical creative workflows. The article xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Claude Code sessions can now talk to each other and share context across terminals</title>
-      <link>https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/</link>
-      <guid isPermaLink="false">pepite-3e4f35f6cab4d287</guid>
-      <pubDate>Sat, 08 Aug 2026 12:28:36 +0000</pubDate>
-      <category>models</category>
-      <description>Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status. The article Claude Code sessions can now talk to each other and share context across terminals appeared first on The Decoder .
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>DeepMind’s hurricane breakthrough has surprised weather scientists</title>
-      <link>https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/</link>
-      <guid isPermaLink="false">pepite-0dc29721eaf2cd77</guid>
-      <pubDate>Sat, 08 Aug 2026 11:05:50 +0000</pubDate>
-      <category>models</category>
-      <description>Open source WeatherNext model can make accurate predictions with lower-resolution weather data.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>i3T4AN/KADATH</title>
-      <link>https://github.com/i3T4AN/KADATH</link>
-      <guid isPermaLink="false">pepite-1a38b4ba1a153749</guid>
-      <pubDate>Sat, 08 Aug 2026 15:49:55 +0000</pubDate>
-      <category>repos</category>
-      <description>KADATH takes a goal and spends an ungodly number of model tokens evolving agents that are progressively better at achieving it. Over multiple generations, a population of agents attempts the goal, gets independently graded against a measurable benchmark, learns from the strongest performers, mutates, reproduces, and weeds out weak approaches. Instead of… It's pulling 322★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Pan-Chera/Multi-Agent-CAD</title>
-      <link>https://github.com/Pan-Chera/Multi-Agent-CAD</link>
-      <guid isPermaLink="false">pepite-d1de07ba6ea0b2a6</guid>
-      <pubDate>Thu, 30 Jul 2026 17:19:26 +0000</pubDate>
-      <category>repos</category>
-      <description>Below is a screen recording of one full pipeline run through the Web UI. The 10 benchmark parts (P1–P10, sharing prompts with earthtojake/text-to-cad), the 10-piece show gallery (S1–S10, original prompts), and the articulable print-in-place demo below were each generated by MAC. The 3D rotation views and prompts for the physical printed models shown above… It's pulling 51★/day — real momentum for something this new, not a one-day spike. Still under the radar (488★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Qwen3.8 Max now ranked as the best overall model by agentic index</title>
-      <link>https://artificialanalysis.ai/?intelligence=agentic-index</link>
-      <guid isPermaLink="false">pepite-6cd7ebb4f60e3bbf</guid>
-      <pubDate>Thu, 06 Aug 2026 18:44:49 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 227pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
-      <link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
-      <guid isPermaLink="false">pepite-18b0dbee24c98adc</guid>
-      <pubDate>Sat, 08 Aug 2026 22:36:03 +0000</pubDate>
-      <category>models</category>
-      <description>Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the default setting for new sessions in most Claude Code plans starting on August 14th. This was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the AI… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Now we have a timeline of the OpenAI accidental attack against Hugging Face</title>
-      <link>https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything</link>
-      <guid isPermaLink="false">pepite-1a9836e43c2092d3</guid>
-      <pubDate>Sat, 08 Aug 2026 14:06:41 +0000</pubDate>
-      <category>finance</category>
-      <description>My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face — Hacker News. I think one of the most interesting details here might be tucked away in that first bulletin point: May 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and…
 
 — via Simon Willison</description>
     </item>
