@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Simulation: the new Scaling Law — Joon Sung Park, Simile AI</title>
+      <link>https://www.latent.space/p/simile</link>
+      <guid isPermaLink="false">pepite-bc41cb7a7376f4cc</guid>
+      <pubDate>Fri, 21 Aug 2026 23:37:38 +0000</pubDate>
+      <category>agents</category>
+      <description>Simile’s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it’s gone from fun exploration to very serious business. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Anthropic’s Opus 4.6 is a smut-machine</title>
+      <link>https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/</link>
+      <guid isPermaLink="false">pepite-c3928314b15f8ce4</guid>
+      <pubDate>Fri, 21 Aug 2026 23:07:25 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks</title>
+      <link>https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/</link>
+      <guid isPermaLink="false">pepite-e6d808d12f0a01a5</guid>
+      <pubDate>Fri, 21 Aug 2026 19:08:27 +0000</pubDate>
+      <category>research</category>
+      <description>Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own multimodal agent benchmarks, it approaches Opus 4.8 and sometimes beats it. The article Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks appeared first on… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Nvidia just showed that the harness, not the AI model, is now the real hero</title>
+      <link>https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/</link>
+      <guid isPermaLink="false">pepite-2b7b4ffceb6b58cb</guid>
+      <pubDate>Fri, 21 Aug 2026 19:43:39 +0000</pubDate>
+      <category>agents</category>
+      <description>Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense</title>
+      <link>https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/</link>
+      <guid isPermaLink="false">pepite-84c06e11b6485195</guid>
+      <pubDate>Fri, 21 Aug 2026 19:35:37 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches. Anthropic is also plugging Mythos 5 into partner security products protecting critical infrastructure. The article Anthropic puts its most powerful model… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Show HN: OzBrain, a shared brain for knowledge between agents and your team</title>
+      <link>https://ozbrain.com</link>
+      <guid isPermaLink="false">pepite-2988a262aacb62db</guid>
+      <pubDate>Fri, 21 Aug 2026 23:09:06 +0000</pubDate>
+      <category>agents</category>
+      <description>I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools &amp; tasks management systems were built for… It landed in the last few hours. It's pulling 272pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>What happens when a GPU reads memory</title>
+      <link>https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory</link>
+      <guid isPermaLink="false">pepite-5bf10ec37be36472</guid>
+      <pubDate>Fri, 21 Aug 2026 16:16:42 +0000</pubDate>
+      <category>other</category>
+      <description>It landed in the last few hours. It's pulling 218pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Proliferate- open-source, self-hostable Codex for any coding agent</title>
+      <link>https://github.com/proliferate-ai/proliferate</link>
+      <guid isPermaLink="false">pepite-afe6696f66ade44e</guid>
+      <pubDate>Fri, 21 Aug 2026 16:47:15 +0000</pubDate>
+      <category>agents</category>
+      <description>Hi HN- I'm Pablo, the founder of Proliferate (YC S25)! Proliferate ( https://github.com/proliferate-ai/proliferate ) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, OpenCode, Cursor, and Grok in one place. Here's a quick 2m demo of how we use Proliferate to build Proliferate:… It landed in the last few hours. It's pulling 83pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>SigmanticAI/apex-inference-chip</title>
+      <link>https://github.com/SigmanticAI/apex-inference-chip</link>
+      <guid isPermaLink="false">pepite-d28b2248a14c0ee9</guid>
+      <pubDate>Mon, 17 Aug 2026 04:25:26 +0000</pubDate>
+      <category>repos</category>
+      <description>decoder layer in real RTL — attention, KV-cache compression, softmax, RMSNorm, RoPE, SwiGLU, residual — every block bit-exact against an executable golden model, running real Qwen models through the verified pipeline, and brought up on real FPGA hardware. Pre-silicon, and every number in this repo is labeled as what it is: measured or projected. 3. The… It's pulling 135★/day — real momentum for something this new, not a one-day spike. Still under the radar (671★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Leonxlnx/unlazy</title>
+      <link>https://github.com/Leonxlnx/unlazy</link>
+      <guid isPermaLink="false">pepite-bcbfdf6bcba9bcdc</guid>
+      <pubDate>Sun, 09 Aug 2026 23:39:12 +0000</pubDate>
+      <category>repos</category>
+      <description>v1 told the model to work harder. v2 makes half-done structurally visible: acceptance gates live in files, checks run as commands, and an optional hook blocks the agent from declaring victory while gates are unmet. You do not promise you are done. You prove it against a ledger. Works with Claude Code, OpenAI Codex, Cursor and anything else that reads… It's pulling 55★/day — real momentum for something this new, not a one-day spike. Still under the radar (670★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Stop Making TUIs</title>
+      <link>https://simonwillison.net/2026/Aug/21/stop-making-tuis/</link>
+      <guid isPermaLink="false">pepite-2b90eef6053740b6</guid>
+      <pubDate>Fri, 21 Aug 2026 16:07:32 +0000</pubDate>
+      <category>agents</category>
+      <description>Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing. I wrote about my vibe-coded bandwidth and GPU monitoring macOS task bar apps back in March , and I'm still using both of those… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>llm 0.32.1</title>
+      <link>https://simonwillison.net/2026/Aug/21/llm/</link>
+      <guid isPermaLink="false">pepite-10e3fbb000b426e3</guid>
+      <pubDate>Fri, 21 Aug 2026 17:16:13 +0000</pubDate>
+      <category>models</category>
+      <description>Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency. This dot-release fixes that for the moment by pinning to openai , and a soon-to-drop 0.33 release will switch from… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models</title>
+      <link>http://arxiv.org/abs/2608.20237v1</link>
+      <guid isPermaLink="false">pepite-886984d731abba65</guid>
+      <pubDate>Thu, 20 Aug 2026 16:28:28 +0000</pubDate>
+      <category>research</category>
+      <description>Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constraints remains underexplored. This setting requires models to jointly understand spatial layouts, interpret natural-language rules, and plan valid actions… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>16 GB VRAM purgatory discussion thread</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vuzz3j/16_gb_vram_purgatory_discussion_thread/</link>
+      <guid isPermaLink="false">pepite-2b3f7be38d6a4070</guid>
+      <pubDate>Sat, 22 Aug 2026 02:24:22 +0000</pubDate>
+      <category>models</category>
+      <description>What models and configs are we using? Please share here On windows, I am using this copium pared down model https://huggingface.co/Bucoid/Qwen3.8-27B-Uncensored-IQ4-XS-MTP-16GB-VRAM-GGUF with MTP disabled, q4 k/q4 v mmproj banished to CPU/RAM and a small ub to save whatever context I can (90k-100k) so everything stays in the vram If you are on linux or have… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>OpenAI is gaining on Anthropic with business users, new data indicates</title>
       <link>https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/</link>
       <guid isPermaLink="false">pepite-093a040722715e60</guid>
@@ -1362,145 +1502,5 @@
       <description>Agentic systems are increasingly composed of heterogeneous agents, prompts, tools, models, skills, composite subsystems, policies, and execution workflows whose configurations evolve across frameworks and runtime environments. Existing LLMOps and AgentOps platforms support orchestration and observability but do not provide a common configuration-governance… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>PRMU: A Corpus-Free Benchmark for Person-Centric Knowledge Unlearning in Multimodal Large Language Models</title>
-      <link>http://arxiv.org/abs/2608.11149v1</link>
-      <guid isPermaLink="false">pepite-02893a8d3d58b708</guid>
-      <pubDate>Tue, 11 Aug 2026 17:09:28 +0000</pubDate>
-      <category>finance</category>
-      <description>Multimodal large language models (MLLMs) have demonstrated remarkable capabilities in storing and recalling rich person-related knowledge, raising increasing concerns about reliable knowledge removal. However, existing machine unlearning approaches for MLLMs typically assume access to original forget and retain corpora, which are often unavailable in… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Are We Really Making Progress in Group Recommendation? Unmasking the Tie-Breaking Illusion</title>
-      <link>http://arxiv.org/abs/2608.11190v1</link>
-      <guid isPermaLink="false">pepite-ddc6a4d501da5fd5</guid>
-      <pubDate>Tue, 11 Aug 2026 17:50:08 +0000</pubDate>
-      <category>finance</category>
-      <description>Recent group recommendation methods have reported strong improvements on standard benchmarks, but it remains unclear whether these gains always reflect genuine advances in modeling group preferences. In this paper, we show that several recent methods are affected by a systematic evaluation bias caused by the interaction between training-time score… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>There are no lossless transformations of natural-language text</title>
-      <link>https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything</link>
-      <guid isPermaLink="false">pepite-dbdfce63780157b4</guid>
-      <pubDate>Tue, 11 Aug 2026 23:48:35 +0000</pubDate>
-      <category>models</category>
-      <description>There are no lossless transformations of natural-language text Sophie Alpert shares her "internal policy on acceptable use of AI writing by engineers". It's a short read (supporting its own recommendations) and really good. If you chose to have LLMs help massage your writing the following rule seems crucial to me: You must stand behind every idea and every… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>What unique, custom QOL upgrades have you given your local agents?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vm3fvr/what_unique_custom_qol_upgrades_have_you_given/</link>
-      <guid isPermaLink="false">pepite-31a451d625659a00</guid>
-      <pubDate>Wed, 12 Aug 2026 03:58:46 +0000</pubDate>
-      <category>agents</category>
-      <description>Warning : Kinda long post. If you don't like reading, please skip for your own sanity. Also, I've got nothing to sell, just a tinkerer, so I just want to share ideas and learn from you guys too. When I recently started my agentic journey, I hit a number of walls, the first being tool use eating up way too much context. Also, LM Studio had super slow prompt… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>As AI-led attacks multiply, OpenAI launches a new cyber model</title>
-      <link>https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</link>
-      <guid isPermaLink="false">pepite-166724c6c84d5395</guid>
-      <pubDate>Mon, 10 Aug 2026 23:56:15 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Old OCR text cripples language model training, and FineBooks wants to fix that at scale</title>
-      <link>https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/</link>
-      <guid isPermaLink="false">pepite-f541ccc7254e7388</guid>
-      <pubDate>Mon, 10 Aug 2026 18:20:39 +0000</pubDate>
-      <category>models</category>
-      <description>The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits 97.6 percent character accuracy at under two dollars per thousand pages. That's good enough for AI training data, but not yet for scholarly transcriptions, the team says. The article Old OCR text… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Tech industry is buzzing after a Claude agent hacked into a gym</title>
-      <link>https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/</link>
-      <guid isPermaLink="false">pepite-be74b2447caf2b94</guid>
-      <pubDate>Mon, 10 Aug 2026 20:04:24 +0000</pubDate>
-      <category>agents</category>
-      <description>An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction</title>
-      <link>https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/</link>
-      <guid isPermaLink="false">pepite-0fd219b789b0de04</guid>
-      <pubDate>Mon, 10 Aug 2026 13:50:19 +0000</pubDate>
-      <category>agents</category>
-      <description>Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory. In an accompanying essay, Mark Zuckerberg mounts an aggressive defense of distilling other labs' models and calls for fewer restrictions on US…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI reportedly completed a $7 billion employee tender offer</title>
-      <link>https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/</link>
-      <guid isPermaLink="false">pepite-5f44fe3808ae9cd6</guid>
-      <pubDate>Tue, 11 Aug 2026 00:03:18 +0000</pubDate>
-      <category>other</category>
-      <description>San Francisco's housing market is in trouble again. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Antirez/h3.c: MiniMax H3 inference engine for Mac computers</title>
-      <link>https://github.com/antirez/h3.c</link>
-      <guid isPermaLink="false">pepite-563d1381c3db3b3c</guid>
-      <pubDate>Tue, 11 Aug 2026 01:22:09 +0000</pubDate>
-      <category>other</category>
-      <description>It landed in the last few hours. It's pulling 751pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines</title>
-      <link>https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs</link>
-      <guid isPermaLink="false">pepite-c90ef13901146302</guid>
-      <pubDate>Mon, 10 Aug 2026 14:20:41 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 218pts/day — real momentum for something this new, not a one-day spike. Still under the radar (125pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</title>
-      <link>https://cactuscompute.com/needle</link>
-      <guid isPermaLink="false">pepite-756ae43b08d78566</guid>
-      <pubDate>Mon, 10 Aug 2026 17:22:07 +0000</pubDate>
-      <category>agents</category>
-      <description>Hey HN, Henry from Cactus here! We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2. The whole model is a single 14MB binary that… It landed in the last few hours. It's pulling 498pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>eternityspring/shuohao-skills</title>
-      <link>https://github.com/eternityspring/shuohao-skills</link>
-      <guid isPermaLink="false">pepite-93a243ff32d63237</guid>
-      <pubDate>Thu, 06 Aug 2026 10:38:49 +0000</pubDate>
-      <category>repos</category>
-      <description>自动检测本机装了 Claude Code 还是 codex，把所有 skill 软链过去——git pull 之后立刻生效，不用重装。 每个 skill 一个目录，自包含、可以单独拷走： 没有配 CI——自测足够快（1 秒），本地跑一次比等 CI 更省事。只在 macOS + Node 24 上验过；代码没有平台相关调用，Linux 和更低版本 Node It's pulling 138★/day — real momentum for something this new, not a one-day spike. Still under the radar (654★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>petergyang/human-review</title>
-      <link>https://github.com/petergyang/human-review</link>
-      <guid isPermaLink="false">pepite-68291e2d3aed2afd</guid>
-      <pubDate>Mon, 27 Jul 2026 14:58:36 +0000</pubDate>
-      <category>repos</category>
-      <description>Edit HTML and Markdown files directly, leave comments like a Google Doc, and send all your feedback to your AI agent at once. Read the full launch post https://github.com/user-attachments/assets/7cab09c9-eaa0-4e8b-984d-2925e810b5c2 Giving AI feedback on files in chat is painful. Sometimes you want to change one sentence yourself. Instead, you end up typing:… It's pulling 48★/day — real momentum for something this new, not a one-day spike. Still under the radar (703★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
     </item>
 </channel></rss>
