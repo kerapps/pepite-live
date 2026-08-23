@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research</title>
+      <link>https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</link>
+      <guid isPermaLink="false">pepite-683931e34e4d9cf3</guid>
+      <pubDate>Sat, 22 Aug 2026 19:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Study explains why AI agents benefit from "skills" and when they fail</title>
+      <link>https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/</link>
+      <guid isPermaLink="false">pepite-4830606672d8acda</guid>
+      <pubDate>Sat, 22 Aug 2026 12:15:10 +0000</pubDate>
+      <category>agents</category>
+      <description>A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill library grows, agents have a harder and harder time finding the right set of instructions. The article Study explains why AI agents benefit from "skills" and…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>World models that ignore human beliefs predict the wrong actions, new research shows</title>
+      <link>https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/</link>
+      <guid isPermaLink="false">pepite-3d428c643630a8b8</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:20 +0000</pubDate>
+      <category>models</category>
+      <description>Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new "Mental World Modeling" framework adds mental variables like beliefs and intentions. Even weaker language models using this approach outperform stronger models without mental modeling. The biggest bottleneck: predicting how physical and mental…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI says California should strengthen its AI safety bill</title>
+      <link>https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/</link>
+      <guid isPermaLink="false">pepite-897fc0b9ac4740bc</guid>
+      <pubDate>Sat, 22 Aug 2026 16:30:34 +0000</pubDate>
+      <category>other</category>
+      <description>OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Why your local LLM feels dumber than it is</title>
+      <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
+      <guid isPermaLink="false">pepite-ec98721bcd3a7a80</guid>
+      <pubDate>Sat, 22 Aug 2026 18:14:16 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 535pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Spielewoy/autoprompt-skill</title>
+      <link>https://github.com/Spielewoy/autoprompt-skill</link>
+      <guid isPermaLink="false">pepite-5825bdb3753666d5</guid>
+      <pubDate>Mon, 17 Aug 2026 22:40:47 +0000</pubDate>
+      <category>repos</category>
+      <description>Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks. Install · Benchmarks · Invocation · Run controls · Workflow · Agents · Examples · FAQ · License Use the CLI below, or download an installer from GitHub Releases. Choose your coding agent, confirm its path, and install. N means enter another path. For another CLI or IDE,… It's pulling 136★/day — real momentum for something this new, not a one-day spike. Still under the radar (711★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>GPT 5.6 Sol 20% price reduction</title>
+      <link>https://developers.openai.com/api/docs/models/gpt-5.6-sol</link>
+      <guid isPermaLink="false">pepite-21c71613beff18c7</guid>
+      <pubDate>Sat, 22 Aug 2026 04:33:06 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 90pts/day — real momentum for something this new, not a one-day spike. Still under the radar (87pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>browser-use/macos-harness</title>
+      <link>https://github.com/browser-use/macos-harness</link>
+      <guid isPermaLink="false">pepite-e214d22530ab5a1b</guid>
+      <pubDate>Mon, 17 Aug 2026 00:22:20 +0000</pubDate>
+      <category>repos</category>
+      <description>The simplest, thinnest harness that gives an LLM complete freedom to complete virtually any task on a Mac. The agent writes what is missing, mid-task. No framework, no recipes, no rails. One Python process connected directly to macOS, your real browser, and your files. Paste this into Codex or Claude Code: That is it. The agent installs the package, teaches… It's pulling 115★/day — real momentum for something this new, not a one-day spike. Still under the radar (709★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%</title>
+      <link>https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/</link>
+      <guid isPermaLink="false">pepite-e706844e05885328</guid>
+      <pubDate>Sat, 22 Aug 2026 01:09:21 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 32pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>llm 0.33</title>
+      <link>https://simonwillison.net/2026/Aug/22/llm/</link>
+      <guid isPermaLink="false">pepite-43aa0c036180460e</guid>
+      <pubDate>Sat, 22 Aug 2026 17:01:16 +0000</pubDate>
+      <category>models</category>
+      <description>Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix. llm embed and llm embed-multi now accept --key . The Python EmbeddingModel.embed() ,… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>More than just code review</title>
+      <link>https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</link>
+      <guid isPermaLink="false">pepite-6cda44a27fa95dfd</guid>
+      <pubDate>Sat, 22 Aug 2026 15:56:54 +0000</pubDate>
+      <category>agents</category>
+      <description>The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference</title>
+      <link>http://arxiv.org/abs/2608.20210v1</link>
+      <guid isPermaLink="false">pepite-cc0115ea3dedabe2</guid>
+      <pubDate>Thu, 20 Aug 2026 16:09:43 +0000</pubDate>
+      <category>research</category>
+      <description>Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary CPU, and chose the architecture to suit it. The result keeps full attention in only 6 of its 18 blocks. The other 12 use short convolutions whose memory is two… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection</title>
+      <link>http://arxiv.org/abs/2608.20169v1</link>
+      <guid isPermaLink="false">pepite-5d56bf78d6d7a578</guid>
+      <pubDate>Thu, 20 Aug 2026 15:24:54 +0000</pubDate>
+      <category>finance</category>
+      <description>We present a novel approach to efficient LLM agent harness optimization through adaptive validation task selection. Harness optimization iteratively rewrites the harness code based on validation performance, enabling substantial performance gains without updating the underlying model weights. Existing approaches, however, evaluate a fixed validation set in… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title># Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vvu15m/qwen3827b_one_week_later_the_rlocalllama/</link>
+      <guid isPermaLink="false">pepite-3411dbb98b71e44d</guid>
+      <pubDate>Sun, 23 Aug 2026 01:39:46 +0000</pubDate>
+      <category>research</category>
+      <description>Companion to the Qwen 3.8 Release Megathread . Compiled from ~2,000 posts scanned across both subs, with deep reads of the 45 highest-signal threads (560 posts and comments), Aug 15–22, 2026, plus independent X benchmarks. Every number is attributed to the poster's stated hardware/runtime/quant. This community contradicts itself on nearly every axis — so… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Simulation: the new Scaling Law — Joon Sung Park, Simile AI</title>
       <link>https://www.latent.space/p/simile</link>
       <guid isPermaLink="false">pepite-bc41cb7a7376f4cc</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 12 Aug 2026 15:20:29 +0000</pubDate>
       <category>research</category>
       <description>Multimodal large language models (MLLMs) have made rapid progress, yet they still exhibit object hallucination, generating plausible but incorrect descriptions that are inconsistent with the visual input. Direct Preference Optimization (DPO) mitigates this by training models to prefer non-hallucinated responses over hallucinated ones, and recent efforts… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ScreenShot: A Foundation Model for Few-Shot Combination Drug Screening</title>
-      <link>http://arxiv.org/abs/2608.12219v1</link>
-      <guid isPermaLink="false">pepite-e3c06580dfd56ba5</guid>
-      <pubDate>Wed, 12 Aug 2026 16:13:50 +0000</pubDate>
-      <category>research</category>
-      <description>Treating patients with combinations of drugs reduces the risk of resistance to any individual drug. Finding effective combinations is difficult because the large search space makes combinatorial screens prohibitively expensive, time consuming, and often technically infeasible. Predictive models can fill this gap, yet existing methods typically require… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>DeepSeek V4 Pro 0813 (on OpenRouter)</title>
-      <link>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</link>
-      <guid isPermaLink="false">pepite-e28e8fba6612207c</guid>
-      <pubDate>Wed, 12 Aug 2026 23:59:23 +0000</pubDate>
-      <category>models</category>
-      <description>DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model. I haven't been able to confirm if they plan to release the open weights, but given the weights are available for both April's deepseek-ai/DeepSeek-V4-Pro… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>alchemy-utils 0.1a0</title>
-      <link>https://simonwillison.net/2026/Aug/12/alchemy-utils/</link>
-      <guid isPermaLink="false">pepite-e48e65b70f34db22</guid>
-      <pubDate>Wed, 12 Aug 2026 19:51:30 +0000</pubDate>
-      <category>models</category>
-      <description>Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked Codex and GPT-5.6 Sol Ultra with building a prototype: Do a research spike to see what it would take to build a library with the same core API as SQLite-utils -… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>How do you plan to run Qwen3.8-2.4T-A95B locally?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vmvpjc/how_do_you_plan_to_run_qwen3824ta95b_locally/</link>
-      <guid isPermaLink="false">pepite-240256b240b9e6c3</guid>
-      <pubDate>Thu, 13 Aug 2026 00:35:20 +0000</pubDate>
-      <category>models</category>
-      <description>To my fellow crazies, the few. Those who dared wrestle with llama-70b, mistral-large, goliath, mistral8x22B, DeepSeekV2/3, wept when llama4 behemoth was announced, picked yourself up and are now wrestling with DeepSeekV4Pro, GLM5.2, MiMoV2.5Pro and sometimes dare dream of KimiK3, well Qwen3.8-2.4T is here. Smaller than KimiK3, but looks like it might be… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>"But marinade" and leaked passwords are what researchers found in ChatGPT's hidden reasoning</title>
-      <link>https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/</link>
-      <guid isPermaLink="false">pepite-0a06fec6cc3275e5</guid>
-      <pubDate>Tue, 11 Aug 2026 17:38:49 +0000</pubDate>
-      <category>models</category>
-      <description>Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys. The traces also show that the reasoning summaries users see often hide what the models are actually doing. The article… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>General Catalyst leads $1.1B round into 2-month-old River AI</title>
-      <link>https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/</link>
-      <guid isPermaLink="false">pepite-f66a8ff91a416f88</guid>
-      <pubDate>Tue, 11 Aug 2026 17:41:22 +0000</pubDate>
-      <category>agents</category>
-      <description>River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence</title>
-      <link>https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/</link>
-      <guid isPermaLink="false">pepite-96ff4263752d2c6f</guid>
-      <pubDate>Tue, 11 Aug 2026 15:07:44 +0000</pubDate>
-      <category>models</category>
-      <description>Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index despite being four times smaller. At nearly 670 tokens per second, it's also the fastest model in the comparison, showing Nvidia is betting on efficiency over raw size. The article Nvidia's open-weight…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Gemini becomes Google's fastest-growing product ever as it hits 1B users</title>
-      <link>https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/</link>
-      <guid isPermaLink="false">pepite-fc18235bff71058e</guid>
-      <pubDate>Tue, 11 Aug 2026 19:48:12 +0000</pubDate>
-      <category>models</category>
-      <description>But will Gemini's surge survive slowing model releases? It landed in the last few hours.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
-      <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
-      <guid isPermaLink="false">pepite-d1c04a0cf2fc864c</guid>
-      <pubDate>Tue, 11 Aug 2026 14:50:33 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 511pts/day — real momentum for something this new, not a one-day spike. Still under the radar (289pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>sv-number/mcp-server</title>
-      <link>https://github.com/sv-number/mcp-server</link>
-      <guid isPermaLink="false">pepite-aea460d7828b1609</guid>
-      <pubDate>Fri, 07 Aug 2026 11:13:26 +0000</pubDate>
-      <category>repos</category>
-      <description>Phone numbers as tools. Your agent orders a private number in the country a service expects, reads the SMS verification code straight from the API, and hands the number back. Nine tools over stdio, no SDK to learn. 200+ countries, the widest coverage in this category. Every other claim on this page is checkable too, but this one takes a single call: run… It's pulling 132★/day — real momentum for something this new, not a one-day spike. Still under the radar (623★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>SaladDay/pi-from-scratch</title>
-      <link>https://github.com/SaladDay/pi-from-scratch</link>
-      <guid isPermaLink="false">pepite-c1e6883f4f578723</guid>
-      <pubDate>Sun, 09 Aug 2026 12:15:30 +0000</pubDate>
-      <category>repos</category>
-      <description>从零手写一个能读文件、改代码、执行命令的 TypeScript coding agent。 项目沿着 pi 的数据流拆解，需要什么、我们造什么，所有组件都是符合直觉的。 放轻松，这是一篇文章，不是一本书，你会很容易看懂。 网站把文章和源码放在一起。阅读推进时，右侧编辑器会逐步补全代码，当你看完的时候，nano-pi 的代码也会全部呈现在编辑器中。 同时设计了一个 Trace 跟踪，可以打断点逐行过代码，希望能帮助大家理解代码执行流。 需要 Node.js 22 或更高版本，以及一个 OpenAI 兼容 API。 线上 trace It's pulling 219★/day — real momentum for something this new, not a one-day spike. Still under the radar (587★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
-      <link>https://stolen-thoughts.com/</link>
-      <guid isPermaLink="false">pepite-03faac93cba56f8c</guid>
-      <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 874pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Voice driven murder mystery, Interview AI suspects with your voice</title>
-      <link>https://www.whodunnitai.com/</link>
-      <guid isPermaLink="false">pepite-63d82ed3e1bacb64</guid>
-      <pubDate>Mon, 10 Aug 2026 03:18:40 +0000</pubDate>
-      <category>agents</category>
-      <description>Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it. I recently had the desire to check out the tech again, and know many of you will be… It's pulling 101pts/day — real momentum for something this new, not a one-day spike. Still under the radar (208pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Agentic Configuration Management (ACM): A Reference Configuration Model for Governed Agentic Systems</title>
-      <link>http://arxiv.org/abs/2608.11166v1</link>
-      <guid isPermaLink="false">pepite-130d3e129f1b22c2</guid>
-      <pubDate>Tue, 11 Aug 2026 17:28:39 +0000</pubDate>
-      <category>research</category>
-      <description>Agentic systems are increasingly composed of heterogeneous agents, prompts, tools, models, skills, composite subsystems, policies, and execution workflows whose configurations evolve across frameworks and runtime environments. Existing LLMOps and AgentOps platforms support orchestration and observability but do not provide a common configuration-governance… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
