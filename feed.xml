@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Who’s behind the new ‘stealth model’ Ox Alpha?</title>
+      <link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
+      <guid isPermaLink="false">pepite-055017b0a06036dc</guid>
+      <pubDate>Sun, 23 Aug 2026 20:01:36 +0000</pubDate>
+      <category>models</category>
+      <description>A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter</title>
+      <link>https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/</link>
+      <guid isPermaLink="false">pepite-f4c603a14e05a80e</guid>
+      <pubDate>Sun, 23 Aug 2026 10:02:00 +0000</pubDate>
+      <category>agents</category>
+      <description>AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so actual costs are rising far more slowly than the raw numbers suggest. The article AI is becoming AI's biggest…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>An AI boss fired its first employee but only after humans reminded it of its own rules</title>
+      <link>https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/</link>
+      <guid isPermaLink="false">pepite-9eac5c10d5fb1e52</guid>
+      <pubDate>Sun, 23 Aug 2026 12:31:59 +0000</pubDate>
+      <category>agents</category>
+      <description>Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesitated. When it came to hiring, nearly all models were uncritical. The article An…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Is it legal to train AI models on copyrighted books? It’s complicated</title>
+      <link>https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/</link>
+      <guid isPermaLink="false">pepite-8dafa127b694766c</guid>
+      <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>missuo/herdrm</title>
+      <link>https://github.com/missuo/herdrm</link>
+      <guid isPermaLink="false">pepite-946ea8e17e210f24</guid>
+      <pubDate>Wed, 19 Aug 2026 06:55:39 +0000</pubDate>
+      <category>repos</category>
+      <description>The native macOS console for herdr — see Claude Code, Codex, Gemini, Grok and OpenCode across your Mac and every SSH box you own, and jump into any one of them at full-TUI fidelity. herdr is the runtime your coding agents live on — a background server that owns their terminals and knows which one is working, blocked, or done. herdrm is a native macOS window… It's pulling 126★/day — real momentum for something this new, not a one-day spike. Still under the radar (613★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>HarnessRouter/harnessrouter</title>
+      <link>https://github.com/HarnessRouter/harnessrouter</link>
+      <guid isPermaLink="false">pepite-5203a720c4f66eb6</guid>
+      <pubDate>Sun, 09 Aug 2026 20:19:14 +0000</pubDate>
+      <category>repos</category>
+      <description>Run agent harnesses on your own machine. own data. Configure a harness, give it work, watch it run, with no account, no cloud, and no telemetry. Community Edition implements the Unified Harness Protocol (UHP), the open standard the hosted service implements too. Six steps, and at the end of them you have a running instance, a signed-in console, and an agent… It's pulling 38★/day — real momentum for something this new, not a one-day spike. Still under the radar (552★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Quoting Drew Breunig</title>
+      <link>https://simonwillison.net/2026/Aug/23/drew-breunig/</link>
+      <guid isPermaLink="false">pepite-02dbe79386a69164</guid>
+      <pubDate>Sun, 23 Aug 2026 19:55:30 +0000</pubDate>
+      <category>models</category>
+      <description>Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible . But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
+      <link>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</link>
+      <guid isPermaLink="false">pepite-d6c0f7eda20e5cca</guid>
+      <pubDate>Sun, 23 Aug 2026 20:24:52 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from "people with knowledge of the matter": Anthropic's "annualized revenue" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)</title>
+      <link>https://www.pianoify.net/</link>
+      <guid isPermaLink="false">pepite-4f6357cd5532b240</guid>
+      <pubDate>Fri, 21 Aug 2026 15:44:40 +0000</pubDate>
+      <category>models</category>
+      <description>GPU powered models to convert any song to piano It's pulling 20pts/day — real momentum for something this new, not a one-day spike. Still under the radar (52pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning</title>
+      <link>http://arxiv.org/abs/2608.21300v1</link>
+      <guid isPermaLink="false">pepite-3393d866a404f56d</guid>
+      <pubDate>Fri, 21 Aug 2026 17:01:10 +0000</pubDate>
+      <category>research</category>
+      <description>Foundation models for medical image segmentation, like prompt-based MedSAM, generalize well across domains and modalities, often in zero or few-shot setups. However, their performance depends on the quality of prompts and the adaptation of the models to custom datasets. This work systematically examines how MedSAM generalizes across diverse medical imaging… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems</title>
+      <link>http://arxiv.org/abs/2608.21095v1</link>
+      <guid isPermaLink="false">pepite-a6060e4243a294c3</guid>
+      <pubDate>Fri, 21 Aug 2026 13:42:41 +0000</pubDate>
+      <category>finance</category>
+      <description>Retrieval-Augmented Generation (RAG) grounds Large Language Model (LLM) outputs in external knowledge, but RAG systems usually trust whatever they retrieve, creating a Security-Reliability Gap: high semantic relevance does not guarantee factual truth. Adversaries exploit this through knowledge poisoning, inserting malicious documents to cause targeted… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering</title>
+      <link>http://arxiv.org/abs/2608.21252v1</link>
+      <guid isPermaLink="false">pepite-94b0fcb1cbd2d103</guid>
+      <pubDate>Fri, 21 Aug 2026 16:05:00 +0000</pubDate>
+      <category>research</category>
+      <description>Question answering (QA) over long, connected documents remains challenging because relevant evidence may span multiple entities and their relationships. Existing retrieval-augmented generation (RAG) methods typically index documents as raw chunks and retrieve them through embedding similarity. Their performance degrades when chunk boundaries separate… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>LLMs are proof that Unix won</title>
+      <link>https://bastian.rieck.me/blog/2026/unix/</link>
+      <guid isPermaLink="false">pepite-76a6762cb436a5b7</guid>
+      <pubDate>Fri, 21 Aug 2026 15:59:16 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 16pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B, just wanted to say thanks to you guys</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vwowbu/qwen_38_27b_just_wanted_to_say_thanks_to_you_guys/</link>
+      <guid isPermaLink="false">pepite-1a473ae013c89e60</guid>
+      <pubDate>Mon, 24 Aug 2026 01:22:02 +0000</pubDate>
+      <category>agents</category>
+      <description>I commented on another Qwen 3.8 27B post that I was frustrated getting anything to work. You all gave some great comments. I nuked openwebui and straightened out my llama.cpp docker config. 1 hour of work and I have a model I can chat with, connected to my HomeAssistant server, which I have already updated dashboards with a short prompt and a screenshot… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research</title>
       <link>https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</link>
       <guid isPermaLink="false">pepite-683931e34e4d9cf3</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 13 Aug 2026 17:59:57 +0000</pubDate>
       <category>research</category>
       <description>Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination</title>
-      <link>http://arxiv.org/abs/2608.13476v1</link>
-      <guid isPermaLink="false">pepite-9da9ed0b10768223</guid>
-      <pubDate>Thu, 13 Aug 2026 17:00:08 +0000</pubDate>
-      <category>finance</category>
-      <description>We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer generation, and evaluation, with explicit context passing and traceable intermediate outputs,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.33</title>
-      <link>https://simonwillison.net/2026/Aug/13/llm-gemini/</link>
-      <guid isPermaLink="false">pepite-0d1d047935ed1c6f</guid>
-      <pubDate>Thu, 13 Aug 2026 19:37:34 +0000</pubDate>
-      <category>models</category>
-      <description>Release: llm-gemini 0.33 It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash , gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001 . The plugin is also upgraded for compatibility with LLM 0.32, which means you can now… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
-      <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
-      <guid isPermaLink="false">pepite-c1c988556190aa29</guid>
-      <pubDate>Thu, 13 Aug 2026 17:16:04 +0000</pubDate>
-      <category>agents</category>
-      <description>It landed in the last few hours.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus</title>
-      <link>https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/</link>
-      <guid isPermaLink="false">pepite-d8e6b45fe391f60b</guid>
-      <pubDate>Fri, 14 Aug 2026 03:09:45 +0000</pubDate>
-      <category>research</category>
-      <description>This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline—from dataset analysis and heuristic cleaning… It landed in the last few hours.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>[AINews] SpaceXAI Grok 4.6 and Grok @Bot</title>
-      <link>https://www.latent.space/p/ainews-spacexai-grok-46-and-grok</link>
-      <guid isPermaLink="false">pepite-e64c69cd1c8d9764</guid>
-      <pubDate>Thu, 13 Aug 2026 01:53:47 +0000</pubDate>
-      <category>models</category>
-      <description>AI teammate category just had its most significant new entrant yet It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price</title>
-      <link>https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/</link>
-      <guid isPermaLink="false">pepite-2218c6058dd521fa</guid>
-      <pubDate>Wed, 12 Aug 2026 18:33:21 +0000</pubDate>
-      <category>agents</category>
-      <description>xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price more than 60 percent lower. The article SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</title>
-      <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
-      <guid isPermaLink="false">pepite-3daa30d9847f91f5</guid>
-      <pubDate>Wed, 12 Aug 2026 22:26:37 +0000</pubDate>
-      <category>models</category>
-      <description>Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials</title>
-      <link>https://discoveredmaterials.com/research/</link>
-      <guid isPermaLink="false">pepite-3c8b82679caf4940</guid>
-      <pubDate>Wed, 12 Aug 2026 07:51:20 +0000</pubDate>
-      <category>agents</category>
-      <description>Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ). We build AI agents that discover new materials for the semiconductor industry. GPUs today have a heat problem. Nvidia &amp; AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Blackwell… It's pulling 145pts/day — real momentum for something this new, not a one-day spike. Still under the radar (125pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation</title>
-      <link>https://woxi.ad-si.com</link>
-      <guid isPermaLink="false">pepite-04bfb8c1b6c5165e</guid>
-      <pubDate>Wed, 12 Aug 2026 10:06:29 +0000</pubDate>
-      <category>repos</category>
-      <description>Woxi is an interpreter for the Wolfram Language written in Rust. It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module. Compared with wolframscript / Mathematica, the main differences are: - Free and open source - Very fast startup - Typically… It's pulling 347pts/day — real momentum for something this new, not a one-day spike. Still under the radar (266pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>What sort of maths are LLMs good at?</title>
-      <link>https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</link>
-      <guid isPermaLink="false">pepite-53695e5041d535d4</guid>
-      <pubDate>Wed, 12 Aug 2026 10:04:25 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 319pts/day — real momentum for something this new, not a one-day spike. Still under the radar (245pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AMAP-ML/LongHorizon-Harness</title>
-      <link>https://github.com/AMAP-ML/LongHorizon-Harness</link>
-      <guid isPermaLink="false">pepite-ec22eec1fdb182e5</guid>
-      <pubDate>Tue, 04 Aug 2026 04:30:58 +0000</pubDate>
-      <category>repos</category>
-      <description>Usage · The Loop · Computer Use · Results · Project Website · 简体中文 LongHorizon-Harness turns existing agents into long-running computer-use systems. Across desktop apps and the terminal CLI, it continuously recovers the goal and verified state, selects the next bounded step, executes it with a fresh context, checks the actual result, and then checkpoints… It's pulling 72★/day — real momentum for something this new, not a one-day spike. Still under the radar (651★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>egoist/waku</title>
-      <link>https://github.com/egoist/waku</link>
-      <guid isPermaLink="false">pepite-debdb52cfda32038</guid>
-      <pubDate>Fri, 31 Jul 2026 09:38:33 +0000</pubDate>
-      <category>repos</category>
-      <description>Waku is a fast, native desktop app for working with local coding agents. It is built in Rust with GPUI and keeps projects, sessions, transcripts on your machine. Install and authenticate at least one supported agent CLI before starting Waku. Waku detects available CLIs automatically and uses each provider's native structured protocol and session continuity.… It's pulling 50★/day — real momentum for something this new, not a one-day spike. Still under the radar (643★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies</title>
-      <link>http://arxiv.org/abs/2608.12282v1</link>
-      <guid isPermaLink="false">pepite-4b5bc23b201ab767</guid>
-      <pubDate>Wed, 12 Aug 2026 17:27:27 +0000</pubDate>
-      <category>research</category>
-      <description>Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\textbf{V}aluating \textbf{A}PI and \textbf{K}nowledge \textbf{R}etrieval \textbf{A}gents), a benchmark of over $8{,}000$ executable APIs across $62$ domains with tasks… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization</title>
-      <link>http://arxiv.org/abs/2608.12158v1</link>
-      <guid isPermaLink="false">pepite-8fff931e3bc53555</guid>
-      <pubDate>Wed, 12 Aug 2026 15:20:29 +0000</pubDate>
-      <category>research</category>
-      <description>Multimodal large language models (MLLMs) have made rapid progress, yet they still exhibit object hallucination, generating plausible but incorrect descriptions that are inconsistent with the visual input. Direct Preference Optimization (DPO) mitigates this by training models to prefer non-hallucinated responses over hallucinated ones, and recent efforts… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
