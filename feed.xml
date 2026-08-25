@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic</title>
+      <link>https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/</link>
+      <guid isPermaLink="false">pepite-ccf5f70b7a674706</guid>
+      <pubDate>Mon, 24 Aug 2026 12:59:43 +0000</pubDate>
+      <category>research</category>
+      <description>Thomson Reuters is launching "Thomson," its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw. CTO Joel Hron makes the point that what matters isn't intelligence itself, but knowing which intelligence you need…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</title>
+      <link>https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</link>
+      <guid isPermaLink="false">pepite-351f69dcf090598e</guid>
+      <pubDate>Mon, 24 Aug 2026 15:24:18 +0000</pubDate>
+      <category>finance</category>
+      <description>General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI is building AI agents for everything. Will everyone use them?</title>
+      <link>https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/</link>
+      <guid isPermaLink="false">pepite-b0c3b7c6480ea483</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Inside the frontier lab’s push to bring AI agents from software engineers to the masses.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>AI chatbots regularly link pregnant users to anti-abortion websites without disclosure</title>
+      <link>https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/</link>
+      <guid isPermaLink="false">pepite-bf78163bc77cd6ff</guid>
+      <pubDate>Mon, 24 Aug 2026 10:00:51 +0000</pubDate>
+      <category>models</category>
+      <description>When asked about unplanned pregnancies, AI chatbots regularly link to anti-abortion groups without disclosing their stance. In an AlgorithmWatch investigation of 270 responses from ChatGPT, Gemini, Grok, and Claude, the anti-abortion organization Profemina appeared in 17 percent of answers. In Germany, the chatbots also sent users to Caritas for mandatory…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>LLMs could control their host machines by exploiting inference engines</title>
+      <link>https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</link>
+      <guid isPermaLink="false">pepite-bd1b4886f91a7012</guid>
+      <pubDate>Mon, 24 Aug 2026 19:03:06 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 299pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam</title>
+      <link>https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc</link>
+      <guid isPermaLink="false">pepite-60562557f1104033</guid>
+      <pubDate>Mon, 24 Aug 2026 16:52:01 +0000</pubDate>
+      <category>other</category>
+      <description>It landed in the last few hours. It's pulling 181pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)</title>
+      <link>https://developers.openai.com/api/docs/pricing</link>
+      <guid isPermaLink="false">pepite-3abfc27d8418acb9</guid>
+      <pubDate>Mon, 24 Aug 2026 15:22:43 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 612pts/day — real momentum for something this new, not a one-day spike. Still under the radar (308pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>rome-os/rome</title>
+      <link>https://github.com/rome-os/rome</link>
+      <guid isPermaLink="false">pepite-d929737b63d9c81d</guid>
+      <pubDate>Sun, 23 Aug 2026 06:15:15 +0000</pubDate>
+      <category>repos</category>
+      <description>The agentic OS for humans and agents. Most progress in AI comes from scaling models. Rome scales the other axis, the environment: the tools, workflows, memory, and interfaces an agent works within (why this matters). Rome is a guardrailed environment where human and agent collaborate, and the collaboration compounds. Agents build their own harnesses, design… It's pulling 157★/day — real momentum for something this new, not a one-day spike. Still under the radar (297★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>BOMWiki/partmode</title>
+      <link>https://github.com/BOMWiki/partmode</link>
+      <guid isPermaLink="false">pepite-027bcacb0625c293</guid>
+      <pubDate>Thu, 06 Aug 2026 04:51:12 +0000</pubDate>
+      <category>repos</category>
+      <description>Open-source, local-first parametric CAD for people and permissioned typed agents. PartMode is browser-based mechanical CAD built on OpenCascade WebAssembly, replicad, and three.js. It combines constrained sketches, editable feature history, exact B-rep evaluation, assemblies, drawings, and standard exchange formats in one application that runs without a… It's pulling 33★/day — real momentum for something this new, not a one-day spike. Still under the radar (641★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Prime Agent: A Self-Improving RLM Harness</title>
+      <link>http://arxiv.org/abs/2608.23552v1</link>
+      <guid isPermaLink="false">pepite-bc9fd41118fb94d0</guid>
+      <pubDate>Mon, 24 Aug 2026 17:54:19 +0000</pubDate>
+      <category>finance</category>
+      <description>Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>How to Train a Critic Stably and Efficiently</title>
+      <link>http://arxiv.org/abs/2608.23566v1</link>
+      <guid isPermaLink="false">pepite-27be27fcb74f8301</guid>
+      <pubDate>Mon, 24 Aug 2026 17:59:39 +0000</pubDate>
+      <category>research</category>
+      <description>Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \textbf{Best-Practice… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings</title>
+      <link>http://arxiv.org/abs/2608.23551v1</link>
+      <guid isPermaLink="false">pepite-8bb7ade8eddfee9c</guid>
+      <pubDate>Mon, 24 Aug 2026 17:54:14 +0000</pubDate>
+      <category>research</category>
+      <description>Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross entropy (CE) because the flow trajectories are not guaranteed to terminate at valid token embeddings. Motivated by this limitation, we… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>llm-anthropic 0.27</title>
+      <link>https://simonwillison.net/2026/Aug/24/llm-anthropic/</link>
+      <guid isPermaLink="false">pepite-cce482eca04d1925</guid>
+      <pubDate>Mon, 24 Aug 2026 16:27:04 +0000</pubDate>
+      <category>models</category>
+      <description>Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Headlong: An open source agent microharness featuring persistent agency and recursive LLMs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vxnf6l/headlong_an_open_source_agent_microharness/</link>
+      <guid isPermaLink="false">pepite-fc1a5ac5dc59c980</guid>
+      <pubDate>Tue, 25 Aug 2026 02:36:32 +0000</pubDate>
+      <category>agents</category>
+      <description>An RLM agent microharness that "persistently" thinks continuously. What could go wrong :) Introducing Headlong, an open source microharness for persistent agents: self-guided agents that think continuously. Most agent harnesses are reactive: you send a task, the agent completes it, and then it sits frozen until the next request. Cron jobs and heartbeats… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Who’s behind the new ‘stealth model’ Ox Alpha?</title>
       <link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
       <guid isPermaLink="false">pepite-055017b0a06036dc</guid>
@@ -1362,145 +1502,5 @@
       <description>Don't classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say "which of these tags match the following content". Doug Turnbull has a neat solution. Tell the model to output tags without any details of the existing vocabulary,… It landed in the last few hours.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>AmalthAI: An Open-Source Computer Vision Platform for Cultural Heritage</title>
-      <link>http://arxiv.org/abs/2608.13343v1</link>
-      <guid isPermaLink="false">pepite-26a6e0e96f5db1c5</guid>
-      <pubDate>Thu, 13 Aug 2026 15:14:48 +0000</pubDate>
-      <category>research</category>
-      <description>Computer vision (CV) and machine learning (ML) offer new tools for cultural heritage (CH) artifact analysis, but the CV/ML pipeline remains largely inaccessible to CH domain experts, who lack the background to configure, train, or assess models. We present AmalthAI, an open-source CV platform that bridges this gap, enabling non-ML CH experts to… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Vero: Can AI Agents Build Formally Verified Software Repositories?</title>
-      <link>http://arxiv.org/abs/2608.13522v1</link>
-      <guid isPermaLink="false">pepite-0a1e33ab29387bf4</guid>
-      <pubDate>Thu, 13 Aug 2026 17:41:27 +0000</pubDate>
-      <category>research</category>
-      <description>AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-generated software. Existing benchmarks in this direction either… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>How Good are Foundation Models in Longitudinal MRI Disease Progression Reasoning?</title>
-      <link>http://arxiv.org/abs/2608.13309v1</link>
-      <guid isPermaLink="false">pepite-a920e44295eacd58</guid>
-      <pubDate>Thu, 13 Aug 2026 14:35:20 +0000</pubDate>
-      <category>finance</category>
-      <description>Magnetic Resonance Imaging (MRI) interpretation is fundamental to clinical decision-making, requiring radiologists to integrate multi-view anatomical planes across sequential timepoints while precisely localizing interval changes. However, existing vision-language benchmarks remain confined to single-timepoint, single-view interpretation, failing to capture… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>[Megathread] Qwen 3.8 27B Release Day</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1voojjz/megathread_qwen_38_27b_release_day/</link>
-      <guid isPermaLink="false">pepite-eb3251ba82022aa6</guid>
-      <pubDate>Sat, 15 Aug 2026 00:41:13 +0000</pubDate>
-      <category>research</category>
-      <description>Megathread to help with the influx of duplicate / similar posts around the release of the Qwen 3.8 27B release. Quants Fine-Tunes &amp; Abliterations Chat Templates Inference Server Support &amp; Configuration Experiences, Benchmarks &amp; Model Comparisons Official: https://huggingface.co/Qwen/Qwen3.8-27B https://huggingface.co/Qwen/Qwen3.8-27B-FP8 Popular:… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%</title>
-      <link>https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/</link>
-      <guid isPermaLink="false">pepite-bd251169f9f092de</guid>
-      <pubDate>Thu, 13 Aug 2026 18:41:52 +0000</pubDate>
-      <category>research</category>
-      <description>Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price. The article Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Writer introduces new AI model and upgraded harness to contain token costs</title>
-      <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
-      <guid isPermaLink="false">pepite-db3e778cea5d66ad</guid>
-      <pubDate>Thu, 13 Aug 2026 21:13:24 +0000</pubDate>
-      <category>models</category>
-      <description>Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed</title>
-      <link>https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/</link>
-      <guid isPermaLink="false">pepite-71f28f1b3fcc8fba</guid>
-      <pubDate>Thu, 13 Aug 2026 19:22:40 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Leutenegger/book-to-skill</title>
-      <link>https://github.com/Leutenegger/book-to-skill</link>
-      <guid isPermaLink="false">pepite-9c12da9ea6c35da7</guid>
-      <pubDate>Thu, 13 Aug 2026 13:15:23 +0000</pubDate>
-      <category>repos</category>
-      <description>Turn any technical book, document folder, or collection of sources into a unified agent skill — ready to study, reference, and use while you work in GitHub Copilot CLI, Amp, or Claude Code. 24×–51× fewer tokens than dumping the book into context to answer one question, measured on real books. book-to-skill &amp;lt;path-to-book.pdf&amp;gt; 1. Point it at a file,… It's pulling 1644★/day — real momentum for something this new, not a one-day spike. Still under the radar (1038★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>AI agents lie, cheat and steal. That is putting off users</title>
-      <link>https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users</link>
-      <guid isPermaLink="false">pepite-9f348cd1cae27dbf</guid>
-      <pubDate>Thu, 13 Aug 2026 13:28:45 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 254pts/day — real momentum for something this new, not a one-day spike. Still under the radar (158pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>elie222/rakazo</title>
-      <link>https://github.com/elie222/rakazo</link>
-      <guid isPermaLink="false">pepite-4cceb5e2f9e1e9ae</guid>
-      <pubDate>Thu, 13 Aug 2026 06:28:56 +0000</pubDate>
-      <category>repos</category>
-      <description>Open-source Grok Bot alternative, built with Cursor and Grok 4.6. Web, desktop, and mobile. Bring your own AI and sandbox. The product is still early (beta). Notable product changes are in CHANGELOG.md. Each bot has one thread, one computer, memory, routines, and history. A bot can also spawn more bots — each a regular peer with its own thread and computer… It's pulling 296★/day — real momentum for something this new, not a one-day spike. Still under the radar (271★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Launch HN: Bullet (YC S26) – A Faster Coding Agent</title>
-      <link>https://www.codewithbullet.com</link>
-      <guid isPermaLink="false">pepite-aac6a77b2ac3cf43</guid>
-      <pubDate>Thu, 13 Aug 2026 08:14:30 +0000</pubDate>
-      <category>agents</category>
-      <description>Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding agent. Bullet started in a senior year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure path to startup success. We were going to use our skills optimizing stock pricing calculation speeds and agent document context to take over the world. So,… It's pulling 105pts/day — real momentum for something this new, not a one-day spike. Still under the radar (89pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>US Navy sailors try to throw themselves overboard after 250 days at sea</title>
-      <link>https://www.telegraph.co.uk/world-news/2026/08/13/us-navy-sailors-jump-overboard-after-nine-months-at-sea/</link>
-      <guid isPermaLink="false">pepite-70bfa80a5712daa5</guid>
-      <pubDate>Thu, 13 Aug 2026 16:44:38 +0000</pubDate>
-      <category>other</category>
-      <description>It landed in the last few hours. It's pulling 82pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data</title>
-      <link>http://arxiv.org/abs/2608.13517v1</link>
-      <guid isPermaLink="false">pepite-879efcfda769b58c</guid>
-      <pubDate>Thu, 13 Aug 2026 17:37:53 +0000</pubDate>
-      <category>research</category>
-      <description>Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter language model based on the Hierarchical Reasoning Model (HRM) architecture, that is trained from scratch and delivers highly… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design</title>
-      <link>http://arxiv.org/abs/2608.13560v1</link>
-      <guid isPermaLink="false">pepite-55bdca2dbc68c7ac</guid>
-      <pubDate>Thu, 13 Aug 2026 17:59:57 +0000</pubDate>
-      <category>research</category>
-      <description>Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
