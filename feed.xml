@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Google launches Gemini for legal work to automate contracts and research</title>
+      <link>https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/</link>
+      <guid isPermaLink="false">pepite-d535fc63895defc4</guid>
+      <pubDate>Tue, 25 Aug 2026 16:21:09 +0000</pubDate>
+      <category>agents</category>
+      <description>With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers similar solutions. All providers use the same models as in their other products.… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI's first custom chip "Jalapeño" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks</title>
+      <link>https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/</link>
+      <guid isPermaLink="false">pepite-41f10b717e4a4748</guid>
+      <pubDate>Tue, 25 Aug 2026 18:00:50 +0000</pubDate>
+      <category>research</category>
+      <description>OpenAI showed off "Jalapeño," its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency. "Usually first generation chips aren't competitive, but OpenAI is beating Nvidia Blackwell and even Rubin," SemiAnalysis CEO Dylan… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Claude Cowork finally remembers what you told the app in chat</title>
+      <link>https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/</link>
+      <guid isPermaLink="false">pepite-4b53c711439f45df</guid>
+      <pubDate>Tue, 25 Aug 2026 17:50:33 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI loses a top data center exec, as stream of high-profile departures continues</title>
+      <link>https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/</link>
+      <guid isPermaLink="false">pepite-3c7ff1efc47f93a0</guid>
+      <pubDate>Wed, 26 Aug 2026 00:06:20 +0000</pubDate>
+      <category>other</category>
+      <description>Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated</title>
+      <link>https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/</link>
+      <guid isPermaLink="false">pepite-cb9675247a6f7c5e</guid>
+      <pubDate>Tue, 25 Aug 2026 12:27:57 +0000</pubDate>
+      <category>models</category>
+      <description>Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story. Nvidia needs at least 64 accelerators to get there, while Cerebras needs only one or two, according to The Register. How well the architecture scales with large…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Show HN: I made a Raspberry with Qwen my local car AI</title>
+      <link>https://github.com/ThinkOffApp/CarWatch</link>
+      <guid isPermaLink="false">pepite-38bb3d024c1709d1</guid>
+      <pubDate>Tue, 25 Aug 2026 15:20:20 +0000</pubDate>
+      <category>agents</category>
+      <description>Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion… It's pulling 223pts/day — real momentum for something this new, not a one-day spike. Still under the radar (114pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>ApodexAI/FrontierAgent</title>
+      <link>https://github.com/ApodexAI/FrontierAgent</link>
+      <guid isPermaLink="false">pepite-6c6d912088f3a65d</guid>
+      <pubDate>Sat, 22 Aug 2026 05:07:35 +0000</pubDate>
+      <category>repos</category>
+      <description>FrontierAgent is an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work. The frontier-agent TUI ships two native workflows: runs commands, and iterates in a task-scoped sandbox. - Agent Team — a coordinator maintains a task board, delegates independent work to parallel sub-agents, collects their… It's pulling 165★/day — real momentum for something this new, not a one-day spike. Still under the radar (652★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Warnock: Harnessing GPU geometry amplification for vector graphics</title>
+      <link>https://dl.acm.org/doi/pdf/10.1145/3820012</link>
+      <guid isPermaLink="false">pepite-231cd764fac52220</guid>
+      <pubDate>Tue, 25 Aug 2026 15:26:45 +0000</pubDate>
+      <category>other</category>
+      <description>Video: https://www.youtube.com/watch?v=PTD4yvGWgvA It's pulling 75pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>iAmCorey/Wake</title>
+      <link>https://github.com/iAmCorey/Wake</link>
+      <guid isPermaLink="false">pepite-2d77e819954d6d10</guid>
+      <pubDate>Tue, 18 Aug 2026 09:46:23 +0000</pubDate>
+      <category>repos</category>
+      <description>A native desktop app that gathers every coding-agent session on your machine into one place — browse, full-text search, and resume any conversation in seconds. Built with Rust + GPUI (gpui 0.2 + gpui-component 0.5). macOS first; experimental Linux support since v0.2.5, experimental Windows support since v0.2.7. Your agent history is scattered across… It's pulling 80★/day — real momentum for something this new, not a one-day spike. Still under the radar (626★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms</title>
+      <link>http://arxiv.org/abs/2608.24877v1</link>
+      <guid isPermaLink="false">pepite-2c5144ed91767d08</guid>
+      <pubDate>Tue, 25 Aug 2026 17:56:54 +0000</pubDate>
+      <category>research</category>
+      <description>Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-body viewpoint aligns with the wearer's vision, audition, motion, and hand-object interaction, but must operate under tight energy, thermal, privacy, and feedback… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
+      <link>https://github.com/thiagotigaz/ocr-it</link>
+      <guid isPermaLink="false">pepite-f71c6f9b77363a1c</guid>
+      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 73pts/day — real momentum for something this new, not a one-day spike. Still under the radar (139pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Parameter-Efficient Self-Supervised Adaptation for EEG-FM under Fixed Computational Budgets</title>
+      <link>http://arxiv.org/abs/2608.24727v1</link>
+      <guid isPermaLink="false">pepite-68016eeb79178aa0</guid>
+      <pubDate>Tue, 25 Aug 2026 15:38:46 +0000</pubDate>
+      <category>research</category>
+      <description>EEG foundation models pretrained via self-supervised learning promise transferable representations, but their generalization remains limited, especially across diverse clinical datasets. Full fine-tuning is impractical for resource-constrained clinical settings due to high computational requirements. In this work, we investigate whether parameter-efficient… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>On-Policy Self-Distillation in Diffusion Models</title>
+      <link>http://arxiv.org/abs/2608.24646v1</link>
+      <guid isPermaLink="false">pepite-518e009e5ec8548c</guid>
+      <pubDate>Tue, 25 Aug 2026 14:55:24 +0000</pubDate>
+      <category>research</category>
+      <description>Reinforcement learning can align diffusion models with human preferences and task-specific objectives, but endpoint rewards do not specify how an intermediate denoising prediction should change. We introduce DiffusionOPSD as an on-policy self-distillation framework that converts image-level reward guidance into explicit targets for clean-output predictions… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Fully quantized NVFP4 Qwen3.8-27B with QUASAR QAD</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vyie86/fully_quantized_nvfp4_qwen3827b_with_quasar_qad/</link>
+      <guid isPermaLink="false">pepite-8c645fef9c66e06c</guid>
+      <pubDate>Wed, 26 Aug 2026 01:04:56 +0000</pubDate>
+      <category>models</category>
+      <description>We're releasing a fully quantized NVFP4 version of Qwen3.8-27B. The checkpoint was trained using quantization-aware distillation (QAD) with QUASAR, our new QAT algorithm. We used the original BF16 model as the teacher and distilled the quantized model for 2,446 steps. The checkpoint supports vLLM on NVIDIA Blackwell GPUs: vllm serve… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic</title>
       <link>https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/</link>
       <guid isPermaLink="false">pepite-ccf5f70b7a674706</guid>
@@ -1362,145 +1502,5 @@
       <description>🎯 An agent's vision capability doesn't have to live in the model — it can live in the harness. If your agent already runs on a text-only model such as DeepSeek but is held back by the lack of multimodality — unable to see images, with every attempt to use an image tool blocked by the system — this repository provides tools, skills, and proxy integrations… It's pulling 61★/day — real momentum for something this new, not a one-day spike. Still under the radar (912★) — early enough to be worth a look before everyone piles in.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>CORS Chat</title>
-      <link>https://simonwillison.net/2026/Aug/15/cors-chat/</link>
-      <guid isPermaLink="false">pepite-e25d8c268c6a65ab</guid>
-      <pubDate>Sat, 15 Aug 2026 14:49:54 +0000</pubDate>
-      <category>models</category>
-      <description>Tool: CORS Chat I built this today ( with GPT-5.6-Sol xhigh ) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine. Conversations are…
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Building an AI Text Detector From Scratch</title>
-      <link>https://magazine.sebastianraschka.com/p/ai-detector-from-scratch</link>
-      <guid isPermaLink="false">pepite-53ddef6230f10e58</guid>
-      <pubDate>Sat, 15 Aug 2026 11:54:24 +0000</pubDate>
-      <category>research</category>
-      <description>An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR
-
-— via Sebastian Raschka</description>
-    </item>
-    <item>
-      <title>Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ</title>
-      <link>http://arxiv.org/abs/2608.13441v1</link>
-      <guid isPermaLink="false">pepite-1676894e015c58cf</guid>
-      <pubDate>Thu, 13 Aug 2026 16:27:18 +0000</pubDate>
-      <category>research</category>
-      <description>Although multimodal large language models (MLLMs) have shown substantial potential in visual understanding and graphic code generation, editing scientific figures through code presents a greater challenge: a model must jointly recover visual structure, ground the requested change, generate compilable code, and preserve all unrelated content. While existing… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/</link>
-      <guid isPermaLink="false">pepite-5b8d6b17cd39c5ca</guid>
-      <pubDate>Sun, 16 Aug 2026 00:45:04 +0000</pubDate>
-      <category>agents</category>
-      <description>one of my llm hobbies is re-creating graphics demos i used to write in BASIC in the late 1980s. i slopped together an agentic harness and a basic-to-js transpiler in a web page i've been playing with for a few months. the agent can write basic programs, run them, examine the resulting images, and iterate. qwen3.6 could do a ray-tracer with some user input… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach</title>
-      <link>https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/</link>
-      <guid isPermaLink="false">pepite-88f400c021bed710</guid>
-      <pubDate>Fri, 14 Aug 2026 16:06:32 +0000</pubDate>
-      <category>agents</category>
-      <description>AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers. The original authors of unpublished NeurIPS papers rated the results as "Reject." According to the study, conducted with Princeton and the UK AI Security Institute, frontier models can handle the full research… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license</title>
-      <link>https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/</link>
-      <guid isPermaLink="false">pepite-720283094012040f</guid>
-      <pubDate>Fri, 14 Aug 2026 17:01:54 +0000</pubDate>
-      <category>agents</category>
-      <description>Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding and office tasks and natively processes up to 262,000 tokens of context. With this release, Qwen is targeting developers building local and agent-based… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic announces watermark detection API that will let third parties detect Claude's AI texts</title>
-      <link>https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/</link>
-      <guid isPermaLink="false">pepite-a3473d99bb430b42</guid>
-      <pubDate>Fri, 14 Aug 2026 21:29:17 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says. The approach has limits with fact-heavy text, code, and heavy rewriting. The article Anthropic… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Kog is going deeper to squeeze more inference out of GPUs</title>
-      <link>https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</link>
-      <guid isPermaLink="false">pepite-5f4cacaaf2bf7e98</guid>
-      <pubDate>Fri, 14 Aug 2026 14:50:11 +0000</pubDate>
-      <category>agents</category>
-      <description>The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: Mole – Deep research agent for your terminal</title>
-      <link>https://github.com/lajosdeme/mole</link>
-      <guid isPermaLink="false">pepite-bb39c3aae038146b</guid>
-      <pubDate>Fri, 14 Aug 2026 18:52:48 +0000</pubDate>
-      <category>agents</category>
-      <description>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident. And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it. So I built this tool: a deep-research agent with an enforced budget,… It landed in the last few hours. It's pulling 150pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: LuaCAD – Parametric CAD Scripted in Lua</title>
-      <link>https://luacad.ad-si.com</link>
-      <guid isPermaLink="false">pepite-c31de42105196d72</guid>
-      <pubDate>Fri, 14 Aug 2026 16:43:22 +0000</pubDate>
-      <category>models</category>
-      <description>LuaCAD models solids in Lua rather than the OpenSCAD language, with operator overloading for CSG (`a + b`, `a - b`, `a * b`). It ships with a CLI and a desktop app, including a preview area and a text editor. I've always been a big fan of OpenSCAD, but the SCAD language itself is unfortunately quite cobbled-together and is a very poorly designed programming… It landed in the last few hours. It's pulling 183pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Unsloth Qwen3.8-27B GGUF files</title>
-      <link>https://huggingface.co/unsloth/Qwen3.8-27B-GGUF</link>
-      <guid isPermaLink="false">pepite-9a159754df711a76</guid>
-      <pubDate>Fri, 14 Aug 2026 15:04:17 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 127pts/day — real momentum for something this new, not a one-day spike. Still under the radar (65pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Electricitysheep/dsh-handbook</title>
-      <link>https://github.com/Electricitysheep/dsh-handbook</link>
-      <guid isPermaLink="false">pepite-d1a69dbec5bcbe09</guid>
-      <pubDate>Thu, 13 Aug 2026 15:22:29 +0000</pubDate>
-      <category>repos</category>
-      <description>30 秒看懂 dsh Web UI ：新建会话 → 输入任务 → 模型选择 → 发送 → AI 回复 但官方文档以架构说明为主，缺少一条从零上手的路径。 首先要感谢每一位 Star、回复和投稿——这本手册不是一个人的作品，是 dsh 社区一起"长"出来的。 📖 第 1 章：认识 DeepSeek Harness —— 三个直觉 + 能力矩阵 ⚡ 第 2 章：五分钟快速上手 —— 30 秒跑起来 🧩 第 3 章：profile 与插件系统 —— 可定制骨架 🛠 第 4 章：插件开发实战 —— 完整可运行代码 📦 第 5 章：实战案例 —— 三个真实开源 PR 的完整闭环 🌐 第 7 章：生态与资源 —— 加入 dsh 生态的地图 🔗 第 9 章：MCP、子代理与工作流 —— Agent 系统化 🧪 第 10… It's pulling 146★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>0xsline/awesome-deepseek-harness</title>
-      <link>https://github.com/0xsline/awesome-deepseek-harness</link>
-      <guid isPermaLink="false">pepite-5e9e690df0e64a28</guid>
-      <pubDate>Tue, 11 Aug 2026 13:14:49 +0000</pubDate>
-      <category>repos</category>
-      <description>English &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp; 简体中文 Install &amp;nbsp;&amp;nbsp;&amp;nbsp; Contribution guide &amp;nbsp;&amp;nbsp;&amp;nbsp; DeepSeek Docs &amp;nbsp;&amp;nbsp;&amp;nbsp; Public plugin topic &amp;nbsp;&amp;nbsp;&amp;nbsp; Issues &amp;nbsp;&amp;nbsp;&amp;nbsp; 完整目录 &amp;nbsp;&amp;nbsp;&amp;nbsp; Curated DeepSeek Harness (DSH) ecosystem: plugins, tools &amp;amp; infrastructure. Sources: dsh-external/hub catalog and the public… It's pulling 114★/day — real momentum for something this new, not a one-day spike. Still under the radar (409★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Don't classify. Hallucinate!</title>
-      <link>https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</link>
-      <guid isPermaLink="false">pepite-245d0828ba0a8acb</guid>
-      <pubDate>Fri, 14 Aug 2026 21:54:35 +0000</pubDate>
-      <category>models</category>
-      <description>Don't classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say "which of these tags match the following content". Doug Turnbull has a neat solution. Tell the model to output tags without any details of the existing vocabulary,… It landed in the last few hours.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
