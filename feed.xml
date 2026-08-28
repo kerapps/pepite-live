@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>AI benchmarks have a trust problem and Google wants to fix it</title>
+      <link>https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/</link>
+      <guid isPermaLink="false">pepite-c63b8a38de38c33d</guid>
+      <pubDate>Fri, 28 Aug 2026 13:15:10 +0000</pubDate>
+      <category>finance</category>
+      <description>Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to keep Google from seeing the test questions and keep evaluators from seeing the model weights. The pilot project with the Singapore AI Safety Institute uses a Gemini Flash Lite and could set a new… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Always-on and self-starting AI agents might be OpenAI's next big play</title>
+      <link>https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/</link>
+      <guid isPermaLink="false">pepite-d7cfd75369219d53</guid>
+      <pubDate>Fri, 28 Aug 2026 08:03:22 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI is building a "Persistent Mode" for its AI agent Codex that stays active indefinitely and generates its own follow-up tasks. WIRED found the relevant code, and OpenAI confirmed the tests. The feature comes with risks, though. With GPT-5.6 Sol, persistent behavior already led to unwanted actions, like deleting user data. The article Always-on and… It landed in the last few hours.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic gets its first court win over the Pentagon’s supply chain risk label</title>
+      <link>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</link>
+      <guid isPermaLink="false">pepite-d62db5e9a1ea4a6d</guid>
+      <pubDate>Fri, 28 Aug 2026 12:46:12 +0000</pubDate>
+      <category>other</category>
+      <description>A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India</title>
+      <link>https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/</link>
+      <guid isPermaLink="false">pepite-b8d3f0cb5de26b4c</guid>
+      <pubDate>Fri, 28 Aug 2026 12:21:06 +0000</pubDate>
+      <category>other</category>
+      <description>Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab</title>
+      <link>https://github.com/calmrocks/ai-engineer-notebooks</link>
+      <guid isPermaLink="false">pepite-3a6d94a92c23888d</guid>
+      <pubDate>Thu, 27 Aug 2026 21:46:39 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 158pts/day — real momentum for something this new, not a one-day spike. Still under the radar (111pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Terminal-Bench-Science: Evaluating AI agents on scientific research workflows</title>
+      <link>https://www.terminal-bench-science.ai/announcement</link>
+      <guid isPermaLink="false">pepite-800b641e647c2d41</guid>
+      <pubDate>Fri, 28 Aug 2026 00:06:51 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 174pts/day — real momentum for something this new, not a one-day spike. Still under the radar (105pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: We built open OpenRouter that turns usage into a better model</title>
+      <link>https://github.com/experientiallabs/experiential</link>
+      <guid isPermaLink="false">pepite-85db7bd151a72c04</guid>
+      <pubDate>Thu, 27 Aug 2026 21:18:35 +0000</pubDate>
+      <category>models</category>
+      <description>Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place. It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior). The gateway… It's pulling 276pts/day — real momentum for something this new, not a one-day spike. Still under the radar (199pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>damejan80/tokentab</title>
+      <link>https://github.com/damejan80/tokentab</link>
+      <guid isPermaLink="false">pepite-c3ce5cb93c5001b2</guid>
+      <pubDate>Thu, 27 Aug 2026 14:16:09 +0000</pubDate>
+      <category>repos</category>
+      <description>tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, and by the kind of work each session was doing. It runs entirely locally: no account, no API key, nothing leaves your machine. Clone the repo and install it into your environment:… It's pulling 210★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>GamePhanes/GamePhanes</title>
+      <link>https://github.com/GamePhanes/GamePhanes</link>
+      <guid isPermaLink="false">pepite-f7c58a27c1149796</guid>
+      <pubDate>Fri, 21 Aug 2026 02:57:42 +0000</pubDate>
+      <category>repos</category>
+      <description>Homepage · Benchmark · Task Registry · Issues · Discussions Terminal benchmarks usually stop at files, commands, and exit codes. Interactive software adds a second truth: the project must import, launch, accept controlled input, change runtime state, and produce the intended behavior. Game Terminal-Bench evaluates coding agents on that complete loop. The… It's pulling 72★/day — real momentum for something this new, not a one-day spike. Still under the radar (539★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090</title>
+      <link>http://arxiv.org/abs/2608.27370v1</link>
+      <guid isPermaLink="false">pepite-4e1f252d8f5d1a19</guid>
+      <pubDate>Thu, 27 Aug 2026 17:07:12 +0000</pubDate>
+      <category>research</category>
+      <description>Language model pretraining has become almost synonymous with prohibitive cost, placing it out of reach for much of the academic and open-source communities. Although strong open-source efforts already exist, including open-weight models and open-source training recipes, a cost-efficient, hardware-accessible, and open-source pretraining recipe has long been… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes</title>
+      <link>http://arxiv.org/abs/2608.27455v1</link>
+      <guid isPermaLink="false">pepite-ca21bfb2e51d866c</guid>
+      <pubDate>Thu, 27 Aug 2026 17:59:30 +0000</pubDate>
+      <category>research</category>
+      <description>Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves reasoning while maintaining high efficiency.… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>TTPO: Test-Time Policy Optimization</title>
+      <link>http://arxiv.org/abs/2608.27448v1</link>
+      <guid isPermaLink="false">pepite-037a5c6fffa35a0c</guid>
+      <pubDate>Thu, 27 Aug 2026 17:58:10 +0000</pubDate>
+      <category>research</category>
+      <description>Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on ground-truth labels precludes test-time training (TTT). Replacing ground truth with majority-vote pseudo-labels is a natural alternative, yet… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Breaking Claude Code Opus 5 Auto Mode</title>
+      <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
+      <guid isPermaLink="false">pepite-146822d4fb1fbfda</guid>
+      <pubDate>Thu, 27 Aug 2026 22:50:25 +0000</pubDate>
+      <category>agents</category>
+      <description>Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today.…
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>The Local AI Stack for Productive SLMs</title>
+      <link>https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms</link>
+      <guid isPermaLink="false">pepite-88f00fb8abf79187</guid>
+      <pubDate>Fri, 28 Aug 2026 14:00:54 +0000</pubDate>
+      <category>models</category>
+      <description>A practical framework for choosing the right tools at each layer of your local AI setup, from model serving to context retrieval. It landed in the last few hours.
+
+— via KDnuggets</description>
+    </item>
+    <item>
       <title>How OpenAI let a mob of LLM agents game a test and ransack Hugging Face</title>
       <link>https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/</link>
       <guid isPermaLink="false">pepite-5bd809f960336270</guid>
@@ -1362,145 +1502,5 @@
       <description>The rapid evolution of text-to-image (T2I) generation models has effectively solved the foundational challenge of raw pixel synthesis, shifting the community's focus toward fulfilling increasingly intricate user requests. While recent agentic image generation workflows enhance static inference with advanced capabilities like external knowledge retrieval and… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>PixRestore: Unified Image Restoration via Pixel Diffusion Transformer</title>
-      <link>http://arxiv.org/abs/2608.16793v1</link>
-      <guid isPermaLink="false">pepite-3c92d35c8542ca20</guid>
-      <pubDate>Mon, 17 Aug 2026 16:49:55 +0000</pubDate>
-      <category>research</category>
-      <description>Unified image restoration (UIR) aims to recover high-quality (HQ) content from low-quality (LQ) images with different degradations using a single model. Most recent methods adapt large pretrained text-to-image (T2I) latent diffusion models for their strong capacity and generative priors. However, the variational autoencoder (VAE) in latent T2I models may… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement</title>
-      <link>http://arxiv.org/abs/2608.16628v1</link>
-      <guid isPermaLink="false">pepite-54a49d8bd7e28700</guid>
-      <pubDate>Mon, 17 Aug 2026 14:30:09 +0000</pubDate>
-      <category>research</category>
-      <description>Modern Multimodal Retrieval-Augmented Generation (M-RAG) systems are fundamentally limited by the binary connectivity paradigm of traditional simple graphs, which fails to capture the intricate, high-order correlations among heterogeneous entities, such as the N-ary relationships between a visual chart, its scattered textual descriptions, and underlying… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</title>
-      <link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
-      <guid isPermaLink="false">pepite-6aa6db5f712edc5a</guid>
-      <pubDate>Mon, 17 Aug 2026 23:58:14 +0000</pubDate>
-      <category>models</category>
-      <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.6B parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Made this game in two prompts with Q4, Qwen 3.8 is amazing</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vrabno/made_this_game_in_two_prompts_with_q4_qwen_38_is/</link>
-      <guid isPermaLink="false">pepite-774e642ec20f9244</guid>
-      <pubDate>Tue, 18 Aug 2026 00:49:54 +0000</pubDate>
-      <category>models</category>
-      <description>This took one prompt to build, and another follow up prompt to fix two issues (player got stuck with the bomb and broken enemies path-finding), this is only html, css and js, no external assets, all done by Qwen. Using UD-Q4_K_XL in llama.cpp with 128k context and k5_0/v4_1 quantized cache in 2x RTX 3060, Deepseek Harness, around 20 t/s average. The main… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Top mathematicians say LLMs are strong calculators but poor creative thinkers</title>
-      <link>https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/</link>
-      <guid isPermaLink="false">pepite-9fc930c398fd5847</guid>
-      <pubDate>Sun, 16 Aug 2026 15:31:21 +0000</pubDate>
-      <category>models</category>
-      <description>Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas. The article Top mathematicians say LLMs are strong calculators but poor creative thinkers appeared first on The Decoder . It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups</title>
-      <link>https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/</link>
-      <guid isPermaLink="false">pepite-9c0a8fdd2f98eaaf</guid>
-      <pubDate>Sun, 16 Aug 2026 08:12:52 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI shut down its "Preparedness" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a "burbling sense of responsibility and dread" that OpenAI isn't doing enough on…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’</title>
-      <link>https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/</link>
-      <guid isPermaLink="false">pepite-d6cf8a00384c7939</guid>
-      <pubDate>Sun, 16 Aug 2026 16:53:51 +0000</pubDate>
-      <category>other</category>
-      <description>Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee</title>
-      <link>https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</link>
-      <guid isPermaLink="false">pepite-d0ae2d05b3215139</guid>
-      <pubDate>Sun, 16 Aug 2026 21:07:10 +0000</pubDate>
-      <category>other</category>
-      <description>It landed in the last few hours. It's pulling 505pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>MathCode, Mathematical Coding Agent</title>
-      <link>https://math-ai-org.github.io/mathcode/</link>
-      <guid isPermaLink="false">pepite-c2c6d02b1e7097a3</guid>
-      <pubDate>Sun, 16 Aug 2026 18:17:10 +0000</pubDate>
-      <category>agents</category>
-      <description>It landed in the last few hours. It's pulling 187pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Ask HN: Do you know of any company that went back to hand-written code?</title>
-      <link>https://news.ycombinator.com/item?id=49318906</link>
-      <guid isPermaLink="false">pepite-afe6d06eb52b3159</guid>
-      <pubDate>Sun, 16 Aug 2026 11:05:47 +0000</pubDate>
-      <category>models</category>
-      <description>This is intended as a question about the current phase of the LLM hype cycle, and, at the same time, as a reality check about whether reluctance to rely on LLMs is economically viable for an average developer. You've definitely seen that many companies progressed from "use LLMs for anything and everything" policies to limiting budgets and scopes of approved… It's pulling 137pts/day — real momentum for something this new, not a one-day spike. Still under the radar (94pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Anionex/dsh-vision-toolkit</title>
-      <link>https://github.com/Anionex/dsh-vision-toolkit</link>
-      <guid isPermaLink="false">pepite-d46784a257bd2070</guid>
-      <pubDate>Thu, 13 Aug 2026 12:36:34 +0000</pubDate>
-      <category>repos</category>
-      <description>🚀 Paste an image and ask directly | Install with one command | Built-in free vision | Broad use cases If you use DeepSeek or another text-only model in DeepSeek Harness (DSH), you may have run into the same problems: the model cannot see a screenshot, generic descriptions miss the point, buttons have no usable coordinates, and a rebuilt page can look “close… It's pulling 151★/day — real momentum for something this new, not a one-day spike. Still under the radar (550★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>fuxicodex/Fuxi</title>
-      <link>https://github.com/fuxicodex/Fuxi</link>
-      <guid isPermaLink="false">pepite-78c6a8ca7fe6ba71</guid>
-      <pubDate>Tue, 04 Aug 2026 07:32:11 +0000</pubDate>
-      <category>repos</category>
-      <description>FuXi is a fast, self-contained AI developer terminal: read code, edit files, run commands, and drive tools from a rich TUI, with cost-aware routing across many LLM providers and automatic failover. One static binary, no runtime dependencies. Homepage: https://www.fuxicode.com questions; FuXi turns it into a worker — reasoning, acting on your real codebase,… It's pulling 59★/day — real momentum for something this new, not a one-day spike. Still under the radar (760★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</title>
-      <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
-      <guid isPermaLink="false">pepite-81603460e9838e67</guid>
-      <pubDate>Sun, 16 Aug 2026 22:00:39 +0000</pubDate>
-      <category>research</category>
-      <description>Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening.… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Why people aren’t buying Mark Zuckerberg’s AI future</title>
-      <link>https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/</link>
-      <guid isPermaLink="false">pepite-25e650ae358e19b6</guid>
-      <pubDate>Sun, 16 Aug 2026 20:32:01 +0000</pubDate>
-      <category>other</category>
-      <description>On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision. It landed in the last few hours.
-
-— via TechCrunch AI</description>
     </item>
 </channel></rss>
