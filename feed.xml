@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance</title>
+      <link>https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/</link>
+      <guid isPermaLink="false">pepite-62f86472be627009</guid>
+      <pubDate>Sat, 29 Aug 2026 12:51:24 +0000</pubDate>
+      <category>finance</category>
+      <description>Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Larger models benefit more, but smaller models with WikiSkill can match the…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>LAION drops massive open video dataset with 10 million hours of footage for AI research</title>
+      <link>https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/</link>
+      <guid isPermaLink="false">pepite-ce0a05e3a6e382ba</guid>
+      <pubDate>Sat, 29 Aug 2026 09:36:48 +0000</pubDate>
+      <category>research</category>
+      <description>LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Nvidia’s AI advantage is moving beyond the GPU</title>
+      <link>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</link>
+      <guid isPermaLink="false">pepite-9764c79bea7cd185</guid>
+      <pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
+      <category>other</category>
+      <description>The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</title>
+      <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
+      <guid isPermaLink="false">pepite-4d9cf7893a2e0f3b</guid>
+      <pubDate>Sat, 29 Aug 2026 18:41:59 +0000</pubDate>
+      <category>other</category>
+      <description>This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>LLMs are making me lose my savviness</title>
+      <link>https://pgaleone.eu/ai/2026/08/29/losing-savviness/</link>
+      <guid isPermaLink="false">pepite-cb7d5e260b2dddcb</guid>
+      <pubDate>Sat, 29 Aug 2026 18:38:52 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 97pts/day — real momentum for something this new, not a one-day spike. Still under the radar (56pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>useagenthq/useagent</title>
+      <link>https://github.com/useagenthq/useagent</link>
+      <guid isPermaLink="false">pepite-61df8fedbc3acd44</guid>
+      <pubDate>Sat, 29 Aug 2026 21:14:31 +0000</pubDate>
+      <category>repos</category>
+      <description>Hand off the work. Get back the result. The open-source AI coworker for your team. useAgent turns the AI agents you already use - Claude Code, Codex, OpenCode - into coworkers with their own cloud computer, your tools, and your company context. They hand back finished work, not just answers: live websites, decks, spreadsheets, research reports, and tested… It landed in the last few hours. It's pulling 172★/day — real momentum for something this new, not a one-day spike.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>hkqr/my-free-code</title>
+      <link>https://github.com/hkqr/my-free-code</link>
+      <guid isPermaLink="false">pepite-92cab1989171e4c0</guid>
+      <pubDate>Thu, 27 Aug 2026 17:59:23 +0000</pubDate>
+      <category>repos</category>
+      <description>It is an independent implementation. It is not affiliated with Anthropic. The catalog contains the broad provider set used by the project: NVIDIA NIM, OpenRouter, Groq, OpenAI, xAI, QwenCloud, Together, DeepInfra, SiliconFlow, Nebius, Chutes, Featherless, ZenMux, W&amp;B Inference, Azure OpenAI, Google AI Studio, Google Vertex, DeepSeek, Mistral, Codestral,… It's pulling 110★/day — real momentum for something this new, not a one-day spike. Still under the radar (287★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Claude permanently raising weekly limits by 25%</title>
+      <link>https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424</link>
+      <guid isPermaLink="false">pepite-6c57147495c97786</guid>
+      <pubDate>Sat, 29 Aug 2026 16:37:05 +0000</pubDate>
+      <category>finance</category>
+      <description>It's pulling 39pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Introducing Hy4 Preview</title>
+      <link>https://simonwillison.net/2026/Aug/29/hy4/</link>
+      <guid isPermaLink="false">pepite-bf0f613e910ac8fd</guid>
+      <pubDate>Sat, 29 Aug 2026 23:53:13 +0000</pubDate>
+      <category>models</category>
+      <description>Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>AI Agent Has Root</title>
+      <link>https://infernalcode.com/posts/your-ai-agent-has-root/</link>
+      <guid isPermaLink="false">pepite-8d9c05cb00bb3472</guid>
+      <pubDate>Fri, 28 Aug 2026 12:03:09 +0000</pubDate>
+      <category>agents</category>
+      <description>It's pulling 22pts/day — real momentum for something this new, not a one-day spike. Still under the radar (42pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment</title>
+      <link>http://arxiv.org/abs/2608.27348v1</link>
+      <guid isPermaLink="false">pepite-f69a581fb0e492fd</guid>
+      <pubDate>Thu, 27 Aug 2026 16:47:19 +0000</pubDate>
+      <category>research</category>
+      <description>As large language models (LLMs) are deployed as autonomous agents, safety failures increasingly involve consequential actions. We study agentic misalignment, where agents take harmful actions under goal conflicts and pressures. Using chain-of-thought (CoT) monitoring, we find that harmful execution is often preceded by intent signals in reasoning. However,… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>BTS-AgentBench: A Deterministic, Replayable Pipeline from Read-Only Telemetry Logs to Agent Benchmarks</title>
+      <link>http://arxiv.org/abs/2608.27334v1</link>
+      <guid isPermaLink="false">pepite-83fa01807e1a23eb</guid>
+      <pubDate>Thu, 27 Aug 2026 16:35:52 +0000</pubDate>
+      <category>research</category>
+      <description>Industrial sites contain large volumes of read-only telemetry, but few benchmarks specify how to compile these records into executable multi-turn agent tasks. We present a telemetry-to-episode construction method instantiated as BTS-AgentBench. The pipeline normalizes BTS metadata and raw histories into a read-only tool store, compiles static tasks with… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Ancient-Bench: A Comprehensive Multi-millennial, Multi-medium, and Multi-script Benchmark for Ancient Chinese Artifact Text Recognition</title>
+      <link>http://arxiv.org/abs/2608.27169v1</link>
+      <guid isPermaLink="false">pepite-e4987b3c94aad94c</guid>
+      <pubDate>Thu, 27 Aug 2026 14:22:12 +0000</pubDate>
+      <category>finance</category>
+      <description>Ancient Chinese artifact text recognition is fundamental to heritage digitization, and benchmarks for ancient texts are essential for evaluating current model capabilities. However, existing benchmarks suffer from ''fragmentation'', manifested in limited temporal coverage, limited medium diversity, and incomplete script types. Therefore, we present… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>FlashMLA sm_120 kernel build with 2-3x performance increase from SPDA</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w27woy/flashmla_sm_120_kernel_build_with_23x_performance/</link>
+      <guid isPermaLink="false">pepite-ef69809cf52f5712</guid>
+      <pubDate>Sun, 30 Aug 2026 04:46:15 +0000</pubDate>
+      <category>research</category>
+      <description>Hey guys I have been working on a open source LLM development repo. Anyone can train any amount of parameter against any arch (GQA, MLA, Dense...) When I tried to implement MLA I read the technical research paper on deepseek implementation and found they used FlashMLA for fast training and inference. The only thing is that it was compiled for sm_100 and… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Anthropic wants to do for physical hardware what its Model Context Protocol did for software</title>
       <link>https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/</link>
       <guid isPermaLink="false">pepite-68a5fe2f912bb1a6</guid>
@@ -1362,145 +1502,5 @@
       <description>Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier) keep the goal distribution fixed as the learner scales. We introduce SPADE (Self-Play in Adaptive Synthetic Executable Environments), a… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets</title>
-      <link>http://arxiv.org/abs/2608.19147v1</link>
-      <guid isPermaLink="false">pepite-162e9802ccde0d51</guid>
-      <pubDate>Wed, 19 Aug 2026 17:33:28 +0000</pubDate>
-      <category>research</category>
-      <description>Modern Intel AI PCs ship capable integrated GPUs and NPUs with 16+ GB of unified memory, and they spend considerable time idle. That is not enough memory to fit a large model such as a 70B-parameter LLM. We show that a handful of AIPCs, working together over an ordinary network, can serve models beyond the capability of any single one. We use pipeline… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning</title>
-      <link>http://arxiv.org/abs/2608.19181v1</link>
-      <guid isPermaLink="false">pepite-9c6ddd21fc9d5f7e</guid>
-      <pubDate>Wed, 19 Aug 2026 17:54:58 +0000</pubDate>
-      <category>research</category>
-      <description>On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor locally plausible responses that omit evidence distributed across the input or violate global task constraints. Task-specific verifiers, in contrast, evaluate task… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Conceptual integrity and counting lines of code</title>
-      <link>https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/</link>
-      <guid isPermaLink="false">pepite-986320ef31b6f3af</guid>
-      <pubDate>Wed, 19 Aug 2026 22:46:07 +0000</pubDate>
-      <category>agents</category>
-      <description>Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of "How AI is changing software development". We had a really great conversation. Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: "very minor edits to remove disfluencies"). This is the latest version of an argument I've… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Qwen3.8-27b has the highest level of "agency" I've ever seen in a local model</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/</link>
-      <guid isPermaLink="false">pepite-5a3e62559c6bd779</guid>
-      <pubDate>Thu, 20 Aug 2026 02:45:59 +0000</pubDate>
-      <category>models</category>
-      <description>Off a single prompt, given my credentials and the name of my university, qwen3.8-27b was able to successfully pull my class schedule from the kinda shitty and convoluted web of university websites. It needed no human intervention, and executed 80 tool calls. Another time, I asked it to investigate a user on a social media network, and it found one public… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>New benchmark ranks search APIs for AI agents on quality, cost, and speed</title>
-      <link>https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/</link>
-      <guid isPermaLink="false">pepite-e655dc69f8b6b21f</guid>
-      <pubDate>Tue, 18 Aug 2026 18:10:56 +0000</pubDate>
-      <category>research</category>
-      <description>Artificial Analysis has released the "Search Index," a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers tested with GPT-5.6 Luna, Parallel, Exa, and Firecrawl scored highest. The article New benchmark ranks search APIs for AI agents on quality, cost, and speed appeared first on The Decoder . It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI institutes new safeguards after Hugging Face breach</title>
-      <link>https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/</link>
-      <guid isPermaLink="false">pepite-0318adc7ba0cb660</guid>
-      <pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing</title>
-      <link>https://www.latent.space/p/glean-model-routing</link>
-      <guid isPermaLink="false">pepite-fec814fa6098165b</guid>
-      <pubDate>Tue, 18 Aug 2026 21:41:10 +0000</pubDate>
-      <category>models</category>
-      <description>Glean CEO Arvind Jain explains why model routing helps control AI costs for organizations, and how human feedback loops at scale improve its routing systems. It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>OpenAI says it's "pacing model development" as AI cybersecurity risks grow too dangerous</title>
-      <link>https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/</link>
-      <guid isPermaLink="false">pepite-089d62079294b7b0</guid>
-      <pubDate>Tue, 18 Aug 2026 18:43:06 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI is deliberately "pacing AI model development," partly because the upcoming "Astra" model may be close to gaining critical cyberattack capabilities. A new monitoring system triggers an alert within 30 minutes if a model shows suspicious behavior. The article OpenAI says it's "pacing model development" as AI cybersecurity risks grow too dangerous… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Cursor capitalizes on GitHub frustration, launches rival hosting platform</title>
-      <link>https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/</link>
-      <guid isPermaLink="false">pepite-6836a788ee9f93ee</guid>
-      <pubDate>Tue, 18 Aug 2026 22:14:25 +0000</pubDate>
-      <category>agents</category>
-      <description>Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>s1dashu/ip-as-logo-skill</title>
-      <link>https://github.com/s1dashu/ip-as-logo-skill</link>
-      <guid isPermaLink="false">pepite-bd7b80aa8fffb709</guid>
-      <pubDate>Tue, 18 Aug 2026 13:59:23 +0000</pubDate>
-      <category>repos</category>
-      <description>ip-as-logo is a compact Agent Skill for generating highly simplified personified mascot logos. It treats the result as a logo first and a character second: bold rounded silhouettes, strict complexity limits, oversized corner composition, and extremely subtle neo-skeuomorphic shading. It follows the open Agent Skills format and is designed to work with any… It's pulling 1573★/day — real momentum for something this new, not a one-day spike. Still under the radar (882★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI</title>
-      <link>https://machine0.io</link>
-      <guid isPermaLink="false">pepite-cb0427a406eb75ae</guid>
-      <pubDate>Tue, 18 Aug 2026 16:26:42 +0000</pubDate>
-      <category>agents</category>
-      <description>Hi HN! I’m Barnaby, founder of machine0 ( https://machine0.io ). I’m building a CLI for long horizon agent compute: `machine0 new mybox` gives your agent a persistent cloud VM, billed by the minute, from $0.013/hr up to 60 vCPU / 240 GB RAM and GPUs (H100s, H200s etc), with 99.99% VM level uptime. Agents self drive via CLI or MCP. Demo:… It landed in the last few hours. It's pulling 144pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Mojo is now open source!</title>
-      <link>https://www.modular.com/blog/mojo-open-source</link>
-      <guid isPermaLink="false">pepite-6bafe9e34ecc50b7</guid>
-      <pubDate>Tue, 18 Aug 2026 16:23:24 +0000</pubDate>
-      <category>repos</category>
-      <description>It landed in the last few hours. It's pulling 284pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>jdshfhds/northcinder</title>
-      <link>https://github.com/jdshfhds/northcinder</link>
-      <guid isPermaLink="false">pepite-dea301b0318992f0</guid>
-      <pubDate>Mon, 17 Aug 2026 11:42:31 +0000</pubDate>
-      <category>repos</category>
-      <description>NorthCinder helps your AI agent search for products, compare them against your brief, and show why one option ranks above another. Seller payment and affiliate data never improve a result's position. NorthCinder runs on your computer alongside the AI app you already use. There is no NorthCinder account or cloud service. You need Node.js 20 or later and an… It's pulling 699★/day — real momentum for something this new, not a one-day spike. Still under the radar (1158★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>GPT 5.6 Sol is the best "vision" model OpenAI ever released</title>
-      <link>https://blog.roboflow.com/openai-gpt-5-6/</link>
-      <guid isPermaLink="false">pepite-f97b1aabef201aef</guid>
-      <pubDate>Mon, 17 Aug 2026 12:09:42 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 219pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
