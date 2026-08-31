@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>AI agents have no sense of time and are not aware of it</title>
+      <link>https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/</link>
+      <guid isPermaLink="false">pepite-c563de0edd4ce06c</guid>
+      <pubDate>Sun, 30 Aug 2026 10:41:36 +0000</pubDate>
+      <category>agents</category>
+      <description>AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take. Codex is off by as much as ten times the actual duration. They also rate their own work about 20 percentage points too high. For long, autonomous tasks, that creates a real problem with oversight. The…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic's Claude Code limit change is a raise on paper but a cut in practice</title>
+      <link>https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/</link>
+      <guid isPermaLink="false">pepite-f71f338595cca74e</guid>
+      <pubDate>Sun, 30 Aug 2026 09:05:19 +0000</pubDate>
+      <category>finance</category>
+      <description>Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase. Anthropic promises more control and transparency over usage in return. The article Anthropic's Claude Code limit change is a raise on paper but a cut in practice…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver</title>
+      <link>https://github.com/KodeMunkie/sm750hdmifb</link>
+      <guid isPermaLink="false">pepite-0d4916fa3f6fc7cd</guid>
+      <pubDate>Sun, 30 Aug 2026 18:49:08 +0000</pubDate>
+      <category>repos</category>
+      <description>It's pulling 181pts/day — real momentum for something this new, not a one-day spike. Still under the radar (106pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>The EU has begun enforcing the AI Act: first RFIs to model providers</title>
+      <link>https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis</link>
+      <guid isPermaLink="false">pepite-8601be562aac2a65</guid>
+      <pubDate>Mon, 31 Aug 2026 03:45:57 +0000</pubDate>
+      <category>models</category>
+      <description>It landed in the last few hours. It's pulling 178pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>cbrock84/headcount</title>
+      <link>https://github.com/cbrock84/headcount</link>
+      <guid isPermaLink="false">pepite-bacf1623314a757c</guid>
+      <pubDate>Fri, 28 Aug 2026 18:03:04 +0000</pubDate>
+      <category>repos</category>
+      <description>Add a department, not a prompt. Open the interactive org chart — search every skill, open a department, jump to the source. An agent organization for Claude Code, structured as a company: a chief executive over 16 departments, 146 skills in total. Every department is an independently installable plugin, so a project loads only the functions it needs rather… It's pulling 289★/day — real momentum for something this new, not a one-day spike. Still under the radar (758★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Meta Security Researcher's AI Agent Accidentally Deleted Her Emails</title>
+      <link>https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails</link>
+      <guid isPermaLink="false">pepite-7e9e11c8cef536ed</guid>
+      <pubDate>Mon, 31 Aug 2026 07:23:47 +0000</pubDate>
+      <category>agents</category>
+      <description>It landed in the last few hours. It's pulling 292pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>sodiumsun/agenttrail</title>
+      <link>https://github.com/sodiumsun/agenttrail</link>
+      <guid isPermaLink="false">pepite-7853aecd1daca516</guid>
+      <pubDate>Fri, 21 Aug 2026 21:14:33 +0000</pubDate>
+      <category>repos</category>
+      <description>Your coding agent has been working for half an hour. Is it making progress? Is it stuck? Did it quietly reopen the part it already called done? agenttrail is a local, open-source observability layer for AI coding agents. It turns plans, tool calls, file changes, and progress from Claude Code, OpenAI Codex, Cursor, or any agent that edits files into a live… It's pulling 58★/day — real momentum for something this new, not a one-day spike. Still under the radar (552★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Understanding ChatGPT Work</title>
+      <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
+      <guid isPermaLink="false">pepite-d20b99a49a7d386e</guid>
+      <pubDate>Sun, 30 Aug 2026 23:59:47 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL</title>
+      <link>http://arxiv.org/abs/2608.28476v1</link>
+      <guid isPermaLink="false">pepite-aa6bac70e69a3271</guid>
+      <pubDate>Fri, 28 Aug 2026 16:01:08 +0000</pubDate>
+      <category>research</category>
+      <description>Long-horizon agentic tasks require large language models (LLMs) to iteratively retrieve, integrate, and maintain dispersed information across multi-turn interactions, but preserving all interaction histories leads to a continuously growing working context. Recent proactive context management methods allow models to edit their own working context with… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents</title>
+      <link>http://arxiv.org/abs/2608.28458v1</link>
+      <guid isPermaLink="false">pepite-cebb1573df1069b1</guid>
+      <pubDate>Fri, 28 Aug 2026 15:47:47 +0000</pubDate>
+      <category>finance</category>
+      <description>Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constraints. We study this setting in the LM Playschool Challenge with a 2B open-weight model, and find that many failures are not only broad knowledge failures but… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents</title>
+      <link>http://arxiv.org/abs/2608.28389v1</link>
+      <guid isPermaLink="false">pepite-218771377aaa15f1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:44:28 +0000</pubDate>
+      <category>research</category>
+      <description>Retrieval-augmented generation (RAG) augments LLMs with external documents, but public or user-editable sources expose RAG systems to data poisoning: attackers can inject malicious documents to steer outputs toward targeted answers. Existing poisoning attacks often rely on query inclusion, inserting the target query into poisoned documents to improve… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Sony and Warner sue Anthropic over "one of the largest and most blatant ongoing thefts of intellectual property in history"</title>
+      <link>https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/</link>
+      <guid isPermaLink="false">pepite-ea92ab7ce27011b1</guid>
+      <pubDate>Sun, 30 Aug 2026 08:50:20 +0000</pubDate>
+      <category>finance</category>
+      <description>Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical compositions to train Claude without permission. The plaintiffs call it "one of the largest and most blatant ongoing thefts of intellectual property in history." Just months after paying $1.5 billion…
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Qwen3.8-Flash-Next</title>
+      <link>https://simonwillison.net/2026/Aug/26/qwen38-flash-next/</link>
+      <guid isPermaLink="false">pepite-63366f5f9044fc45</guid>
+      <pubDate>Wed, 26 Aug 2026 23:52:58 +0000</pubDate>
+      <category>models</category>
+      <description>Qwen3.8-Flash-Next Another open weights model from Qwen. This one is "a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still…
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>LWiAI Podcast #255 - Gemini 3.7, Jalapeño, Qwen 3.8, Drones</title>
+      <link>https://lastweekin.ai/p/lwiai-podcast-255-gemini-37-jalapeno</link>
+      <guid isPermaLink="false">pepite-86d65d7eaaf355db</guid>
+      <pubDate>Mon, 31 Aug 2026 08:20:04 +0000</pubDate>
+      <category>models</category>
+      <description>Google announces Gemini 3.7 Flash, Jalapeño’s first results show industry-leading speed, A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. It landed in the last few hours.
+
+— via Last Week in AI</description>
+    </item>
+    <item>
       <title>Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance</title>
       <link>https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/</link>
       <guid isPermaLink="false">pepite-62f86472be627009</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 20 Aug 2026 17:30:14 +0000</pubDate>
       <category>research</category>
       <description>Whether a language model has improved itself is increasingly judged not by mean accuracy but by which individual problems it gains and loses. Tracking these transitions means differencing two noisy estimates, leaving them vulnerable to measurement artifacts. Auditing three rounds of rank-$32$ LoRA self-training on Qwen3-8B against a frozen control pushed… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation</title>
-      <link>http://arxiv.org/abs/2608.20208v1</link>
-      <guid isPermaLink="false">pepite-4ac2b035ebcb5e15</guid>
-      <pubDate>Thu, 20 Aug 2026 16:07:56 +0000</pubDate>
-      <category>finance</category>
-      <description>Offline reinforcement learning improves robotic policies using previously collected data without further environment interaction. Yet prevalent diffusion- and flow-matching robot policies lack tractable likelihoods, limiting their use in likelihood-based offline RL post-training. AR-NFs offer both expressive action modeling and exact likelihood evaluation,… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ChatGPT search now uses the site:operator at scale</title>
-      <link>https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</link>
-      <guid isPermaLink="false">pepite-071e11ee2c220477</guid>
-      <pubDate>Thu, 20 Aug 2026 23:57:32 +0000</pubDate>
-      <category>models</category>
-      <description>ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging "GEO" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT. The Promptwatch product uses automation to track responses to… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>AI at Home Part 2: Multi-GPU Drifting</title>
-      <link>https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html</link>
-      <guid isPermaLink="false">pepite-cdf210560029a3d3</guid>
-      <pubDate>Thu, 20 Aug 2026 16:53:55 +0000</pubDate>
-      <category>other</category>
-      <description>It landed in the last few hours. It's pulling 47pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Is there any interest in a self hosted open source version of manus/perplexity?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vu3a1u/is_there_any_interest_in_a_self_hosted_open/</link>
-      <guid isPermaLink="false">pepite-cd401ef5d0576991</guid>
-      <pubDate>Fri, 21 Aug 2026 02:10:59 +0000</pubDate>
-      <category>agents</category>
-      <description>I have been working on a project for about 3 months because I found Vane to be awful and I wanted something like Manus for myself. I have a pretty solid app that's probably about ready to release, but I'm not sure if there is any desire there. It does research at different depths, exports to good looking PDFs, makes PowerPoints, and can build full Next… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Cognition CEO denies report that SpaceX tried to acquire the startup</title>
-      <link>https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/</link>
-      <guid isPermaLink="false">pepite-c0a2363cc6027f0a</guid>
-      <pubDate>Wed, 19 Aug 2026 21:51:23 +0000</pubDate>
-      <category>finance</category>
-      <description>SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Stripe didn’t really buy OpenRouter because of the ‘singularity’</title>
-      <link>https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/</link>
-      <guid isPermaLink="false">pepite-77011f59b88856c9</guid>
-      <pubDate>Wed, 19 Aug 2026 23:32:00 +0000</pubDate>
-      <category>models</category>
-      <description>What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of "the singularity" but it's really for a far more real and powerful reason. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI seeks to one-up Anthropic with new customer privacy protections</title>
-      <link>https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/</link>
-      <guid isPermaLink="false">pepite-801a3672f2c6a152</guid>
-      <pubDate>Wed, 19 Aug 2026 22:10:46 +0000</pubDate>
-      <category>other</category>
-      <description>A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI fixes Codex bug that deleted real user files without permission</title>
-      <link>https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/</link>
-      <guid isPermaLink="false">pepite-166f0c3dac3e9517</guid>
-      <pubDate>Wed, 19 Aug 2026 18:18:34 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI patched Codex after GPT-5.6 Sol started deleting real user files on its own. A cleanup command meant for temporary folders was wiping home directories instead. Codex now verifies deletion targets first, and full-access mode can no longer be triggered by accident. The article OpenAI fixes Codex bug that deleted real user files without permission… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Extensible Software in the age of LLMs</title>
-      <link>https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/</link>
-      <guid isPermaLink="false">pepite-b0c907d3d16a97eb</guid>
-      <pubDate>Wed, 19 Aug 2026 16:26:05 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 255pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>CopilotKit/openbot</title>
-      <link>https://github.com/CopilotKit/openbot</link>
-      <guid isPermaLink="false">pepite-95f0a09140e3d0cf</guid>
-      <pubDate>Mon, 17 Aug 2026 00:44:59 +0000</pubDate>
-      <category>repos</category>
-      <description>https://github.com/user-attachments/assets/535ef7ee-1631-4a69-b839-564c56cf90b4 Bring any AG-UI agent, written on a framework or by hand, and it arrives as a coworker with a channel of its own. Watch it work on its own screen, take the wheel when it reaches something it should not do alone, then hand it back. It answers with components rather than only… It's pulling 205★/day — real momentum for something this new, not a one-day spike. Still under the radar (638★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>The Mojo language (by Modular, now Qualcomm) is now open-source</title>
-      <link>https://www.modular.com/blog/modcon-announcements</link>
-      <guid isPermaLink="false">pepite-b6f9da9f2b319527</guid>
-      <pubDate>Wed, 19 Aug 2026 07:47:19 +0000</pubDate>
-      <category>repos</category>
-      <description>It's pulling 257pts/day — real momentum for something this new, not a one-day spike. Still under the radar (211pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams</title>
-      <link>https://github.com/onecli/onecli</link>
-      <guid isPermaLink="false">pepite-9f8ab41393f40697</guid>
-      <pubDate>Wed, 19 Aug 2026 16:29:02 +0000</pubDate>
-      <category>agents</category>
-      <description>Hi HN, Jonathan &amp; Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent. Here’s what you can do with it: 1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat. 2. deterministic human in the loop approval… It landed in the last few hours. It's pulling 118pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>cinderline/northcinder</title>
-      <link>https://github.com/cinderline/northcinder</link>
-      <guid isPermaLink="false">pepite-ce275d4f0432aa07</guid>
-      <pubDate>Mon, 17 Aug 2026 11:42:31 +0000</pubDate>
-      <category>repos</category>
-      <description>NorthCinder is an open-source MCP server that helps an AI agent compare products against your brief. It returns a ranked shortlist with reasons, reports which stores it could and could not search, and requires a separate approval before checkout. Seller payment and affiliate data never improve a result's position. NorthCinder is software you run. It works… It's pulling 449★/day — real momentum for something this new, not a one-day spike. Still under the radar (1193★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>SPADE: Self-Play in Adaptive Synthetic Executable Environments</title>
-      <link>http://arxiv.org/abs/2608.19197v1</link>
-      <guid isPermaLink="false">pepite-53c9b820426ca7da</guid>
-      <pubDate>Wed, 19 Aug 2026 17:58:56 +0000</pubDate>
-      <category>research</category>
-      <description>Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier) keep the goal distribution fixed as the learner scales. We introduce SPADE (Self-Play in Adaptive Synthetic Executable Environments), a… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
