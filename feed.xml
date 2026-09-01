@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>The Pentagon now has its own version of ChatGPT and Grok</title>
+      <link>https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/</link>
+      <guid isPermaLink="false">pepite-bef216b737390b06</guid>
+      <pubDate>Mon, 31 Aug 2026 20:13:45 +0000</pubDate>
+      <category>models</category>
+      <description>Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>The Hugging Face hack could indicate cultural issues at OpenAI</title>
+      <link>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link>
+      <guid isPermaLink="false">pepite-95ea7dcc9b6a9ca3</guid>
+      <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI</title>
+      <link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
+      <guid isPermaLink="false">pepite-6a3db8bac480b841</guid>
+      <pubDate>Tue, 01 Sep 2026 00:13:00 +0000</pubDate>
+      <category>other</category>
+      <description>Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/</link>
+      <guid isPermaLink="false">pepite-fc94637995a44294</guid>
+      <pubDate>Mon, 31 Aug 2026 18:10:45 +0000</pubDate>
+      <category>repos</category>
+      <description>Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>GPU World</title>
+      <link>https://www.gpuworld.org/</link>
+      <guid isPermaLink="false">pepite-a984619e30d2c68c</guid>
+      <pubDate>Tue, 01 Sep 2026 03:16:36 +0000</pubDate>
+      <category>other</category>
+      <description>It landed in the last few hours. It's pulling 798pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source</title>
+      <link>https://ravynos.com/</link>
+      <guid isPermaLink="false">pepite-56c51bfc0eaa39df</guid>
+      <pubDate>Mon, 31 Aug 2026 16:19:36 +0000</pubDate>
+      <category>repos</category>
+      <description>It's pulling 302pts/day — real momentum for something this new, not a one-day spike. Still under the radar (197pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>ChatGPT Work Tool and Skill Reference</title>
+      <link>https://codex-tool-reference.simonw.chatgpt.site/</link>
+      <guid isPermaLink="false">pepite-ada4a85521289829</guid>
+      <pubDate>Mon, 31 Aug 2026 14:07:15 +0000</pubDate>
+      <category>models</category>
+      <description>It's pulling 287pts/day — real momentum for something this new, not a one-day spike. Still under the radar (214pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>kgoedecke/doop</title>
+      <link>https://github.com/kgoedecke/doop</link>
+      <guid isPermaLink="false">pepite-32cbfb187867d707</guid>
+      <pubDate>Sat, 22 Aug 2026 15:40:51 +0000</pubDate>
+      <category>repos</category>
+      <description>design canvas for humans and AI agents. Every design lives on a shareable Canvas (/c/ ) holding Frames — artboards that render real HTML in sandboxed iframes. People edit in the browser; AI agents edit through the built-in MCP server, streaming their designs in live. Everyone sees everything as it happens: cursors, presence, frame edits, agent status, and… It's pulling 56★/day — real momentum for something this new, not a one-day spike. Still under the radar (542★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>lennney/stop-that-shit</title>
+      <link>https://github.com/lennney/stop-that-shit</link>
+      <guid isPermaLink="false">pepite-421707f6b26591af</guid>
+      <pubDate>Tue, 11 Aug 2026 15:31:45 +0000</pubDate>
+      <category>repos</category>
+      <description>你只让 Agent 导出一个结果文件。它顺手又生成一份 SHA-256 校验和，但后面没有任何命令会读取它。Stop That Shit。 Stop That Shit（别再造史了）处理 AI coding agent 自己加出来的防御性工作和任务越界。 支持 Codex 、 Claude Code 、 OpenCode 、 Hermes Agent CLI 和 Pi 。 安装 · Bad / Good Case · 案例库 · 0.2.0 · 参与贡献 · English 这份校验和生成了，任务却没有少做一步，后面的流程也完全一样。换个任务，多出来的可能是 guard、兼容层、全量测试或额外流程。Codex、Claude Code、OpenCode、Hermes Agent CLI 和 Pi… It's pulling 49★/day — real momentum for something this new, not a one-day spike. Still under the radar (1030★) — early enough to be worth a look before everyone piles in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Stress-Testing Efficient Responsible-AI Evaluation: When Compute Savings Change Benchmark Conclusions</title>
+      <link>http://arxiv.org/abs/2608.31108v1</link>
+      <guid isPermaLink="false">pepite-85d518974164de6a</guid>
+      <pubDate>Mon, 31 Aug 2026 17:13:15 +0000</pubDate>
+      <category>finance</category>
+      <description>Efficient evaluation changes the protocol used to support claims about model behavior, yet it is rarely tested whether those claims remain stable after the evaluation itself is made cheaper. We stress-test conclusion robustness in responsible-AI benchmarking by evaluating three dense and mixture-of-experts models on BBQ and BBQ-V under seven conditions… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing</title>
+      <link>http://arxiv.org/abs/2608.31105v1</link>
+      <guid isPermaLink="false">pepite-195c826d44ae9a06</guid>
+      <pubDate>Mon, 31 Aug 2026 17:10:59 +0000</pubDate>
+      <category>finance</category>
+      <description>Users of a deployed language model routinely encounter behaviours that testing almost never surfaces, since deployment puts the model through orders of magnitude more interactions than any evaluation can simulate. Automated auditors make testing cheap to scale and flexible enough to cover almost any specified behaviour, yet their lack of optimisation… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>VeriCam: A Verification Baseline for the Classification of Unknown Data</title>
+      <link>http://arxiv.org/abs/2608.31107v1</link>
+      <guid isPermaLink="false">pepite-35b97070dfad10af</guid>
+      <pubDate>Mon, 31 Aug 2026 17:12:59 +0000</pubDate>
+      <category>research</category>
+      <description>The advent of foundation models have enabled a new era in zero-shot classification. Yet, key challenges persist. Despite their impressive generalization power that leverages the immense pre-training knowledge, both foundation models for image and text as well as vision-text hybrids lack the representational power needed for fine-grained, minutiae-based… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Introducing wrapture</title>
+      <link>https://simonwillison.net/2026/Aug/31/introducing-wrapture/</link>
+      <guid isPermaLink="false">pepite-0adf9656a4797e5e</guid>
+      <pubDate>Mon, 31 Aug 2026 23:59:36 +0000</pubDate>
+      <category>agents</category>
+      <description>Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time. Wrapture ( full documentation here ) makes it easy to wrap any function or method such that all access can be… It landed in the last few hours.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>ExLlamav3 Recent Updates : CPU offload, GLM-5.3-FLASH, Qwen3.8-Flash, SC Quants ++</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash/</link>
+      <guid isPermaLink="false">pepite-cb8ca1af49ecb44c</guid>
+      <pubDate>Tue, 01 Sep 2026 07:14:40 +0000</pubDate>
+      <category>models</category>
+      <description>More new massive updates from turboderp: - CPU offload of MoE experts - Qwen-3.8-Flash-Next ngram disk offload - GLM-5.3-Flash - New self-calibrated optimization technique - Countless other optimizations and improvements If you have an NVIDIA card and haven't tried it lately, you might be missing out. The attached cat image was made with… It landed in the last few hours.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>AI agents have no sense of time and are not aware of it</title>
       <link>https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/</link>
       <guid isPermaLink="false">pepite-c563de0edd4ce06c</guid>
@@ -1362,145 +1502,5 @@
       <description>v1 told the model to work harder. v2 makes half-done structurally visible: acceptance gates live in files, checks run as commands, and an optional hook blocks the agent from declaring victory while gates are unmet. You do not promise you are done. You prove it against a ledger. Works with Claude Code, OpenAI Codex, Cursor and anything else that reads… It's pulling 55★/day — real momentum for something this new, not a one-day spike. Still under the radar (670★) — early enough to be worth a look before everyone piles in.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>Stop Making TUIs</title>
-      <link>https://simonwillison.net/2026/Aug/21/stop-making-tuis/</link>
-      <guid isPermaLink="false">pepite-2b90eef6053740b6</guid>
-      <pubDate>Fri, 21 Aug 2026 16:07:32 +0000</pubDate>
-      <category>agents</category>
-      <description>Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing. I wrote about my vibe-coded bandwidth and GPU monitoring macOS task bar apps back in March , and I'm still using both of those… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>llm 0.32.1</title>
-      <link>https://simonwillison.net/2026/Aug/21/llm/</link>
-      <guid isPermaLink="false">pepite-10e3fbb000b426e3</guid>
-      <pubDate>Fri, 21 Aug 2026 17:16:13 +0000</pubDate>
-      <category>models</category>
-      <description>Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency. This dot-release fixes that for the moment by pinning to openai , and a soon-to-drop 0.33 release will switch from… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models</title>
-      <link>http://arxiv.org/abs/2608.20237v1</link>
-      <guid isPermaLink="false">pepite-886984d731abba65</guid>
-      <pubDate>Thu, 20 Aug 2026 16:28:28 +0000</pubDate>
-      <category>research</category>
-      <description>Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constraints remains underexplored. This setting requires models to jointly understand spatial layouts, interpret natural-language rules, and plan valid actions… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>16 GB VRAM purgatory discussion thread</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vuzz3j/16_gb_vram_purgatory_discussion_thread/</link>
-      <guid isPermaLink="false">pepite-2b3f7be38d6a4070</guid>
-      <pubDate>Sat, 22 Aug 2026 02:24:22 +0000</pubDate>
-      <category>models</category>
-      <description>What models and configs are we using? Please share here On windows, I am using this copium pared down model https://huggingface.co/Bucoid/Qwen3.8-27B-Uncensored-IQ4-XS-MTP-16GB-VRAM-GGUF with MTP disabled, q4 k/q4 v mmproj banished to CPU/RAM and a small ub to save whatever context I can (90k-100k) so everything stays in the vram If you are on linux or have… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>OpenAI is gaining on Anthropic with business users, new data indicates</title>
-      <link>https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/</link>
-      <guid isPermaLink="false">pepite-093a040722715e60</guid>
-      <pubDate>Thu, 20 Aug 2026 22:36:37 +0000</pubDate>
-      <category>models</category>
-      <description>Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how "sticky" enterprise AI spending really is. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>LLMs could write like humans but post-training guardrails make their text detectable</title>
-      <link>https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/</link>
-      <guid isPermaLink="false">pepite-59e09a931766defa</guid>
-      <pubDate>Thu, 20 Aug 2026 17:36:51 +0000</pubDate>
-      <category>models</category>
-      <description>LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi. Base models without these constraints already write with far more variety. The article LLMs could write like humans but post-training guardrails make their text detectable appeared… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>AI data startup Micro1 reaches $500M gross run rate amid AI training boom</title>
-      <link>https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/</link>
-      <guid isPermaLink="false">pepite-14a842e57416a58d</guid>
-      <pubDate>Fri, 21 Aug 2026 00:13:44 +0000</pubDate>
-      <category>other</category>
-      <description>Surging demand for AI training data is driving rapid growth for the startup and its rivals. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash</title>
-      <link>https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/</link>
-      <guid isPermaLink="false">pepite-118fc391be875540</guid>
-      <pubDate>Thu, 20 Aug 2026 19:29:34 +0000</pubDate>
-      <category>models</category>
-      <description>Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects. Adobe has also added Gemini Omni Flash to the platform. The article Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash appeared first on The… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Vomit: Clean up Claude 5's token output with a separate LLM</title>
-      <link>https://github.com/zachahn/vomit</link>
-      <guid isPermaLink="false">pepite-72affba1458ccd41</guid>
-      <pubDate>Thu, 20 Aug 2026 15:26:02 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 395pts/day — real momentum for something this new, not a one-day spike. Still under the radar (199pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: I trained a 125M model to autocomplete piano on-device</title>
-      <link>https://simedw.com/2026/08/20/midi-autocomplete/</link>
-      <guid isPermaLink="false">pepite-5848432a35d1dc98</guid>
-      <pubDate>Thu, 20 Aug 2026 12:04:38 +0000</pubDate>
-      <category>agents</category>
-      <description>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15). The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device. The app is free if anyone wants… It's pulling 823pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>wang2122/sprix-sage-router</title>
-      <link>https://github.com/wang2122/sprix-sage-router</link>
-      <guid isPermaLink="false">pepite-4b21e93046a2987f</guid>
-      <pubDate>Tue, 18 Aug 2026 04:08:11 +0000</pubDate>
-      <category>repos</category>
-      <description>Choose whether an agent should continue alone, recruit complementary collaborators, or hand off the task—then assign task-DAG roles, schedule dependencies, and learn from execution evidence under permission, budget, and deadline constraints. Quick start · Algorithm · Benchmark · Contributing · Security Agent discovery tells a system which agents exist. It… It's pulling 228★/day — real momentum for something this new, not a one-day spike. Still under the radar (679★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>bawadou/ai-data-extractor</title>
-      <link>https://github.com/bawadou/ai-data-extractor</link>
-      <guid isPermaLink="false">pepite-35bcb0b330da5daf</guid>
-      <pubDate>Sun, 16 Aug 2026 18:35:58 +0000</pubDate>
-      <category>repos</category>
-      <description>Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversations before an app's local database gets cleared. Auto-discovers and extracts complete conversation history, including: tool's storage actually contains Every script searches macOS,… It's pulling 121★/day — real momentum for something this new, not a one-day spike. Still under the radar (530★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Projecting BrowseComp-Plus onto ClimbMix: Toward More Realistic Corpora for Agentic Search</title>
-      <link>http://arxiv.org/abs/2608.20317v1</link>
-      <guid isPermaLink="false">pepite-9fe5261a5640c0dc</guid>
-      <pubDate>Thu, 20 Aug 2026 17:54:48 +0000</pubDate>
-      <category>finance</category>
-      <description>The BrowseComp-Plus benchmark disentangled the evaluation of agentic search by replacing opaque web search with a fixed corpus, so that an agent's role can be separated from the retriever's. That corpus, however, holds only about 100K documents and was assembled from the supporting documents of the benchmark's own queries plus mined hard negatives, so the… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Phantom Gains: Auditing Self-Improvement Against a Measured Null</title>
-      <link>http://arxiv.org/abs/2608.20290v1</link>
-      <guid isPermaLink="false">pepite-fd30eb168d621ef2</guid>
-      <pubDate>Thu, 20 Aug 2026 17:30:14 +0000</pubDate>
-      <category>research</category>
-      <description>Whether a language model has improved itself is increasingly judged not by mean accuracy but by which individual problems it gains and loses. Tracking these transitions means differencing two noisy estimates, leaving them vulnerable to measurement artifacts. Auditing three rounds of rank-$32$ LoRA self-training on Qwen3-8B against a frozen control pushed… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
