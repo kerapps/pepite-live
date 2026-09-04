@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time</title>
+      <link>https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest</link>
+      <guid isPermaLink="false">pepite-0f8201a9489a5526</guid>
+      <pubDate>Fri, 04 Sep 2026 05:18:11 +0000</pubDate>
+      <category>research</category>
+      <description>Overview of OpenAI's GPT-6 Astra, their largest model yet. It's cheaper per task despite higher token costs, making it a strong contender in AI model markets. The drawback: limited initial access.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Meta is paying to peek at how you use their latest AI model</title>
+      <link>https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/</link>
+      <guid isPermaLink="false">pepite-6fc7b1c552f07579</guid>
+      <pubDate>Thu, 03 Sep 2026 18:19:56 +0000</pubDate>
+      <category>agents</category>
+      <description>Meta offers hefty discounts to users who agree to share data from using their Muse Spark AI. It's a cost-effective way to access high-end AI. The trade-off: you share usage data with Meta.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Four major AI models suffer rare overlapping downtime</title>
+      <link>https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/</link>
+      <guid isPermaLink="false">pepite-fa3adaabd5cff94c</guid>
+      <pubDate>Thu, 03 Sep 2026 18:10:19 +0000</pubDate>
+      <category>models</category>
+      <description>Four major AI models experienced concurrent downtime, disrupting numerous services. Highlights the fragility of relying on cloud AI models. No specific details on what caused these interruptions.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
+      <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
+      <guid isPermaLink="false">pepite-bdcc097430029103</guid>
+      <pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
+      <category>models</category>
+      <description>A personal story about using AI to port a 1993 Amiga game to Godot. An LLM helped convert old 68000 assembly code, speeding up the process. The catch: you might hit snags with less clear or undocumented code.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>2akouwu/reverify</title>
+      <link>https://github.com/2akouwu/reverify</link>
+      <guid isPermaLink="false">pepite-710628334592c266</guid>
+      <pubDate>Mon, 31 Aug 2026 01:02:18 +0000</pubDate>
+      <category>repos</category>
+      <description>A tool called Reverify checks AI agent claims against real binary files. It's useful for spotting AI-made mistakes in reverse-engineering tasks. The limitation: it focuses solely on binary verification, not on other types of data.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B available on Cerebras at 1500 tokens/s</title>
+      <link>https://inference-docs.cerebras.ai/models/overview</link>
+      <guid isPermaLink="false">pepite-20579be987b9ced6</guid>
+      <pubDate>Thu, 03 Sep 2026 18:32:13 +0000</pubDate>
+      <category>models</category>
+      <description>Discussion about Qwen 3.8, a large AI model available on Cerebras, notable for its high-speed processing at 1500 tokens per second. This makes it quite powerful for extensive AI tasks if you need that speed. The downside: large size implies hefty hardware requirements.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Human-Agent-Society/reef</title>
+      <link>https://github.com/Human-Agent-Society/reef</link>
+      <guid isPermaLink="false">pepite-2fe492f658fc8fdf</guid>
+      <pubDate>Mon, 31 Aug 2026 01:39:18 +0000</pubDate>
+      <category>repos</category>
+      <description>Reef is infrastructure for agents that learn over time, constantly refining their abilities. It automates the learning process for AI without manual updates. A downside: it assumes you have agents ready to integrate into its system.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents</title>
+      <link>https://news.ycombinator.com/item?id=49552616</link>
+      <guid isPermaLink="false">pepite-9b7933fd1afd1237</guid>
+      <pubDate>Thu, 03 Sep 2026 16:24:13 +0000</pubDate>
+      <category>agents</category>
+      <description>Mireye offers infrastructure for AI agents to make decisions about real-world locations. The tools and data can be handy for location-based AI tasks. The hitch: it's currently limited to US locations only.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents</title>
+      <link>http://arxiv.org/abs/2609.04167v1</link>
+      <guid isPermaLink="false">pepite-b2f0b3169412e0f9</guid>
+      <pubDate>Thu, 03 Sep 2026 17:53:34 +0000</pubDate>
+      <category>finance</category>
+      <description>SWE-Gate highlights that passing tests isn't enough for software agents; they must meet review expectations too. It sets new standards for AI coding by evaluating based on real developer feedback. However, integrating these benchmarks into current workflows might take effort.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM</title>
+      <link>http://arxiv.org/abs/2609.04098v1</link>
+      <guid isPermaLink="false">pepite-6fb26acd6caf73fb</guid>
+      <pubDate>Thu, 03 Sep 2026 17:04:26 +0000</pubDate>
+      <category>research</category>
+      <description>Gated DeltaNet paper explores low-error quantization in hybrid AI models. It shows these models maintain performance even in compressed formats, which can save resources. But it's deeply technical, requiring a good understanding of quantization basics.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation</title>
+      <link>http://arxiv.org/abs/2609.04031v1</link>
+      <guid isPermaLink="false">pepite-b70ac7bb61e282b4</guid>
+      <pubDate>Thu, 03 Sep 2026 16:09:25 +0000</pubDate>
+      <category>research</category>
+      <description>DSAQuant is a training technique for video generation AI, reducing resource needs while maintaining creativity. Promising for making AI video tools more efficient. The limitation: visually detailed outcomes might still suffer.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>August newsletter is out</title>
+      <link>https://simonwillison.net/2026/Sep/4/august-newsletter/</link>
+      <guid isPermaLink="false">pepite-3e9af61cc03a6f12</guid>
+      <pubDate>Fri, 04 Sep 2026 05:54:40 +0000</pubDate>
+      <category>models</category>
+      <description>Simon Willison's newsletter gives insights into various AI and tech updates. It's a resource for those keen to stay ahead. The catch: it requires a sponsorship to access the latest issues.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>GPT‑6 Astra</title>
+      <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
+      <guid isPermaLink="false">pepite-d7b11e7817581777</guid>
+      <pubDate>Thu, 03 Sep 2026 20:18:41 +0000</pubDate>
+      <category>research</category>
+      <description>Brief note on the limited release of GPT-6 Astra, comparing it favorably with other models. It's noted for its competitive pricing and high benchmark scores. But exact user experiences aren't discussed yet.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Has anyone already tried IFM's new K2-Horizon-MoVA-36B-A4B?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w6t0a9/has_anyone_already_tried_ifms_new/</link>
+      <guid isPermaLink="false">pepite-0e2931255a5908d5</guid>
+      <pubDate>Fri, 04 Sep 2026 03:31:37 +0000</pubDate>
+      <category>research</category>
+      <description>Discussion about a new AI model in the MoE category, K2-Horizon-MoVA-36B-A4B. It's considered an upgrade over similar models, though comparisons are ongoing. Users need to try it firsthand for deeper insights.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, &gt;90% discount for training</title>
       <link>https://www.latent.space/p/ainews-muse-spark-13-matches-gpt</link>
       <guid isPermaLink="false">pepite-d31a129a9d887bae</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Mon, 24 Aug 2026 17:54:19 +0000</pubDate>
       <category>finance</category>
       <description>Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>How to Train a Critic Stably and Efficiently</title>
-      <link>http://arxiv.org/abs/2608.23566v1</link>
-      <guid isPermaLink="false">pepite-27be27fcb74f8301</guid>
-      <pubDate>Mon, 24 Aug 2026 17:59:39 +0000</pubDate>
-      <category>research</category>
-      <description>Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \textbf{Best-Practice… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings</title>
-      <link>http://arxiv.org/abs/2608.23551v1</link>
-      <guid isPermaLink="false">pepite-8bb7ade8eddfee9c</guid>
-      <pubDate>Mon, 24 Aug 2026 17:54:14 +0000</pubDate>
-      <category>research</category>
-      <description>Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross entropy (CE) because the flow trajectories are not guaranteed to terminate at valid token embeddings. Motivated by this limitation, we… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.27</title>
-      <link>https://simonwillison.net/2026/Aug/24/llm-anthropic/</link>
-      <guid isPermaLink="false">pepite-cce482eca04d1925</guid>
-      <pubDate>Mon, 24 Aug 2026 16:27:04 +0000</pubDate>
-      <category>models</category>
-      <description>Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Headlong: An open source agent microharness featuring persistent agency and recursive LLMs</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vxnf6l/headlong_an_open_source_agent_microharness/</link>
-      <guid isPermaLink="false">pepite-fc1a5ac5dc59c980</guid>
-      <pubDate>Tue, 25 Aug 2026 02:36:32 +0000</pubDate>
-      <category>agents</category>
-      <description>An RLM agent microharness that "persistently" thinks continuously. What could go wrong :) Introducing Headlong, an open source microharness for persistent agents: self-guided agents that think continuously. Most agent harnesses are reactive: you send a task, the agent completes it, and then it sits frozen until the next request. Cron jobs and heartbeats… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Who’s behind the new ‘stealth model’ Ox Alpha?</title>
-      <link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
-      <guid isPermaLink="false">pepite-055017b0a06036dc</guid>
-      <pubDate>Sun, 23 Aug 2026 20:01:36 +0000</pubDate>
-      <category>models</category>
-      <description>A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter</title>
-      <link>https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/</link>
-      <guid isPermaLink="false">pepite-f4c603a14e05a80e</guid>
-      <pubDate>Sun, 23 Aug 2026 10:02:00 +0000</pubDate>
-      <category>agents</category>
-      <description>AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so actual costs are rising far more slowly than the raw numbers suggest. The article AI is becoming AI's biggest…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>An AI boss fired its first employee but only after humans reminded it of its own rules</title>
-      <link>https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/</link>
-      <guid isPermaLink="false">pepite-9eac5c10d5fb1e52</guid>
-      <pubDate>Sun, 23 Aug 2026 12:31:59 +0000</pubDate>
-      <category>agents</category>
-      <description>Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesitated. When it came to hiring, nearly all models were uncritical. The article An…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Is it legal to train AI models on copyrighted books? It’s complicated</title>
-      <link>https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/</link>
-      <guid isPermaLink="false">pepite-8dafa127b694766c</guid>
-      <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>missuo/herdrm</title>
-      <link>https://github.com/missuo/herdrm</link>
-      <guid isPermaLink="false">pepite-946ea8e17e210f24</guid>
-      <pubDate>Wed, 19 Aug 2026 06:55:39 +0000</pubDate>
-      <category>repos</category>
-      <description>The native macOS console for herdr — see Claude Code, Codex, Gemini, Grok and OpenCode across your Mac and every SSH box you own, and jump into any one of them at full-TUI fidelity. herdr is the runtime your coding agents live on — a background server that owns their terminals and knows which one is working, blocked, or done. herdrm is a native macOS window… It's pulling 126★/day — real momentum for something this new, not a one-day spike. Still under the radar (613★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>HarnessRouter/harnessrouter</title>
-      <link>https://github.com/HarnessRouter/harnessrouter</link>
-      <guid isPermaLink="false">pepite-5203a720c4f66eb6</guid>
-      <pubDate>Sun, 09 Aug 2026 20:19:14 +0000</pubDate>
-      <category>repos</category>
-      <description>Run agent harnesses on your own machine. own data. Configure a harness, give it work, watch it run, with no account, no cloud, and no telemetry. Community Edition implements the Unified Harness Protocol (UHP), the open standard the hosted service implements too. Six steps, and at the end of them you have a running instance, a signed-in console, and an agent… It's pulling 38★/day — real momentum for something this new, not a one-day spike. Still under the radar (552★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Quoting Drew Breunig</title>
-      <link>https://simonwillison.net/2026/Aug/23/drew-breunig/</link>
-      <guid isPermaLink="false">pepite-02dbe79386a69164</guid>
-      <pubDate>Sun, 23 Aug 2026 19:55:30 +0000</pubDate>
-      <category>models</category>
-      <description>Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible . But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
-      <link>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</link>
-      <guid isPermaLink="false">pepite-d6c0f7eda20e5cca</guid>
-      <pubDate>Sun, 23 Aug 2026 20:24:52 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from "people with knowledge of the matter": Anthropic's "annualized revenue" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here . Anthropic expect Q3 to be profitable according to the same… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)</title>
-      <link>https://www.pianoify.net/</link>
-      <guid isPermaLink="false">pepite-4f6357cd5532b240</guid>
-      <pubDate>Fri, 21 Aug 2026 15:44:40 +0000</pubDate>
-      <category>models</category>
-      <description>GPU powered models to convert any song to piano It's pulling 20pts/day — real momentum for something this new, not a one-day spike. Still under the radar (52pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning</title>
-      <link>http://arxiv.org/abs/2608.21300v1</link>
-      <guid isPermaLink="false">pepite-3393d866a404f56d</guid>
-      <pubDate>Fri, 21 Aug 2026 17:01:10 +0000</pubDate>
-      <category>research</category>
-      <description>Foundation models for medical image segmentation, like prompt-based MedSAM, generalize well across domains and modalities, often in zero or few-shot setups. However, their performance depends on the quality of prompts and the adaptation of the models to custom datasets. This work systematically examines how MedSAM generalizes across diverse medical imaging… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
