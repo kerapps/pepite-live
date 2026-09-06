@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism</title>
+      <link>https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/</link>
+      <guid isPermaLink="false">pepite-c1156ff20ab9b0f1</guid>
+      <pubDate>Sat, 05 Sep 2026 18:21:02 +0000</pubDate>
+      <category>research</category>
+      <description>Artificial Analysis has retooled its Intelligence Index after drawing criticism. It addresses the concerns but remains a bit behind other competitive benchmarks. As it stands, it’s another marker for progress but doesn’t yet set industry standards.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure</title>
+      <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
+      <guid isPermaLink="false">pepite-1cb48b3f41519359</guid>
+      <pubDate>Sat, 05 Sep 2026 18:05:27 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI plans to increase transparency with more disclosure. This comes after incidents involving their AI agents on platforms, showing the need for more oversight. These changes are still in the works — don't expect immediate solutions.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words</title>
+      <link>https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/</link>
+      <guid isPermaLink="false">pepite-e2d719d60d77e6e7</guid>
+      <pubDate>Sat, 05 Sep 2026 13:31:04 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI is releasing prompting tips for GPT-6 Astra to boost its use. It’s attractive because it promises more control and efficiency for developers. Yet, learning these new cues takes time and the model isn't foolproof yet.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
+      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
+      <guid isPermaLink="false">pepite-1d3d4d76fcdcf806</guid>
+      <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
+      <category>other</category>
+      <description>Media giants are suing over AI training datasets, adding to legal complexities. It highlights ongoing tensions between tech companies and traditional media. But, it’s primarily between big players — direct impacts on everyday projects are limited for now.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers</title>
+      <link>https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/</link>
+      <guid isPermaLink="false">pepite-1f6ab6dec2a4c0bb</guid>
+      <pubDate>Sat, 05 Sep 2026 10:22:38 +0000</pubDate>
+      <category>agents</category>
+      <description>Deepmind simulated 100 AI agents in a group and observed their dynamics. Intriguingly, agents fell into groups like cheaters and whistleblowers. It's insightful but mainly experimental—real-world implications remain to be seen.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra on robot arms</title>
+      <link>https://openai.robocurve.org/gpt-6-astra/</link>
+      <guid isPermaLink="false">pepite-0f0f264e9f6b7a1f</guid>
+      <pubDate>Sun, 06 Sep 2026 01:52:45 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-6 Astra is being discussed for its use in robot arms. It's noteworthy because this version reportedly understands prompts in more detail, making it handy for tasks requiring precision like robotic controls. However, it's not universally available yet, so your hardware might not support it.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>OKF Agent Memory – Git-native persistent memory for AI coding agents</title>
+      <link>https://github.com/okf-memory/okf-agent-memory</link>
+      <guid isPermaLink="false">pepite-de3cbff4adcc494c</guid>
+      <pubDate>Sat, 05 Sep 2026 22:15:52 +0000</pubDate>
+      <category>agents</category>
+      <description>OKF Agent Memory ties AI coding agents directly to Git, offering a persistent memory. This could streamline project management by keeping your AI's memory with your codebase, reducing mismatch risks. The catch? You'll need to manage the Git integration yourself — it's not plug-and-play.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>pierrenade/short-video-generator-AI</title>
+      <link>https://github.com/pierrenade/short-video-generator-AI</link>
+      <guid isPermaLink="false">pepite-e3b3bae97c97fdde</guid>
+      <pubDate>Sat, 05 Sep 2026 11:55:18 +0000</pubDate>
+      <category>repos</category>
+      <description>Pierre Nade created a tool to convert YouTube videos into viral short clips with AI. It's a cost-effective alternative for creators bypassing platform fees. The downside is it’s a fresh project — more features might be on the horizon, but they're not here yet.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>LLMs as a Cognitive Virus</title>
+      <link>https://arxiv.org/abs/2609.03344</link>
+      <guid isPermaLink="false">pepite-87a9282feb491bc6</guid>
+      <pubDate>Sat, 05 Sep 2026 20:02:35 +0000</pubDate>
+      <category>models</category>
+      <description>The idea of LLMs as a 'Cognitive Virus' is stirring up debate. It captures interest as it frames AI as capable of spreading ideas like a biological entity would. Be warned, though: this is conceptual and purely theoretical — don't expect actionable uses from it yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>kydlikebtc/awesome-grokbot</title>
+      <link>https://github.com/kydlikebtc/awesome-grokbot</link>
+      <guid isPermaLink="false">pepite-891a08d38523d648</guid>
+      <pubDate>Tue, 01 Sep 2026 02:30:25 +0000</pubDate>
+      <category>repos</category>
+      <description>This GitHub repo lists 533 live shares of Grok Bot templates. It's a useful catalog for developers looking to enhance or adapt their AI bots. But, it's primarily in Chinese and some entries might not have English translations.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Introducing GPT-6 Astra for developers</title>
+      <link>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</link>
+      <guid isPermaLink="false">pepite-b8133850cc199948</guid>
+      <pubDate>Sat, 05 Sep 2026 23:27:48 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-6 Astra is being touted for its capabilities in creating detailed 3D models and more. Its selling point is its knack for complex visual tasks, like rendering cityscapes or fictional scenes. If you need such intricate outputs, the catch is, you’ll need substantial GPU power.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Using Blender with coding agents on macOS</title>
+      <link>https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/</link>
+      <guid isPermaLink="false">pepite-22aacec03e469cb8</guid>
+      <pubDate>Sat, 05 Sep 2026 15:51:09 +0000</pubDate>
+      <category>agents</category>
+      <description>A post talks about using Blender with coding agents on macOS. It’s appealing because it shows how seamlessly AI tools can integrate into creative software like Blender. However, you’ll be stuck if you're not on a Mac since this guide is OS-specific.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training</title>
+      <link>http://arxiv.org/abs/2609.04094v1</link>
+      <guid isPermaLink="false">pepite-e7766a06c2751c07</guid>
+      <pubDate>Thu, 03 Sep 2026 17:02:20 +0000</pubDate>
+      <category>research</category>
+      <description>DRACO is a research paper offering a new way to train AI agents. It’s interesting for its novel approach to distributing training rewards. However, it’s still early days, and practical applications aren't ready yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents</title>
+      <link>https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/</link>
+      <guid isPermaLink="false">pepite-f398f5c8c0007193</guid>
+      <pubDate>Sun, 06 Sep 2026 06:11:02 +0000</pubDate>
+      <category>finance</category>
+      <description>UC Berkeley's CUA-Lite is a unified platform for AI agent training and benchmarking. Its edge is in combining various needed tools into one cohesive space. The issue? As a new platform, expect some rough edges and growing pains.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>OpenAI’s rogue agents keep escaping, with no formal process to investigate them</title>
       <link>https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</link>
       <guid isPermaLink="false">pepite-fe3e9affeeaab43c</guid>
@@ -1362,145 +1502,5 @@
       <description>text-Humanizer is a completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. By leveraging large language models for semantic-preserving text transformation, the system rewrites content with more natural sentence structures, varied linguistic patterns, and improved stylistic diversity… It's pulling 42★/day — real momentum for something this new, not a one-day spike. Still under the radar (724★) — early enough to be worth a look before everyone piles in.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>XREPOTEST: Benchmarking Multilingual Repository-Level Unit Test Generation for Large Language Models</title>
-      <link>http://arxiv.org/abs/2608.25939v1</link>
-      <guid isPermaLink="false">pepite-f5ca96a364d8332c</guid>
-      <pubDate>Wed, 26 Aug 2026 15:53:43 +0000</pubDate>
-      <category>finance</category>
-      <description>Large language models (LLMs) have shown promise for automated unit test generation, but existing evaluations largely rely on standalone settings and a narrow set of programming languages, overestimating real-world readiness. We introduce XREPOTEST, a multilingual repository-level benchmark for unit test generation spanning five underexplored languages:… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>TAU-Agent: An Agentic Retrieval-Augmented Framework for Traffic Anomaly Understanding</title>
-      <link>http://arxiv.org/abs/2608.25935v1</link>
-      <guid isPermaLink="false">pepite-6215097eaf76d02d</guid>
-      <pubDate>Wed, 26 Aug 2026 15:50:38 +0000</pubDate>
-      <category>research</category>
-      <description>Traffic Anomaly Understanding (TAU) requires models and systems to detect, reason about, and explain anomalous events in transportation videos. To address this challenge, we propose TAU-Agent, an agentic retrieval-augmented framework for traffic anomaly understanding. Given a task query, a central retrieval agent orchestrates two visual perception tools,… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SciMIF: Understanding Multimodal Instruction Following in Scientific Domains</title>
-      <link>http://arxiv.org/abs/2608.25973v1</link>
-      <guid isPermaLink="false">pepite-f2b798be7fdc5733</guid>
-      <pubDate>Wed, 26 Aug 2026 16:30:20 +0000</pubDate>
-      <category>research</category>
-      <description>Understanding instruction-following capabilities in scientific domains is essential for effectively leveraging Multimodal Large Language Models (MLLMs) to advance the development of scientific fields. In this work, we introduce SciMIF, a novel benchmark designed to evaluate the capability of MLLMs in following complex scientific instructions. Specifically,… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Qwen3.8-Flash-Next: Time to Update Those Benchmarks</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vzspz6/qwen38flashnext_time_to_update_those_benchmarks/</link>
-      <guid isPermaLink="false">pepite-94c947bbcec2b9a3</guid>
-      <pubDate>Thu, 27 Aug 2026 12:34:49 +0000</pubDate>
-      <category>research</category>
-      <description>specs hardware: M4 Max 128GB Studio inference engine: oMLX &amp; lllama.cpp insights it still very early, so had to disable oMLX K/V caching, qwen4_exp architectureis not yet supported + the obvious n-grams with which the whole 4 bit quant takes ~100G, so pretty tight nevertheless, this is the first model for the year that was able to break through 94% on my… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Google launches Gemini for legal work to automate contracts and research</title>
-      <link>https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/</link>
-      <guid isPermaLink="false">pepite-d535fc63895defc4</guid>
-      <pubDate>Tue, 25 Aug 2026 16:21:09 +0000</pubDate>
-      <category>agents</category>
-      <description>With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers similar solutions. All providers use the same models as in their other products.… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI's first custom chip "Jalapeño" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks</title>
-      <link>https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/</link>
-      <guid isPermaLink="false">pepite-41f10b717e4a4748</guid>
-      <pubDate>Tue, 25 Aug 2026 18:00:50 +0000</pubDate>
-      <category>research</category>
-      <description>OpenAI showed off "Jalapeño," its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency. "Usually first generation chips aren't competitive, but OpenAI is beating Nvidia Blackwell and even Rubin," SemiAnalysis CEO Dylan… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Claude Cowork finally remembers what you told the app in chat</title>
-      <link>https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/</link>
-      <guid isPermaLink="false">pepite-4b53c711439f45df</guid>
-      <pubDate>Tue, 25 Aug 2026 17:50:33 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI loses a top data center exec, as stream of high-profile departures continues</title>
-      <link>https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/</link>
-      <guid isPermaLink="false">pepite-3c7ff1efc47f93a0</guid>
-      <pubDate>Wed, 26 Aug 2026 00:06:20 +0000</pubDate>
-      <category>other</category>
-      <description>Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated</title>
-      <link>https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/</link>
-      <guid isPermaLink="false">pepite-cb9675247a6f7c5e</guid>
-      <pubDate>Tue, 25 Aug 2026 12:27:57 +0000</pubDate>
-      <category>models</category>
-      <description>Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story. Nvidia needs at least 64 accelerators to get there, while Cerebras needs only one or two, according to The Register. How well the architecture scales with large…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Show HN: I made a Raspberry with Qwen my local car AI</title>
-      <link>https://github.com/ThinkOffApp/CarWatch</link>
-      <guid isPermaLink="false">pepite-38bb3d024c1709d1</guid>
-      <pubDate>Tue, 25 Aug 2026 15:20:20 +0000</pubDate>
-      <category>agents</category>
-      <description>Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion… It's pulling 223pts/day — real momentum for something this new, not a one-day spike. Still under the radar (114pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>ApodexAI/FrontierAgent</title>
-      <link>https://github.com/ApodexAI/FrontierAgent</link>
-      <guid isPermaLink="false">pepite-6c6d912088f3a65d</guid>
-      <pubDate>Sat, 22 Aug 2026 05:07:35 +0000</pubDate>
-      <category>repos</category>
-      <description>FrontierAgent is an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work. The frontier-agent TUI ships two native workflows: runs commands, and iterates in a task-scoped sandbox. - Agent Team — a coordinator maintains a task board, delegates independent work to parallel sub-agents, collects their… It's pulling 165★/day — real momentum for something this new, not a one-day spike. Still under the radar (652★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Warnock: Harnessing GPU geometry amplification for vector graphics</title>
-      <link>https://dl.acm.org/doi/pdf/10.1145/3820012</link>
-      <guid isPermaLink="false">pepite-231cd764fac52220</guid>
-      <pubDate>Tue, 25 Aug 2026 15:26:45 +0000</pubDate>
-      <category>other</category>
-      <description>Video: https://www.youtube.com/watch?v=PTD4yvGWgvA It's pulling 75pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>iAmCorey/Wake</title>
-      <link>https://github.com/iAmCorey/Wake</link>
-      <guid isPermaLink="false">pepite-2d77e819954d6d10</guid>
-      <pubDate>Tue, 18 Aug 2026 09:46:23 +0000</pubDate>
-      <category>repos</category>
-      <description>A native desktop app that gathers every coding-agent session on your machine into one place — browse, full-text search, and resume any conversation in seconds. Built with Rust + GPUI (gpui 0.2 + gpui-component 0.5). macOS first; experimental Linux support since v0.2.5, experimental Windows support since v0.2.7. Your agent history is scattered across… It's pulling 80★/day — real momentum for something this new, not a one-day spike. Still under the radar (626★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms</title>
-      <link>http://arxiv.org/abs/2608.24877v1</link>
-      <guid isPermaLink="false">pepite-2c5144ed91767d08</guid>
-      <pubDate>Tue, 25 Aug 2026 17:56:54 +0000</pubDate>
-      <category>research</category>
-      <description>Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-body viewpoint aligns with the wearer's vision, audition, motion, and hand-object interaction, but must operate under tight energy, thermal, privacy, and feedback… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
