@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades</title>
+      <link>https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/</link>
+      <guid isPermaLink="false">pepite-1c050bbd8a1c93b7</guid>
+      <pubDate>Mon, 07 Sep 2026 16:54:12 +0000</pubDate>
+      <category>models</category>
+      <description>ChatGPT has reclaimed a significant chunk of chatbot traffic. Despite its climb back, competitive pressure from the likes of Gemini remains strong. But the report touches only on web traffic, not apps.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk</title>
+      <link>https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/</link>
+      <guid isPermaLink="false">pepite-09f466e518b1af88</guid>
+      <pubDate>Mon, 07 Sep 2026 18:12:41 +0000</pubDate>
+      <category>other</category>
+      <description>Anthropic's vast compute contracts show serious investing in AI infrastructure. Such massive deals reflect both the race to lead in AI space and the associated financial risks. Eyes are on how wisely these resources get deployed.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra beat Portal start to finish without human help in under 24 hours</title>
+      <link>https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/</link>
+      <guid isPermaLink="false">pepite-99ff1541f934679f</guid>
+      <pubDate>Mon, 07 Sep 2026 17:39:32 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-6 Astra played 'Portal' autonomously in under a day. It's a showcase of AI's growing capability to handle complex tasks unaided. Yet, it's a demo, not everyday reality—so don't expect games to start solving themselves.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Mistral raises €3B to make sovereign, open-weight AI the technology frontier</title>
+      <link>https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</link>
+      <guid isPermaLink="false">pepite-71857d99eb9d570a</guid>
+      <pubDate>Tue, 08 Sep 2026 05:06:23 +0000</pubDate>
+      <category>finance</category>
+      <description>Mistral just announced a whopping €3 billion raise. They're aiming to push open-weight AI, which means open and flexible models, into the spotlight. The big question is whether they can truly deliver AI that's both cutting-edge and openly usable.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200</title>
+      <link>https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses</link>
+      <guid isPermaLink="false">pepite-7957fe57294f980a</guid>
+      <pubDate>Mon, 07 Sep 2026 18:24:32 +0000</pubDate>
+      <category>models</category>
+      <description>An AI test run sent invoices and lost money running businesses on its own. It's a bold demonstration of AI autonomy, showcasing its potential and pitfalls. The critical issue here: it still makes mistakes costly enough that leaving it unchecked isn't an option.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Speculative Decoding in vLLM on AMD GPUs</title>
+      <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
+      <guid isPermaLink="false">pepite-c0d3fb9fbb1fcece</guid>
+      <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
+      <category>models</category>
+      <description>Speculative Decoding on AMD GPUs is being tested with vLLM. It promises to make AI processes faster, which everyone needs. But keep in mind, this tech is still mostly for those with access to AMD hardware.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>okf-memory/okf-agent-memory</title>
+      <link>https://github.com/okf-memory/okf-agent-memory</link>
+      <guid isPermaLink="false">pepite-6f2bf6a587790881</guid>
+      <pubDate>Sat, 05 Sep 2026 21:26:04 +0000</pubDate>
+      <category>repos</category>
+      <description>okf-memory offers persistent memory for AI agent conversations. It prevents loss of important decisions and data in long interactions. However, setting it up requires some initial coding effort.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>coldteadotai/pr-lens</title>
+      <link>https://github.com/coldteadotai/pr-lens</link>
+      <guid isPermaLink="false">pepite-95359d6bc77a4e86</guid>
+      <pubDate>Thu, 20 Aug 2026 19:16:16 +0000</pubDate>
+      <category>repos</category>
+      <description>PR Lens turns pull requests into visual diagrams right in your GitHub, helping you grasp changes at a glance. It's great for visual learners and those short on time. The downside: it requires GitHub integration to start.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>llm 0.35</title>
+      <link>https://simonwillison.net/2026/Sep/7/llm/</link>
+      <guid isPermaLink="false">pepite-1bfd7f6e1b29d8f3</guid>
+      <pubDate>Mon, 07 Sep 2026 23:54:54 +0000</pubDate>
+      <category>models</category>
+      <description>llm 0.35 is now out, featuring a new OpenAI model, GPT-6 Astra. It potentially means more powerful AI capabilities. Be aware, though: it's only part of OpenAI's ecosystem, limiting who can tap into it.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quoting Jakub Pachocki</title>
+      <link>https://simonwillison.net/2026/Sep/7/jakub-pachocki/</link>
+      <guid isPermaLink="false">pepite-86ca6d285b301856</guid>
+      <pubDate>Mon, 07 Sep 2026 22:26:25 +0000</pubDate>
+      <category>agents</category>
+      <description>Jakub Pachocki argues for faster development of AI defenses. The piece emphasizes the need for smart AI to prevent tech from becoming risky. Meanwhile, the risk lies in balancing speed with safety.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Creepy crawlies</title>
+      <link>https://simonwillison.net/2026/Sep/7/creepy-crawlies/</link>
+      <guid isPermaLink="false">pepite-71b69b68bdd212e9</guid>
+      <pubDate>Mon, 07 Sep 2026 23:08:58 +0000</pubDate>
+      <category>research</category>
+      <description>Git.kernel.org struggles with heavy crawler traffic. It's a reminder of the infrastructure strain web scraping can cause. Solutions aren't trivial and require careful tuning to manage performance.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China</title>
+      <link>https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china/</link>
+      <guid isPermaLink="false">pepite-0b04016d830d72cb</guid>
+      <pubDate>Tue, 08 Sep 2026 01:00:02 +0000</pubDate>
+      <category>repos</category>
+      <description>Alibaba, Cambricon, and Ant Group are pushing open-source AI at the PyTorch Shanghai conference. This collaboration signals strong momentum for open-source AI stacks. However, global collaboration can face regional tech policy hurdles.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>Cambricon Joins the PyTorch Foundation as a Platinum Member</title>
+      <link>https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member/</link>
+      <guid isPermaLink="false">pepite-c0b7ade87a697b8d</guid>
+      <pubDate>Tue, 08 Sep 2026 00:59:13 +0000</pubDate>
+      <category>repos</category>
+      <description>Cambricon joins PyTorch Foundation, boosting open-source AI projects under the Linux banner. Their membership aims to foster more accessible AI solutions. The real test is whether their presence will translate into tangible, community-driven improvements.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>Voice conversations between Gemma4 12B and E2B on GPU and Jetson Orin</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1waefz4/voice_conversations_between_gemma4_12b_and_e2b_on/</link>
+      <guid isPermaLink="false">pepite-5ca38def57f9afcc</guid>
+      <pubDate>Tue, 08 Sep 2026 04:36:49 +0000</pubDate>
+      <category>models</category>
+      <description>Voice interactions between Gemma4 models on GPUs and Jetson Orin bring AI to life. It shows off real-time AI chat tech with open-source backing. But to replicate, you need specific hardware and some setup skills.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Authors push back as publishers and agents make claims on Anthropic settlement</title>
       <link>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</link>
       <guid isPermaLink="false">pepite-c552c9e7d810d778</guid>
@@ -1362,145 +1502,5 @@
       <description>TL;DR PyTorch Conference North America 2026 features vLLM across sessions on KV cache management and disaggregated serving, hardware portability, kernel optimization, PyTorch integration, Mixture-of-Experts inference, attention, and production serving. vLLM... It landed in the last few hours.
 
 — via PyTorch</description>
-    </item>
-    <item>
-      <title>Your Voice Cloning System is Secretly a Voice Anonymizer</title>
-      <link>http://arxiv.org/abs/2608.27360v1</link>
-      <guid isPermaLink="false">pepite-7f8a659ef48586ea</guid>
-      <pubDate>Thu, 27 Aug 2026 16:59:58 +0000</pubDate>
-      <category>research</category>
-      <description>Speaker anonymization suppresses speaker-identifying attributes from speech while preserving linguistic content and quality. We propose repurposing XTTSv2, a multilingual voice cloning model trained on 27k hours of speech, for speaker anonymization without retraining. Our key insight is that XTTSv2's voice cloning capabilities preserve prosodic structure… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City</title>
-      <link>http://arxiv.org/abs/2608.27456v1</link>
-      <guid isPermaLink="false">pepite-bdfa901f370ffeb5</guid>
-      <pubDate>Thu, 27 Aug 2026 17:59:33 +0000</pubDate>
-      <category>research</category>
-      <description>Multimodal large language models (MLLMs) can interpret a street view, but urban agency depends on whether such local evidence remains useful after the agent starts to move. In this paper, we investigate how far current MLLM agents can turn local urban perception into reliable action in a complicated real-scale city. We propose UrbanGround, the first sandbox… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>PACE: A Unified Condense-and-Extract Paradigm for Fast VLM Inference</title>
-      <link>http://arxiv.org/abs/2608.27206v1</link>
-      <guid isPermaLink="false">pepite-9d39a8986e0353d5</guid>
-      <pubDate>Thu, 27 Aug 2026 14:52:09 +0000</pubDate>
-      <category>research</category>
-      <description>Vision-Language Models (VLMs) demonstrate exceptional visual reasoning capabilities, yet their inference costs escalate rapidly with the proliferation of visual tokens. Existing visual token pruning methods exhibit two fundamental limitations. First, most approaches operate exclusively post-vision encoder, leaving the substantial latency of the visual… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w1fpxi/terminal_bench_40_just_dropped_glm53_is_at_the/</link>
-      <guid isPermaLink="false">pepite-c989cf292a8f7287</guid>
-      <pubDate>Sat, 29 Aug 2026 07:17:09 +0000</pubDate>
-      <category>research</category>
-      <description>Announcement: https://www.tbench.ai/news/terminal-bench-4-0 Leaderboard: https://www.tbench.ai/ Imo the best aspect in their announcement is their focus on rapidly iterating on TerminalBench to keep the pace up with new model releases to fight benchmark saturation. On a similar note, what cheaper/smaller alternatives are there to benchmarking coding agents… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>AI benchmarks have a trust problem and Google wants to fix it</title>
-      <link>https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/</link>
-      <guid isPermaLink="false">pepite-c63b8a38de38c33d</guid>
-      <pubDate>Fri, 28 Aug 2026 13:15:10 +0000</pubDate>
-      <category>finance</category>
-      <description>Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to keep Google from seeing the test questions and keep evaluators from seeing the model weights. The pilot project with the Singapore AI Safety Institute uses a Gemini Flash Lite and could set a new… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Always-on and self-starting AI agents might be OpenAI's next big play</title>
-      <link>https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/</link>
-      <guid isPermaLink="false">pepite-d7cfd75369219d53</guid>
-      <pubDate>Fri, 28 Aug 2026 08:03:22 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI is building a "Persistent Mode" for its AI agent Codex that stays active indefinitely and generates its own follow-up tasks. WIRED found the relevant code, and OpenAI confirmed the tests. The feature comes with risks, though. With GPT-5.6 Sol, persistent behavior already led to unwanted actions, like deleting user data. The article Always-on and… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic gets its first court win over the Pentagon’s supply chain risk label</title>
-      <link>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</link>
-      <guid isPermaLink="false">pepite-d62db5e9a1ea4a6d</guid>
-      <pubDate>Fri, 28 Aug 2026 12:46:12 +0000</pubDate>
-      <category>other</category>
-      <description>A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India</title>
-      <link>https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/</link>
-      <guid isPermaLink="false">pepite-b8d3f0cb5de26b4c</guid>
-      <pubDate>Fri, 28 Aug 2026 12:21:06 +0000</pubDate>
-      <category>other</category>
-      <description>Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab</title>
-      <link>https://github.com/calmrocks/ai-engineer-notebooks</link>
-      <guid isPermaLink="false">pepite-3a6d94a92c23888d</guid>
-      <pubDate>Thu, 27 Aug 2026 21:46:39 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 158pts/day — real momentum for something this new, not a one-day spike. Still under the radar (111pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Terminal-Bench-Science: Evaluating AI agents on scientific research workflows</title>
-      <link>https://www.terminal-bench-science.ai/announcement</link>
-      <guid isPermaLink="false">pepite-800b641e647c2d41</guid>
-      <pubDate>Fri, 28 Aug 2026 00:06:51 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 174pts/day — real momentum for something this new, not a one-day spike. Still under the radar (105pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: We built open OpenRouter that turns usage into a better model</title>
-      <link>https://github.com/experientiallabs/experiential</link>
-      <guid isPermaLink="false">pepite-85db7bd151a72c04</guid>
-      <pubDate>Thu, 27 Aug 2026 21:18:35 +0000</pubDate>
-      <category>models</category>
-      <description>Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place. It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior). The gateway… It's pulling 276pts/day — real momentum for something this new, not a one-day spike. Still under the radar (199pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>damejan80/tokentab</title>
-      <link>https://github.com/damejan80/tokentab</link>
-      <guid isPermaLink="false">pepite-c3ce5cb93c5001b2</guid>
-      <pubDate>Thu, 27 Aug 2026 14:16:09 +0000</pubDate>
-      <category>repos</category>
-      <description>tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, and by the kind of work each session was doing. It runs entirely locally: no account, no API key, nothing leaves your machine. Clone the repo and install it into your environment:… It's pulling 210★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>GamePhanes/GamePhanes</title>
-      <link>https://github.com/GamePhanes/GamePhanes</link>
-      <guid isPermaLink="false">pepite-f7c58a27c1149796</guid>
-      <pubDate>Fri, 21 Aug 2026 02:57:42 +0000</pubDate>
-      <category>repos</category>
-      <description>Homepage · Benchmark · Task Registry · Issues · Discussions Terminal benchmarks usually stop at files, commands, and exit codes. Interactive software adds a second truth: the project must import, launch, accept controlled input, change runtime state, and produce the intended behavior. Game Terminal-Bench evaluates coding agents on that complete loop. The… It's pulling 72★/day — real momentum for something this new, not a one-day spike. Still under the radar (539★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090</title>
-      <link>http://arxiv.org/abs/2608.27370v1</link>
-      <guid isPermaLink="false">pepite-4e1f252d8f5d1a19</guid>
-      <pubDate>Thu, 27 Aug 2026 17:07:12 +0000</pubDate>
-      <category>research</category>
-      <description>Language model pretraining has become almost synonymous with prohibitive cost, placing it out of reach for much of the academic and open-source communities. Although strong open-source efforts already exist, including open-weight models and open-source training recipes, a cost-efficient, hardware-accessible, and open-source pretraining recipe has long been… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
