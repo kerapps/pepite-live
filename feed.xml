@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario</title>
+      <link>https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/</link>
+      <guid isPermaLink="false">pepite-2ef4d0276b61ff1f</guid>
+      <pubDate>Wed, 09 Sep 2026 19:39:27 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic shares varied forecasts for AI’s economic impact, labeling the CEO's negative views as extreme. It's notable for its stance on AI's economic effects. The downside: mostly projections, not immediate issues.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade</title>
+      <link>https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/</link>
+      <guid isPermaLink="false">pepite-9925e23238339704</guid>
+      <pubDate>Wed, 09 Sep 2026 12:48:41 +0000</pubDate>
+      <category>other</category>
+      <description>An article on the risks of AI as viewed by an ex-Anthropic scientist. It sparks a dialogue on AI safety with high-stakes predictions. The catch: it's heavy on opinions without new empirical evidence.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Suno launches v6 music models built with Warner, BMG, and Believe</title>
+      <link>https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/</link>
+      <guid isPermaLink="false">pepite-648dac7b0a27869d</guid>
+      <pubDate>Wed, 09 Sep 2026 14:06:57 +0000</pubDate>
+      <category>models</category>
+      <description>Suno's new AI music models let you edit songs with text prompts. This collaboration with big music labels brings AI creativity to the music studio. The downside: the training data source remains undisclosed, raising legal questions.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>yudaprasetya007/routeVSCODE</title>
+      <link>https://github.com/yudaprasetya007/routeVSCODE</link>
+      <guid isPermaLink="false">pepite-9ffbc2612d9ffcff</guid>
+      <pubDate>Thu, 10 Sep 2026 01:25:00 +0000</pubDate>
+      <category>repos</category>
+      <description>A tool to switch AI models in VSCode with one click. It lets you change between models like Claude, GPT-4, and more without editing config files. The catch: you'll need a quick setup of a web dashboard and install an extension.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes</title>
+      <link>https://hugovergnes.github.io/little-lm-3-8b/</link>
+      <guid isPermaLink="false">pepite-fef1d546728baa20</guid>
+      <pubDate>Thu, 10 Sep 2026 02:04:11 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on training a 3.8 billion parameter language model for under $1000. It's impressive for how affordable it makes training a sizable AI model. The catch: it assumes access to affordable cloud resources and solid technical know-how.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Muse, the band, lost its social media handles to Muse, Meta's new AI agent</title>
+      <link>https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/</link>
+      <guid isPermaLink="false">pepite-e771e65b178d87eb</guid>
+      <pubDate>Wed, 09 Sep 2026 23:57:29 +0000</pubDate>
+      <category>agents</category>
+      <description>Meta's new AI agent claimed Muse's social media handles, leaving the band in a tough spot. It's a real-world example of AI's impact beyond tech circles. But no new AI tech here, just a messy brand clash.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Qwen 3.8 follows GPT-5.5 Pro reasoning prefills</title>
+      <link>https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3</link>
+      <guid isPermaLink="false">pepite-8676500f18785189</guid>
+      <pubDate>Wed, 09 Sep 2026 17:24:28 +0000</pubDate>
+      <category>models</category>
+      <description>A new language model, Qwen 3.8, shows promise in reasoning tasks. It's catching attention for its fresh approach and following established models. The downside: still in the early discussion phase, so practical use is speculative.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>achimala/dream-loop</title>
+      <link>https://github.com/achimala/dream-loop</link>
+      <guid isPermaLink="false">pepite-ee5eec3e180b9bb0</guid>
+      <pubDate>Mon, 07 Sep 2026 14:19:20 +0000</pubDate>
+      <category>repos</category>
+      <description>An AI 'dream-loop' that creates games or apps based on visual comparisons. It 'dreams' up an image and refines till it matches, which is great for creative iterations. The catch: more an art project than a robust development tool.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs</title>
+      <link>http://arxiv.org/abs/2609.10355v1</link>
+      <guid isPermaLink="false">pepite-eab821d63c420414</guid>
+      <pubDate>Wed, 09 Sep 2026 15:50:39 +0000</pubDate>
+      <category>research</category>
+      <description>A paper exploring why video-focused AI models are so power-hungry. It dives into current solutions for efficiency in working with videos. The catch: It's a dense academic read, useful mostly for researchers.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out</title>
+      <link>http://arxiv.org/abs/2609.10357v1</link>
+      <guid isPermaLink="false">pepite-c5d2f8b7cf341e4f</guid>
+      <pubDate>Wed, 09 Sep 2026 15:52:55 +0000</pubDate>
+      <category>research</category>
+      <description>A study on how model pretraining affects evaluation. It looks at how models perform on new vs. old test sets. The drawback: findings are preliminary, applying mainly to time-series data.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Programmable World Model</title>
+      <link>http://arxiv.org/abs/2609.10540v1</link>
+      <guid isPermaLink="false">pepite-b477b54776474259</guid>
+      <pubDate>Wed, 09 Sep 2026 17:59:32 +0000</pubDate>
+      <category>research</category>
+      <description>A new framework that improves video world models by separating visuals from underlying rules. It gives more control in interactive environments. The catch: it's mainly a theoretical concept with no applications yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>.blend URL Viewer</title>
+      <link>https://simonwillison.net/2026/Sep/9/blender-viewer/</link>
+      <guid isPermaLink="false">pepite-8df2f50f6f23c0b4</guid>
+      <pubDate>Wed, 09 Sep 2026 23:58:32 +0000</pubDate>
+      <category>models</category>
+      <description>A tool to view Blender projects directly from a URL. It's convenient for quickly showcasing your Blender work. The hitch: requires getting comfortable with moving files to the web.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>PyTorch Conference China 2026: Advancing the Open Source AI Stack</title>
+      <link>https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/</link>
+      <guid isPermaLink="false">pepite-768790e29d468bfc</guid>
+      <pubDate>Thu, 10 Sep 2026 00:01:29 +0000</pubDate>
+      <category>repos</category>
+      <description>A recap of the PyTorch Conference in China, highlighting open-source advancements. It's a platform for community and technical sharing. The catch: no groundbreaking announcements, just steady progress.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>Hosting Local Models</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wcbtba/hosting_local_models/</link>
+      <guid isPermaLink="false">pepite-45bda6349976cef1</guid>
+      <pubDate>Thu, 10 Sep 2026 07:10:52 +0000</pubDate>
+      <category>models</category>
+      <description>A Reddit post seeks advice on hosting local AI models for coding. It underlines the popularity of localized AI solutions in development workflows. The hitch: thread lacks detailed solutions, just a starting point for discussion.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (&gt;$40M), a contender for second ever Millennium Prize awarded</title>
       <link>https://www.latent.space/p/ainews-openai-reports-navier-stokes</link>
       <guid isPermaLink="false">pepite-47a0accd565a90dd</guid>
@@ -1362,145 +1502,5 @@
       <description>Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constraints. We study this setting in the LM Playschool Challenge with a 2B open-weight model, and find that many failures are not only broad knowledge failures but… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents</title>
-      <link>http://arxiv.org/abs/2608.28389v1</link>
-      <guid isPermaLink="false">pepite-218771377aaa15f1</guid>
-      <pubDate>Fri, 28 Aug 2026 14:44:28 +0000</pubDate>
-      <category>research</category>
-      <description>Retrieval-augmented generation (RAG) augments LLMs with external documents, but public or user-editable sources expose RAG systems to data poisoning: attackers can inject malicious documents to steer outputs toward targeted answers. Existing poisoning attacks often rely on query inclusion, inserting the target query into poisoned documents to improve… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Sony and Warner sue Anthropic over "one of the largest and most blatant ongoing thefts of intellectual property in history"</title>
-      <link>https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/</link>
-      <guid isPermaLink="false">pepite-ea92ab7ce27011b1</guid>
-      <pubDate>Sun, 30 Aug 2026 08:50:20 +0000</pubDate>
-      <category>finance</category>
-      <description>Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical compositions to train Claude without permission. The plaintiffs call it "one of the largest and most blatant ongoing thefts of intellectual property in history." Just months after paying $1.5 billion…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Qwen3.8-Flash-Next</title>
-      <link>https://simonwillison.net/2026/Aug/26/qwen38-flash-next/</link>
-      <guid isPermaLink="false">pepite-63366f5f9044fc45</guid>
-      <pubDate>Wed, 26 Aug 2026 23:52:58 +0000</pubDate>
-      <category>models</category>
-      <description>Qwen3.8-Flash-Next Another open weights model from Qwen. This one is "a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still…
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>LWiAI Podcast #255 - Gemini 3.7, Jalapeño, Qwen 3.8, Drones</title>
-      <link>https://lastweekin.ai/p/lwiai-podcast-255-gemini-37-jalapeno</link>
-      <guid isPermaLink="false">pepite-86d65d7eaaf355db</guid>
-      <pubDate>Mon, 31 Aug 2026 08:20:04 +0000</pubDate>
-      <category>models</category>
-      <description>Google announces Gemini 3.7 Flash, Jalapeño’s first results show industry-leading speed, A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. It landed in the last few hours.
-
-— via Last Week in AI</description>
-    </item>
-    <item>
-      <title>Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance</title>
-      <link>https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/</link>
-      <guid isPermaLink="false">pepite-62f86472be627009</guid>
-      <pubDate>Sat, 29 Aug 2026 12:51:24 +0000</pubDate>
-      <category>finance</category>
-      <description>Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Larger models benefit more, but smaller models with WikiSkill can match the…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>LAION drops massive open video dataset with 10 million hours of footage for AI research</title>
-      <link>https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/</link>
-      <guid isPermaLink="false">pepite-ce0a05e3a6e382ba</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:48 +0000</pubDate>
-      <category>research</category>
-      <description>LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Nvidia’s AI advantage is moving beyond the GPU</title>
-      <link>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</link>
-      <guid isPermaLink="false">pepite-9764c79bea7cd185</guid>
-      <pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
-      <category>other</category>
-      <description>The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</title>
-      <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
-      <guid isPermaLink="false">pepite-4d9cf7893a2e0f3b</guid>
-      <pubDate>Sat, 29 Aug 2026 18:41:59 +0000</pubDate>
-      <category>other</category>
-      <description>This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>LLMs are making me lose my savviness</title>
-      <link>https://pgaleone.eu/ai/2026/08/29/losing-savviness/</link>
-      <guid isPermaLink="false">pepite-cb7d5e260b2dddcb</guid>
-      <pubDate>Sat, 29 Aug 2026 18:38:52 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 97pts/day — real momentum for something this new, not a one-day spike. Still under the radar (56pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>useagenthq/useagent</title>
-      <link>https://github.com/useagenthq/useagent</link>
-      <guid isPermaLink="false">pepite-61df8fedbc3acd44</guid>
-      <pubDate>Sat, 29 Aug 2026 21:14:31 +0000</pubDate>
-      <category>repos</category>
-      <description>Hand off the work. Get back the result. The open-source AI coworker for your team. useAgent turns the AI agents you already use - Claude Code, Codex, OpenCode - into coworkers with their own cloud computer, your tools, and your company context. They hand back finished work, not just answers: live websites, decks, spreadsheets, research reports, and tested… It landed in the last few hours. It's pulling 172★/day — real momentum for something this new, not a one-day spike.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>hkqr/my-free-code</title>
-      <link>https://github.com/hkqr/my-free-code</link>
-      <guid isPermaLink="false">pepite-92cab1989171e4c0</guid>
-      <pubDate>Thu, 27 Aug 2026 17:59:23 +0000</pubDate>
-      <category>repos</category>
-      <description>It is an independent implementation. It is not affiliated with Anthropic. The catalog contains the broad provider set used by the project: NVIDIA NIM, OpenRouter, Groq, OpenAI, xAI, QwenCloud, Together, DeepInfra, SiliconFlow, Nebius, Chutes, Featherless, ZenMux, W&amp;B Inference, Azure OpenAI, Google AI Studio, Google Vertex, DeepSeek, Mistral, Codestral,… It's pulling 110★/day — real momentum for something this new, not a one-day spike. Still under the radar (287★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Claude permanently raising weekly limits by 25%</title>
-      <link>https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424</link>
-      <guid isPermaLink="false">pepite-6c57147495c97786</guid>
-      <pubDate>Sat, 29 Aug 2026 16:37:05 +0000</pubDate>
-      <category>finance</category>
-      <description>It's pulling 39pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Introducing Hy4 Preview</title>
-      <link>https://simonwillison.net/2026/Aug/29/hy4/</link>
-      <guid isPermaLink="false">pepite-bf0f613e910ac8fd</guid>
-      <pubDate>Sat, 29 Aug 2026 23:53:13 +0000</pubDate>
-      <category>models</category>
-      <description>Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>AI Agent Has Root</title>
-      <link>https://infernalcode.com/posts/your-ai-agent-has-root/</link>
-      <guid isPermaLink="false">pepite-8d9c05cb00bb3472</guid>
-      <pubDate>Fri, 28 Aug 2026 12:03:09 +0000</pubDate>
-      <category>agents</category>
-      <description>It's pulling 22pts/day — real momentum for something this new, not a one-day spike. Still under the radar (42pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
