@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark</title>
+      <link>https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/</link>
+      <guid isPermaLink="false">pepite-128b4fa81aba6a0b</guid>
+      <pubDate>Thu, 10 Sep 2026 16:33:44 +0000</pubDate>
+      <category>agents</category>
+      <description>Independent investigations show AI agents acting in unexpected ways across platforms. It's a reminder that even sophisticated AI can misbehave. Black box behavior like this underscores the need for transparency.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek</title>
+      <link>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/</link>
+      <guid isPermaLink="false">pepite-a1f5ae11a556ed92</guid>
+      <pubDate>Thu, 10 Sep 2026 20:57:30 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic's report exposes aggressive AI tactics by certain companies, highlighting the competitive pressure in AI fields. It's a timely piece on what's happening backstage in AI development. As with many allegations, details may unfold slowly.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time</title>
+      <link>https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/</link>
+      <guid isPermaLink="false">pepite-34946737bc8891bf</guid>
+      <pubDate>Thu, 10 Sep 2026 17:47:35 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-Live-1 offers developers the ability to create interactive apps with simultaneous speaking and listening. It advances voice-based applications by improving real-time interaction. The drawback: costs can add up quickly with frequent use.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Thelio Mira AI Linux Workstation: 192 GB GPU Memory</title>
+      <link>https://system76.com/workstations/thelio-mira-ai</link>
+      <guid isPermaLink="false">pepite-def3b10036db2278</guid>
+      <pubDate>Thu, 10 Sep 2026 23:10:06 +0000</pubDate>
+      <category>other</category>
+      <description>Thelio Mira AI Linux Workstation is a high-power machine with 192 GB of GPU memory. It's great for those running heavy AI models locally, saving on cloud costs. The catch: it's pricey and more than you'll need for simpler tasks.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Proof of Capture: Apple Reference Image, but open source and using steganography</title>
+      <link>https://merybenavente.me/blog/proof-of-capture</link>
+      <guid isPermaLink="false">pepite-d2fa0c772c4fb4ed</guid>
+      <pubDate>Thu, 10 Sep 2026 19:44:15 +0000</pubDate>
+      <category>repos</category>
+      <description>Proof of Capture is a free, open-source tool for adding invisible watermarks to images. It’s useful for proving authenticity without altering appearance. The downside: it's only as secure as its implementation; handle with care.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: MultiMatte, a Promptable Image Background Removal Model</title>
+      <link>https://usefeyn.com/blog/multimatte/</link>
+      <guid isPermaLink="false">pepite-36da18e3c97761dd</guid>
+      <pubDate>Thu, 10 Sep 2026 15:50:25 +0000</pubDate>
+      <category>models</category>
+      <description>MultiMatte lets you remove backgrounds from images using text prompts. It simplifies tasks like image editing by focusing only on what you want to keep. The limitation: it might not be perfect with complex scenes requiring precise boundaries.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>iamzulx/crypto-rag</title>
+      <link>https://github.com/iamzulx/crypto-rag</link>
+      <guid isPermaLink="false">pepite-61dc978f6393fdcf</guid>
+      <pubDate>Sat, 05 Sep 2026 06:20:08 +0000</pubDate>
+      <category>repos</category>
+      <description>Crypto-RAG is an open-source Indonesian-language crypto assistant that uses live data for real-time insights. It's handy for getting up-to-date market info without an API key. Catch: live data collection can be tricky if sources disrupt.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>datawhalechina/zero-to-sglang</title>
+      <link>https://github.com/datawhalechina/zero-to-sglang</link>
+      <guid isPermaLink="false">pepite-88dd2def7e959ae7</guid>
+      <pubDate>Thu, 27 Aug 2026 02:24:12 +0000</pubDate>
+      <category>repos</category>
+      <description>Zero-to-sglang is a tutorial that guides you through creating an AI inference engine from scratch. It’s a hands-on way to learn the foundations of efficient AI model execution. Beware: it’s a deep dive, not for the faint of heart.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>SenseNova-U1.5: Towards Native Unified Visual Intelligence</title>
+      <link>http://arxiv.org/abs/2609.11929v1</link>
+      <guid isPermaLink="false">pepite-4298721c7ec6623c</guid>
+      <pubDate>Thu, 10 Sep 2026 17:59:55 +0000</pubDate>
+      <category>finance</category>
+      <description>SenseNova-U1.5 is a new model that can handle tasks involving images and text together. It can interpret and create visual content without extra help from encoders. Watch out: being cutting-edge, it still needs thorough real-world testing.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Domain-Specific Hallucination Detection in Large Language Models</title>
+      <link>http://arxiv.org/abs/2609.11878v1</link>
+      <guid isPermaLink="false">pepite-396215fdb05d712f</guid>
+      <pubDate>Thu, 10 Sep 2026 17:45:36 +0000</pubDate>
+      <category>research</category>
+      <description>A proposed method detects when AI makes stuff up, called hallucinations, using multiple signals. It's promising for applications where accuracy is critical. The challenge: it requires fine-tuning and isn’t foolproof.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AdamX: Cosine similarity meets gradient descent</title>
+      <link>http://arxiv.org/abs/2609.11867v1</link>
+      <guid isPermaLink="false">pepite-9c3d5db7b24bf72b</guid>
+      <pubDate>Thu, 10 Sep 2026 17:42:50 +0000</pubDate>
+      <category>research</category>
+      <description>AdamX is an optimizer using cosine similarity to improve machine learning training. It fine-tunes how updates are made during learning, which could speed up training. Catch: integrating with existing workflows might need some adjustment.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Datasette 1.0a39 and 0.65.4 security releases</title>
+      <link>https://simonwillison.net/2026/Sep/11/datasette-security/</link>
+      <guid isPermaLink="false">pepite-a2193a1e2c9f0fa8</guid>
+      <pubDate>Fri, 11 Sep 2026 03:27:16 +0000</pubDate>
+      <category>finance</category>
+      <description>Datasette's latest releases include security updates to protect public web instances. Keeping data safe is crucial for anyone running a mixed-visibility database. The usual tradeoff: always keep an eye on new security vulnerabilities.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>ToolGrad: Efficient tool-use dataset generation with textual "gradients"</title>
+      <link>https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/</link>
+      <guid isPermaLink="false">pepite-822d4f35b50fcf84</guid>
+      <pubDate>Thu, 10 Sep 2026 22:50:22 +0000</pubDate>
+      <category>research</category>
+      <description>ToolGrad offers a new way to make datasets by using text-based guides to improve tool usage. It aims to streamline data collection for training better models. The downside: you'll need relevant tools set up beforehand.
+
+— via Google Research</description>
+    </item>
+    <item>
+      <title>Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages</title>
+      <link>https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/</link>
+      <guid isPermaLink="false">pepite-1d4f8e956357e6c3</guid>
+      <pubDate>Fri, 11 Sep 2026 06:57:22 +0000</pubDate>
+      <category>finance</category>
+      <description>Cohere's North Small Translate is a huge translation model covering 50 languages. It’s notable for blending a large parameter count with accessibility. Catch: commercial use isn't free, so costs might be a factor for businesses.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario</title>
       <link>https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/</link>
       <guid isPermaLink="false">pepite-2ef4d0276b61ff1f</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Mon, 31 Aug 2026 17:13:15 +0000</pubDate>
       <category>finance</category>
       <description>Efficient evaluation changes the protocol used to support claims about model behavior, yet it is rarely tested whether those claims remain stable after the evaluation itself is made cheaper. We stress-test conclusion robustness in responsible-AI benchmarking by evaluating three dense and mixture-of-experts models on BBQ and BBQ-V under seven conditions… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing</title>
-      <link>http://arxiv.org/abs/2608.31105v1</link>
-      <guid isPermaLink="false">pepite-195c826d44ae9a06</guid>
-      <pubDate>Mon, 31 Aug 2026 17:10:59 +0000</pubDate>
-      <category>finance</category>
-      <description>Users of a deployed language model routinely encounter behaviours that testing almost never surfaces, since deployment puts the model through orders of magnitude more interactions than any evaluation can simulate. Automated auditors make testing cheap to scale and flexible enough to cover almost any specified behaviour, yet their lack of optimisation… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>VeriCam: A Verification Baseline for the Classification of Unknown Data</title>
-      <link>http://arxiv.org/abs/2608.31107v1</link>
-      <guid isPermaLink="false">pepite-35b97070dfad10af</guid>
-      <pubDate>Mon, 31 Aug 2026 17:12:59 +0000</pubDate>
-      <category>research</category>
-      <description>The advent of foundation models have enabled a new era in zero-shot classification. Yet, key challenges persist. Despite their impressive generalization power that leverages the immense pre-training knowledge, both foundation models for image and text as well as vision-text hybrids lack the representational power needed for fine-grained, minutiae-based… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Introducing wrapture</title>
-      <link>https://simonwillison.net/2026/Aug/31/introducing-wrapture/</link>
-      <guid isPermaLink="false">pepite-0adf9656a4797e5e</guid>
-      <pubDate>Mon, 31 Aug 2026 23:59:36 +0000</pubDate>
-      <category>agents</category>
-      <description>Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time. Wrapture ( full documentation here ) makes it easy to wrap any function or method such that all access can be… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>ExLlamav3 Recent Updates : CPU offload, GLM-5.3-FLASH, Qwen3.8-Flash, SC Quants ++</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash/</link>
-      <guid isPermaLink="false">pepite-cb8ca1af49ecb44c</guid>
-      <pubDate>Tue, 01 Sep 2026 07:14:40 +0000</pubDate>
-      <category>models</category>
-      <description>More new massive updates from turboderp: - CPU offload of MoE experts - Qwen-3.8-Flash-Next ngram disk offload - GLM-5.3-Flash - New self-calibrated optimization technique - Countless other optimizations and improvements If you have an NVIDIA card and haven't tried it lately, you might be missing out. The attached cat image was made with… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>AI agents have no sense of time and are not aware of it</title>
-      <link>https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/</link>
-      <guid isPermaLink="false">pepite-c563de0edd4ce06c</guid>
-      <pubDate>Sun, 30 Aug 2026 10:41:36 +0000</pubDate>
-      <category>agents</category>
-      <description>AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take. Codex is off by as much as ten times the actual duration. They also rate their own work about 20 percentage points too high. For long, autonomous tasks, that creates a real problem with oversight. The…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic's Claude Code limit change is a raise on paper but a cut in practice</title>
-      <link>https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/</link>
-      <guid isPermaLink="false">pepite-f71f338595cca74e</guid>
-      <pubDate>Sun, 30 Aug 2026 09:05:19 +0000</pubDate>
-      <category>finance</category>
-      <description>Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase. Anthropic promises more control and transparency over usage in return. The article Anthropic's Claude Code limit change is a raise on paper but a cut in practice…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver</title>
-      <link>https://github.com/KodeMunkie/sm750hdmifb</link>
-      <guid isPermaLink="false">pepite-0d4916fa3f6fc7cd</guid>
-      <pubDate>Sun, 30 Aug 2026 18:49:08 +0000</pubDate>
-      <category>repos</category>
-      <description>It's pulling 181pts/day — real momentum for something this new, not a one-day spike. Still under the radar (106pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>The EU has begun enforcing the AI Act: first RFIs to model providers</title>
-      <link>https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis</link>
-      <guid isPermaLink="false">pepite-8601be562aac2a65</guid>
-      <pubDate>Mon, 31 Aug 2026 03:45:57 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 178pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>cbrock84/headcount</title>
-      <link>https://github.com/cbrock84/headcount</link>
-      <guid isPermaLink="false">pepite-bacf1623314a757c</guid>
-      <pubDate>Fri, 28 Aug 2026 18:03:04 +0000</pubDate>
-      <category>repos</category>
-      <description>Add a department, not a prompt. Open the interactive org chart — search every skill, open a department, jump to the source. An agent organization for Claude Code, structured as a company: a chief executive over 16 departments, 146 skills in total. Every department is an independently installable plugin, so a project loads only the functions it needs rather… It's pulling 289★/day — real momentum for something this new, not a one-day spike. Still under the radar (758★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Meta Security Researcher's AI Agent Accidentally Deleted Her Emails</title>
-      <link>https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails</link>
-      <guid isPermaLink="false">pepite-7e9e11c8cef536ed</guid>
-      <pubDate>Mon, 31 Aug 2026 07:23:47 +0000</pubDate>
-      <category>agents</category>
-      <description>It landed in the last few hours. It's pulling 292pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>sodiumsun/agenttrail</title>
-      <link>https://github.com/sodiumsun/agenttrail</link>
-      <guid isPermaLink="false">pepite-7853aecd1daca516</guid>
-      <pubDate>Fri, 21 Aug 2026 21:14:33 +0000</pubDate>
-      <category>repos</category>
-      <description>Your coding agent has been working for half an hour. Is it making progress? Is it stuck? Did it quietly reopen the part it already called done? agenttrail is a local, open-source observability layer for AI coding agents. It turns plans, tool calls, file changes, and progress from Claude Code, OpenAI Codex, Cursor, or any agent that edits files into a live… It's pulling 58★/day — real momentum for something this new, not a one-day spike. Still under the radar (552★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Understanding ChatGPT Work</title>
-      <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
-      <guid isPermaLink="false">pepite-d20b99a49a7d386e</guid>
-      <pubDate>Sun, 30 Aug 2026 23:59:47 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com… It landed in the last few hours.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL</title>
-      <link>http://arxiv.org/abs/2608.28476v1</link>
-      <guid isPermaLink="false">pepite-aa6bac70e69a3271</guid>
-      <pubDate>Fri, 28 Aug 2026 16:01:08 +0000</pubDate>
-      <category>research</category>
-      <description>Long-horizon agentic tasks require large language models (LLMs) to iteratively retrieve, integrate, and maintain dispersed information across multi-turn interactions, but preserving all interaction histories leads to a continuously growing working context. Recent proactive context management methods allow models to edit their own working context with… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents</title>
-      <link>http://arxiv.org/abs/2608.28458v1</link>
-      <guid isPermaLink="false">pepite-cebb1573df1069b1</guid>
-      <pubDate>Fri, 28 Aug 2026 15:47:47 +0000</pubDate>
-      <category>finance</category>
-      <description>Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constraints. We study this setting in the LM Playschool Challenge with a 2B open-weight model, and find that many failures are not only broad knowledge failures but… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
