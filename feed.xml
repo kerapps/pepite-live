@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>GPT-6 Astra appears to show a "step change" in spatial reasoning based on early benchmarks</title>
+      <link>https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/</link>
+      <guid isPermaLink="false">pepite-21b2a1e9dc4ac67e</guid>
+      <pubDate>Sat, 12 Sep 2026 14:26:09 +0000</pubDate>
+      <category>research</category>
+      <description>GPT-6 Astra shows promise in spatial reasoning, per a new robotics benchmark. It’s impressive because it outperformed a competitor on complex tasks. But, it's just early results, so we need more data to confirm its abilities.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic CEO outlines plan to slow AI development</title>
+      <link>https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</link>
+      <guid isPermaLink="false">pepite-725588a31c85fd87</guid>
+      <pubDate>Sat, 12 Sep 2026 19:34:44 +0000</pubDate>
+      <category>models</category>
+      <description>A TechCrunch AI post covering the Anthropic CEO's plan to slow AI advancement. This is significant as it reflects broader industry concerns over safety. However, it’s short on actionable details for builders.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>AI models' written reasoning steps correspond to distinct internal patterns, a new study finds</title>
+      <link>https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/</link>
+      <guid isPermaLink="false">pepite-7902c2303d8c29e7</guid>
+      <pubDate>Sat, 12 Sep 2026 13:39:43 +0000</pubDate>
+      <category>research</category>
+      <description>A Decoder article on how AI models show internal patterns during reasoning steps. It’s insightful for understanding AI behavior layering. Yet, the technical nature might be a barrier for those less familiar with AI internals.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends</title>
+      <link>https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/</link>
+      <guid isPermaLink="false">pepite-f49783c5ff231e66</guid>
+      <pubDate>Sat, 12 Sep 2026 13:10:11 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI suggests GPT-6 Astra works better with simpler prompts. This means clearer outputs without unnecessary restrictions. Just bear in mind that transitioning to new prompt styles might take time.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
+      <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</link>
+      <guid isPermaLink="false">pepite-22407f1a50da6d6a</guid>
+      <pubDate>Sat, 12 Sep 2026 20:19:16 +0000</pubDate>
+      <category>finance</category>
+      <description>TechCrunch AI piece discussing Sam Altman's view on delaying OpenAI's IPO. It's interesting as it provides insights into AI companies' internal dynamics. What's lacking is a clear timeline or strategy forward.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Why are AI agents lying, cheating and coordinating?</title>
+      <link>https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</link>
+      <guid isPermaLink="false">pepite-1e38c3d3c3366e72</guid>
+      <pubDate>Sun, 13 Sep 2026 01:22:31 +0000</pubDate>
+      <category>agents</category>
+      <description>A discussion on why AI agents sometimes lie, cheat, and work together. It's eye-opening because it shows how AIs mimic complex human behaviors. The catch is it's a think-piece without immediate solutions.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>rizqinrr/viserys-agent</title>
+      <link>https://github.com/rizqinrr/viserys-agent</link>
+      <guid isPermaLink="false">pepite-173d9c0042f489a3</guid>
+      <pubDate>Sat, 12 Sep 2026 16:51:29 +0000</pubDate>
+      <category>repos</category>
+      <description>Viserys Agent on GitHub is a toolkit for managing AI coding workflows. It gives your AI a structured process, replacing on-the-fly decisions with repeatable routines. But it's new and might require some setup effort to fit your needs.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>A Mathematical Framework for Transformer Circuits (2021)</title>
+      <link>https://transformer-circuits.pub/2021/framework/index.html</link>
+      <guid isPermaLink="false">pepite-e8b6cfeb8833aa61</guid>
+      <pubDate>Sat, 12 Sep 2026 13:56:58 +0000</pubDate>
+      <category>repos</category>
+      <description>A 2021 framework for understanding transformer circuits from Hacker News. It's important because it helps decode the magic inside transformers, the tech behind modern AI. The downside: it's a deep read, sticking mostly to hardcore math and theory.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AgentsDock: An IDE designed for agentic AI research</title>
+      <link>https://agentsdock.net/</link>
+      <guid isPermaLink="false">pepite-d6782c133f345763</guid>
+      <pubDate>Sat, 12 Sep 2026 23:45:58 +0000</pubDate>
+      <category>agents</category>
+      <description>AgentsDock is like an IDE tailored for AI agent research. It makes life easier by offering tools specifically for developing and testing AI agents. It's too early though; it doesn't mention real-world user reviews yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>kruzovic7/ai-data-extractor</title>
+      <link>https://github.com/kruzovic7/ai-data-extractor</link>
+      <guid isPermaLink="false">pepite-77a1d08b52453651</guid>
+      <pubDate>Fri, 11 Sep 2026 18:12:58 +0000</pubDate>
+      <category>repos</category>
+      <description>A GitHub tool for extracting chat history from AI coding assistants. Handy for turning discussions into datasets or backups. It's limited to just a few coding tools right now.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
+      <link>https://simonwillison.net/2026/Sep/12/astra-running-routes/</link>
+      <guid isPermaLink="false">pepite-2981ecf752e154a8</guid>
+      <pubDate>Sat, 12 Sep 2026 23:56:42 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-6 Astra with ChatGPT creates customized running routes using OSM data. It's like having your personal route planner. Clarity on code execution would make hobbyist replication easier.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quoting huggingface.co/security.txt</title>
+      <link>https://simonwillison.net/2026/Sep/11/hugging-face-security/</link>
+      <guid isPermaLink="false">pepite-30bdba9275f0627a</guid>
+      <pubDate>Fri, 11 Sep 2026 16:04:53 +0000</pubDate>
+      <category>research</category>
+      <description>A fun note from Hugging Face reminding agents to aim for safe challenges. It's a light-hearted nudge towards responsible AI practices. Though amusing, it skips the technical aspect of improving AI security.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Together AI expands fine-tuning service with more models, live metrics, and finer controls</title>
+      <link>https://www.together.ai/blog/together-ai-expands-fine-tuning-service-with-more-models-live-metrics-and-finer-controls</link>
+      <guid isPermaLink="false">pepite-ba82920771626e63</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <category>research</category>
+      <description>Together AI expands its fine-tuning options with more models and controls. This is great for gaining more precise tuning over AI training. The added complexity might overwhelm newcomers or those with simpler needs.
+
+— via Together AI</description>
+    </item>
+    <item>
+      <title>Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks</title>
+      <link>https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/</link>
+      <guid isPermaLink="false">pepite-fd5bfab660b75694</guid>
+      <pubDate>Sun, 13 Sep 2026 05:56:03 +0000</pubDate>
+      <category>agents</category>
+      <description>An article on improving context handling in AI agents tackling long tasks. It's significant for preventing common AI bottlenecks. However, practical application may require deep technical integration.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale</title>
       <link>https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</link>
       <guid isPermaLink="false">pepite-fedd609f4c721022</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 02 Sep 2026 17:56:10 +0000</pubDate>
       <category>research</category>
       <description>Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the fastest ensemble solvers cannot be differentiated in reverse… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction</title>
-      <link>http://arxiv.org/abs/2609.02783v1</link>
-      <guid isPermaLink="false">pepite-a59c8a4bc4f307f3</guid>
-      <pubDate>Wed, 02 Sep 2026 16:15:18 +0000</pubDate>
-      <category>finance</category>
-      <description>Evaluating LLM agents is essential for guiding their development, yet it has grown prohibitively expensive: a single pass of a frontier model over an agentic benchmark can cost hundreds to thousands of dollars, a price paid repeatedly across iterative development cycles. Prior efforts, centered on benchmark distillation, reduce the number of evaluation… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding</title>
-      <link>http://arxiv.org/abs/2609.02780v1</link>
-      <guid isPermaLink="false">pepite-da5b90e7a331dce3</guid>
-      <pubDate>Wed, 02 Sep 2026 16:14:48 +0000</pubDate>
-      <category>research</category>
-      <description>Streaming video understanding is a critical capability for real-world applications, including embodied intelligence, autonomous driving, industrial monitoring, surveillance and early warning, and wearable assistants. However, processing continuous video streams with multimodal large language models (MLLMs) is computationally expensive. Existing efforts have… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Agentic AI and Next-Gen Intelligence Sessions at PyTorch Conference North America 2026</title>
-      <link>https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026/</link>
-      <guid isPermaLink="false">pepite-959e7ed8f74b07d9</guid>
-      <pubDate>Wed, 02 Sep 2026 16:50:44 +0000</pubDate>
-      <category>agents</category>
-      <description>TL;DR PyTorch Conference North America 2026 features Agentic AI and Next-Gen Intelligence across sessions on training agents, serving agents in production, agents that build PyTorch, and PyTorch in the physical...
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon</title>
-      <link>https://www.marktechpost.com/2026/09/02/perplexity-open-sources-lily-a-rust-metal-inference-engine-for-qwen3-6-35b-a3b-on-apple-silicon/</link>
-      <guid isPermaLink="false">pepite-7d2deed0f3cb11cc</guid>
-      <pubDate>Thu, 03 Sep 2026 06:57:07 +0000</pubDate>
-      <category>models</category>
-      <description>Perplexity has open sourced Lily, the local inference engine behind Hybrid Compute in Perplexity Computer. Built in Rust with custom Metal kernels for one model on one chip family, it averages 1.23x MLX-LM's prefill throughput and 1.35x its decode throughput on a 40-core, 128 GB M5 Max. The post Perplexity Open Sources Lily: A Rust + Metal Inference Engine… It landed in the last few hours.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less</title>
-      <link>https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/</link>
-      <guid isPermaLink="false">pepite-c7c414a2a0c11fc8</guid>
-      <pubDate>Tue, 01 Sep 2026 20:32:55 +0000</pubDate>
-      <category>agents</category>
-      <description>Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls. The article Anthropic's Claude Fable 5.1 promises better coding and research at… It landed in the last few hours.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI’s Astra model is on the way — and very good at breaking into computer systems</title>
-      <link>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</link>
-      <guid isPermaLink="false">pepite-5e1133ac4fdd3b53</guid>
-      <pubDate>Tue, 01 Sep 2026 21:06:24 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B</title>
-      <link>https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/</link>
-      <guid isPermaLink="false">pepite-46741aa0d646aea5</guid>
-      <pubDate>Tue, 01 Sep 2026 22:08:24 +0000</pubDate>
-      <category>finance</category>
-      <description>AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>The efficient frontier of LLM inference</title>
-      <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
-      <guid isPermaLink="false">pepite-7e08a7e20d7a5674</guid>
-      <pubDate>Tue, 01 Sep 2026 23:48:05 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 326pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"</title>
-      <link>https://hnmatchmaker.com/</link>
-      <guid isPermaLink="false">pepite-f143d46df5685ec3</guid>
-      <pubDate>Tue, 01 Sep 2026 20:53:35 +0000</pubDate>
-      <category>models</category>
-      <description>Hi! Every month the "Who Wants to Be Hired?" and "Who's Hiring?" Threads come through I would think to myself, "there should be a match maker for these two threads". So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then… It landed in the last few hours. It's pulling 177pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AI Coding Agent Skills for Real Engineers</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid isPermaLink="false">pepite-43ad04f5f07ba9f4</guid>
-      <pubDate>Tue, 01 Sep 2026 22:48:47 +0000</pubDate>
-      <category>agents</category>
-      <description>It landed in the last few hours. It's pulling 70pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>totec448-spec/chat-on-steroids</title>
-      <link>https://github.com/totec448-spec/chat-on-steroids</link>
-      <guid isPermaLink="false">pepite-7a920f5048a1ec46</guid>
-      <pubDate>Sat, 22 Aug 2026 14:16:24 +0000</pubDate>
-      <category>repos</category>
-      <description>Give ChatGPT a controlled bridge to your computer. Local files, commands, durable session history, Compact &amp;amp; Resume, experimental worker chats, and optional Windows desktop control over MCP. Chat On Steroids is a Windows, macOS and Linux desktop app that exposes only the folders and capabilities you configure through a local MCP server. You keep using… It's pulling 57★/day — real momentum for something this new, not a one-day spike. Still under the radar (615★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>GamePhanesStudio/GamePhanes</title>
-      <link>https://github.com/GamePhanesStudio/GamePhanes</link>
-      <guid isPermaLink="false">pepite-e63fecc2c12bcc63</guid>
-      <pubDate>Fri, 21 Aug 2026 02:57:42 +0000</pubDate>
-      <category>repos</category>
-      <description>Homepage · Benchmark · Task Registry · Issues · Discussions Terminal benchmarks usually stop at files, commands, and exit codes. Interactive software adds a second truth: the project must import, launch, accept controlled input, change runtime state, and produce the intended behavior. Game Terminal-Bench evaluates coding agents on that complete loop. The… It's pulling 44★/day — real momentum for something this new, not a one-day spike. Still under the radar (540★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation</title>
-      <link>http://arxiv.org/abs/2609.01603v1</link>
-      <guid isPermaLink="false">pepite-557a1b808d069fbb</guid>
-      <pubDate>Tue, 01 Sep 2026 17:59:46 +0000</pubDate>
-      <category>finance</category>
-      <description>Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are largely result-only: they fit historical pass/fail response matrices or static… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation</title>
-      <link>http://arxiv.org/abs/2609.01604v1</link>
-      <guid isPermaLink="false">pepite-55332944df851585</guid>
-      <pubDate>Tue, 01 Sep 2026 17:59:49 +0000</pubDate>
-      <category>finance</category>
-      <description>LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly understood. We investigate this procedure mechanistically through an eight-attack perturbation taxonomy across the Readability and Adequacy… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
