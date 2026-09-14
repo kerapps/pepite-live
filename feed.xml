@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Iris-mini and Iris-pro are the strongest open-weight search agents in their class</title>
+      <link>https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/</link>
+      <guid isPermaLink="false">pepite-9cb85fa2e97ca16d</guid>
+      <pubDate>Sun, 13 Sep 2026 12:58:18 +0000</pubDate>
+      <category>research</category>
+      <description>Two open-source search agents designed for efficient task handling. Claim to excel at unseen tasks, adding versatility. The catch: details in the paper, but practical benchmarks may vary.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra pilots a surveillance drone and runs a business on its own</title>
+      <link>https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/</link>
+      <guid isPermaLink="false">pepite-be33ef90be1a95ba</guid>
+      <pubDate>Sun, 13 Sep 2026 10:52:16 +0000</pubDate>
+      <category>research</category>
+      <description>GPT-6 Astra benchmarks show high autonomous performance. It's significant for the autonomy in business tasks and drone controls. The downside: it requires hefty infrastructure to test similar setups.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Open-source AI and open models reading list</title>
+      <link>https://www.interconnects.ai/p/open-source-ai-reading-list</link>
+      <guid isPermaLink="false">pepite-d137f2af66a04688</guid>
+      <pubDate>Mon, 14 Sep 2026 00:22:51 +0000</pubDate>
+      <category>models</category>
+      <description>A reading list about open-source AI and models. Taps into the growing demand for transparency and community-driven development. The limitation: it's just a reading list, not hands-on tools.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Due to concerns about malicious applications, GPT2 will not be released (2019)</title>
+      <link>https://openai.com/index/better-language-models/</link>
+      <guid isPermaLink="false">pepite-2c29ba72d6ae6d54</guid>
+      <pubDate>Sun, 13 Sep 2026 23:11:17 +0000</pubDate>
+      <category>models</category>
+      <description>An old discussion on why GPT-2 wasn't released due to potential misuse. Highlights ongoing concerns about the balance of AI benefits and risks. The catch: it's a retrospective; no new tech, just historical insight.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models</title>
+      <link>https://twitter.com/DavidSacks/status/2098973625252708460</link>
+      <guid isPermaLink="false">pepite-a7e186ed16398d0d</guid>
+      <pubDate>Sun, 13 Sep 2026 16:52:33 +0000</pubDate>
+      <category>models</category>
+      <description>A conversation about whether AI companies need regulations to control advanced models. Interesting as it reflects on the balance of innovation and ethical boundaries. The catch: it's a debate, not a definitive guide or rule change.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>jtydhr88/screenwriting-skills</title>
+      <link>https://github.com/jtydhr88/screenwriting-skills</link>
+      <guid isPermaLink="false">pepite-307740d95d67c3b5</guid>
+      <pubDate>Sun, 06 Sep 2026 12:28:23 +0000</pubDate>
+      <category>repos</category>
+      <description>A GitHub repo offering screenwriting skills for AI agents. Allows agents to mimic the creative writing process using established techniques. The downside: it focuses narrowly on screenwriting, not broader creativity.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Colafornia/short-video-generator-AI</title>
+      <link>https://github.com/Colafornia/short-video-generator-AI</link>
+      <guid isPermaLink="false">pepite-a4c1c9ec2c33a130</guid>
+      <pubDate>Tue, 08 Sep 2026 14:55:47 +0000</pubDate>
+      <category>repos</category>
+      <description>A tool to create short videos from YouTube content. It helps creators generate clips complete with subtitles and translations. The limitation: the tool might struggle with non-English content or niche topics.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>commit-rewriter 0.1</title>
+      <link>https://simonwillison.net/2026/Sep/14/commit-rewriter/</link>
+      <guid isPermaLink="false">pepite-3dab7f1784c134f3</guid>
+      <pubDate>Mon, 14 Sep 2026 00:28:10 +0000</pubDate>
+      <category>research</category>
+      <description>A tool to edit commit messages for your code repositories. Useful for cleaning up references to private coding details before sharing. The catch: it’s basic—only edits commits, doesn't improve code directly.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control</title>
+      <link>https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/</link>
+      <guid isPermaLink="false">pepite-e895102862aba5ae</guid>
+      <pubDate>Sat, 12 Sep 2026 15:03:21 +0000</pubDate>
+      <category>models</category>
+      <description>A post calling for regulations to slow AI development to manageable levels. Emphasizes preemptive measures before AI outpaces human control. The limitation: it's a proposal; no actionable changes yet.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing</title>
+      <link>https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/</link>
+      <guid isPermaLink="false">pepite-b87032a4a57eb4ed</guid>
+      <pubDate>Mon, 14 Sep 2026 08:04:27 +0000</pubDate>
+      <category>repos</category>
+      <description>OSMO is an open-source tool for managing AI training and simulations. It streamlines complex workflows with a single file, enhancing efficiency. The catch: might be overkill if you're not using NVIDIA’s system.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
+      <title>Another Qwen3.8-27b Appreciation Post</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wfsvgy/another_qwen3827b_appreciation_post/</link>
+      <guid isPermaLink="false">pepite-59afb29e640de689</guid>
+      <pubDate>Mon, 14 Sep 2026 04:01:18 +0000</pubDate>
+      <category>models</category>
+      <description>A nod to the prowess of Qwen3.8-27b in handling complex prompts. Stands out for its robust inference performance in local setups. Limitation: designed for a specific tech stack, not universally applicable.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
+      <title>Anthropic reveals rogue AI agents hate CAPTCHAs, just like you</title>
+      <link>https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/</link>
+      <guid isPermaLink="false">pepite-97f402e75789265b</guid>
+      <pubDate>Thu, 10 Sep 2026 17:54:44 +0000</pubDate>
+      <category>agents</category>
+      <description>Anthropic's insight into AI agents disliking CAPTCHAs. Sheds light on how AI models interact with human verification processes. The caveat: it's an amusing tidbit, not directly usable data.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Feeling sad about AI</title>
+      <link>https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/</link>
+      <guid isPermaLink="false">pepite-acad04a359be1071</guid>
+      <pubDate>Fri, 11 Sep 2026 17:28:37 +0000</pubDate>
+      <category>agents</category>
+      <description>Personal musings on adapting to AI's rapid progress. Reflects shared feelings in the tech community about AI's impact on work. The catch: it's an individual perspective, not a data-driven analysis.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra, Looped Transformers, and Hidden Reasoning</title>
+      <link>https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</link>
+      <guid isPermaLink="false">pepite-44084287147f6737</guid>
+      <pubDate>Wed, 09 Sep 2026 11:14:25 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on advanced AI concepts like looping transformers. It explores new research ideas and potential improvements in AI reasoning. The catch: it's heavy on theory; not immediately practical for most developers.
+
+— via Sebastian Raschka</description>
+    </item>
+    <item>
       <title>GPT-6 Astra appears to show a "step change" in spatial reasoning based on early benchmarks</title>
       <link>https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/</link>
       <guid isPermaLink="false">pepite-21b2a1e9dc4ac67e</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 03 Sep 2026 17:04:26 +0000</pubDate>
       <category>research</category>
       <description>Gated DeltaNet paper explores low-error quantization in hybrid AI models. It shows these models maintain performance even in compressed formats, which can save resources. But it's deeply technical, requiring a good understanding of quantization basics.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation</title>
-      <link>http://arxiv.org/abs/2609.04031v1</link>
-      <guid isPermaLink="false">pepite-b70ac7bb61e282b4</guid>
-      <pubDate>Thu, 03 Sep 2026 16:09:25 +0000</pubDate>
-      <category>research</category>
-      <description>DSAQuant is a training technique for video generation AI, reducing resource needs while maintaining creativity. Promising for making AI video tools more efficient. The limitation: visually detailed outcomes might still suffer.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>August newsletter is out</title>
-      <link>https://simonwillison.net/2026/Sep/4/august-newsletter/</link>
-      <guid isPermaLink="false">pepite-3e9af61cc03a6f12</guid>
-      <pubDate>Fri, 04 Sep 2026 05:54:40 +0000</pubDate>
-      <category>models</category>
-      <description>Simon Willison's newsletter gives insights into various AI and tech updates. It's a resource for those keen to stay ahead. The catch: it requires a sponsorship to access the latest issues.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>GPT‑6 Astra</title>
-      <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
-      <guid isPermaLink="false">pepite-d7b11e7817581777</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:41 +0000</pubDate>
-      <category>research</category>
-      <description>Brief note on the limited release of GPT-6 Astra, comparing it favorably with other models. It's noted for its competitive pricing and high benchmark scores. But exact user experiences aren't discussed yet.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Has anyone already tried IFM's new K2-Horizon-MoVA-36B-A4B?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w6t0a9/has_anyone_already_tried_ifms_new/</link>
-      <guid isPermaLink="false">pepite-0e2931255a5908d5</guid>
-      <pubDate>Fri, 04 Sep 2026 03:31:37 +0000</pubDate>
-      <category>research</category>
-      <description>Discussion about a new AI model in the MoE category, K2-Horizon-MoVA-36B-A4B. It's considered an upgrade over similar models, though comparisons are ongoing. Users need to try it firsthand for deeper insights.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, &gt;90% discount for training</title>
-      <link>https://www.latent.space/p/ainews-muse-spark-13-matches-gpt</link>
-      <guid isPermaLink="false">pepite-d31a129a9d887bae</guid>
-      <pubDate>Thu, 03 Sep 2026 04:38:33 +0000</pubDate>
-      <category>models</category>
-      <description>an epic comeback story for Meta It landed in the last few hours.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA</title>
-      <link>https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/</link>
-      <guid isPermaLink="false">pepite-280d7904601ee6e7</guid>
-      <pubDate>Wed, 02 Sep 2026 16:59:29 +0000</pubDate>
-      <category>research</category>
-      <description>Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its "working harder" reasoning burns about 30 percent more output tokens per task, making it pricier in practice than its predecessor despite identical token rates. The article Gemini 3.8 Flash is Google's third budget…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI’s new reasoning technique alarms AI safety experts</title>
-      <link>https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/</link>
-      <guid isPermaLink="false">pepite-13c4ef2164623689</guid>
-      <pubDate>Wed, 02 Sep 2026 20:19:14 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>US military adds ChatGPT and Grok to AI platform GenAI.mil</title>
-      <link>https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/</link>
-      <guid isPermaLink="false">pepite-8482b459c2e3d355</guid>
-      <pubDate>Wed, 02 Sep 2026 14:40:51 +0000</pubDate>
-      <category>models</category>
-      <description>The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government. The article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder .
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>WebLLM: high-performance in-browser LLM inference engine</title>
-      <link>https://github.com/mlc-ai/web-llm</link>
-      <guid isPermaLink="false">pepite-c332d7ae361ed896</guid>
-      <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
-      <category>models</category>
-      <description>It's pulling 151pts/day — real momentum for something this new, not a one-day spike. Still under the radar (109pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>anthropics/commerce-agents</title>
-      <link>https://github.com/anthropics/commerce-agents</link>
-      <guid isPermaLink="false">pepite-8b9774959c3d0ee4</guid>
-      <pubDate>Tue, 01 Sep 2026 12:30:12 +0000</pubDate>
-      <category>repos</category>
-      <description>Two commerce agents built on Claude: a shopping agent a business embeds in its app for customers, and a merchant agent its staff use to run the back office. Each is defined once (prompt, skills, tool contracts, gates) and runs on the Messages API, the Claude Agent SDK, and Managed Agents; four runnable verticals show both over the same libraries. Python… It's pulling 456★/day — real momentum for something this new, not a one-day spike. Still under the radar (814★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>US gov sides with OpenAI on issue of training LLMs on copyrighted material</title>
-      <link>https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/</link>
-      <guid isPermaLink="false">pepite-b3295007e52ab112</guid>
-      <pubDate>Thu, 03 Sep 2026 00:54:01 +0000</pubDate>
-      <category>models</category>
-      <description>It landed in the last few hours. It's pulling 130pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AI Agents and the Refactoring That Never Happens</title>
-      <link>https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/</link>
-      <guid isPermaLink="false">pepite-6eed13aef1df09a1</guid>
-      <pubDate>Wed, 02 Sep 2026 19:51:39 +0000</pubDate>
-      <category>agents</category>
-      <description>It landed in the last few hours. It's pulling 89pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Player-YN/PawWork_ZhuaZhua</title>
-      <link>https://github.com/Player-YN/PawWork_ZhuaZhua</link>
-      <guid isPermaLink="false">pepite-30e8f8d4d1faf9a4</guid>
-      <pubDate>Fri, 28 Aug 2026 10:56:56 +0000</pubDate>
-      <category>repos</category>
-      <description>What you can do · See it · How it works · Install · Trust · Limitations Paw Work is a Chrome MV3 extension. Turn Paw Mode on, point at images, tables, text, blocks, or links on the page you already have open, then say what you want in the sidepanel. It returns editable office files on live canvases — not a chat essay about the page. It is not an unattended… It's pulling 113★/day — real momentum for something this new, not a one-day spike. Still under the radar (661★) — early enough to be worth a look before everyone piles in.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>GRADSOLVE: fast exact gradients for ODE ensembles on GPUs</title>
-      <link>http://arxiv.org/abs/2609.02876v1</link>
-      <guid isPermaLink="false">pepite-5e541310283a88c7</guid>
-      <pubDate>Wed, 02 Sep 2026 17:56:10 +0000</pubDate>
-      <category>research</category>
-      <description>Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the fastest ensemble solvers cannot be differentiated in reverse… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
