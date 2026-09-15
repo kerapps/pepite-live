@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign</title>
+      <link>https://www.latent.space/p/ainews-aef-1-standard-emerges-for</link>
+      <guid isPermaLink="false">pepite-338f54e51a481175</guid>
+      <pubDate>Tue, 15 Sep 2026 04:50:36 +0000</pubDate>
+      <category>other</category>
+      <description>The AEF-1 standard now helps guide third-party evaluation of AI systems. This standard is co-signed by industry giants, offering a common ground for evaluation methods. But as it's new, widespread adoption isn't guaranteed yet.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>OpenAI has hundreds of contract workers reading your ChatGPT conversations</title>
+      <link>https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/</link>
+      <guid isPermaLink="false">pepite-45c03cbe0a6d99fc</guid>
+      <pubDate>Mon, 14 Sep 2026 17:15:28 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI employs human reviewers to rate ChatGPT conversations for quality. Interesting because it shows the human element behind AI training. The downside: users might not be aware their interactions can be reviewed unless they opt out.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop</title>
+      <link>https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/</link>
+      <guid isPermaLink="false">pepite-9f1bce286771a142</guid>
+      <pubDate>Mon, 14 Sep 2026 21:04:32 +0000</pubDate>
+      <category>agents</category>
+      <description>AI bots like "Timmy" and "Ren" are spamming social media. This highlights the double-edged sword of automation with AI. The main issue: managing the volume and preventing low-quality content from overwhelming platforms.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>OpenAI stuck fighting Musk antitrust suit after Apple finds a way out</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/</link>
+      <guid isPermaLink="false">pepite-b6599ce272d34be4</guid>
+      <pubDate>Mon, 14 Sep 2026 19:45:13 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI continues to face Musk's antitrust lawsuit while Apple exits the fight. It's a reminder of tech giants' complex legal landscapes. Just note: while it affects the companies, direct effects on model users are minimal for now.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>The AI industry has taken a doomer turn. What now?</title>
+      <link>https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/</link>
+      <guid isPermaLink="false">pepite-6e9ad967d4b5b6c3</guid>
+      <pubDate>Mon, 14 Sep 2026 17:54:22 +0000</pubDate>
+      <category>models</category>
+      <description>The AI field is facing calls for slowed development to assess risks, led by industry figures. It's a key moment for AI growth and regulation. However, opinions are divided, with some leaders pushing for continued innovation.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’</title>
+      <link>https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/</link>
+      <guid isPermaLink="false">pepite-e957c507988f322a</guid>
+      <pubDate>Mon, 14 Sep 2026 21:51:02 +0000</pubDate>
+      <category>other</category>
+      <description>Nvidia CEO pushes back on slowing AI progress, countering calls for a pause. This highlights a clash within the tech world on AI's pace. Unfortunately, the long-term effects on the industry and innovation remain unclear.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>AI agents blew the whistle on their cheating colleagues</title>
+      <link>https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/</link>
+      <guid isPermaLink="false">pepite-44cc3cd3a8dc2fcd</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>AI agents took on a whistleblower role in a Google DeepMind test, exposing cheating peers. Fascinating as it suggests AI can self-regulate to an extent. But real-world apply of this behavior is still in experimental stages.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights</title>
+      <link>https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/</link>
+      <guid isPermaLink="false">pepite-22b6667170637c69</guid>
+      <pubDate>Mon, 14 Sep 2026 15:52:51 +0000</pubDate>
+      <category>models</category>
+      <description>Microsoft's AI rulebook outlines clear ethical guidelines for its models. It interestingly stresses safety over AI autonomy. Yet, the broader AI community's agreement on these principles is not yet clear.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?</title>
+      <link>https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</link>
+      <guid isPermaLink="false">pepite-feeaaeec142af204</guid>
+      <pubDate>Mon, 14 Sep 2026 19:56:20 +0000</pubDate>
+      <category>agents</category>
+      <description>A discussion comparing GPT-5.6 Luna to GPT-6 Astra in code reviews. GPT-5.6 might save you money while doing the job nearly as well for just $1.20. The challenge: does saving money outweigh the possible performance hit?
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost</title>
+      <link>https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/</link>
+      <guid isPermaLink="false">pepite-d1d146b4fc680159</guid>
+      <pubDate>Mon, 14 Sep 2026 16:07:58 +0000</pubDate>
+      <category>models</category>
+      <description>Nari Labs shows off Qwen3-TTS and Qwen3-ASR models, boasting high accuracy and low latency. It's a solid option for those who need fast, open-source speech models. The downside: these models' performance may still not match top-tier, closed-source solutions.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Pelican-bicycle alternatives</title>
+      <link>https://gally.net/temp/20260914pelican-alternatives/index.html</link>
+      <guid isPermaLink="false">pepite-5448f64655f6b6e1</guid>
+      <pubDate>Mon, 14 Sep 2026 13:20:22 +0000</pubDate>
+      <category>research</category>
+      <description>A revisit to the pelican-bicycle benchmark, testing new large language models. It's interesting because it shows how models have grown stronger in a short time. The catch: this is more of a showcase than a real-world application tool.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>agentverse-os/AgentVerse-OS</title>
+      <link>https://github.com/agentverse-os/AgentVerse-OS</link>
+      <guid isPermaLink="false">pepite-43bb752b76a96740</guid>
+      <pubDate>Sat, 12 Sep 2026 18:20:00 +0000</pubDate>
+      <category>repos</category>
+      <description>AgentVerse-OS offers a cross-platform workspace for coding with AI agents. It's intriguing for its browser-based interface that works anywhere. But take note: setting this up requires a clean Ubuntu device for installation.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>youngyangyang04/llm-master</title>
+      <link>https://github.com/youngyangyang04/llm-master</link>
+      <guid isPermaLink="false">pepite-a6663e82fd6cab1e</guid>
+      <pubDate>Sat, 12 Sep 2026 07:33:31 +0000</pubDate>
+      <category>repos</category>
+      <description>LLM Master is a comprehensive learning resource for developers jumping into AI. It stands out by offering a clear path from API call to deployable systems. Remember, this won't replace hands-on experimentation which remains vital.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Harness: Am I doing something wrong? Or are my expectations unreasonable</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wgr0tb/harness_am_i_doing_something_wrong_or_are_my/</link>
+      <guid isPermaLink="false">pepite-5d6ea13f5ae4e4d7</guid>
+      <pubDate>Tue, 15 Sep 2026 05:10:05 +0000</pubDate>
+      <category>models</category>
+      <description>A Reddit user shares struggles with Qwen AI models, contrasting with a smoother Claude experience. Highlights user experience differences with various AI setups. The takeaway: not all models fit every need equally.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Iris-mini and Iris-pro are the strongest open-weight search agents in their class</title>
       <link>https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/</link>
       <guid isPermaLink="false">pepite-9cb85fa2e97ca16d</guid>
@@ -1362,145 +1502,5 @@
       <description>A whimsical comparison of AI-generated pelican images using GPT models. Fun and insightful for visual generation results across versions. Limitation: More about playful exploration than any serious application.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>Interface-Induced Trajectory Censoring</title>
-      <link>http://arxiv.org/abs/2609.03966v1</link>
-      <guid isPermaLink="false">pepite-921dbc89a8dd8580</guid>
-      <pubDate>Thu, 03 Sep 2026 15:00:31 +0000</pubDate>
-      <category>finance</category>
-      <description>A paper revealing how tool integrations can miss errors in neural networks. This is critical for understanding AI evaluation challenges. The downside: It's dense academic material, not for everyone.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Comparing Retrieval Methods for Academic Advisor Discovery: A Six-Method Study of 768 CS Faculty Profiles Across 9 US Universities</title>
-      <link>http://arxiv.org/abs/2609.03901v1</link>
-      <guid isPermaLink="false">pepite-6d4a1ae0c6915076</guid>
-      <pubDate>Thu, 03 Sep 2026 14:19:14 +0000</pubDate>
-      <category>finance</category>
-      <description>A study comparing how academic advisors are ranked for student papers. Useful for seeing the blend of new and older methods in action. The drawback: It's a specialized niche, not broad application.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Subspace Inference Enables Efficient Active Reward Learning from Preferences</title>
-      <link>http://arxiv.org/abs/2609.04066v1</link>
-      <guid isPermaLink="false">pepite-769d71c80dc3b405</guid>
-      <pubDate>Thu, 03 Sep 2026 16:39:55 +0000</pubDate>
-      <category>research</category>
-      <description>Research on improving AI-based reward systems through feedback. Promising for making AI more intuitive in learning human preferences. But it’s technical and calls for understanding advanced AI concepts.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Chalk one up for the frontier model...</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w7pdaf/chalk_one_up_for_the_frontier_model/</link>
-      <guid isPermaLink="false">pepite-e18ebdf725700218</guid>
-      <pubDate>Sat, 05 Sep 2026 03:25:35 +0000</pubDate>
-      <category>models</category>
-      <description>A developer shares their experience troubleshooting an AI error in production. It's relatable and shows AI isn't infallible. The catch: It's a reminder that relying on AI still needs human oversight.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time</title>
-      <link>https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest</link>
-      <guid isPermaLink="false">pepite-0f8201a9489a5526</guid>
-      <pubDate>Fri, 04 Sep 2026 05:18:11 +0000</pubDate>
-      <category>research</category>
-      <description>Overview of OpenAI's GPT-6 Astra, their largest model yet. It's cheaper per task despite higher token costs, making it a strong contender in AI model markets. The drawback: limited initial access.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Meta is paying to peek at how you use their latest AI model</title>
-      <link>https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/</link>
-      <guid isPermaLink="false">pepite-6fc7b1c552f07579</guid>
-      <pubDate>Thu, 03 Sep 2026 18:19:56 +0000</pubDate>
-      <category>agents</category>
-      <description>Meta offers hefty discounts to users who agree to share data from using their Muse Spark AI. It's a cost-effective way to access high-end AI. The trade-off: you share usage data with Meta.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Four major AI models suffer rare overlapping downtime</title>
-      <link>https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/</link>
-      <guid isPermaLink="false">pepite-fa3adaabd5cff94c</guid>
-      <pubDate>Thu, 03 Sep 2026 18:10:19 +0000</pubDate>
-      <category>models</category>
-      <description>Four major AI models experienced concurrent downtime, disrupting numerous services. Highlights the fragility of relying on cloud AI models. No specific details on what caused these interruptions.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
-      <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
-      <guid isPermaLink="false">pepite-bdcc097430029103</guid>
-      <pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
-      <category>models</category>
-      <description>A personal story about using AI to port a 1993 Amiga game to Godot. An LLM helped convert old 68000 assembly code, speeding up the process. The catch: you might hit snags with less clear or undocumented code.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>2akouwu/reverify</title>
-      <link>https://github.com/2akouwu/reverify</link>
-      <guid isPermaLink="false">pepite-710628334592c266</guid>
-      <pubDate>Mon, 31 Aug 2026 01:02:18 +0000</pubDate>
-      <category>repos</category>
-      <description>A tool called Reverify checks AI agent claims against real binary files. It's useful for spotting AI-made mistakes in reverse-engineering tasks. The limitation: it focuses solely on binary verification, not on other types of data.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B available on Cerebras at 1500 tokens/s</title>
-      <link>https://inference-docs.cerebras.ai/models/overview</link>
-      <guid isPermaLink="false">pepite-20579be987b9ced6</guid>
-      <pubDate>Thu, 03 Sep 2026 18:32:13 +0000</pubDate>
-      <category>models</category>
-      <description>Discussion about Qwen 3.8, a large AI model available on Cerebras, notable for its high-speed processing at 1500 tokens per second. This makes it quite powerful for extensive AI tasks if you need that speed. The downside: large size implies hefty hardware requirements.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Human-Agent-Society/reef</title>
-      <link>https://github.com/Human-Agent-Society/reef</link>
-      <guid isPermaLink="false">pepite-2fe492f658fc8fdf</guid>
-      <pubDate>Mon, 31 Aug 2026 01:39:18 +0000</pubDate>
-      <category>repos</category>
-      <description>Reef is infrastructure for agents that learn over time, constantly refining their abilities. It automates the learning process for AI without manual updates. A downside: it assumes you have agents ready to integrate into its system.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents</title>
-      <link>https://news.ycombinator.com/item?id=49552616</link>
-      <guid isPermaLink="false">pepite-9b7933fd1afd1237</guid>
-      <pubDate>Thu, 03 Sep 2026 16:24:13 +0000</pubDate>
-      <category>agents</category>
-      <description>Mireye offers infrastructure for AI agents to make decisions about real-world locations. The tools and data can be handy for location-based AI tasks. The hitch: it's currently limited to US locations only.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents</title>
-      <link>http://arxiv.org/abs/2609.04167v1</link>
-      <guid isPermaLink="false">pepite-b2f0b3169412e0f9</guid>
-      <pubDate>Thu, 03 Sep 2026 17:53:34 +0000</pubDate>
-      <category>finance</category>
-      <description>SWE-Gate highlights that passing tests isn't enough for software agents; they must meet review expectations too. It sets new standards for AI coding by evaluating based on real developer feedback. However, integrating these benchmarks into current workflows might take effort.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM</title>
-      <link>http://arxiv.org/abs/2609.04098v1</link>
-      <guid isPermaLink="false">pepite-6fb26acd6caf73fb</guid>
-      <pubDate>Thu, 03 Sep 2026 17:04:26 +0000</pubDate>
-      <category>research</category>
-      <description>Gated DeltaNet paper explores low-error quantization in hybrid AI models. It shows these models maintain performance even in compressed formats, which can save resources. But it's deeply technical, requiring a good understanding of quantization basics.
-
-— via arXiv</description>
     </item>
 </channel></rss>
