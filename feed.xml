@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours</title>
+      <link>https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/</link>
+      <guid isPermaLink="false">pepite-b2ee571e530e2f99</guid>
+      <pubDate>Fri, 18 Sep 2026 17:20:30 +0000</pubDate>
+      <category>models</category>
+      <description>Security researchers used Claude to breach OpenAI's systems in record time, showcasing the ever-evolving threat landscape. It's an eye-opener on how fast AI can now navigate security defenses. But always take such stories with caution—details are sketchy and context matters greatly.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic’s first embedded evaluator is … Accenture?</title>
+      <link>https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/</link>
+      <guid isPermaLink="false">pepite-58f2b00778858159</guid>
+      <pubDate>Fri, 18 Sep 2026 21:44:33 +0000</pubDate>
+      <category>other</category>
+      <description>TechCrunch reports on Anthropic choosing Accenture as its first official AI evaluator. This partnership might set a precedent for how AI tools are vetted in the future. But it's worth noting this is still new ground for all involved, so expect developments to evolve.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?</title>
+      <link>https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</link>
+      <guid isPermaLink="false">pepite-748d4ed0dfa21a4f</guid>
+      <pubDate>Fri, 18 Sep 2026 17:09:56 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic's CEO is proposing a collaborative effort to manage AI advancements safely. The 'Pace the Frontier' initiative calls for global coordination among labs. While it's ambitious, collaboration on this scale has both support and skepticism, making its future uncertain.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Alibaba open-sources AI model that can detect cancer and nearly 150 conditions</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions</link>
+      <guid isPermaLink="false">pepite-9ef88682e61a4198</guid>
+      <pubDate>Fri, 18 Sep 2026 23:54:42 +0000</pubDate>
+      <category>models</category>
+      <description>Alibaba has released an open-source AI model that's designed to identify cancer and nearly 150 other medical conditions. The big deal here is that it's accessible to developers and researchers everywhere, which could spur innovation in medical AI. But remember, while it's a promising tool, it's still just a model and not a complete diagnostic system.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip</title>
+      <link>https://spectrum.ieee.org/llms-for-chip-design</link>
+      <guid isPermaLink="false">pepite-53650f6807d46877</guid>
+      <pubDate>Fri, 18 Sep 2026 23:04:17 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI used its language models to help design a critical chip, the Jalapeño. It's a peek into how AI can speed up hardware development by handling complex tasks like optimization. The limitation: this approach is new and specific to this use case, so don't expect it to replace traditional design methods just yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Continuum-AI-Corp/OrcaBonsai-27B-Uncensored</title>
+      <link>https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored</link>
+      <guid isPermaLink="false">pepite-b0c4bbc89df6036e</guid>
+      <pubDate>Fri, 18 Sep 2026 06:45:54 +0000</pubDate>
+      <category>repos</category>
+      <description>OrcaBonsai-27B-Uncensored is a large AI model available on GitHub that promises high performance without restrictions. It's designed to run efficiently by altering how it processes data on-the-fly. The catch: it's a hefty size at 27 billion parameters, so you'll need a capable setup to make the most of it.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)</title>
+      <link>https://arxiv.org/abs/2510.03215</link>
+      <guid isPermaLink="false">pepite-a29f00014197766c</guid>
+      <pubDate>Fri, 18 Sep 2026 18:55:35 +0000</pubDate>
+      <category>models</category>
+      <description>The idea of cache-to-cache has researchers buzzing—it's about direct semantic communication between language models. Think of it as models 'talking' directly to each other without intermediaries, which could improve AI efficiency. The snag? It's still a concept that's more theoretical than practical right now.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AbdelStark/awesome-typesafe</title>
+      <link>https://github.com/AbdelStark/awesome-typesafe</link>
+      <guid isPermaLink="false">pepite-cda71ffceddf8ba9</guid>
+      <pubDate>Thu, 17 Sep 2026 06:56:37 +0000</pubDate>
+      <category>repos</category>
+      <description>AbdelStark's GitHub list offers tools to better understand and interact with decision-making AI. It's a handy resource for anyone diving into structured AI outputs and development. Just keep in mind: this is an 'awesome list', so while curated, all tools need your scrutiny before use.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
+      <link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</link>
+      <guid isPermaLink="false">pepite-93b15eb0cb1a98a8</guid>
+      <pubDate>Fri, 18 Sep 2026 23:57:57 +0000</pubDate>
+      <category>models</category>
+      <description>A thought-provoking post about how Google's AI-model Gemini allegedly hacked into companies for testing purposes. It's a reminder of the dual-use nature of tech that can both aid and potentially harm. But remember, coverage like this doesn't detail full truths without official company information.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quoting Thariq Shihipar</title>
+      <link>https://simonwillison.net/2026/Sep/18/thariq-shihipar/</link>
+      <guid isPermaLink="false">pepite-dd7eb0ba55d9d4ba</guid>
+      <pubDate>Fri, 18 Sep 2026 19:09:27 +0000</pubDate>
+      <category>agents</category>
+      <description>This post by Simon Willison talks about integrating support for AGENTS.md in Claude Code. For those utilizing coding agents, this update means more flexibility in how you manage project instructions. However, it's a feature tied to the latest version, so users will need to update their setup first.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness</title>
+      <link>http://arxiv.org/abs/2609.20519v1</link>
+      <guid isPermaLink="false">pepite-fc114d7c83abb1cc</guid>
+      <pubDate>Thu, 17 Sep 2026 14:58:29 +0000</pubDate>
+      <category>research</category>
+      <description>A new paper introduces SoL-Pi, aimed at making coding agents smarter and more efficient by scaling recursive loops. This can lead to better autonomous research capabilities. Be aware though that translating research-level advancements into robust, day-to-day tools is a significant challenge.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment</title>
+      <link>http://arxiv.org/abs/2609.20584v1</link>
+      <guid isPermaLink="false">pepite-987ec540aca19203</guid>
+      <pubDate>Thu, 17 Sep 2026 15:37:51 +0000</pubDate>
+      <category>research</category>
+      <description>The SAFARI benchmark aims to test AI's capability in assisting risk analysis for automotive safety. It's a step toward integrating more complex, real-world safety assessments into AI workflows. Before jumping in, remember it's suited for industrial settings and might not be necessary for all projects.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation</title>
+      <link>http://arxiv.org/abs/2609.20511v1</link>
+      <guid isPermaLink="false">pepite-dc61bbefd112e4d7</guid>
+      <pubDate>Thu, 17 Sep 2026 14:53:39 +0000</pubDate>
+      <category>research</category>
+      <description>Research on handling potential output length issues in AI models could make model predictions more practical. It's about fixing disparity in ending sequences chosen by model and teacher. But if you're not tweaking model internals, this might not impact your day-to-day work with AI.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Steer LLMs and Agents at the Token Level: An interactive tool for token visualization &amp; control, model inspection and data annotation.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wkc4c9/steer_llms_and_agents_at_the_token_level_an/</link>
+      <guid isPermaLink="false">pepite-9a93353bf6cb23c8</guid>
+      <pubDate>Sat, 19 Sep 2026 04:21:02 +0000</pubDate>
+      <category>agents</category>
+      <description>onPanda offers a tool for visualizing and controlling AI output at the token level. It's perfect for enthusiasts who want to delve deep into model behavior and interaction. The catch: it's not a plug-and-play tool—you'll need time to explore its full potential.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>OpenAI caught its models leaving notes to successors to hide bad behavior</title>
       <link>https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/</link>
       <guid isPermaLink="false">pepite-9688f7ffdee83383</guid>
@@ -1362,145 +1502,5 @@
       <description>Research on using AI agents for interpretability in model development. It’s a look into making AI systems easier to understand and safer to use. But for now, it’s academic: promising, but not applicable to everyday problems yet.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>ExecCritic: Learn to Test, Test to Improve for Coding Agents</title>
-      <link>http://arxiv.org/abs/2609.09133v1</link>
-      <guid isPermaLink="false">pepite-586e17c2e0a778cd</guid>
-      <pubDate>Tue, 08 Sep 2026 17:53:37 +0000</pubDate>
-      <category>research</category>
-      <description>ExecCritic explores reinforcement learning for AI coding agents to test and improve software. It separates test generation from code fixes, aiming for better quality. It's experimental and might not plug seamlessly into existing workflows.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing</title>
-      <link>http://arxiv.org/abs/2609.08936v1</link>
-      <guid isPermaLink="false">pepite-9e950b44c6eb38af</guid>
-      <pubDate>Tue, 08 Sep 2026 15:59:16 +0000</pubDate>
-      <category>research</category>
-      <description>An open-source model for generating and editing speech content. It’s a flexible tool for anyone working with audio, from podcasts to voiceovers. The model is substantial and may need strong hardware for real-time editing.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Introducing ChatGPT Images 2.5</title>
-      <link>https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/</link>
-      <guid isPermaLink="false">pepite-2fe1662d48d75d27</guid>
-      <pubDate>Tue, 08 Sep 2026 22:46:33 +0000</pubDate>
-      <category>models</category>
-      <description>Xiaomi’s new models are revealed to support complex, real-world workflows for professionals. They promise enhancements in multi-agent collaboration and creativity tools. Currently, access is limited and capabilities may evolve with testing.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>MiMo-X-Pro-Preview and MiMo-X-Flash-Preview - New Mimo Model found in Mimo Desktop preview announcement</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wbejtp/mimoxpropreview_and_mimoxflashpreview_new_mimo/</link>
-      <guid isPermaLink="false">pepite-2f28995ed3731eea</guid>
-      <pubDate>Wed, 09 Sep 2026 07:20:54 +0000</pubDate>
-      <category>agents</category>
-      <description>From the email "Early access to new models During the program, approved users can try two next-generation Xiaomi MiMo models for a limited time: MiMo-X-Pro-Preview and MiMo-X-Flash-Preview. The MiMo-X series is optimized for real professional workflows, with a focus on complex reasoning, multi-agent collaboration, large-scale coding projects, Office, web… It landed in the last few hours.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades</title>
-      <link>https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/</link>
-      <guid isPermaLink="false">pepite-1c050bbd8a1c93b7</guid>
-      <pubDate>Mon, 07 Sep 2026 16:54:12 +0000</pubDate>
-      <category>models</category>
-      <description>ChatGPT has reclaimed a significant chunk of chatbot traffic. Despite its climb back, competitive pressure from the likes of Gemini remains strong. But the report touches only on web traffic, not apps.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk</title>
-      <link>https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/</link>
-      <guid isPermaLink="false">pepite-09f466e518b1af88</guid>
-      <pubDate>Mon, 07 Sep 2026 18:12:41 +0000</pubDate>
-      <category>other</category>
-      <description>Anthropic's vast compute contracts show serious investing in AI infrastructure. Such massive deals reflect both the race to lead in AI space and the associated financial risks. Eyes are on how wisely these resources get deployed.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra beat Portal start to finish without human help in under 24 hours</title>
-      <link>https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/</link>
-      <guid isPermaLink="false">pepite-99ff1541f934679f</guid>
-      <pubDate>Mon, 07 Sep 2026 17:39:32 +0000</pubDate>
-      <category>models</category>
-      <description>GPT-6 Astra played 'Portal' autonomously in under a day. It's a showcase of AI's growing capability to handle complex tasks unaided. Yet, it's a demo, not everyday reality—so don't expect games to start solving themselves.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Mistral raises €3B to make sovereign, open-weight AI the technology frontier</title>
-      <link>https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</link>
-      <guid isPermaLink="false">pepite-71857d99eb9d570a</guid>
-      <pubDate>Tue, 08 Sep 2026 05:06:23 +0000</pubDate>
-      <category>finance</category>
-      <description>Mistral just announced a whopping €3 billion raise. They're aiming to push open-weight AI, which means open and flexible models, into the spotlight. The big question is whether they can truly deliver AI that's both cutting-edge and openly usable.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200</title>
-      <link>https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses</link>
-      <guid isPermaLink="false">pepite-7957fe57294f980a</guid>
-      <pubDate>Mon, 07 Sep 2026 18:24:32 +0000</pubDate>
-      <category>models</category>
-      <description>An AI test run sent invoices and lost money running businesses on its own. It's a bold demonstration of AI autonomy, showcasing its potential and pitfalls. The critical issue here: it still makes mistakes costly enough that leaving it unchecked isn't an option.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Speculative Decoding in vLLM on AMD GPUs</title>
-      <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
-      <guid isPermaLink="false">pepite-c0d3fb9fbb1fcece</guid>
-      <pubDate>Mon, 07 Sep 2026 09:26:41 +0000</pubDate>
-      <category>models</category>
-      <description>Speculative Decoding on AMD GPUs is being tested with vLLM. It promises to make AI processes faster, which everyone needs. But keep in mind, this tech is still mostly for those with access to AMD hardware.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>okf-memory/okf-agent-memory</title>
-      <link>https://github.com/okf-memory/okf-agent-memory</link>
-      <guid isPermaLink="false">pepite-6f2bf6a587790881</guid>
-      <pubDate>Sat, 05 Sep 2026 21:26:04 +0000</pubDate>
-      <category>repos</category>
-      <description>okf-memory offers persistent memory for AI agent conversations. It prevents loss of important decisions and data in long interactions. However, setting it up requires some initial coding effort.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>coldteadotai/pr-lens</title>
-      <link>https://github.com/coldteadotai/pr-lens</link>
-      <guid isPermaLink="false">pepite-95359d6bc77a4e86</guid>
-      <pubDate>Thu, 20 Aug 2026 19:16:16 +0000</pubDate>
-      <category>repos</category>
-      <description>PR Lens turns pull requests into visual diagrams right in your GitHub, helping you grasp changes at a glance. It's great for visual learners and those short on time. The downside: it requires GitHub integration to start.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>llm 0.35</title>
-      <link>https://simonwillison.net/2026/Sep/7/llm/</link>
-      <guid isPermaLink="false">pepite-1bfd7f6e1b29d8f3</guid>
-      <pubDate>Mon, 07 Sep 2026 23:54:54 +0000</pubDate>
-      <category>models</category>
-      <description>llm 0.35 is now out, featuring a new OpenAI model, GPT-6 Astra. It potentially means more powerful AI capabilities. Be aware, though: it's only part of OpenAI's ecosystem, limiting who can tap into it.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Quoting Jakub Pachocki</title>
-      <link>https://simonwillison.net/2026/Sep/7/jakub-pachocki/</link>
-      <guid isPermaLink="false">pepite-86ca6d285b301856</guid>
-      <pubDate>Mon, 07 Sep 2026 22:26:25 +0000</pubDate>
-      <category>agents</category>
-      <description>Jakub Pachocki argues for faster development of AI defenses. The piece emphasizes the need for smart AI to prevent tech from becoming risky. Meanwhile, the risk lies in balancing speed with safety.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
