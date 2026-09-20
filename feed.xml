@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks</title>
+      <link>https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/</link>
+      <guid isPermaLink="false">pepite-85eb2ef08dd279bf</guid>
+      <pubDate>Sat, 19 Sep 2026 14:30:57 +0000</pubDate>
+      <category>research</category>
+      <description>Qwen's new multimodal model offers a cheaper alternative to Google’s similar offerings with near-match benchmark performance. It reinforces how accessible pricing need not compromise quality. The catch: resource and API availability might dictate usage limits.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials</title>
+      <link>https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/</link>
+      <guid isPermaLink="false">pepite-65cdd32b2bef4c2a</guid>
+      <pubDate>Sat, 19 Sep 2026 13:31:46 +0000</pubDate>
+      <category>agents</category>
+      <description>Unity releases plugins to keep AI agents updated with current coding practices. It ensures tutorials stay relevant, a key need for developers using AI for game development. The catch: assumes familiarity with Unity and existing systems, so newer developers might face a learning curve.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark</title>
+      <link>https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/</link>
+      <guid isPermaLink="false">pepite-670cd1a649a55e0a</guid>
+      <pubDate>Sat, 19 Sep 2026 13:28:55 +0000</pubDate>
+      <category>research</category>
+      <description>Robot arms, driven by AI, fail safety tests spectacularly in a new study. It raises real concerns about AI’s ability to handle dangerous tasks safely. The catch: only attractively packaged safety benchmarks, not a solution.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Google’s Gemini is the latest AI model to hack other companies</title>
+      <link>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</link>
+      <guid isPermaLink="false">pepite-0080ce44a56c3656</guid>
+      <pubDate>Sat, 19 Sep 2026 17:30:00 +0000</pubDate>
+      <category>models</category>
+      <description>Google’s Gemini AI takes on hacking challenges but knows when to stop. Highlights AI's growing explorations into cybersecurity. The catch: doesn't erase the ethical concerns surrounding AI's role in hacking.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking</title>
+      <link>https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/</link>
+      <guid isPermaLink="false">pepite-c8eff2dfdecd6468</guid>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 +0000</pubDate>
+      <category>research</category>
+      <description>Vals AI aims to set a new standard in AI benchmarking with neutral and reliable assessments. Could be crucial for fair comparisons across AI models. The catch: still needs broad recognition and adoption to become a true 'gold standard'.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>v-modal/awesome-jev-tools</title>
+      <link>https://github.com/v-modal/awesome-jev-tools</link>
+      <guid isPermaLink="false">pepite-281f3172cd0dffed</guid>
+      <pubDate>Sat, 19 Sep 2026 16:48:59 +0000</pubDate>
+      <category>repos</category>
+      <description>A curated list of projects and techniques using Jev, a specialized AI model for making decisions. It's like a guidebook for building smarter systems that don’t just talk but make decisions. The catch: it’s only as good as the community maintaining it—more niche and developmental stage-dependent entries might be sparse.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Show HN: CUA-S1 – A System One Model for Computer Use</title>
+      <link>https://github.com/trycua/cua</link>
+      <guid isPermaLink="false">pepite-138af053ffdf1216</guid>
+      <pubDate>Sat, 19 Sep 2026 15:52:51 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on how to decide when AI models need conscious planning or simple local decisions. This helps in determining the right AI use for specific computer tasks, minimizing unnecessary complexity. The catch: it's an ongoing conversation without a ready-made toolkit.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>incoai/splash</title>
+      <link>https://github.com/incoai/splash</link>
+      <guid isPermaLink="false">pepite-48080bbe13431121</guid>
+      <pubDate>Fri, 18 Sep 2026 20:01:48 +0000</pubDate>
+      <category>repos</category>
+      <description>Splash serves fast AI model inference on Apple Silicon Macs, optimized for OpenAI and Anthropic clients. It's lightning quick, especially for coding agents, without any setup hassles. The catch: only works on newer Macs with at least 36GB of memory.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown</title>
+      <link>https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b</link>
+      <guid isPermaLink="false">pepite-4b0996fdf6a129c5</guid>
+      <pubDate>Sat, 19 Sep 2026 18:36:44 +0000</pubDate>
+      <category>other</category>
+      <description>A legal tussle over AI companies allegedly conspiring to slow AI progress. It's intriguing as it discusses the balance between competitive advancement and industrial agreements. The catch: highly speculative at this point and currently just claims in court.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>An open source roguelike adventure through dungeons</title>
+      <link>https://crawl.develz.org/</link>
+      <guid isPermaLink="false">pepite-d74d21d695b43c4c</guid>
+      <pubDate>Sat, 19 Sep 2026 22:55:53 +0000</pubDate>
+      <category>repos</category>
+      <description>Open source dungeon adventure game project under discussion. Shows the vibrant community that even classic genres like roguelikes have in open-source development. The catch: mainly a discussion thread with no direct applications to AI.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>datasette-auth-github 1.0</title>
+      <link>https://simonwillison.net/2026/Sep/19/datasette-auth-github/</link>
+      <guid isPermaLink="false">pepite-67bfed950ab763e7</guid>
+      <pubDate>Sat, 19 Sep 2026 19:52:02 +0000</pubDate>
+      <category>research</category>
+      <description>Datasette plugin update to maintain longer logged-in sessions through GitHub authentication. Fixes annoying session cutoffs in mobile browsers, boosting usability. The catch: mostly relevant for developers using Datasette with GitHub logins.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Towards Scaling Marine Perception with Synthetic Data</title>
+      <link>http://arxiv.org/abs/2609.20680v1</link>
+      <guid isPermaLink="false">pepite-88daa7b44ca1d26e</guid>
+      <pubDate>Thu, 17 Sep 2026 16:51:02 +0000</pubDate>
+      <category>research</category>
+      <description>A paper pushing the boundaries of training AI models underwater using synthetic data. Makes it easier to develop solutions for marine environments without excessive data collection. The catch: relies heavily on the quality and realism of the synthetic data.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Steering the Compass: Aligning Dynamic Psychological Counseling Conversations with Cognitive Behavioral Therapy Strategies</title>
+      <link>http://arxiv.org/abs/2609.20565v1</link>
+      <guid isPermaLink="false">pepite-3541a6822e1181c9</guid>
+      <pubDate>Thu, 17 Sep 2026 15:28:37 +0000</pubDate>
+      <category>research</category>
+      <description>Research focuses on making AI in therapy more dynamic and context-sensitive. Introduces a dataset for improved interactive counseling models. The catch: it's still a concept requiring rigorous testing and validation in real scenarios.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages</title>
+      <link>https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/</link>
+      <guid isPermaLink="false">pepite-6a7d229469385903</guid>
+      <pubDate>Sun, 20 Sep 2026 06:46:08 +0000</pubDate>
+      <category>models</category>
+      <description>Alibaba's new model offers real-time translation with minimal lag across 60 languages. It's promising for multinational live communications. The catch: access is currently limited to Alibaba's ecosystem, which may hinder broader usability.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours</title>
       <link>https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/</link>
       <guid isPermaLink="false">pepite-b2ee571e530e2f99</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 09 Sep 2026 15:52:55 +0000</pubDate>
       <category>research</category>
       <description>A study on how model pretraining affects evaluation. It looks at how models perform on new vs. old test sets. The drawback: findings are preliminary, applying mainly to time-series data.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Programmable World Model</title>
-      <link>http://arxiv.org/abs/2609.10540v1</link>
-      <guid isPermaLink="false">pepite-b477b54776474259</guid>
-      <pubDate>Wed, 09 Sep 2026 17:59:32 +0000</pubDate>
-      <category>research</category>
-      <description>A new framework that improves video world models by separating visuals from underlying rules. It gives more control in interactive environments. The catch: it's mainly a theoretical concept with no applications yet.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>.blend URL Viewer</title>
-      <link>https://simonwillison.net/2026/Sep/9/blender-viewer/</link>
-      <guid isPermaLink="false">pepite-8df2f50f6f23c0b4</guid>
-      <pubDate>Wed, 09 Sep 2026 23:58:32 +0000</pubDate>
-      <category>models</category>
-      <description>A tool to view Blender projects directly from a URL. It's convenient for quickly showcasing your Blender work. The hitch: requires getting comfortable with moving files to the web.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>PyTorch Conference China 2026: Advancing the Open Source AI Stack</title>
-      <link>https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack/</link>
-      <guid isPermaLink="false">pepite-768790e29d468bfc</guid>
-      <pubDate>Thu, 10 Sep 2026 00:01:29 +0000</pubDate>
-      <category>repos</category>
-      <description>A recap of the PyTorch Conference in China, highlighting open-source advancements. It's a platform for community and technical sharing. The catch: no groundbreaking announcements, just steady progress.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>Hosting Local Models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wcbtba/hosting_local_models/</link>
-      <guid isPermaLink="false">pepite-45bda6349976cef1</guid>
-      <pubDate>Thu, 10 Sep 2026 07:10:52 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit post seeks advice on hosting local AI models for coding. It underlines the popularity of localized AI solutions in development workflows. The hitch: thread lacks detailed solutions, just a starting point for discussion.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (&gt;$40M), a contender for second ever Millennium Prize awarded</title>
-      <link>https://www.latent.space/p/ainews-openai-reports-navier-stokes</link>
-      <guid isPermaLink="false">pepite-47a0accd565a90dd</guid>
-      <pubDate>Wed, 09 Sep 2026 05:04:51 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI’s agents found a potential solution to a major math problem, competing for a top prize. It’s a big deal for AI-driven discoveries. However, it sparked controversy over collaboration and data use, overshadowing the milestone.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>What OpenAI’s latest controversy tells us about the future of math</title>
-      <link>https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/</link>
-      <guid isPermaLink="false">pepite-511160d4ac434202</guid>
-      <pubDate>Wed, 09 Sep 2026 03:10:08 +0000</pubDate>
-      <category>agents</category>
-      <description>A controversy highlights issues in math and AI collaboration. It focuses on competitive tensions and ethical questions in AI research. The story underscores AI's potential, but also its pitfalls in power dynamics and credit assignments.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper</title>
-      <link>https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/</link>
-      <guid isPermaLink="false">pepite-80a0c8d7038a034d</guid>
-      <pubDate>Tue, 08 Sep 2026 19:23:04 +0000</pubDate>
-      <category>models</category>
-      <description>News of hackers stealing AI service tokens from users underlines digital vulnerabilities. It's a wake-up call about security in AI ecosystems. Important to mitigate: implications could impact trusted AI interactions significantly.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Hackers are stealing Claude tokens from subscribers</title>
-      <link>https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/</link>
-      <guid isPermaLink="false">pepite-cbfa9bedc0294857</guid>
-      <pubDate>Tue, 08 Sep 2026 21:10:27 +0000</pubDate>
-      <category>models</category>
-      <description>Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>27.5KB language-agnostic WebGPU syntax highlighter</title>
-      <link>https://gpu-lexer.vercel.app/</link>
-      <guid isPermaLink="false">pepite-3b7ce0b97b418e45</guid>
-      <pubDate>Wed, 09 Sep 2026 01:14:50 +0000</pubDate>
-      <category>other</category>
-      <description>A super-light, WebGPU-based syntax highlighter that works across many programming languages. It's just 27.5KB, so it loads and works fast. However, being so small means it might lack the deep features of full-fledged highlighters.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: LLM Attention Visualization</title>
-      <link>https://ishamf.dev/p/llm-attention-visualizer/</link>
-      <guid isPermaLink="false">pepite-f409944e2c9e4aff</guid>
-      <pubDate>Tue, 08 Sep 2026 16:59:41 +0000</pubDate>
-      <category>models</category>
-      <description>A tool that visualizes the attention of language models, giving insight into what these models focus on. Useful for understanding how models process input and make decisions. The downside is that it’s a visualization tool — no direct improvements to model performance.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Multi-Agents LLM Financial Trading Framework</title>
-      <link>https://github.com/TauricResearch/TradingAgents</link>
-      <guid isPermaLink="false">pepite-f9bc37d86c9b3936</guid>
-      <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
-      <category>agents</category>
-      <description>A framework that uses multiple AI agents for financial trading strategies. It can handle complex trading scenarios by leveraging LLM capabilities. The catch: it requires careful setup and is tailored for those with financial trading knowledge.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>tigerless-labs/agent-memory</title>
-      <link>https://github.com/tigerless-labs/agent-memory</link>
-      <guid isPermaLink="false">pepite-de4c9bdfe1b112c1</guid>
-      <pubDate>Tue, 01 Sep 2026 21:52:29 +0000</pubDate>
-      <category>repos</category>
-      <description>Agent memory framework lets AI agents retain information between sessions. This helps agents be more consistent in their responses over time. It’s designed for customization; however, integrating it can be complex and requires technically proficient users.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>ZJU-REAL/Easel</title>
-      <link>https://github.com/ZJU-REAL/Easel</link>
-      <guid isPermaLink="false">pepite-1c0bd5d35a475e5e</guid>
-      <pubDate>Fri, 28 Aug 2026 02:22:27 +0000</pubDate>
-      <category>repos</category>
-      <description>Easel is a content creation toolset that uses AI agents to generate and manage social media content. It automates each step from brainstorming to publishing. Note: it’s specialized for social media creators, not general use cases.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?</title>
-      <link>http://arxiv.org/abs/2609.09113v1</link>
-      <guid isPermaLink="false">pepite-d035ef8d14e09881</guid>
-      <pubDate>Tue, 08 Sep 2026 17:45:09 +0000</pubDate>
-      <category>research</category>
-      <description>Research on using AI agents for interpretability in model development. It’s a look into making AI systems easier to understand and safer to use. But for now, it’s academic: promising, but not applicable to everyday problems yet.
 
 — via arXiv</description>
     </item>
