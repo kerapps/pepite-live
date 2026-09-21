@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters</title>
+      <link>https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/</link>
+      <guid isPermaLink="false">pepite-35087e02b0cfc9ae</guid>
+      <pubDate>Sun, 20 Sep 2026 16:10:52 +0000</pubDate>
+      <category>models</category>
+      <description>Alibaba's Qwen-Image-2.1 is an open-weight image generation model that runs on consumer GPUs. It's exciting for claiming better performance than some closed models with just 7 billion parameters. But note, it's free for non-commercial use only.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Tencent's Gander aims to keep talking while it works in the background</title>
+      <link>https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/</link>
+      <guid isPermaLink="false">pepite-f341d5e2ffe3acb8</guid>
+      <pubDate>Sun, 20 Sep 2026 15:41:30 +0000</pubDate>
+      <category>research</category>
+      <description>Tencent's Gander aims to keep conversations going while performing tasks. This continuous engagement feature sets it apart in natural interaction. However, it still has accuracy issues with task completion compared to competitors.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>World model companies are keeping a lot of secrets</title>
+      <link>https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/</link>
+      <guid isPermaLink="false">pepite-caea4d57fd6196ea</guid>
+      <pubDate>Sun, 20 Sep 2026 20:29:07 +0000</pubDate>
+      <category>models</category>
+      <description>Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building. It landed in the last few hours.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM</title>
+      <link>https://github.com/volotat/mini-AGI/</link>
+      <guid isPermaLink="false">pepite-c83ea34c85111590</guid>
+      <pubDate>Mon, 21 Sep 2026 04:42:37 +0000</pubDate>
+      <category>models</category>
+      <description>Mini-AGI is a small AI model designed for dynamic and continuous learning. It's notable for being able to run on consumer-level GPUs with just 8GB of VRAM. However, its capabilities are far from true AGI (artificial general intelligence), and the playful name may be misleading.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>The LLMentalist Effect (2023)</title>
+      <link>https://softwarecrisis.dev/letters/llmentalist/</link>
+      <guid isPermaLink="false">pepite-4696ca8d96da633f</guid>
+      <pubDate>Sun, 20 Sep 2026 12:20:13 +0000</pubDate>
+      <category>models</category>
+      <description>The 'LLMentalist Effect' discusses how large language models might alter perceptions and expectations. It's intriguing because it tackles the psychological impact these models have. The article is more discussion than practical guide, so don't expect actionable steps.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>pallavi-shekhar/ai-engineering-interview-questions-company-wise</title>
+      <link>https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise</link>
+      <guid isPermaLink="false">pepite-5634ad4c38861caf</guid>
+      <pubDate>Sat, 19 Sep 2026 04:14:43 +0000</pubDate>
+      <category>repos</category>
+      <description>This GitHub repo is a collection of AI engineering interview questions company-wise. It’s a handy resource for job seekers prepping for interviews with top AI firms. But remember, it's user-contributed, so quality can vary across entries.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>yibie/awesome-jev</title>
+      <link>https://github.com/yibie/awesome-jev</link>
+      <guid isPermaLink="false">pepite-4e1acdc540cfe54f</guid>
+      <pubDate>Thu, 17 Sep 2026 14:23:21 +0000</pubDate>
+      <category>repos</category>
+      <description>Awesome-JEV is a curated list of projects built on the Jev model that makes typed decisions. It's interesting for offering a structured decision-making layer in software. It's a comprehensive list but might require digging to find precisely what you need.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Can I Let My AI Agent Run on Shabbat?</title>
+      <link>https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm</link>
+      <guid isPermaLink="false">pepite-25e1bb042bebc910</guid>
+      <pubDate>Mon, 21 Sep 2026 02:05:45 +0000</pubDate>
+      <category>agents</category>
+      <description>A discussion on whether AI agents can be left running on Shabbat, considering religious adherence impacts. This article raises unique questions about technology and traditions. It's a philosophical debate more than technical guidance.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>llm-keys-ui 0.1</title>
+      <link>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</link>
+      <guid isPermaLink="false">pepite-6aa47ed911e4b48e</guid>
+      <pubDate>Sun, 20 Sep 2026 19:22:19 +0000</pubDate>
+      <category>agents</category>
+      <description>LLM-keys-ui 0.1 is a tool to manage API keys for coding agents on remote machines. It simplifies the process by avoiding direct pasting of keys. However, it's in early release, so expect some rough edges and limited documentation.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quoting voxium</title>
+      <link>https://simonwillison.net/2026/Sep/20/voxium/</link>
+      <guid isPermaLink="false">pepite-bd7e7d7318c9042a</guid>
+      <pubDate>Sun, 20 Sep 2026 21:06:43 +0000</pubDate>
+      <category>models</category>
+      <description>An article reflects on the increasing secrecy within companies developing world models. This is intriguing as it hints at several innovative projects under wraps. Details are scant, though, leaving much to speculation.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Catena: A Comprehensive Software Suite for Large-Scale Connectomics</title>
+      <link>http://arxiv.org/abs/2609.21887v1</link>
+      <guid isPermaLink="false">pepite-47ba47a86a04d547</guid>
+      <pubDate>Fri, 18 Sep 2026 15:16:37 +0000</pubDate>
+      <category>research</category>
+      <description>Catena provides a suite of tools for large-scale connectomics, focusing on neuron and synapse mapping. The all-in-one solution promises easier data handling for researchers. However, it’s a specialized toolset requiring expertise in connectomics to leverage fully.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention</title>
+      <link>http://arxiv.org/abs/2609.21811v1</link>
+      <guid isPermaLink="false">pepite-11a8440127c0cf52</guid>
+      <pubDate>Fri, 18 Sep 2026 14:21:37 +0000</pubDate>
+      <category>research</category>
+      <description>MIST combines genomic and histological data for survival predictions. Its approach enriches genomic info with histology context before making predictions. The complexity might mean a steep learning curve for implementation.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>GraphSkillEvo: Evolutionary Optimization of Graph-Structured Agent Skills</title>
+      <link>http://arxiv.org/abs/2609.21749v1</link>
+      <guid isPermaLink="false">pepite-c38b727dcc653db8</guid>
+      <pubDate>Fri, 18 Sep 2026 13:24:33 +0000</pubDate>
+      <category>research</category>
+      <description>GraphSkillEvo enhances skill optimization through structured representations. This structured approach can make skills more executable by AI models. Be aware, though, it’s focused on a specific aspect of LLM enhancement.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work</title>
+      <link>https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview/</link>
+      <guid isPermaLink="false">pepite-71c3990b314247c7</guid>
+      <pubDate>Mon, 21 Sep 2026 06:37:18 +0000</pubDate>
+      <category>agents</category>
+      <description>StepFun's new model supports long-horizon tasks with a massive context window and sparse parameter setup. It’s great for extensive, complex agent work across various inputs. But, it's currently costly and only available as a preview with limited access.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks</title>
       <link>https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/</link>
       <guid isPermaLink="false">pepite-85eb2ef08dd279bf</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 10 Sep 2026 17:45:36 +0000</pubDate>
       <category>research</category>
       <description>A proposed method detects when AI makes stuff up, called hallucinations, using multiple signals. It's promising for applications where accuracy is critical. The challenge: it requires fine-tuning and isn’t foolproof.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AdamX: Cosine similarity meets gradient descent</title>
-      <link>http://arxiv.org/abs/2609.11867v1</link>
-      <guid isPermaLink="false">pepite-9c3d5db7b24bf72b</guid>
-      <pubDate>Thu, 10 Sep 2026 17:42:50 +0000</pubDate>
-      <category>research</category>
-      <description>AdamX is an optimizer using cosine similarity to improve machine learning training. It fine-tunes how updates are made during learning, which could speed up training. Catch: integrating with existing workflows might need some adjustment.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Datasette 1.0a39 and 0.65.4 security releases</title>
-      <link>https://simonwillison.net/2026/Sep/11/datasette-security/</link>
-      <guid isPermaLink="false">pepite-a2193a1e2c9f0fa8</guid>
-      <pubDate>Fri, 11 Sep 2026 03:27:16 +0000</pubDate>
-      <category>finance</category>
-      <description>Datasette's latest releases include security updates to protect public web instances. Keeping data safe is crucial for anyone running a mixed-visibility database. The usual tradeoff: always keep an eye on new security vulnerabilities.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>ToolGrad: Efficient tool-use dataset generation with textual "gradients"</title>
-      <link>https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/</link>
-      <guid isPermaLink="false">pepite-822d4f35b50fcf84</guid>
-      <pubDate>Thu, 10 Sep 2026 22:50:22 +0000</pubDate>
-      <category>research</category>
-      <description>ToolGrad offers a new way to make datasets by using text-based guides to improve tool usage. It aims to streamline data collection for training better models. The downside: you'll need relevant tools set up beforehand.
-
-— via Google Research</description>
-    </item>
-    <item>
-      <title>Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages</title>
-      <link>https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/</link>
-      <guid isPermaLink="false">pepite-1d4f8e956357e6c3</guid>
-      <pubDate>Fri, 11 Sep 2026 06:57:22 +0000</pubDate>
-      <category>finance</category>
-      <description>Cohere's North Small Translate is a huge translation model covering 50 languages. It’s notable for blending a large parameter count with accessibility. Catch: commercial use isn't free, so costs might be a factor for businesses.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario</title>
-      <link>https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/</link>
-      <guid isPermaLink="false">pepite-2ef4d0276b61ff1f</guid>
-      <pubDate>Wed, 09 Sep 2026 19:39:27 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic shares varied forecasts for AI’s economic impact, labeling the CEO's negative views as extreme. It's notable for its stance on AI's economic effects. The downside: mostly projections, not immediate issues.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade</title>
-      <link>https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/</link>
-      <guid isPermaLink="false">pepite-9925e23238339704</guid>
-      <pubDate>Wed, 09 Sep 2026 12:48:41 +0000</pubDate>
-      <category>other</category>
-      <description>An article on the risks of AI as viewed by an ex-Anthropic scientist. It sparks a dialogue on AI safety with high-stakes predictions. The catch: it's heavy on opinions without new empirical evidence.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Suno launches v6 music models built with Warner, BMG, and Believe</title>
-      <link>https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/</link>
-      <guid isPermaLink="false">pepite-648dac7b0a27869d</guid>
-      <pubDate>Wed, 09 Sep 2026 14:06:57 +0000</pubDate>
-      <category>models</category>
-      <description>Suno's new AI music models let you edit songs with text prompts. This collaboration with big music labels brings AI creativity to the music studio. The downside: the training data source remains undisclosed, raising legal questions.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>yudaprasetya007/routeVSCODE</title>
-      <link>https://github.com/yudaprasetya007/routeVSCODE</link>
-      <guid isPermaLink="false">pepite-9ffbc2612d9ffcff</guid>
-      <pubDate>Thu, 10 Sep 2026 01:25:00 +0000</pubDate>
-      <category>repos</category>
-      <description>A tool to switch AI models in VSCode with one click. It lets you change between models like Claude, GPT-4, and more without editing config files. The catch: you'll need a quick setup of a web dashboard and install an extension.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes</title>
-      <link>https://hugovergnes.github.io/little-lm-3-8b/</link>
-      <guid isPermaLink="false">pepite-fef1d546728baa20</guid>
-      <pubDate>Thu, 10 Sep 2026 02:04:11 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on training a 3.8 billion parameter language model for under $1000. It's impressive for how affordable it makes training a sizable AI model. The catch: it assumes access to affordable cloud resources and solid technical know-how.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Muse, the band, lost its social media handles to Muse, Meta's new AI agent</title>
-      <link>https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/</link>
-      <guid isPermaLink="false">pepite-e771e65b178d87eb</guid>
-      <pubDate>Wed, 09 Sep 2026 23:57:29 +0000</pubDate>
-      <category>agents</category>
-      <description>Meta's new AI agent claimed Muse's social media handles, leaving the band in a tough spot. It's a real-world example of AI's impact beyond tech circles. But no new AI tech here, just a messy brand clash.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Qwen 3.8 follows GPT-5.5 Pro reasoning prefills</title>
-      <link>https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3</link>
-      <guid isPermaLink="false">pepite-8676500f18785189</guid>
-      <pubDate>Wed, 09 Sep 2026 17:24:28 +0000</pubDate>
-      <category>models</category>
-      <description>A new language model, Qwen 3.8, shows promise in reasoning tasks. It's catching attention for its fresh approach and following established models. The downside: still in the early discussion phase, so practical use is speculative.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>achimala/dream-loop</title>
-      <link>https://github.com/achimala/dream-loop</link>
-      <guid isPermaLink="false">pepite-ee5eec3e180b9bb0</guid>
-      <pubDate>Mon, 07 Sep 2026 14:19:20 +0000</pubDate>
-      <category>repos</category>
-      <description>An AI 'dream-loop' that creates games or apps based on visual comparisons. It 'dreams' up an image and refines till it matches, which is great for creative iterations. The catch: more an art project than a robust development tool.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs</title>
-      <link>http://arxiv.org/abs/2609.10355v1</link>
-      <guid isPermaLink="false">pepite-eab821d63c420414</guid>
-      <pubDate>Wed, 09 Sep 2026 15:50:39 +0000</pubDate>
-      <category>research</category>
-      <description>A paper exploring why video-focused AI models are so power-hungry. It dives into current solutions for efficiency in working with videos. The catch: It's a dense academic read, useful mostly for researchers.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out</title>
-      <link>http://arxiv.org/abs/2609.10357v1</link>
-      <guid isPermaLink="false">pepite-c5d2f8b7cf341e4f</guid>
-      <pubDate>Wed, 09 Sep 2026 15:52:55 +0000</pubDate>
-      <category>research</category>
-      <description>A study on how model pretraining affects evaluation. It looks at how models perform on new vs. old test sets. The drawback: findings are preliminary, applying mainly to time-series data.
 
 — via arXiv</description>
     </item>
