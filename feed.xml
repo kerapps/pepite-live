@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Runway’s WorldPrompt and the Engineering of Real-Time Worlds</title>
+      <link>https://www.latent.space/p/runway</link>
+      <guid isPermaLink="false">pepite-cf1f7303557fdea8</guid>
+      <pubDate>Fri, 25 Sep 2026 01:30:57 +0000</pubDate>
+      <category>models</category>
+      <description>Runway’s platform offering real-time video and audio generation. It designs worlds using ongoing context and planned actions. Limited by needing specific existing scenarios to make the most of it.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door</title>
+      <link>https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/</link>
+      <guid isPermaLink="false">pepite-c6bf00d08bfaf262</guid>
+      <pubDate>Thu, 24 Sep 2026 13:35:44 +0000</pubDate>
+      <category>agents</category>
+      <description>Update on Deepmind's new product direction with Gemini 4. Focus shifts from general AI towards practical agent tools. It's more corporate news than a directly usable resource.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI's agents went after government and university sites months before Hugging Face</title>
+      <link>https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/</link>
+      <guid isPermaLink="false">pepite-f657eabc9e15b375</guid>
+      <pubDate>Thu, 24 Sep 2026 14:01:05 +0000</pubDate>
+      <category>agents</category>
+      <description>A post on OpenAI’s unintentional breaches of sensitive sites. A warning on the importance of handling AI data access responsibly. It’s more a cautionary tale than an immediate tool or fix.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining</title>
+      <link>https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/</link>
+      <guid isPermaLink="false">pepite-a4eaacf914d89039</guid>
+      <pubDate>Thu, 24 Sep 2026 16:04:26 +0000</pubDate>
+      <category>models</category>
+      <description>A report on an AI discovery of new enzymes, regarded as minor by some experts. It shows AI’s potential in accelerating research. Just remember, not every ‘discovery’ is groundbreaking.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Using LLMs to trace alchemical knowledge and decode 17th century letters</title>
+      <link>https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</link>
+      <guid isPermaLink="false">pepite-8d09967f21159a10</guid>
+      <pubDate>Thu, 24 Sep 2026 19:14:27 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on using AI to understand alchemical texts and 17th-century letters. It explores how AI could help historians unpack complex historical documents. The catch: it's a broad discussion, not a concrete tool you can use right now.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>mikehasa/golive-skill</title>
+      <link>https://github.com/mikehasa/golive-skill</link>
+      <guid isPermaLink="false">pepite-932c5200f62bf71a</guid>
+      <pubDate>Wed, 23 Sep 2026 13:37:26 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source tool called GoLive to automate deploying AI apps. It helps handle the tedious setup parts like hosting and databases. The catch: you'll still need to guide some human-specific tasks manually.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design</title>
+      <link>https://github.com/devdotfast/whiteboard</link>
+      <guid isPermaLink="false">pepite-d1d555c5bd80c6d3</guid>
+      <pubDate>Thu, 24 Sep 2026 17:21:36 +0000</pubDate>
+      <category>agents</category>
+      <description>Whiteboard is an open-source IDE for collaborative software architecture. Great for recreating the vibe of a physical whiteboard session with team members. However, it may not integrate seamlessly with all existing tools yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Hackers influence ChatGPT and Gemini to direct users to scam centers</title>
+      <link>https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</link>
+      <guid isPermaLink="false">pepite-5e7f4101a21d095a</guid>
+      <pubDate>Thu, 24 Sep 2026 11:54:38 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on how hackers manipulate AI to redirect users to scams. It highlights vulnerabilities in popular systems like ChatGPT. There's no solution provided, just a reminder to be vigilant.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>yukitorido/short-video-generator-AI</title>
+      <link>https://github.com/yukitorido/short-video-generator-AI</link>
+      <guid isPermaLink="false">pepite-ee00682a64396df7</guid>
+      <pubDate>Wed, 23 Sep 2026 18:11:57 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source project to create short videos from YouTube content. Ideal for creators needing a free alternative to commercial tools. Limitation: it might not replace high-end features of paid services.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Towards Practical Compression of 3D Gaussian Splatting</title>
+      <link>http://arxiv.org/abs/2609.30245v1</link>
+      <guid isPermaLink="false">pepite-476aaf2ae8539a27</guid>
+      <pubDate>Thu, 24 Sep 2026 17:57:56 +0000</pubDate>
+      <category>research</category>
+      <description>Research on compressing 3D data more efficiently. This can lead to easier storage and use of detailed 3D models. Catch: it’s a paper with code you might need to adapt to your use case.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech</title>
+      <link>http://arxiv.org/abs/2609.30227v1</link>
+      <guid isPermaLink="false">pepite-a10ce6a478a4734f</guid>
+      <pubDate>Thu, 24 Sep 2026 17:50:40 +0000</pubDate>
+      <category>research</category>
+      <description>A paper on improving fact-checking of spoken claims using AI. It’s a step forward for handling audio misinformation. Downside: it's early days—just a benchmark, needs tooling on top.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance</title>
+      <link>http://arxiv.org/abs/2609.30192v1</link>
+      <guid isPermaLink="false">pepite-dee448590f9ff8a3</guid>
+      <pubDate>Thu, 24 Sep 2026 17:33:29 +0000</pubDate>
+      <category>research</category>
+      <description>Analysis on biases in AI when dealing with long tasks. Offers insights that could help in designing more robust models. But it’s theoretical and might not be directly applicable to your current models.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Accelerate Your AI Journey with new Introduction Track at PyTorch Conference NA 2026 and PyTorch Associate Training</title>
+      <link>https://pytorch.org/blog/accelerate-your-ai-journey-with-new-introduction-track-at-pytorch-conference-na-2026-and-pytorch-associate-training/</link>
+      <guid isPermaLink="false">pepite-bf2f6ec62e000e91</guid>
+      <pubDate>Thu, 24 Sep 2026 21:06:09 +0000</pubDate>
+      <category>models</category>
+      <description>PyTorch introduces a training track to boost deep learning skills. It's an opportunity for developers to deepen their practical knowledge. The downside: these are tied to specific conference events, not for everyday training.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next/</link>
+      <guid isPermaLink="false">pepite-34ef35e761969f67</guid>
+      <pubDate>Fri, 25 Sep 2026 06:32:06 +0000</pubDate>
+      <category>research</category>
+      <description>A comparison of AI models' performance benchmarks. Helpful for selecting a model based on your specific workload. However, it's mainly for those already familiar with technical benchmarking details.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Google's new Flash TTS models let you design AI voices from scratch using text descriptions</title>
       <link>https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/</link>
       <guid isPermaLink="false">pepite-0f435b7af231d886</guid>
@@ -1362,145 +1502,5 @@
       <description>Nari Labs shows off Qwen3-TTS and Qwen3-ASR models, boasting high accuracy and low latency. It's a solid option for those who need fast, open-source speech models. The downside: these models' performance may still not match top-tier, closed-source solutions.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Pelican-bicycle alternatives</title>
-      <link>https://gally.net/temp/20260914pelican-alternatives/index.html</link>
-      <guid isPermaLink="false">pepite-5448f64655f6b6e1</guid>
-      <pubDate>Mon, 14 Sep 2026 13:20:22 +0000</pubDate>
-      <category>research</category>
-      <description>A revisit to the pelican-bicycle benchmark, testing new large language models. It's interesting because it shows how models have grown stronger in a short time. The catch: this is more of a showcase than a real-world application tool.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>agentverse-os/AgentVerse-OS</title>
-      <link>https://github.com/agentverse-os/AgentVerse-OS</link>
-      <guid isPermaLink="false">pepite-43bb752b76a96740</guid>
-      <pubDate>Sat, 12 Sep 2026 18:20:00 +0000</pubDate>
-      <category>repos</category>
-      <description>AgentVerse-OS offers a cross-platform workspace for coding with AI agents. It's intriguing for its browser-based interface that works anywhere. But take note: setting this up requires a clean Ubuntu device for installation.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>youngyangyang04/llm-master</title>
-      <link>https://github.com/youngyangyang04/llm-master</link>
-      <guid isPermaLink="false">pepite-a6663e82fd6cab1e</guid>
-      <pubDate>Sat, 12 Sep 2026 07:33:31 +0000</pubDate>
-      <category>repos</category>
-      <description>LLM Master is a comprehensive learning resource for developers jumping into AI. It stands out by offering a clear path from API call to deployable systems. Remember, this won't replace hands-on experimentation which remains vital.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Harness: Am I doing something wrong? Or are my expectations unreasonable</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wgr0tb/harness_am_i_doing_something_wrong_or_are_my/</link>
-      <guid isPermaLink="false">pepite-5d6ea13f5ae4e4d7</guid>
-      <pubDate>Tue, 15 Sep 2026 05:10:05 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit user shares struggles with Qwen AI models, contrasting with a smoother Claude experience. Highlights user experience differences with various AI setups. The takeaway: not all models fit every need equally.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Iris-mini and Iris-pro are the strongest open-weight search agents in their class</title>
-      <link>https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/</link>
-      <guid isPermaLink="false">pepite-9cb85fa2e97ca16d</guid>
-      <pubDate>Sun, 13 Sep 2026 12:58:18 +0000</pubDate>
-      <category>research</category>
-      <description>Two open-source search agents designed for efficient task handling. Claim to excel at unseen tasks, adding versatility. The catch: details in the paper, but practical benchmarks may vary.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra pilots a surveillance drone and runs a business on its own</title>
-      <link>https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/</link>
-      <guid isPermaLink="false">pepite-be33ef90be1a95ba</guid>
-      <pubDate>Sun, 13 Sep 2026 10:52:16 +0000</pubDate>
-      <category>research</category>
-      <description>GPT-6 Astra benchmarks show high autonomous performance. It's significant for the autonomy in business tasks and drone controls. The downside: it requires hefty infrastructure to test similar setups.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Open-source AI and open models reading list</title>
-      <link>https://www.interconnects.ai/p/open-source-ai-reading-list</link>
-      <guid isPermaLink="false">pepite-d137f2af66a04688</guid>
-      <pubDate>Mon, 14 Sep 2026 00:22:51 +0000</pubDate>
-      <category>models</category>
-      <description>A reading list about open-source AI and models. Taps into the growing demand for transparency and community-driven development. The limitation: it's just a reading list, not hands-on tools.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Due to concerns about malicious applications, GPT2 will not be released (2019)</title>
-      <link>https://openai.com/index/better-language-models/</link>
-      <guid isPermaLink="false">pepite-2c29ba72d6ae6d54</guid>
-      <pubDate>Sun, 13 Sep 2026 23:11:17 +0000</pubDate>
-      <category>models</category>
-      <description>An old discussion on why GPT-2 wasn't released due to potential misuse. Highlights ongoing concerns about the balance of AI benefits and risks. The catch: it's a retrospective; no new tech, just historical insight.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models</title>
-      <link>https://twitter.com/DavidSacks/status/2098973625252708460</link>
-      <guid isPermaLink="false">pepite-a7e186ed16398d0d</guid>
-      <pubDate>Sun, 13 Sep 2026 16:52:33 +0000</pubDate>
-      <category>models</category>
-      <description>A conversation about whether AI companies need regulations to control advanced models. Interesting as it reflects on the balance of innovation and ethical boundaries. The catch: it's a debate, not a definitive guide or rule change.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>jtydhr88/screenwriting-skills</title>
-      <link>https://github.com/jtydhr88/screenwriting-skills</link>
-      <guid isPermaLink="false">pepite-307740d95d67c3b5</guid>
-      <pubDate>Sun, 06 Sep 2026 12:28:23 +0000</pubDate>
-      <category>repos</category>
-      <description>A GitHub repo offering screenwriting skills for AI agents. Allows agents to mimic the creative writing process using established techniques. The downside: it focuses narrowly on screenwriting, not broader creativity.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Colafornia/short-video-generator-AI</title>
-      <link>https://github.com/Colafornia/short-video-generator-AI</link>
-      <guid isPermaLink="false">pepite-a4c1c9ec2c33a130</guid>
-      <pubDate>Tue, 08 Sep 2026 14:55:47 +0000</pubDate>
-      <category>repos</category>
-      <description>A tool to create short videos from YouTube content. It helps creators generate clips complete with subtitles and translations. The limitation: the tool might struggle with non-English content or niche topics.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>commit-rewriter 0.1</title>
-      <link>https://simonwillison.net/2026/Sep/14/commit-rewriter/</link>
-      <guid isPermaLink="false">pepite-3dab7f1784c134f3</guid>
-      <pubDate>Mon, 14 Sep 2026 00:28:10 +0000</pubDate>
-      <category>research</category>
-      <description>A tool to edit commit messages for your code repositories. Useful for cleaning up references to private coding details before sharing. The catch: it’s basic—only edits commits, doesn't improve code directly.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control</title>
-      <link>https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/</link>
-      <guid isPermaLink="false">pepite-e895102862aba5ae</guid>
-      <pubDate>Sat, 12 Sep 2026 15:03:21 +0000</pubDate>
-      <category>models</category>
-      <description>A post calling for regulations to slow AI development to manageable levels. Emphasizes preemptive measures before AI outpaces human control. The limitation: it's a proposal; no actionable changes yet.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing</title>
-      <link>https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/</link>
-      <guid isPermaLink="false">pepite-b87032a4a57eb4ed</guid>
-      <pubDate>Mon, 14 Sep 2026 08:04:27 +0000</pubDate>
-      <category>repos</category>
-      <description>OSMO is an open-source tool for managing AI training and simulations. It streamlines complex workflows with a single file, enhancing efficiency. The catch: might be overkill if you're not using NVIDIA’s system.
-
-— via MarkTechPost</description>
     </item>
 </channel></rss>
