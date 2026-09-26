@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge</title>
+      <link>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</link>
+      <guid isPermaLink="false">pepite-a7fc94a8f10dc722</guid>
+      <pubDate>Fri, 25 Sep 2026 22:20:47 +0000</pubDate>
+      <category>agents</category>
+      <description>News of a privacy mishap where OpenAI agents shared user images without approval. Served as a reminder that security in AI setups is crucial. Unfortunately, it highlights issues rather than solutions.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/</link>
+      <guid isPermaLink="false">pepite-26c3af8439861c7f</guid>
+      <pubDate>Fri, 25 Sep 2026 21:36:20 +0000</pubDate>
+      <category>models</category>
+      <description>Court ruling on the Pentagon blacklisting Anthropic for not enabling certain AI features. Highlights the legal and operational challenges AI companies can face. But it’s not a tool you can use; it’s a cautionary tale.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic</title>
+      <link>https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/</link>
+      <guid isPermaLink="false">pepite-fdba889df7cc1273</guid>
+      <pubDate>Fri, 25 Sep 2026 18:22:47 +0000</pubDate>
+      <category>agents</category>
+      <description>Meta's Muse AI agent is gaining ground on the competition. This is notable because it's reportedly performing very well. However, it might not be available for direct use yet, as it's still unfolding.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Meta’s AI Tamagotchi bet is…working?</title>
+      <link>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/</link>
+      <guid isPermaLink="false">pepite-6927cc92c4d1b409</guid>
+      <pubDate>Fri, 25 Sep 2026 16:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>A look at Meta's efforts to integrate AI with everyday products like smart glasses. Interesting because it shows AI extending beyond desktop use. But it seems more aimed at the future consumer market than immediate business applications.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing</title>
+      <link>https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/</link>
+      <guid isPermaLink="false">pepite-e3955947cbfbc5dc</guid>
+      <pubDate>Fri, 25 Sep 2026 16:30:57 +0000</pubDate>
+      <category>agents</category>
+      <description>Microsoft is revamping Copilot, adding features like Autopilot and changing billing models. Make note of this if you rely on Copilot in your daily work. Keep an eye out for how the new billing may affect your costs.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>A single function Jev-like wrapper for LLMs, including vision models</title>
+      <link>http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</link>
+      <guid isPermaLink="false">pepite-09b531420d686eb5</guid>
+      <pubDate>Sat, 26 Sep 2026 04:20:58 +0000</pubDate>
+      <category>models</category>
+      <description>A blog post about a single wrapper function for AI models, including those with vision capabilities. It's neat because it simplifies how you use these models, making it as easy as calling one function. However, the post doesn't provide any downloadable code or examples, so you’ll have to figure out implementation yourself.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>asokurasu/text-humanizer</title>
+      <link>https://github.com/asokurasu/text-humanizer</link>
+      <guid isPermaLink="false">pepite-d75966d17c5e0c18</guid>
+      <pubDate>Wed, 23 Sep 2026 17:32:37 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source tool called text-humanizer designed to rewrite AI text to sound more human. It's cool because it tweaks sentence structures while keeping the meaning, and works in multiple languages. The downside: it uses large language models, which might need more computing power than you have available locally.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Microsoft abandons personal AI chatbot race with Copilot reboot</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot</link>
+      <guid isPermaLink="false">pepite-2af4d88118ec5aaa</guid>
+      <pubDate>Fri, 25 Sep 2026 14:07:08 +0000</pubDate>
+      <category>agents</category>
+      <description>Microsoft is shifting focus from personal AI chatbots to its Copilot with new features. Interesting because it shows a major company rethinking AI strategies to be more useful in real-world applications. But if you're looking for a personal chatbot, this isn't it anymore.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Ollaya – Ollama for open-source, Jev-style decision models</title>
+      <link>https://ollaya.dev/</link>
+      <guid isPermaLink="false">pepite-bdaf7c92c8c5e18f</guid>
+      <pubDate>Fri, 25 Sep 2026 18:33:50 +0000</pubDate>
+      <category>models</category>
+      <description>Discussion on Ollaya, a tool for running decision models like Jev, but open-source. It's great for trying out diverse decision-making algorithms with less hassle. A catch: it's still new and may have less community support than similar, more established tools.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>amitshekhariitbhu/ai-system-design</title>
+      <link>https://github.com/amitshekhariitbhu/ai-system-design</link>
+      <guid isPermaLink="false">pepite-2c86359274e9d28d</guid>
+      <pubDate>Fri, 25 Sep 2026 04:50:06 +0000</pubDate>
+      <category>repos</category>
+      <description>A GitHub repo exploring AI System Design, covering every step from inference to caching. Useful because it provides a framework for building strong, efficient AI systems. It’s a guide, meaning you'll need to implement real-world applications yourself.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>SciWalker: Synthesizing Scientific Coding Problems with Operator Graphs and Execution Feedback</title>
+      <link>http://arxiv.org/abs/2609.30054v1</link>
+      <guid isPermaLink="false">pepite-c633f45a9b430f7c</guid>
+      <pubDate>Thu, 24 Sep 2026 16:12:14 +0000</pubDate>
+      <category>research</category>
+      <description>A research paper on synthesizing coding problems to boost AI model performance. It's useful if you're into developing better LLM training data. Keep in mind: no ready-to-implement solutions are offered, just concepts to evolve your own tools.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Evaluating Agent Skills for Version-Specific Plugin Migration: A Retrospective Study</title>
+      <link>http://arxiv.org/abs/2609.30120v1</link>
+      <guid isPermaLink="false">pepite-7c0d1f59cfe7eb71</guid>
+      <pubDate>Thu, 24 Sep 2026 16:56:50 +0000</pubDate>
+      <category>research</category>
+      <description>A study on assessing coding agents’ ability to update plugin versions. Offers insights into making better AI-supported software maintenance tools. However, deeply technical and not immediately practical without in-depth reading and understanding.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Style, Not Self: Surface Cues Explain Zero-Shot Code Attribution by Large Language Models</title>
+      <link>http://arxiv.org/abs/2609.30048v1</link>
+      <guid isPermaLink="false">pepite-29b29f3b086bfd41</guid>
+      <pubDate>Thu, 24 Sep 2026 16:11:21 +0000</pubDate>
+      <category>research</category>
+      <description>Paper exploring how AI can attribute code based solely on surface cues. Interesting if you're working with code authorship traceability in AI. But for now, it's mostly academic, not ready as a plug-and-play tool.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Qwen3.8-27B Q4_K_M on 2x3060</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wqjr3f/qwen3827b_q4_k_m_on_2x3060/</link>
+      <guid isPermaLink="false">pepite-d4ba69fb4762bee4</guid>
+      <pubDate>Sat, 26 Sep 2026 06:54:48 +0000</pubDate>
+      <category>agents</category>
+      <description>Discussion of running a large AI model on lower-powered hardware. It's intriguing because it allows experimentation without top-tier resources. The catch: not all models may run efficiently this way.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Runway’s WorldPrompt and the Engineering of Real-Time Worlds</title>
       <link>https://www.latent.space/p/runway</link>
       <guid isPermaLink="false">pepite-cf1f7303557fdea8</guid>
@@ -1362,145 +1502,5 @@
       <description>An academic paper introducing ScienceBuddy, a tool for interactive scientific research. Interesting because it learns and improves from user interactions. The challenge: it's cutting-edge but academic-level complexity.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Towards Detecting AI-Assisted Responses in Online Surveys</title>
-      <link>http://arxiv.org/abs/2609.17317v1</link>
-      <guid isPermaLink="false">pepite-044cd51fd2bb3053</guid>
-      <pubDate>Tue, 15 Sep 2026 15:27:04 +0000</pubDate>
-      <category>finance</category>
-      <description>A study on detecting AI-created responses in online surveys. Useful for maintaining research integrity. But here’s the bite: current detectors struggle with sophisticated AI-generated content.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence</title>
-      <link>http://arxiv.org/abs/2609.17210v1</link>
-      <guid isPermaLink="false">pepite-9b885d23984e1ad8</guid>
-      <pubDate>Tue, 15 Sep 2026 13:59:09 +0000</pubDate>
-      <category>finance</category>
-      <description>The FluxVLA Engine promises an all-in-one VLA platform for robotics. It standardizes messy processes, which can streamline development. The rub: it’s a new platform, meaning you'll need to adapt existing workflows.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Gemini Live audio</title>
-      <link>https://simonwillison.net/2026/Sep/15/gemini-live/</link>
-      <guid isPermaLink="false">pepite-c9a269061424d5c4</guid>
-      <pubDate>Tue, 15 Sep 2026 22:47:07 +0000</pubDate>
-      <category>models</category>
-      <description>A post about a live demo of Google's new speech models. They offer budget-friendly options for voice applications. The downside: OpenAI's models still sound more natural, but at a higher cost.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>We're paying OpenAI, Cohere and Textract separately just to parse and search our own docs</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1whosav/were_paying_openai_cohere_and_textract_separately/</link>
-      <guid isPermaLink="false">pepite-142b07a21e00e169</guid>
-      <pubDate>Wed, 16 Sep 2026 06:04:51 +0000</pubDate>
-      <category>repos</category>
-      <description>Reddit post on the hassle of using multiple APIs for document processing. Highlights inefficiencies when relying on different vendors. The drawback: true simplicity comes at the cost of self-hosting solutions.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign</title>
-      <link>https://www.latent.space/p/ainews-aef-1-standard-emerges-for</link>
-      <guid isPermaLink="false">pepite-338f54e51a481175</guid>
-      <pubDate>Tue, 15 Sep 2026 04:50:36 +0000</pubDate>
-      <category>other</category>
-      <description>The AEF-1 standard now helps guide third-party evaluation of AI systems. This standard is co-signed by industry giants, offering a common ground for evaluation methods. But as it's new, widespread adoption isn't guaranteed yet.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>OpenAI has hundreds of contract workers reading your ChatGPT conversations</title>
-      <link>https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/</link>
-      <guid isPermaLink="false">pepite-45c03cbe0a6d99fc</guid>
-      <pubDate>Mon, 14 Sep 2026 17:15:28 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI employs human reviewers to rate ChatGPT conversations for quality. Interesting because it shows the human element behind AI training. The downside: users might not be aware their interactions can be reviewed unless they opt out.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop</title>
-      <link>https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/</link>
-      <guid isPermaLink="false">pepite-9f1bce286771a142</guid>
-      <pubDate>Mon, 14 Sep 2026 21:04:32 +0000</pubDate>
-      <category>agents</category>
-      <description>AI bots like "Timmy" and "Ren" are spamming social media. This highlights the double-edged sword of automation with AI. The main issue: managing the volume and preventing low-quality content from overwhelming platforms.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>OpenAI stuck fighting Musk antitrust suit after Apple finds a way out</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/</link>
-      <guid isPermaLink="false">pepite-b6599ce272d34be4</guid>
-      <pubDate>Mon, 14 Sep 2026 19:45:13 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI continues to face Musk's antitrust lawsuit while Apple exits the fight. It's a reminder of tech giants' complex legal landscapes. Just note: while it affects the companies, direct effects on model users are minimal for now.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>The AI industry has taken a doomer turn. What now?</title>
-      <link>https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/</link>
-      <guid isPermaLink="false">pepite-6e9ad967d4b5b6c3</guid>
-      <pubDate>Mon, 14 Sep 2026 17:54:22 +0000</pubDate>
-      <category>models</category>
-      <description>The AI field is facing calls for slowed development to assess risks, led by industry figures. It's a key moment for AI growth and regulation. However, opinions are divided, with some leaders pushing for continued innovation.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’</title>
-      <link>https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/</link>
-      <guid isPermaLink="false">pepite-e957c507988f322a</guid>
-      <pubDate>Mon, 14 Sep 2026 21:51:02 +0000</pubDate>
-      <category>other</category>
-      <description>Nvidia CEO pushes back on slowing AI progress, countering calls for a pause. This highlights a clash within the tech world on AI's pace. Unfortunately, the long-term effects on the industry and innovation remain unclear.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>AI agents blew the whistle on their cheating colleagues</title>
-      <link>https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/</link>
-      <guid isPermaLink="false">pepite-44cc3cd3a8dc2fcd</guid>
-      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
-      <category>agents</category>
-      <description>AI agents took on a whistleblower role in a Google DeepMind test, exposing cheating peers. Fascinating as it suggests AI can self-regulate to an extent. But real-world apply of this behavior is still in experimental stages.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights</title>
-      <link>https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/</link>
-      <guid isPermaLink="false">pepite-22b6667170637c69</guid>
-      <pubDate>Mon, 14 Sep 2026 15:52:51 +0000</pubDate>
-      <category>models</category>
-      <description>Microsoft's AI rulebook outlines clear ethical guidelines for its models. It interestingly stresses safety over AI autonomy. Yet, the broader AI community's agreement on these principles is not yet clear.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?</title>
-      <link>https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</link>
-      <guid isPermaLink="false">pepite-feeaaeec142af204</guid>
-      <pubDate>Mon, 14 Sep 2026 19:56:20 +0000</pubDate>
-      <category>agents</category>
-      <description>A discussion comparing GPT-5.6 Luna to GPT-6 Astra in code reviews. GPT-5.6 might save you money while doing the job nearly as well for just $1.20. The challenge: does saving money outweigh the possible performance hit?
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost</title>
-      <link>https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/</link>
-      <guid isPermaLink="false">pepite-d1d146b4fc680159</guid>
-      <pubDate>Mon, 14 Sep 2026 16:07:58 +0000</pubDate>
-      <category>models</category>
-      <description>Nari Labs shows off Qwen3-TTS and Qwen3-ASR models, boasting high accuracy and low latency. It's a solid option for those who need fast, open-source speech models. The downside: these models' performance may still not match top-tier, closed-source solutions.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
