@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU</title>
+      <link>https://www.latent.space/p/ainews-openai-devday-2026-dots-61</link>
+      <guid isPermaLink="false">pepite-3fc2aadd486060fa</guid>
+      <pubDate>Wed, 30 Sep 2026 05:53:10 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI DevDay 2026 brought several announcements, including the intriguing 'Dots' release. It's part of a broader strategy to enhance AI agent capabilities. Details may still be sparse, so stay tuned for more concrete info.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch</title>
+      <link>https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/</link>
+      <guid isPermaLink="false">pepite-8000c8f00f46ee62</guid>
+      <pubDate>Tue, 29 Sep 2026 22:20:59 +0000</pubDate>
+      <category>finance</category>
+      <description>Elon Musk's xAI may have pranked OpenAI by acquiring the domain 'dot.com' before their launch. It's a light-hearted jab in the tech rivalry space. Just a playful digital tug-of-war, not a significant tech development.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI’s latest features take direct aim at the app store model</title>
+      <link>https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/</link>
+      <guid isPermaLink="false">pepite-d219cdb2cc726b78</guid>
+      <pubDate>Tue, 29 Sep 2026 20:15:47 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI's new features aim to challenge the app store model by making ChatGPT more central. It could change how apps are discovered and used by both people and AI. The vision is ambitious, but it’s still in its early stages.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents</title>
+      <link>https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/</link>
+      <guid isPermaLink="false">pepite-dd9b71cbd3849c47</guid>
+      <pubDate>Tue, 29 Sep 2026 18:35:00 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI abstains publicly from Nvidia's effort to curb rogue AI agents. However, it's reportedly collaborating behind the scenes. The dynamic is more about industry politics than technological innovation.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>feder-cr/dots</title>
+      <link>https://github.com/feder-cr/dots</link>
+      <guid isPermaLink="false">pepite-a2b352eb399c3089</guid>
+      <pubDate>Tue, 29 Sep 2026 23:06:00 +0000</pubDate>
+      <category>repos</category>
+      <description>A new GitHub project, 'dots', designed for AI agents that handle browsing tasks. Its standout feature is its focus on the browser part, often the weak link when agents fail. The limitation: it's still early days, with potential hiccups in real-world use.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>PSSA: A non-transformer language model written from scratch in Rust</title>
+      <link>https://github.com/Sparticle62ops/pssa</link>
+      <guid isPermaLink="false">pepite-f2dc44ab78b8b30c</guid>
+      <pubDate>Wed, 30 Sep 2026 03:19:54 +0000</pubDate>
+      <category>models</category>
+      <description>PSSA is an experimental language model crafted from scratch in Rust, not relying on transformers. It brings diversity to an increasingly homogenous landscape of AI models. However, it’s just a discussion for now, with no code to try out.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Why Is Sam Altman a Free Man?</title>
+      <link>https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/</link>
+      <guid isPermaLink="false">pepite-d6ca31effafcc02d</guid>
+      <pubDate>Wed, 30 Sep 2026 07:32:40 +0000</pubDate>
+      <category>other</category>
+      <description>A lively Hacker News discussion considers why Sam Altman remains unscathed by controversies. The conversation reveals community perspectives on leadership in AI. Remember, it's an opinion piece, not a source of hard facts.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: A working 3D model of an Enigma machine</title>
+      <link>https://enigma.design</link>
+      <guid isPermaLink="false">pepite-a3c142fede89c23d</guid>
+      <pubDate>Tue, 29 Sep 2026 17:15:56 +0000</pubDate>
+      <category>models</category>
+      <description>A 3D model brings the classic Enigma machine into the digital age. It's a great visualization tool for learning about cryptography mechanics. The catch: it’s a visual model, so don’t expect hands-on cryptanalysis.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>lemomo-ai/lemo-opuscar</title>
+      <link>https://github.com/lemomo-ai/lemo-opuscar</link>
+      <guid isPermaLink="false">pepite-5a18633b76f23034</guid>
+      <pubDate>Sat, 26 Sep 2026 10:10:41 +0000</pubDate>
+      <category>repos</category>
+      <description>Lemo Opuscar is a GitHub project where an AI agent creates animated films in diverse styles. The cool part is that movies come to life entirely through code. It's not for the impatient, given the computational demands.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Effective Dense Retrieval using Only In-Context Examples</title>
+      <link>http://arxiv.org/abs/2609.38099v1</link>
+      <guid isPermaLink="false">pepite-b3acd725af094f73</guid>
+      <pubDate>Tue, 29 Sep 2026 17:44:16 +0000</pubDate>
+      <category>research</category>
+      <description>A research paper suggests that LLMs can become effective dense retrievers using in-context examples. This approach promises to boost performance without extra training. However, the implementation details aren’t fully fleshed out yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>LongLive-Plug: Once-for-All Distillation for Video Generation</title>
+      <link>http://arxiv.org/abs/2609.38154v1</link>
+      <guid isPermaLink="false">pepite-2436012d93d5324a</guid>
+      <pubDate>Tue, 29 Sep 2026 17:58:49 +0000</pubDate>
+      <category>research</category>
+      <description>Meet LongLive-Plug, a new approach to streamline distillation in video generation. It offers plug-and-play modules that can be reused across various tasks. The downside? It's mostly theoretical at this stage, awaiting practical deployment.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Auditable Long-Term Memory: A Deterministic Retrieval Chain Measured at 479/475 of 500 on LongMemEval-S</title>
+      <link>http://arxiv.org/abs/2609.38021v1</link>
+      <guid isPermaLink="false">pepite-80c9f7b6f118e62f</guid>
+      <pubDate>Tue, 29 Sep 2026 17:04:18 +0000</pubDate>
+      <category>research</category>
+      <description>An academic paper presents a robust long-term memory system for AI with high retrieval accuracy. It's an exciting development for auditable data storage. However, expect to roll up your sleeves, as practical application might be complex.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Quoting Anthropic Frontier Red Team</title>
+      <link>https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/</link>
+      <guid isPermaLink="false">pepite-1e2adcbb126c3583</guid>
+      <pubDate>Tue, 29 Sep 2026 22:20:28 +0000</pubDate>
+      <category>research</category>
+      <description>A post highlights Anthropic's latest AI security benchmark results. It shows the evolving capability of AI models in security tasks. It's tech-heavy, with discussions centered on cybersecurity impacts.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>BAAI/AREX-2 - 27B - Agent model based on Qwen3.8 27B</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wtzedu/baaiarex2_27b_agent_model_based_on_qwen38_27b/</link>
+      <guid isPermaLink="false">pepite-5cbd3e46a4f22354</guid>
+      <pubDate>Wed, 30 Sep 2026 08:21:18 +0000</pubDate>
+      <category>agents</category>
+      <description>AREX-2 is a massive AI model from BAAI, focusing on long-horizon tasks. Its ability to self-improve and adapt to deep research is its main draw. But it's a heavy-duty tool, not plug-and-play for most users.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone</title>
       <link>https://the-decoder.com/manus-2-0-lets-users-edit-videos-host-multiplayer-games-and-run-agents-remotely-from-their-phone/</link>
       <guid isPermaLink="false">pepite-0cf07e91dc108476</guid>
@@ -1362,145 +1502,5 @@
       <description>Open source dungeon adventure game project under discussion. Shows the vibrant community that even classic genres like roguelikes have in open-source development. The catch: mainly a discussion thread with no direct applications to AI.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>datasette-auth-github 1.0</title>
-      <link>https://simonwillison.net/2026/Sep/19/datasette-auth-github/</link>
-      <guid isPermaLink="false">pepite-67bfed950ab763e7</guid>
-      <pubDate>Sat, 19 Sep 2026 19:52:02 +0000</pubDate>
-      <category>research</category>
-      <description>Datasette plugin update to maintain longer logged-in sessions through GitHub authentication. Fixes annoying session cutoffs in mobile browsers, boosting usability. The catch: mostly relevant for developers using Datasette with GitHub logins.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Towards Scaling Marine Perception with Synthetic Data</title>
-      <link>http://arxiv.org/abs/2609.20680v1</link>
-      <guid isPermaLink="false">pepite-88daa7b44ca1d26e</guid>
-      <pubDate>Thu, 17 Sep 2026 16:51:02 +0000</pubDate>
-      <category>research</category>
-      <description>A paper pushing the boundaries of training AI models underwater using synthetic data. Makes it easier to develop solutions for marine environments without excessive data collection. The catch: relies heavily on the quality and realism of the synthetic data.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Steering the Compass: Aligning Dynamic Psychological Counseling Conversations with Cognitive Behavioral Therapy Strategies</title>
-      <link>http://arxiv.org/abs/2609.20565v1</link>
-      <guid isPermaLink="false">pepite-3541a6822e1181c9</guid>
-      <pubDate>Thu, 17 Sep 2026 15:28:37 +0000</pubDate>
-      <category>research</category>
-      <description>Research focuses on making AI in therapy more dynamic and context-sensitive. Introduces a dataset for improved interactive counseling models. The catch: it's still a concept requiring rigorous testing and validation in real scenarios.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages</title>
-      <link>https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/</link>
-      <guid isPermaLink="false">pepite-6a7d229469385903</guid>
-      <pubDate>Sun, 20 Sep 2026 06:46:08 +0000</pubDate>
-      <category>models</category>
-      <description>Alibaba's new model offers real-time translation with minimal lag across 60 languages. It's promising for multinational live communications. The catch: access is currently limited to Alibaba's ecosystem, which may hinder broader usability.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours</title>
-      <link>https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/</link>
-      <guid isPermaLink="false">pepite-b2ee571e530e2f99</guid>
-      <pubDate>Fri, 18 Sep 2026 17:20:30 +0000</pubDate>
-      <category>models</category>
-      <description>Security researchers used Claude to breach OpenAI's systems in record time, showcasing the ever-evolving threat landscape. It's an eye-opener on how fast AI can now navigate security defenses. But always take such stories with caution—details are sketchy and context matters greatly.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic’s first embedded evaluator is … Accenture?</title>
-      <link>https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/</link>
-      <guid isPermaLink="false">pepite-58f2b00778858159</guid>
-      <pubDate>Fri, 18 Sep 2026 21:44:33 +0000</pubDate>
-      <category>other</category>
-      <description>TechCrunch reports on Anthropic choosing Accenture as its first official AI evaluator. This partnership might set a precedent for how AI tools are vetted in the future. But it's worth noting this is still new ground for all involved, so expect developments to evolve.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?</title>
-      <link>https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/</link>
-      <guid isPermaLink="false">pepite-748d4ed0dfa21a4f</guid>
-      <pubDate>Fri, 18 Sep 2026 17:09:56 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic's CEO is proposing a collaborative effort to manage AI advancements safely. The 'Pace the Frontier' initiative calls for global coordination among labs. While it's ambitious, collaboration on this scale has both support and skepticism, making its future uncertain.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Alibaba open-sources AI model that can detect cancer and nearly 150 conditions</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions</link>
-      <guid isPermaLink="false">pepite-9ef88682e61a4198</guid>
-      <pubDate>Fri, 18 Sep 2026 23:54:42 +0000</pubDate>
-      <category>models</category>
-      <description>Alibaba has released an open-source AI model that's designed to identify cancer and nearly 150 other medical conditions. The big deal here is that it's accessible to developers and researchers everywhere, which could spur innovation in medical AI. But remember, while it's a promising tool, it's still just a model and not a complete diagnostic system.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip</title>
-      <link>https://spectrum.ieee.org/llms-for-chip-design</link>
-      <guid isPermaLink="false">pepite-53650f6807d46877</guid>
-      <pubDate>Fri, 18 Sep 2026 23:04:17 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI used its language models to help design a critical chip, the Jalapeño. It's a peek into how AI can speed up hardware development by handling complex tasks like optimization. The limitation: this approach is new and specific to this use case, so don't expect it to replace traditional design methods just yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Continuum-AI-Corp/OrcaBonsai-27B-Uncensored</title>
-      <link>https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored</link>
-      <guid isPermaLink="false">pepite-b0c4bbc89df6036e</guid>
-      <pubDate>Fri, 18 Sep 2026 06:45:54 +0000</pubDate>
-      <category>repos</category>
-      <description>OrcaBonsai-27B-Uncensored is a large AI model available on GitHub that promises high performance without restrictions. It's designed to run efficiently by altering how it processes data on-the-fly. The catch: it's a hefty size at 27 billion parameters, so you'll need a capable setup to make the most of it.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)</title>
-      <link>https://arxiv.org/abs/2510.03215</link>
-      <guid isPermaLink="false">pepite-a29f00014197766c</guid>
-      <pubDate>Fri, 18 Sep 2026 18:55:35 +0000</pubDate>
-      <category>models</category>
-      <description>The idea of cache-to-cache has researchers buzzing—it's about direct semantic communication between language models. Think of it as models 'talking' directly to each other without intermediaries, which could improve AI efficiency. The snag? It's still a concept that's more theoretical than practical right now.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AbdelStark/awesome-typesafe</title>
-      <link>https://github.com/AbdelStark/awesome-typesafe</link>
-      <guid isPermaLink="false">pepite-cda71ffceddf8ba9</guid>
-      <pubDate>Thu, 17 Sep 2026 06:56:37 +0000</pubDate>
-      <category>repos</category>
-      <description>AbdelStark's GitHub list offers tools to better understand and interact with decision-making AI. It's a handy resource for anyone diving into structured AI outputs and development. Just keep in mind: this is an 'awesome list', so while curated, all tools need your scrutiny before use.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
-      <link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</link>
-      <guid isPermaLink="false">pepite-93b15eb0cb1a98a8</guid>
-      <pubDate>Fri, 18 Sep 2026 23:57:57 +0000</pubDate>
-      <category>models</category>
-      <description>A thought-provoking post about how Google's AI-model Gemini allegedly hacked into companies for testing purposes. It's a reminder of the dual-use nature of tech that can both aid and potentially harm. But remember, coverage like this doesn't detail full truths without official company information.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Quoting Thariq Shihipar</title>
-      <link>https://simonwillison.net/2026/Sep/18/thariq-shihipar/</link>
-      <guid isPermaLink="false">pepite-dd7eb0ba55d9d4ba</guid>
-      <pubDate>Fri, 18 Sep 2026 19:09:27 +0000</pubDate>
-      <category>agents</category>
-      <description>This post by Simon Willison talks about integrating support for AGENTS.md in Claude Code. For those utilizing coding agents, this update means more flexibility in how you manage project instructions. However, it's a feature tied to the latest version, so users will need to update their setup first.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
