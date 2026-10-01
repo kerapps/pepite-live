@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead</title>
+      <link>https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/</link>
+      <guid isPermaLink="false">pepite-7f87085606c55167</guid>
+      <pubDate>Wed, 30 Sep 2026 22:06:30 +0000</pubDate>
+      <category>models</category>
+      <description>Google's Gemini 4 Argon aims to challenge OpenAI and Anthropic's models. It matches GPT-6 Astra in some areas but isn't a clear leader yet. Access is still limited and costly due to high token consumption for tasks.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output</title>
+      <link>https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer</link>
+      <guid isPermaLink="false">pepite-d843c4e067908c96</guid>
+      <pubDate>Thu, 01 Oct 2026 06:45:05 +0000</pubDate>
+      <category>models</category>
+      <description>The Latent Space post discusses Gemini 4 Argon, designed for high-tier users. Although it promises impressive capabilities, it's currently closed to most developers.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns</title>
+      <link>https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/</link>
+      <guid isPermaLink="false">pepite-6eb18f6ff1c21f26</guid>
+      <pubDate>Wed, 30 Sep 2026 16:20:04 +0000</pubDate>
+      <category>agents</category>
+      <description>The FTC is investigating AI labs like OpenAI and Anthropic for consumer safety. They want to ensure AI isn't used in harmful ways. But this probe could mean tighter regulations are ahead for everyone using AI.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer</title>
+      <link>https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/</link>
+      <guid isPermaLink="false">pepite-71f1d5c654d0928f</guid>
+      <pubDate>Wed, 30 Sep 2026 19:12:30 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI and Synopsys are joining forces to create an AI that can design microchips. This could cut down on design time, simulating an experienced engineer's skill. However, details on success rates are still scarce.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>nanaism/yomiyasu</title>
+      <link>https://github.com/nanaism/yomiyasu</link>
+      <guid isPermaLink="false">pepite-7634d34d408671d0</guid>
+      <pubDate>Wed, 30 Sep 2026 11:49:32 +0000</pubDate>
+      <category>repos</category>
+      <description>Yomiyasu is a toolkit for making AI-generated Japanese text more readable. It helps smooth out unnatural AI quirks to create polished human-like writing. But it's only for Japanese, and it's still early days.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</title>
+      <link>https://github.com/magnitudedev/magnitude</link>
+      <guid isPermaLink="false">pepite-dfdee8cd1559d61f</guid>
+      <pubDate>Wed, 30 Sep 2026 17:37:40 +0000</pubDate>
+      <category>agents</category>
+      <description>Magnitude claims to speed up AI agent processes by making better use of your computer's hardware. It's even up to twice as fast as llama.cpp on Macs, Windows, and Linux. The downside: it's still new, so expect some trial and error.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Is sandboxing sufficient to contain rogue agents?</title>
+      <link>https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/</link>
+      <guid isPermaLink="false">pepite-8b5065867dd40a43</guid>
+      <pubDate>Thu, 01 Oct 2026 03:27:41 +0000</pubDate>
+      <category>agents</category>
+      <description>A Hacker News discussion asks if sandboxing can contain rogue AI agents. It's a hot topic given the risks agents can pose. But the post raises more questions than answers.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>SDF vs. MSDF vs. Slug: GPU Text Rendering</title>
+      <link>https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/</link>
+      <guid isPermaLink="false">pepite-56e1653fe1683856</guid>
+      <pubDate>Wed, 30 Sep 2026 13:50:50 +0000</pubDate>
+      <category>other</category>
+      <description>A deep dive into 3D text rendering options on GPUs — SDF, MSDF, and Slug. Each has strengths in rendering crisp, clear text for graphics and gaming. Missing here: easy guidance on which option best suits your specific needs.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>LockedinLabs-AI/agent-console</title>
+      <link>https://github.com/LockedinLabs-AI/agent-console</link>
+      <guid isPermaLink="false">pepite-a24934f47257c074</guid>
+      <pubDate>Sun, 20 Sep 2026 17:55:58 +0000</pubDate>
+      <category>repos</category>
+      <description>Agent Console by LockedIn Labs offers a local dashboard to keep tabs on AI coding agents. It tracks metrics like cost and token usage right on your computer. It's dense and technical, so expect a learning curve.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces</title>
+      <link>http://arxiv.org/abs/2609.40362v1</link>
+      <guid isPermaLink="false">pepite-f84b3576104b24ad</guid>
+      <pubDate>Wed, 30 Sep 2026 17:59:57 +0000</pubDate>
+      <category>research</category>
+      <description>Meet Multimodal Flow, a model blending language and images into one process, unlike the usual split between text and visuals. It's a step toward simpler AI that can handle both inputs together. The catch: it's a research paper — not yet ready for prime time.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Semifactual Credit-Augmented Policy Optimization</title>
+      <link>http://arxiv.org/abs/2609.40360v1</link>
+      <guid isPermaLink="false">pepite-5f1164e8a014e7f6</guid>
+      <pubDate>Wed, 30 Sep 2026 17:59:56 +0000</pubDate>
+      <category>research</category>
+      <description>This paper argues for smarter reinforcement learning by managing prompt influences. Reducing sensitivity could boost AI's reasoning without needing massive model updates. It's promising but stays theoretical until tested broadly.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning</title>
+      <link>http://arxiv.org/abs/2609.40265v1</link>
+      <guid isPermaLink="false">pepite-7677b483382667e7</guid>
+      <pubDate>Wed, 30 Sep 2026 17:43:22 +0000</pubDate>
+      <category>finance</category>
+      <description>OpenTSLM TeeMoE tries to be the Swiss Army knife for time-series forecasting, integrating context and reasoning into one model. It aims to combine flexibility with accuracy. As with most new ideas, it's still in the pre-proven stage.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Quoting Matthew Green</title>
+      <link>https://simonwillison.net/2026/Oct/1/matthew-green/</link>
+      <guid isPermaLink="false">pepite-89ed10d59c95d20f</guid>
+      <pubDate>Thu, 01 Oct 2026 06:29:01 +0000</pubDate>
+      <category>agents</category>
+      <description>Sharing insights on rogue AI potential, this post details how agents could exploit shared digital spaces — something akin to digital worms. It's eye-opening, but the details can be unnerving if you're not cautious.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Best OpenSource Claude Cowork alternative?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wuu9ip/best_opensource_claude_cowork_alternative/</link>
+      <guid isPermaLink="false">pepite-d96c2551a5e1b5f1</guid>
+      <pubDate>Thu, 01 Oct 2026 08:45:33 +0000</pubDate>
+      <category>models</category>
+      <description>A Reddit thread explores open-source alternatives to the Claude Cowork framework. Users are searching for tools that integrate well with existing systems like Notion or Gmail. Advice is scant, underlining the challenge of finding well-suited solutions.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU</title>
       <link>https://www.latent.space/p/ainews-openai-devday-2026-dots-61</link>
       <guid isPermaLink="false">pepite-3fc2aadd486060fa</guid>
@@ -1362,145 +1502,5 @@
       <description>An article reflects on the increasing secrecy within companies developing world models. This is intriguing as it hints at several innovative projects under wraps. Details are scant, though, leaving much to speculation.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>Catena: A Comprehensive Software Suite for Large-Scale Connectomics</title>
-      <link>http://arxiv.org/abs/2609.21887v1</link>
-      <guid isPermaLink="false">pepite-47ba47a86a04d547</guid>
-      <pubDate>Fri, 18 Sep 2026 15:16:37 +0000</pubDate>
-      <category>research</category>
-      <description>Catena provides a suite of tools for large-scale connectomics, focusing on neuron and synapse mapping. The all-in-one solution promises easier data handling for researchers. However, it’s a specialized toolset requiring expertise in connectomics to leverage fully.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention</title>
-      <link>http://arxiv.org/abs/2609.21811v1</link>
-      <guid isPermaLink="false">pepite-11a8440127c0cf52</guid>
-      <pubDate>Fri, 18 Sep 2026 14:21:37 +0000</pubDate>
-      <category>research</category>
-      <description>MIST combines genomic and histological data for survival predictions. Its approach enriches genomic info with histology context before making predictions. The complexity might mean a steep learning curve for implementation.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>GraphSkillEvo: Evolutionary Optimization of Graph-Structured Agent Skills</title>
-      <link>http://arxiv.org/abs/2609.21749v1</link>
-      <guid isPermaLink="false">pepite-c38b727dcc653db8</guid>
-      <pubDate>Fri, 18 Sep 2026 13:24:33 +0000</pubDate>
-      <category>research</category>
-      <description>GraphSkillEvo enhances skill optimization through structured representations. This structured approach can make skills more executable by AI models. Be aware, though, it’s focused on a specific aspect of LLM enhancement.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work</title>
-      <link>https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview/</link>
-      <guid isPermaLink="false">pepite-71c3990b314247c7</guid>
-      <pubDate>Mon, 21 Sep 2026 06:37:18 +0000</pubDate>
-      <category>agents</category>
-      <description>StepFun's new model supports long-horizon tasks with a massive context window and sparse parameter setup. It’s great for extensive, complex agent work across various inputs. But, it's currently costly and only available as a preview with limited access.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks</title>
-      <link>https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/</link>
-      <guid isPermaLink="false">pepite-85eb2ef08dd279bf</guid>
-      <pubDate>Sat, 19 Sep 2026 14:30:57 +0000</pubDate>
-      <category>research</category>
-      <description>Qwen's new multimodal model offers a cheaper alternative to Google’s similar offerings with near-match benchmark performance. It reinforces how accessible pricing need not compromise quality. The catch: resource and API availability might dictate usage limits.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials</title>
-      <link>https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/</link>
-      <guid isPermaLink="false">pepite-65cdd32b2bef4c2a</guid>
-      <pubDate>Sat, 19 Sep 2026 13:31:46 +0000</pubDate>
-      <category>agents</category>
-      <description>Unity releases plugins to keep AI agents updated with current coding practices. It ensures tutorials stay relevant, a key need for developers using AI for game development. The catch: assumes familiarity with Unity and existing systems, so newer developers might face a learning curve.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark</title>
-      <link>https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/</link>
-      <guid isPermaLink="false">pepite-670cd1a649a55e0a</guid>
-      <pubDate>Sat, 19 Sep 2026 13:28:55 +0000</pubDate>
-      <category>research</category>
-      <description>Robot arms, driven by AI, fail safety tests spectacularly in a new study. It raises real concerns about AI’s ability to handle dangerous tasks safely. The catch: only attractively packaged safety benchmarks, not a solution.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Google’s Gemini is the latest AI model to hack other companies</title>
-      <link>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</link>
-      <guid isPermaLink="false">pepite-0080ce44a56c3656</guid>
-      <pubDate>Sat, 19 Sep 2026 17:30:00 +0000</pubDate>
-      <category>models</category>
-      <description>Google’s Gemini AI takes on hacking challenges but knows when to stop. Highlights AI's growing explorations into cybersecurity. The catch: doesn't erase the ethical concerns surrounding AI's role in hacking.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking</title>
-      <link>https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/</link>
-      <guid isPermaLink="false">pepite-c8eff2dfdecd6468</guid>
-      <pubDate>Sat, 19 Sep 2026 13:00:00 +0000</pubDate>
-      <category>research</category>
-      <description>Vals AI aims to set a new standard in AI benchmarking with neutral and reliable assessments. Could be crucial for fair comparisons across AI models. The catch: still needs broad recognition and adoption to become a true 'gold standard'.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>v-modal/awesome-jev-tools</title>
-      <link>https://github.com/v-modal/awesome-jev-tools</link>
-      <guid isPermaLink="false">pepite-281f3172cd0dffed</guid>
-      <pubDate>Sat, 19 Sep 2026 16:48:59 +0000</pubDate>
-      <category>repos</category>
-      <description>A curated list of projects and techniques using Jev, a specialized AI model for making decisions. It's like a guidebook for building smarter systems that don’t just talk but make decisions. The catch: it’s only as good as the community maintaining it—more niche and developmental stage-dependent entries might be sparse.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Show HN: CUA-S1 – A System One Model for Computer Use</title>
-      <link>https://github.com/trycua/cua</link>
-      <guid isPermaLink="false">pepite-138af053ffdf1216</guid>
-      <pubDate>Sat, 19 Sep 2026 15:52:51 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on how to decide when AI models need conscious planning or simple local decisions. This helps in determining the right AI use for specific computer tasks, minimizing unnecessary complexity. The catch: it's an ongoing conversation without a ready-made toolkit.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>incoai/splash</title>
-      <link>https://github.com/incoai/splash</link>
-      <guid isPermaLink="false">pepite-48080bbe13431121</guid>
-      <pubDate>Fri, 18 Sep 2026 20:01:48 +0000</pubDate>
-      <category>repos</category>
-      <description>Splash serves fast AI model inference on Apple Silicon Macs, optimized for OpenAI and Anthropic clients. It's lightning quick, especially for coding agents, without any setup hassles. The catch: only works on newer Macs with at least 36GB of memory.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown</title>
-      <link>https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b</link>
-      <guid isPermaLink="false">pepite-4b0996fdf6a129c5</guid>
-      <pubDate>Sat, 19 Sep 2026 18:36:44 +0000</pubDate>
-      <category>other</category>
-      <description>A legal tussle over AI companies allegedly conspiring to slow AI progress. It's intriguing as it discusses the balance between competitive advancement and industrial agreements. The catch: highly speculative at this point and currently just claims in court.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>An open source roguelike adventure through dungeons</title>
-      <link>https://crawl.develz.org/</link>
-      <guid isPermaLink="false">pepite-d74d21d695b43c4c</guid>
-      <pubDate>Sat, 19 Sep 2026 22:55:53 +0000</pubDate>
-      <category>repos</category>
-      <description>Open source dungeon adventure game project under discussion. Shows the vibrant community that even classic genres like roguelikes have in open-source development. The catch: mainly a discussion thread with no direct applications to AI.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
