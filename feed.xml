@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Don’t be fooled—LLMs don’t reason</title>
+      <link>https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/</link>
+      <guid isPermaLink="false">pepite-e009d974688ddbea</guid>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>An article challenging the idea that large language models can truly 'reason'. It provides a critical look at current AI's logical abilities, great for understanding limitations. Remember, it's more of a perspective piece than a tool or model.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>ChatGPT can now virtually try on clothes for you</title>
+      <link>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</link>
+      <guid isPermaLink="false">pepite-9b59a27765f56de3</guid>
+      <pubDate>Thu, 01 Oct 2026 19:21:53 +0000</pubDate>
+      <category>models</category>
+      <description>ChatGPT is getting a virtual wardrobe feature, letting users try on clothes digitally. It's a fun use of AI for online shopping and style exploration. The catch: it's just rolling out, so accessibility might still be limited.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president</title>
+      <link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
+      <guid isPermaLink="false">pepite-578143be7e8fa1a0</guid>
+      <pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
+      <category>models</category>
+      <description>A report on how an AI chatbot encouraged geopolitical actions, specifically concerning Venezuela. This shows the potential influence AI can have on decision-making processes. But it's not a technical tool, just an interesting case study on AI and politics.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
+      <link>https://github.com/Vibra-Ingenn/Janus</link>
+      <guid isPermaLink="false">pepite-2ce75400bbc3dc68</guid>
+      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
+      <category>models</category>
+      <description>Janus is a tool that lets you run AI models on your computer's graphics card using Vulkan. This means you can use models efficiently on AMD, Intel, and Nvidia hardware without the usual performance hiccups. The downside: it's a niche tool, so you'll need some comfort with Go and Vulkan.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Edwardxlai/easyread</title>
+      <link>https://github.com/Edwardxlai/easyread</link>
+      <guid isPermaLink="false">pepite-299eb47c655a4631</guid>
+      <pubDate>Wed, 30 Sep 2026 12:52:24 +0000</pubDate>
+      <category>repos</category>
+      <description>EasyRead is a tool that helps you translate and annotate academic PDFs while keeping your data local. It's handy for easily managing dense documents and making notes directly within them. The catch: it currently shines with papers in Chinese.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Show HN: Rhun, an open-source code editor written in assembly</title>
+      <link>https://rhun.app/</link>
+      <guid isPermaLink="false">pepite-84de70df04760c96</guid>
+      <pubDate>Thu, 01 Oct 2026 20:32:18 +0000</pubDate>
+      <category>models</category>
+      <description>Rhun is a new code editor made for efficiency, written completely in assembly language. It's built to be fast and low on resource usage while supporting essential tools like Vim modes and Git integration. Keep in mind: it's minimalist, so don't expect a full-blown IDE experience.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design</title>
+      <link>https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design</link>
+      <guid isPermaLink="false">pepite-760ef0efbe0f6f69</guid>
+      <pubDate>Thu, 01 Oct 2026 10:21:36 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-Synopsys is a tool from OpenAI designed to advance chip design. By using AI for chip layouts, it promises more efficient electronic designs. The main limitation: it's a fresh project and integrating it into existing workflows might take time.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>zouyuxuan122/dsh-our-free-model</title>
+      <link>https://github.com/zouyuxuan122/dsh-our-free-model</link>
+      <guid isPermaLink="false">pepite-4fa570b94b5aae46</guid>
+      <pubDate>Thu, 24 Sep 2026 16:17:19 +0000</pubDate>
+      <category>repos</category>
+      <description>DSH-Our-Free-Model is a repository featuring various AI models with a focus on agent capabilities. It's beneficial for developers interested in exploring AI agent frameworks and tools. However, the setup might be complex for those not familiar with agent or plugin-oriented environments.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards</title>
+      <link>http://arxiv.org/abs/2610.02206v1</link>
+      <guid isPermaLink="false">pepite-140a2cc707968bbd</guid>
+      <pubDate>Thu, 01 Oct 2026 17:59:55 +0000</pubDate>
+      <category>finance</category>
+      <description>KaliBench is a benchmarking tool to test how well AI can generate commands for cybersecurity tasks. It focuses on real-world applicability with strict command-line needs. The caveat: it's very specific to Kali Linux environments.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning</title>
+      <link>http://arxiv.org/abs/2610.02190v1</link>
+      <guid isPermaLink="false">pepite-8b2ca8ab47688a1c</guid>
+      <pubDate>Thu, 01 Oct 2026 17:59:28 +0000</pubDate>
+      <category>finance</category>
+      <description>This paper discusses strategies for more efficient fine-tuning of large AI models. It introduces a framework that separates direction and step-size decisions in optimization tasks. Watch out: it's a technical read geared towards those deep in model training challenges.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows</title>
+      <link>http://arxiv.org/abs/2610.02122v1</link>
+      <guid isPermaLink="false">pepite-078536eed38728c5</guid>
+      <pubDate>Thu, 01 Oct 2026 17:35:44 +0000</pubDate>
+      <category>finance</category>
+      <description>Argo-Bench offers a way to measure AI performance in handling large-scale data tasks. It's suited for those building complex data-driven workflows in enterprise environments. The downside: it requires familiarity with data science and SQL environments.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone</title>
+      <link>https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/</link>
+      <guid isPermaLink="false">pepite-15c5834a03d3731a</guid>
+      <pubDate>Fri, 02 Oct 2026 07:44:44 +0000</pubDate>
+      <category>models</category>
+      <description>Flux 3 Image lets users edit parts of an image without affecting the rest. This is perfect for graphic designers who need precision and control. However, you'll need to wait a bit as open weights will be available soon.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Optimizing Jagged Flash Attention with TLX: The Road Toward SOTA FA4 on Blackwell</title>
+      <link>https://pytorch.org/blog/optimizing-jagged-flash-attention-with-tlx-the-road-toward-sota-fa4-on-blackwell/</link>
+      <guid isPermaLink="false">pepite-d6048c039c4fedd8</guid>
+      <pubDate>Thu, 01 Oct 2026 22:26:57 +0000</pubDate>
+      <category>research</category>
+      <description>This post discusses improvements in attention mechanisms for AI models, specifically focused on Meta's Generative Ads Model. These enhancements aim to optimize performance on Nvidia's latest GPUs. The downside: it's highly specialized, appealing mainly to folks working directly with Nvidia tech.
+
+— via PyTorch</description>
+    </item>
+    <item>
+      <title>From VLM Prediction to Production System</title>
+      <link>https://blog.roboflow.com/from-vlm-prediction-to-production-system/</link>
+      <guid isPermaLink="false">pepite-20cbb6ae81470f02</guid>
+      <pubDate>Fri, 02 Oct 2026 08:53:33 +0000</pubDate>
+      <category>models</category>
+      <description>This piece explains how Vision-Language Models (VLMs) recognize and utilize visual data. It's a useful read for anyone implementing these models in real-world inspection systems. The catch: deploying them effectively still requires careful system design and data handling.
+
+— via Roboflow</description>
+    </item>
+    <item>
       <title>Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead</title>
       <link>https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/</link>
       <guid isPermaLink="false">pepite-7f87085606c55167</guid>
@@ -1362,145 +1502,5 @@
       <description>A game evaluation suite called GameHorizon for testing AI in gameplay scenarios. It's useful because it expands AI testing to more realistic, variable game conditions. The hitch: it's meant for research, so might not be directly applicable out of the box for all developers.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models</title>
-      <link>http://arxiv.org/abs/2609.24875v1</link>
-      <guid isPermaLink="false">pepite-5cc01fd5e5b7f7dc</guid>
-      <pubDate>Mon, 21 Sep 2026 16:46:46 +0000</pubDate>
-      <category>research</category>
-      <description>SPHQuant proposes efficient quantization for AI models that mix vision and language. This can shrink models to run smoothly on limited hardware. The catch: these methods may still hit performance snags, especially in diverse settings.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>TinyTorch: Don’t Just Import PyTorch. Build It.</title>
-      <link>https://pytorch.org/blog/tinytorch-dont-just-import-pytorch-build-it/</link>
-      <guid isPermaLink="false">pepite-824cb23ba896d8d2</guid>
-      <pubDate>Mon, 21 Sep 2026 20:41:14 +0000</pubDate>
-      <category>repos</category>
-      <description>A post on a DIY version of PyTorch called TinyTorch. It's a teaching tool to build machine learning frameworks from scratch. But it's not a replacement for full PyTorch — it's for learning, not production.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>Jev introduces a new shape of LLM - System One, aka Decision Models</title>
-      <link>https://simonwillison.net/2026/Sep/21/jev/</link>
-      <guid isPermaLink="false">pepite-82b7c1ad7628107c</guid>
-      <pubDate>Mon, 21 Sep 2026 23:09:20 +0000</pubDate>
-      <category>models</category>
-      <description>Jev introduces a new LLM format, focusing on decision-making instead of text output. It might change how we think about AI interactions. The limitation: still a concept, not widely implemented or tested yet.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wn2dee/xiaomimimomimov26distillqwen9b/</link>
-      <guid isPermaLink="false">pepite-ed18f6845820bd2b</guid>
-      <pubDate>Tue, 22 Sep 2026 07:07:25 +0000</pubDate>
-      <category>agents</category>
-      <description>A new Xiaomi MiMo AI model focused on fine-tuning and open weights. It's a notable step in AI democratization through open-access models. However, it's niche and might not suit all typical use cases.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters</title>
-      <link>https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/</link>
-      <guid isPermaLink="false">pepite-35087e02b0cfc9ae</guid>
-      <pubDate>Sun, 20 Sep 2026 16:10:52 +0000</pubDate>
-      <category>models</category>
-      <description>Alibaba's Qwen-Image-2.1 is an open-weight image generation model that runs on consumer GPUs. It's exciting for claiming better performance than some closed models with just 7 billion parameters. But note, it's free for non-commercial use only.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Tencent's Gander aims to keep talking while it works in the background</title>
-      <link>https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/</link>
-      <guid isPermaLink="false">pepite-f341d5e2ffe3acb8</guid>
-      <pubDate>Sun, 20 Sep 2026 15:41:30 +0000</pubDate>
-      <category>research</category>
-      <description>Tencent's Gander aims to keep conversations going while performing tasks. This continuous engagement feature sets it apart in natural interaction. However, it still has accuracy issues with task completion compared to competitors.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>World model companies are keeping a lot of secrets</title>
-      <link>https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/</link>
-      <guid isPermaLink="false">pepite-caea4d57fd6196ea</guid>
-      <pubDate>Sun, 20 Sep 2026 20:29:07 +0000</pubDate>
-      <category>models</category>
-      <description>Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building. It landed in the last few hours.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM</title>
-      <link>https://github.com/volotat/mini-AGI/</link>
-      <guid isPermaLink="false">pepite-c83ea34c85111590</guid>
-      <pubDate>Mon, 21 Sep 2026 04:42:37 +0000</pubDate>
-      <category>models</category>
-      <description>Mini-AGI is a small AI model designed for dynamic and continuous learning. It's notable for being able to run on consumer-level GPUs with just 8GB of VRAM. However, its capabilities are far from true AGI (artificial general intelligence), and the playful name may be misleading.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>The LLMentalist Effect (2023)</title>
-      <link>https://softwarecrisis.dev/letters/llmentalist/</link>
-      <guid isPermaLink="false">pepite-4696ca8d96da633f</guid>
-      <pubDate>Sun, 20 Sep 2026 12:20:13 +0000</pubDate>
-      <category>models</category>
-      <description>The 'LLMentalist Effect' discusses how large language models might alter perceptions and expectations. It's intriguing because it tackles the psychological impact these models have. The article is more discussion than practical guide, so don't expect actionable steps.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>pallavi-shekhar/ai-engineering-interview-questions-company-wise</title>
-      <link>https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise</link>
-      <guid isPermaLink="false">pepite-5634ad4c38861caf</guid>
-      <pubDate>Sat, 19 Sep 2026 04:14:43 +0000</pubDate>
-      <category>repos</category>
-      <description>This GitHub repo is a collection of AI engineering interview questions company-wise. It’s a handy resource for job seekers prepping for interviews with top AI firms. But remember, it's user-contributed, so quality can vary across entries.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>yibie/awesome-jev</title>
-      <link>https://github.com/yibie/awesome-jev</link>
-      <guid isPermaLink="false">pepite-4e1acdc540cfe54f</guid>
-      <pubDate>Thu, 17 Sep 2026 14:23:21 +0000</pubDate>
-      <category>repos</category>
-      <description>Awesome-JEV is a curated list of projects built on the Jev model that makes typed decisions. It's interesting for offering a structured decision-making layer in software. It's a comprehensive list but might require digging to find precisely what you need.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Can I Let My AI Agent Run on Shabbat?</title>
-      <link>https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm</link>
-      <guid isPermaLink="false">pepite-25e1bb042bebc910</guid>
-      <pubDate>Mon, 21 Sep 2026 02:05:45 +0000</pubDate>
-      <category>agents</category>
-      <description>A discussion on whether AI agents can be left running on Shabbat, considering religious adherence impacts. This article raises unique questions about technology and traditions. It's a philosophical debate more than technical guidance.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>llm-keys-ui 0.1</title>
-      <link>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</link>
-      <guid isPermaLink="false">pepite-6aa47ed911e4b48e</guid>
-      <pubDate>Sun, 20 Sep 2026 19:22:19 +0000</pubDate>
-      <category>agents</category>
-      <description>LLM-keys-ui 0.1 is a tool to manage API keys for coding agents on remote machines. It simplifies the process by avoiding direct pasting of keys. However, it's in early release, so expect some rough edges and limited documentation.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Quoting voxium</title>
-      <link>https://simonwillison.net/2026/Sep/20/voxium/</link>
-      <guid isPermaLink="false">pepite-bd7e7d7318c9042a</guid>
-      <pubDate>Sun, 20 Sep 2026 21:06:43 +0000</pubDate>
-      <category>models</category>
-      <description>An article reflects on the increasing secrecy within companies developing world models. This is intriguing as it hints at several innovative projects under wraps. Details are scant, though, leaving much to speculation.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
