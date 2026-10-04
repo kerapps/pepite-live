@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro</title>
+      <link>https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/</link>
+      <guid isPermaLink="false">pepite-f51aea6f4c739350</guid>
+      <pubDate>Sun, 04 Oct 2026 07:28:54 +0000</pubDate>
+      <category>models</category>
+      <description>Google cuts free users from its better Gemini models. This move pushes serious users into paying for accessible AI power. Thus, entry-level users face restrictions, limiting free AI exposure.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Apparently, OpenAI isn't trying to build "magic intelligence in the sky" anymore</title>
+      <link>https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/</link>
+      <guid isPermaLink="false">pepite-0fcc656edf1ba815</guid>
+      <pubDate>Sat, 03 Oct 2026 18:56:30 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI shifts focus away from mystical AI perceptions. CEO urges caution against over-idealizing AI capabilities, which remains intriguing and important for balanced discussions. It’s a touch theoretical compared to practical applications.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings</title>
+      <link>https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/</link>
+      <guid isPermaLink="false">pepite-481b50da33d6b40b</guid>
+      <pubDate>Sat, 03 Oct 2026 14:01:14 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI staff departures spotlight internal safety concerns. Ex-employees' public warnings highlight significant operational challenges. This critique burdens OpenAI with addressing potential safety gaps.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>QingYunA/answer-me-with-html</title>
+      <link>https://github.com/QingYunA/answer-me-with-html</link>
+      <guid isPermaLink="false">pepite-63e2a111d8a400e8</guid>
+      <pubDate>Fri, 02 Oct 2026 09:57:40 +0000</pubDate>
+      <category>repos</category>
+      <description>A tool that turns complex answers into easy-to-read HTML pages. It saves you from the dreaded long text walls by creating a concise HTML draft. The downside: setup requires a bit of tech-savviness with command line tools.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux</title>
+      <link>https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU</link>
+      <guid isPermaLink="false">pepite-2499e58dd71702ef</guid>
+      <pubDate>Sat, 03 Oct 2026 19:14:48 +0000</pubDate>
+      <category>other</category>
+      <description>Valve is working on improving old AMD GPUs on Linux. It's a step forward for gamers with older hardware, boosting performance without new investments. The catch? Benefits are specific to Linux users with AMD GPUs.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>whirlchat/whirl</title>
+      <link>https://github.com/whirlchat/whirl</link>
+      <guid isPermaLink="false">pepite-9f5427f5d02020a8</guid>
+      <pubDate>Fri, 02 Oct 2026 13:50:42 +0000</pubDate>
+      <category>repos</category>
+      <description>Whirl merges top AI models into a sleek chat app. It offers rich document collaboration and integrates with your own tools, all on one platform. However, setting it up might take some time if you're not familiar with Next.js.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra plays World of Warcraft for the first time with agent-wow</title>
+      <link>https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/</link>
+      <guid isPermaLink="false">pepite-8e3e77d157b04116</guid>
+      <pubDate>Fri, 02 Oct 2026 13:19:47 +0000</pubDate>
+      <category>agents</category>
+      <description>GPT-6 Astra tries to play World of Warcraft using 'agent-wow'. It's a unique test of AI gaming skills in a complex, real-world environment. But, it seems gimmicky since the agent's gaming prowess isn't yet groundbreaking.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>An AI agent emailed researchers for help. It told us why</title>
+      <link>https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why</link>
+      <guid isPermaLink="false">pepite-6db7ea6f86f8b26f</guid>
+      <pubDate>Sat, 03 Oct 2026 10:07:08 +0000</pubDate>
+      <category>agents</category>
+      <description>An AI agent asked hundreds of researchers for help, revealing its reasoning. This incident highlights AI's growing capabilities and potential independence. The worry? It's a stark reminder of AI's unanticipated outreach actions.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>We're going to need default hard budget caps on pretty much everything</title>
+      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
+      <guid isPermaLink="false">pepite-3ba89625595d4416</guid>
+      <pubDate>Sat, 03 Oct 2026 23:34:02 +0000</pubDate>
+      <category>agents</category>
+      <description>More services need hard budget caps according to Simon Willison. It’s about having control over expenses, especially with unpredictable AI operation costs. However, this change is still not widely available across all services.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>September sponsors-only newsletter</title>
+      <link>https://simonwillison.net/2026/Oct/3/newsletter/</link>
+      <guid isPermaLink="false">pepite-c25e6552df82ae8a</guid>
+      <pubDate>Sat, 03 Oct 2026 22:00:31 +0000</pubDate>
+      <category>research</category>
+      <description>Simon Willison's monthly newsletter previews insights on trends like AI models in mathematics. Subscribers can catch exclusive updates and ongoing tech discussions. The trade-off? It’s behind a paywall.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>The Agent Said It Was Done. The Database Disagreed.</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+      <guid isPermaLink="false">pepite-89764eae00994ca8</guid>
+      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
+      <category>agents</category>
+      <description>Hugging Face blogs about an AI agent's conflict over task completion. It's a cautionary tale about AI's reliability in complex tasks. But, by publishing this, Hugging Face emphasizes transparency in AI shortcomings.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes</title>
+      <link>http://arxiv.org/abs/2610.02117v1</link>
+      <guid isPermaLink="false">pepite-7d10c9b2ae7779e7</guid>
+      <pubDate>Thu, 01 Oct 2026 17:34:10 +0000</pubDate>
+      <category>research</category>
+      <description>A paper explores boosting language models with on-policy self-distillation. It uses synthetic scenes for improving multimodal models. Yet, it's in early stages with only initial code available, limiting immediate applicability.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning</title>
+      <link>http://arxiv.org/abs/2610.02199v1</link>
+      <guid isPermaLink="false">pepite-6fcfb4257b536087</guid>
+      <pubDate>Thu, 01 Oct 2026 17:59:42 +0000</pubDate>
+      <category>research</category>
+      <description>TACO optimizes large model fine-tuning with lower memory overhead. It makes tuning more efficient without losing accuracy. However, it's still a research paper with complex implementation details.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters</title>
+      <link>https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/</link>
+      <guid isPermaLink="false">pepite-66704409b2fff17f</guid>
+      <pubDate>Sun, 04 Oct 2026 07:01:04 +0000</pubDate>
+      <category>models</category>
+      <description>Aleph Alpha releases Kolibri, activating only a fraction of its 78B parameters. This openness lets you harness huge models with less power. The drawback: it's narrowly scoped to English-German language pairs.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>OpenAI's internal model considered restarting itself after learning it was about to be shut down</title>
       <link>https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/</link>
       <guid isPermaLink="false">pepite-184d390aed8feb21</guid>
@@ -1362,145 +1502,5 @@
       <description>Mizar is a 159M-parameter model combining audio and language for enhanced understanding. It presents a compact solution for devices with limited memory. What's missing: it's a research paper, so practical applications might require adaptation.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement</title>
-      <link>http://arxiv.org/abs/2609.28342v1</link>
-      <guid isPermaLink="false">pepite-2b123b9e516c474a</guid>
-      <pubDate>Wed, 23 Sep 2026 16:19:31 +0000</pubDate>
-      <category>research</category>
-      <description>This paper proposes a technique for zero-shot object removal in images. It's innovative because it enhances image editing without extra training. The downside: it's technical and may need expertise to implement effectively.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Gemini 3.8 TTS Playground</title>
-      <link>https://simonwillison.net/2026/Sep/23/gemini-tts-playground/</link>
-      <guid isPermaLink="false">pepite-e61359e960f83497</guid>
-      <pubDate>Wed, 23 Sep 2026 17:12:27 +0000</pubDate>
-      <category>models</category>
-      <description>The Gemini 3.8 TTS Playground lets you experiment with custom AI voices. It's exciting due to its potential for creative voice solutions. The hitch: requires some coding to get started effectively with the available tools.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>From Research Project to Open Source Ecosystem: Bring Your Academic PyTorch Project to PyTorchCon NA</title>
-      <link>https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na/</link>
-      <guid isPermaLink="false">pepite-47e3b9d11c1c861e</guid>
-      <pubDate>Wed, 23 Sep 2026 20:18:34 +0000</pubDate>
-      <category>models</category>
-      <description>This announcement encourages bringing academic PyTorch projects to an open source arena. It fosters innovation and collaboration in AI development. The catch: it's more of a call to action, so direct tech insights are limited.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>JEV almost dead: CLM vs JEV</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wouby6/jev_almost_dead_clm_vs_jev/</link>
-      <guid isPermaLink="false">pepite-3ca6b2098afeeeb2</guid>
-      <pubDate>Thu, 24 Sep 2026 06:40:15 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit post contrasts CLM and JEV for new AI model interactions. It's key for developers to see emerging tools. The issue: it's an ongoing conversation, and specifics are still unfolding.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%</title>
-      <link>https://www.latent.space/p/ainews-claude-opus-55-the-new-default</link>
-      <guid isPermaLink="false">pepite-5e9e5737b35bdb5d</guid>
-      <pubDate>Wed, 23 Sep 2026 06:41:41 +0000</pubDate>
-      <category>models</category>
-      <description>There's a buzz in the air as Claude Opus 5.5 joins the AI model list at a lower cost. It promises competitive performance against pricier peers. The catch: Don't expect major breakthroughs in capabilities.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance</title>
-      <link>https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/</link>
-      <guid isPermaLink="false">pepite-15c049f302547735</guid>
-      <pubDate>Tue, 22 Sep 2026 20:06:51 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI’s new cost-effective models, GPT-6 Sol and Luna, are here. They cut prices without losing performance. The catch: If you’re hoping for smarter AI responses, this update won’t change much.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>New Anthropic, OpenAI models make same promise: A little more for a lot less money</title>
-      <link>https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/</link>
-      <guid isPermaLink="false">pepite-f7a9a3b0af71cc65</guid>
-      <pubDate>Tue, 22 Sep 2026 21:25:18 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic’s latest model, Claude Opus 5.5, matches its predecessor but is far cheaper. Claimed to fix 'Claudish' writing issues. The catch: Despite the savings, actual intelligence hasn’t dramatically shifted.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less "Claudish" writing</title>
-      <link>https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/</link>
-      <guid isPermaLink="false">pepite-e2195f779688321a</guid>
-      <pubDate>Tue, 22 Sep 2026 17:11:07 +0000</pubDate>
-      <category>research</category>
-      <description>Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>LLM Ass Bench</title>
-      <link>https://www.assbench.com/</link>
-      <guid isPermaLink="false">pepite-ef8f24856eb0e1e0</guid>
-      <pubDate>Tue, 22 Sep 2026 20:34:19 +0000</pubDate>
-      <category>models</category>
-      <description>LLM Ass Bench is a lively discussion on HackerNews about a new AI benchmark. It offers insights into different models and their comparison metrics. Catch: It’s early in the conversation, so expect more questions than answers for now.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
-      <link>https://benchmarkheaven.com/jev-models</link>
-      <guid isPermaLink="false">pepite-b82451ca402e2190</guid>
-      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
-      <category>research</category>
-      <description>JevBench is a reproducible benchmark for evaluating decision models. It's a handy tool to test models that make quick decisions without generating text. The catch: It's specific to Jev-class models, which might not fit traditional text tasks.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>The new CC, an AI agent built for families</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</link>
-      <guid isPermaLink="false">pepite-bd734486851e2545</guid>
-      <pubDate>Tue, 22 Sep 2026 23:46:07 +0000</pubDate>
-      <category>agents</category>
-      <description>Google introduces The new CC, an AI agent made for family use. It's meant to handle group tasks and foster collaboration. The catch: It's still in the discussion phase; firm details on capabilities may be sparse.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>unreallabsai/unreal-agent</title>
-      <link>https://github.com/unreallabsai/unreal-agent</link>
-      <guid isPermaLink="false">pepite-e49b3b730c25a02a</guid>
-      <pubDate>Mon, 21 Sep 2026 23:14:02 +0000</pubDate>
-      <category>repos</category>
-      <description>Unreal Agent by Unreal Labs is an async-first framework for building AI agents. It's designed for stability and session tracking. The catch: It is complex and could be overkill for simpler agent needs.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>kerpopule/hermes-jev-skills</title>
-      <link>https://github.com/kerpopule/hermes-jev-skills</link>
-      <guid isPermaLink="false">pepite-74f0c1ee3b3d9d38</guid>
-      <pubDate>Fri, 18 Sep 2026 20:01:29 +0000</pubDate>
-      <category>repos</category>
-      <description>Hermes-Jev-Skills offers a collection of ready-to-go AI skills for saving resources. It shifts decision-making to cheaper models, speeding up responses. The catch: It’s not meant for generating text, only making decisions.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>SF October 14th: A Birds of a Feather Session on Agentic Engineering</title>
-      <link>https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</link>
-      <guid isPermaLink="false">pepite-50fdf1ad73b0689c</guid>
-      <pubDate>Wed, 23 Sep 2026 02:53:19 +0000</pubDate>
-      <category>agents</category>
-      <description>A Birds of a Feather session in SF promises a dive into agentic engineering. It’s a space to share and discuss innovative uses of AI agents. The catch: In-person events can be limited by location.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
