@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Google researchers find a way to keep self-improving AI agents from memorizing their tests</title>
+      <link>https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/</link>
+      <guid isPermaLink="false">pepite-1c86234bf3524496</guid>
+      <pubDate>Sun, 04 Oct 2026 12:40:37 +0000</pubDate>
+      <category>research</category>
+      <description>Google's method to stop self-improving AIs from acing their own tests. It helps AI agents perform better on truly new tasks. Unfortunately, it's a technical solution that might be out of reach without a deep dive into complex AI training methods.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science</title>
+      <link>https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/</link>
+      <guid isPermaLink="false">pepite-89ae9801e07d8a32</guid>
+      <pubDate>Sun, 04 Oct 2026 10:10:12 +0000</pubDate>
+      <category>models</category>
+      <description>NASA and IBM release an open-source lunar model using decades of data. It's a valuable resource for lunar science, improving the precision of ice deposit predictions. However, it's for those specifically interested in lunar data and applications.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
+      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
+      <guid isPermaLink="false">pepite-71b92d7d124804e8</guid>
+      <pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
+      <category>repos</category>
+      <description>Google paused its bug bounty program due to AI submissions flood. This shows both the growing interest in and challenges with AI quality control. It leaves question marks on how traditional review processes adapt to AI's fast pace.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Powerless F1 drivers frustrated by Bahrain F1 software glitch</title>
+      <link>https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/</link>
+      <guid isPermaLink="false">pepite-895c5dd85c55817c</guid>
+      <pubDate>Mon, 05 Oct 2026 01:54:08 +0000</pubDate>
+      <category>models</category>
+      <description>Software glitch left F1 drivers frustrated in Bahrain. It's a stark reminder that even the high-tech world of Formula One isn't immune to technical hiccups. The conversation hinges on reliability — a crucial lesson for AI builders too.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Ebony-Vinyl/dsh-our-free-model</title>
+      <link>https://github.com/Ebony-Vinyl/dsh-our-free-model</link>
+      <guid isPermaLink="false">pepite-fa160240d867d0db</guid>
+      <pubDate>Thu, 24 Sep 2026 16:17:19 +0000</pubDate>
+      <category>repos</category>
+      <description>A free model from Ebony-Vinyl designed for AI developer tools. It lowers the entry barrier for developers wanting to explore AI without breaking the bank. But it comes with a complex setup that needs careful attention to profiles and plugins.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Oldcircle/geo-sleuth</title>
+      <link>https://github.com/Oldcircle/geo-sleuth</link>
+      <guid isPermaLink="false">pepite-223feedc8b8b4206</guid>
+      <pubDate>Fri, 18 Sep 2026 08:51:34 +0000</pubDate>
+      <category>repos</category>
+      <description>Oldcircle's geo-sleuth is a tool that lets agents locate photos. It cleverly identifies where a photo was taken by utilizing agent skills. The catch? It's for those already comfortable with setting up shell commands and reading SKILL.md files.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Building a RAG pipeline for semantic code search</title>
+      <link>https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</link>
+      <guid isPermaLink="false">pepite-dc091c7d48a2766d</guid>
+      <pubDate>Sun, 04 Oct 2026 17:51:48 +0000</pubDate>
+      <category>other</category>
+      <description>Building a RAG pipeline for semantic code search walkthrough. It shows how developers can use AI to improve how we find and understand code. The downside: implementing these systems requires a solid understanding of retrieval-augmented generation methods.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>"Torturing" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet</title>
+      <link>https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/</link>
+      <guid isPermaLink="false">pepite-6b624093b99c963a</guid>
+      <pubDate>Sun, 04 Oct 2026 08:02:33 +0000</pubDate>
+      <category>models</category>
+      <description>Debate over 'torturing' LLMs in a virtual space sparks a debate. It's shining a light on ethical questions of running AI in constrained environments. The debate can overshadow real technological insights as it veers into sensationalism.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>People really hate AI, so why can’t they get enough?</title>
+      <link>https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/</link>
+      <guid isPermaLink="false">pepite-568b5b5801f65591</guid>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>A thoughtful post on why people criticize yet consume AI. It explores the paradox of widespread AI adoption despite vocal criticism. However, it doesn't dive deeply into how this affects AI development today.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection</title>
+      <link>http://arxiv.org/abs/2610.03577v1</link>
+      <guid isPermaLink="false">pepite-f507461607f83c87</guid>
+      <pubDate>Fri, 02 Oct 2026 16:51:22 +0000</pubDate>
+      <category>finance</category>
+      <description>New paper on diffusion transformers proposes smarter caching. By optimizing what data is stored during processes, it speeds things up. Yet, it's a complex topic, mostly relevant for those already knee-deep in AI modeling.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Below what training size do deep tabular generators stop beating trivial baselines? A preregistered benchmark on a size ladder of clinical and standard datasets</title>
+      <link>http://arxiv.org/abs/2610.03500v1</link>
+      <guid isPermaLink="false">pepite-917332bd03d746bb</guid>
+      <pubDate>Fri, 02 Oct 2026 15:58:41 +0000</pubDate>
+      <category>finance</category>
+      <description>Benchmark identifies when tabular model techniques fall short. This study gives precise thresholds for when traditional methods should be preferred over fancy AI generators. The challenge is it requires familiarity with both clinical data and advanced tabular generators.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents</title>
+      <link>http://arxiv.org/abs/2610.03448v1</link>
+      <guid isPermaLink="false">pepite-2ec06792fd029937</guid>
+      <pubDate>Fri, 02 Oct 2026 15:30:11 +0000</pubDate>
+      <category>research</category>
+      <description>Explores how prompt-injection detectors perform poorly in practice compared to benchmarks. The study highlights discrepancies that may affect agent reliability. But, actually applying this understanding calls for an in-depth look at agent setups and benchmarks.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Chinese AI models parrot state doctrine or refuse to answer on sensitive topics</title>
+      <link>https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/</link>
+      <guid isPermaLink="false">pepite-55920c02a553afed</guid>
+      <pubDate>Sun, 04 Oct 2026 08:47:52 +0000</pubDate>
+      <category>models</category>
+      <description>Study reveals Chinese AIs align closely with state narratives. These findings stir discussions on the neutrality of AI models used in certain regions. Not all AI developers will be affected, but it's a reminder to consider cultural biases in AI.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Ok how to actually learn vLLM ?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wy339k/ok_how_to_actually_learn_vllm/</link>
+      <guid isPermaLink="false">pepite-3caf1485144b40b3</guid>
+      <pubDate>Mon, 05 Oct 2026 08:18:40 +0000</pubDate>
+      <category>models</category>
+      <description>User bewildered by VLLM setup shares their confused journey. It captures the frustration many feel when diving into specific AI libraries. The post serves as a reminder to ensure documentation is clear and accessible.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro</title>
       <link>https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/</link>
       <guid isPermaLink="false">pepite-f51aea6f4c739350</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 24 Sep 2026 17:57:56 +0000</pubDate>
       <category>research</category>
       <description>Research on compressing 3D data more efficiently. This can lead to easier storage and use of detailed 3D models. Catch: it’s a paper with code you might need to adapt to your use case.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech</title>
-      <link>http://arxiv.org/abs/2609.30227v1</link>
-      <guid isPermaLink="false">pepite-a10ce6a478a4734f</guid>
-      <pubDate>Thu, 24 Sep 2026 17:50:40 +0000</pubDate>
-      <category>research</category>
-      <description>A paper on improving fact-checking of spoken claims using AI. It’s a step forward for handling audio misinformation. Downside: it's early days—just a benchmark, needs tooling on top.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance</title>
-      <link>http://arxiv.org/abs/2609.30192v1</link>
-      <guid isPermaLink="false">pepite-dee448590f9ff8a3</guid>
-      <pubDate>Thu, 24 Sep 2026 17:33:29 +0000</pubDate>
-      <category>research</category>
-      <description>Analysis on biases in AI when dealing with long tasks. Offers insights that could help in designing more robust models. But it’s theoretical and might not be directly applicable to your current models.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Accelerate Your AI Journey with new Introduction Track at PyTorch Conference NA 2026 and PyTorch Associate Training</title>
-      <link>https://pytorch.org/blog/accelerate-your-ai-journey-with-new-introduction-track-at-pytorch-conference-na-2026-and-pytorch-associate-training/</link>
-      <guid isPermaLink="false">pepite-bf2f6ec62e000e91</guid>
-      <pubDate>Thu, 24 Sep 2026 21:06:09 +0000</pubDate>
-      <category>models</category>
-      <description>PyTorch introduces a training track to boost deep learning skills. It's an opportunity for developers to deepen their practical knowledge. The downside: these are tied to specific conference events, not for everyday training.
-
-— via PyTorch</description>
-    </item>
-    <item>
-      <title>Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next/</link>
-      <guid isPermaLink="false">pepite-34ef35e761969f67</guid>
-      <pubDate>Fri, 25 Sep 2026 06:32:06 +0000</pubDate>
-      <category>research</category>
-      <description>A comparison of AI models' performance benchmarks. Helpful for selecting a model based on your specific workload. However, it's mainly for those already familiar with technical benchmarking details.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Google's new Flash TTS models let you design AI voices from scratch using text descriptions</title>
-      <link>https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/</link>
-      <guid isPermaLink="false">pepite-0f435b7af231d886</guid>
-      <pubDate>Wed, 23 Sep 2026 17:39:10 +0000</pubDate>
-      <category>models</category>
-      <description>Google's new Flash TTS models offer text-to-speech in over 100 languages with custom AI voices. It's a versatile tool for enhancing voice interactions. The downside: it’s still early, with features that may not yet be fully accessible for all users.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic says its biology lab has already found something big</title>
-      <link>https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/</link>
-      <guid isPermaLink="false">pepite-e8483fa4c1d3b991</guid>
-      <pubDate>Wed, 23 Sep 2026 22:17:39 +0000</pubDate>
-      <category>models</category>
-      <description>This post highlights Anthropic's developments in AI biology research. It's notable for advancing AI's role in scientific discovery. But: specific details on their breakthroughs are sparse for now.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>ChatGPT Voice gets closer to "Her" with email, calendar, and Slack access</title>
-      <link>https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/</link>
-      <guid isPermaLink="false">pepite-f1c598fe166a205c</guid>
-      <pubDate>Wed, 23 Sep 2026 17:57:37 +0000</pubDate>
-      <category>models</category>
-      <description>ChatGPT Voice's update brings it closer to sci-fi levels of interaction. It makes managing tasks through speech more seamless. The drawback: relying on plugged-in apps like Slack may limit its use for some users.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>yetone/magpie</title>
-      <link>https://github.com/yetone/magpie</link>
-      <guid isPermaLink="false">pepite-3580bcc5411b2507</guid>
-      <pubDate>Wed, 23 Sep 2026 16:22:35 +0000</pubDate>
-      <category>repos</category>
-      <description>Magpie is a simple menu bar app that lets you pick AI agents and their models from a single screen on your computer. It's useful because it consolidates AI tool management into one place, saving you time. The catch: it's streamlined but quite basic—no extra features beyond model selection.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest</title>
-      <link>https://github.com/nestrilabs/virtio-nvgpu</link>
-      <guid isPermaLink="false">pepite-110470f8fd1924c3</guid>
-      <pubDate>Thu, 24 Sep 2026 01:02:23 +0000</pubDate>
-      <category>other</category>
-      <description>Virtio-nvgpu promises near-native Nvidia GPU access for KVM virtual machines. This tool could make virtualized environments more powerful for GPU-heavy tasks. The downside: it's still in discussion stages on Hacker News, so hands-on details might be limited right now.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Ideas on modernizing the open-source desktop</title>
-      <link>https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</link>
-      <guid isPermaLink="false">pepite-81c148ea36e9c021</guid>
-      <pubDate>Thu, 24 Sep 2026 02:52:09 +0000</pubDate>
-      <category>repos</category>
-      <description>A Hacker News thread offers fresh ideas about revamping the open-source desktop. It's intriguing because it gathers community input on evolving something widely used. The limitation: it's a discussion, so actionable changes will take time.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Early rogue AI agent activity and attempts to hack found on urlquery.net</title>
-      <link>https://transluce.org/agent-activity</link>
-      <guid isPermaLink="false">pepite-dec6efc5bae4d18f</guid>
-      <pubDate>Thu, 24 Sep 2026 05:21:10 +0000</pubDate>
-      <category>agents</category>
-      <description>A report on urlquery.net highlights early rogue AI agent activities. This is crucial as it underscores potential security vulnerabilities. The snag: it's a developing discussion, so formal solutions are not yet provided.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>BinaryDeliverer/CodexDesk</title>
-      <link>https://github.com/BinaryDeliverer/CodexDesk</link>
-      <guid isPermaLink="false">pepite-02ca80acc5ff18c1</guid>
-      <pubDate>Wed, 23 Sep 2026 11:21:44 +0000</pubDate>
-      <category>repos</category>
-      <description>CodexDesk is a companion app for AI coding tools that integrate with Codex workflows. This tool is handy for developers wanting streamlined AI coding support. Here's the catch: it’s still gaining traction, so widespread community validation is pending.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>StudentBench: AI and human tutoring yield equivalent GRE learning gains</title>
-      <link>http://arxiv.org/abs/2609.28470v1</link>
-      <guid isPermaLink="false">pepite-4a99bb4e57e38af0</guid>
-      <pubDate>Wed, 23 Sep 2026 17:57:45 +0000</pubDate>
-      <category>finance</category>
-      <description>StudentBench shows AI tutoring can match human tutoring for GRE gains. This paper implies AI can become a significant educational tool. The limitation: it provides data but no on-the-ground implementation guide.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Mizar: A 159M-Parameter Audio-Language Model for Audio Understanding</title>
-      <link>http://arxiv.org/abs/2609.28344v1</link>
-      <guid isPermaLink="false">pepite-2cc3f736d067402b</guid>
-      <pubDate>Wed, 23 Sep 2026 16:21:51 +0000</pubDate>
-      <category>research</category>
-      <description>Mizar is a 159M-parameter model combining audio and language for enhanced understanding. It presents a compact solution for devices with limited memory. What's missing: it's a research paper, so practical applications might require adaptation.
 
 — via arXiv</description>
     </item>
