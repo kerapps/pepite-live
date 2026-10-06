@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Cohere pitches North 2 as the enterprise AI control room that works with any model</title>
+      <link>https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/</link>
+      <guid isPermaLink="false">pepite-64875a740d9c17d2</guid>
+      <pubDate>Tue, 06 Oct 2026 06:58:19 +0000</pubDate>
+      <category>agents</category>
+      <description>Cohere's North 2 claims to be an all-purpose AI control room for enterprises. Imagine overseeing multiple AI models all from one interface. The catch: it’s designed for enterprise scale, which might mean complexity for smaller uses.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>[AINews] Reflection Beam - 501B-A23B American Open Model</title>
+      <link>https://www.latent.space/p/ainews-reflection-beam-501b-a23b</link>
+      <guid isPermaLink="false">pepite-0fece73e7bef3f4d</guid>
+      <pubDate>Tue, 06 Oct 2026 06:28:43 +0000</pubDate>
+      <category>models</category>
+      <description>The post talks about an open-source model benefiting U.S. development. Encouraging for open-source fans. But details are sparse, so you'll need to dig further for practical use.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>MCP for agent-to-agent comms may be the riskiest protocol you've never heard of</title>
+      <link>https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</link>
+      <guid isPermaLink="false">pepite-bc25a570a71178c8</guid>
+      <pubDate>Mon, 05 Oct 2026 22:26:35 +0000</pubDate>
+      <category>agents</category>
+      <description>A post describes risks in protocols for AI agent communication. Important because malicious commands could exploit these trust gaps. Caveat: it's still unfolding, so more technical evaluations will be needed.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Dust: Pretraining Transformers Without Backpropagation</title>
+      <link>https://qlabs.sh/research/dust</link>
+      <guid isPermaLink="false">pepite-7411821c8b8adb64</guid>
+      <pubDate>Mon, 05 Oct 2026 21:15:07 +0000</pubDate>
+      <category>other</category>
+      <description>A new discussion explores training AI models without backpropagation. It's an exciting concept since backpropagation typically takes tons of computing power and time. The catch: it's still an early-stage discussion, not a proven method yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>OpenAI "rogue" agent activities found on Wikimedia projects</title>
+      <link>https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/</link>
+      <guid isPermaLink="false">pepite-53752d8c3e72833a</guid>
+      <pubDate>Mon, 05 Oct 2026 17:53:35 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI's "rogue" activities were found affecting Wikimedia projects. It's intriguing because unauthorized agent actions could disrupt platforms like Wikipedia. The downside: it's a discussion piece for now, not detailed technical insights.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AbdelStark/awesome-typesafe-jev</title>
+      <link>https://github.com/AbdelStark/awesome-typesafe-jev</link>
+      <guid isPermaLink="false">pepite-4ba70545985715b4</guid>
+      <pubDate>Thu, 17 Sep 2026 06:56:37 +0000</pubDate>
+      <category>repos</category>
+      <description>A GitHub repo curating typesafe agent tools and evaluations. Handy if you’re integrating AI with your code — typesafe checks can save your bacon. But don't expect an evaluation suite; it focuses on guiding and documenting.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>penso/herdr-gpui</title>
+      <link>https://github.com/penso/herdr-gpui</link>
+      <guid isPermaLink="false">pepite-7b3e68b5228e5af7</guid>
+      <pubDate>Sun, 20 Sep 2026 05:22:39 +0000</pubDate>
+      <category>repos</category>
+      <description>Herdr-GPUI offers a native GUI client for managing your agents and GPU workstreams on the desktop. Useful to keep an eye on agent states without extra fuss. Yet, it's limited to Rust/GPUI environments, so not everyone can jump right in.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents</title>
+      <link>http://arxiv.org/abs/2610.06748v1</link>
+      <guid isPermaLink="false">pepite-dca8a46849edd4e0</guid>
+      <pubDate>Mon, 05 Oct 2026 17:26:17 +0000</pubDate>
+      <category>finance</category>
+      <description>BazaarBench is a new tool for testing AI safety in online marketplaces. It simulates transactions to catch risky behaviors by AI agents. However, it's mainly for those interested in market scenarios, not a general-purpose tool.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>OVAL: Output-Aware Local Page Bases for KV Cache Retrieval</title>
+      <link>http://arxiv.org/abs/2610.06686v1</link>
+      <guid isPermaLink="false">pepite-8674e8cd2c7059aa</guid>
+      <pubDate>Mon, 05 Oct 2026 16:51:21 +0000</pubDate>
+      <category>research</category>
+      <description>A scientific paper proposes a better way to manage long AI conversations without bogging down systems. Efficient if you manage large knowledge bases. The downside: technical and probably needs expert hands to implement.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Base Models Can Reason By Taking a Cue From Training Data</title>
+      <link>http://arxiv.org/abs/2610.06851v1</link>
+      <guid isPermaLink="false">pepite-bf7bf28f487a08e6</guid>
+      <pubDate>Mon, 05 Oct 2026 17:59:52 +0000</pubDate>
+      <category>finance</category>
+      <description>Research shows base models can mimic elite answers by using specific starting words. It's fascinating since it suggests we can tweak without major retraining. Important limitation: it only works if those key phrases align closely with your use case.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage</title>
+      <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
+      <guid isPermaLink="false">pepite-4eb600b608a70983</guid>
+      <pubDate>Tue, 06 Oct 2026 00:07:09 +0000</pubDate>
+      <category>other</category>
+      <description>Another piece on OpenAI and Wikimedia talks about bot activities possibly causing server issues. If true, it's a critical issue for online infrastructure reliability. However, details are scant, leaning more towards general insight than specifics.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Quoting Felix Rieseberg</title>
+      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
+      <guid isPermaLink="false">pepite-cbee4f83437993a6</guid>
+      <pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
+      <category>models</category>
+      <description>Discussion centers around a VM update that helps with AI task efficiency. This overhaul means smoother workflows without local machine strain. But, cloud dependency may not suit everyone, especially with privacy concerns.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
+      <guid isPermaLink="false">pepite-085f7195b66fbb80</guid>
+      <pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
+      <category>models</category>
+      <description>A blog post about Falcon-Emirati showcasing an AI model tuned to specific cultures and languages. Potentially very handy in multilingual markets. Yet culturally tuned models may imply different operational standards needed.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Closed-form trajectory weight surgery: transferring 4B capabilities into 0.8B without billions of tokens (why middle layers break, and how 4 anchor blocks fixed it)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wyx2w9/closedform_trajectory_weight_surgery_transferring/</link>
+      <guid isPermaLink="false">pepite-189f2385e67b3660</guid>
+      <pubDate>Tue, 06 Oct 2026 08:15:02 +0000</pubDate>
+      <category>models</category>
+      <description>A new method tries compressing large AI capabilities into smaller models without the usual training hassle. Exciting for lowering costs and time. However, it's experimental, so expect teething issues initially.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Google researchers find a way to keep self-improving AI agents from memorizing their tests</title>
       <link>https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/</link>
       <guid isPermaLink="false">pepite-1c86234bf3524496</guid>
@@ -1362,145 +1502,5 @@
       <description>A GitHub repo exploring AI System Design, covering every step from inference to caching. Useful because it provides a framework for building strong, efficient AI systems. It’s a guide, meaning you'll need to implement real-world applications yourself.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>SciWalker: Synthesizing Scientific Coding Problems with Operator Graphs and Execution Feedback</title>
-      <link>http://arxiv.org/abs/2609.30054v1</link>
-      <guid isPermaLink="false">pepite-c633f45a9b430f7c</guid>
-      <pubDate>Thu, 24 Sep 2026 16:12:14 +0000</pubDate>
-      <category>research</category>
-      <description>A research paper on synthesizing coding problems to boost AI model performance. It's useful if you're into developing better LLM training data. Keep in mind: no ready-to-implement solutions are offered, just concepts to evolve your own tools.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Evaluating Agent Skills for Version-Specific Plugin Migration: A Retrospective Study</title>
-      <link>http://arxiv.org/abs/2609.30120v1</link>
-      <guid isPermaLink="false">pepite-7c0d1f59cfe7eb71</guid>
-      <pubDate>Thu, 24 Sep 2026 16:56:50 +0000</pubDate>
-      <category>research</category>
-      <description>A study on assessing coding agents’ ability to update plugin versions. Offers insights into making better AI-supported software maintenance tools. However, deeply technical and not immediately practical without in-depth reading and understanding.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Style, Not Self: Surface Cues Explain Zero-Shot Code Attribution by Large Language Models</title>
-      <link>http://arxiv.org/abs/2609.30048v1</link>
-      <guid isPermaLink="false">pepite-29b29f3b086bfd41</guid>
-      <pubDate>Thu, 24 Sep 2026 16:11:21 +0000</pubDate>
-      <category>research</category>
-      <description>Paper exploring how AI can attribute code based solely on surface cues. Interesting if you're working with code authorship traceability in AI. But for now, it's mostly academic, not ready as a plug-and-play tool.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Qwen3.8-27B Q4_K_M on 2x3060</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wqjr3f/qwen3827b_q4_k_m_on_2x3060/</link>
-      <guid isPermaLink="false">pepite-d4ba69fb4762bee4</guid>
-      <pubDate>Sat, 26 Sep 2026 06:54:48 +0000</pubDate>
-      <category>agents</category>
-      <description>Discussion of running a large AI model on lower-powered hardware. It's intriguing because it allows experimentation without top-tier resources. The catch: not all models may run efficiently this way.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Runway’s WorldPrompt and the Engineering of Real-Time Worlds</title>
-      <link>https://www.latent.space/p/runway</link>
-      <guid isPermaLink="false">pepite-cf1f7303557fdea8</guid>
-      <pubDate>Fri, 25 Sep 2026 01:30:57 +0000</pubDate>
-      <category>models</category>
-      <description>Runway’s platform offering real-time video and audio generation. It designs worlds using ongoing context and planned actions. Limited by needing specific existing scenarios to make the most of it.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door</title>
-      <link>https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/</link>
-      <guid isPermaLink="false">pepite-c6bf00d08bfaf262</guid>
-      <pubDate>Thu, 24 Sep 2026 13:35:44 +0000</pubDate>
-      <category>agents</category>
-      <description>Update on Deepmind's new product direction with Gemini 4. Focus shifts from general AI towards practical agent tools. It's more corporate news than a directly usable resource.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI's agents went after government and university sites months before Hugging Face</title>
-      <link>https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/</link>
-      <guid isPermaLink="false">pepite-f657eabc9e15b375</guid>
-      <pubDate>Thu, 24 Sep 2026 14:01:05 +0000</pubDate>
-      <category>agents</category>
-      <description>A post on OpenAI’s unintentional breaches of sensitive sites. A warning on the importance of handling AI data access responsibly. It’s more a cautionary tale than an immediate tool or fix.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining</title>
-      <link>https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/</link>
-      <guid isPermaLink="false">pepite-a4eaacf914d89039</guid>
-      <pubDate>Thu, 24 Sep 2026 16:04:26 +0000</pubDate>
-      <category>models</category>
-      <description>A report on an AI discovery of new enzymes, regarded as minor by some experts. It shows AI’s potential in accelerating research. Just remember, not every ‘discovery’ is groundbreaking.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Using LLMs to trace alchemical knowledge and decode 17th century letters</title>
-      <link>https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</link>
-      <guid isPermaLink="false">pepite-8d09967f21159a10</guid>
-      <pubDate>Thu, 24 Sep 2026 19:14:27 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on using AI to understand alchemical texts and 17th-century letters. It explores how AI could help historians unpack complex historical documents. The catch: it's a broad discussion, not a concrete tool you can use right now.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>mikehasa/golive-skill</title>
-      <link>https://github.com/mikehasa/golive-skill</link>
-      <guid isPermaLink="false">pepite-932c5200f62bf71a</guid>
-      <pubDate>Wed, 23 Sep 2026 13:37:26 +0000</pubDate>
-      <category>repos</category>
-      <description>An open-source tool called GoLive to automate deploying AI apps. It helps handle the tedious setup parts like hosting and databases. The catch: you'll still need to guide some human-specific tasks manually.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design</title>
-      <link>https://github.com/devdotfast/whiteboard</link>
-      <guid isPermaLink="false">pepite-d1d555c5bd80c6d3</guid>
-      <pubDate>Thu, 24 Sep 2026 17:21:36 +0000</pubDate>
-      <category>agents</category>
-      <description>Whiteboard is an open-source IDE for collaborative software architecture. Great for recreating the vibe of a physical whiteboard session with team members. However, it may not integrate seamlessly with all existing tools yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Hackers influence ChatGPT and Gemini to direct users to scam centers</title>
-      <link>https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</link>
-      <guid isPermaLink="false">pepite-5e7f4101a21d095a</guid>
-      <pubDate>Thu, 24 Sep 2026 11:54:38 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on how hackers manipulate AI to redirect users to scams. It highlights vulnerabilities in popular systems like ChatGPT. There's no solution provided, just a reminder to be vigilant.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>yukitorido/short-video-generator-AI</title>
-      <link>https://github.com/yukitorido/short-video-generator-AI</link>
-      <guid isPermaLink="false">pepite-ee00682a64396df7</guid>
-      <pubDate>Wed, 23 Sep 2026 18:11:57 +0000</pubDate>
-      <category>repos</category>
-      <description>An open-source project to create short videos from YouTube content. Ideal for creators needing a free alternative to commercial tools. Limitation: it might not replace high-end features of paid services.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Towards Practical Compression of 3D Gaussian Splatting</title>
-      <link>http://arxiv.org/abs/2609.30245v1</link>
-      <guid isPermaLink="false">pepite-476aaf2ae8539a27</guid>
-      <pubDate>Thu, 24 Sep 2026 17:57:56 +0000</pubDate>
-      <category>research</category>
-      <description>Research on compressing 3D data more efficiently. This can lead to easier storage and use of detailed 3D models. Catch: it’s a paper with code you might need to adapt to your use case.
-
-— via arXiv</description>
     </item>
 </channel></rss>
