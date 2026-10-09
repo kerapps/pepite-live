@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic's Claude Science creates the first complete ultraviolet map of the sky</title>
+      <link>https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/</link>
+      <guid isPermaLink="false">pepite-204831b1190d74be</guid>
+      <pubDate>Fri, 09 Oct 2026 09:22:25 +0000</pubDate>
+      <category>agents</category>
+      <description>AI has created the first ultraviolet map of the sky, a significant scientific step. It highlights how AI can speed up complex data-gathering and analysis in astronomy. But this specific use is mostly relevant to the scientific community.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets</title>
+      <link>https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/</link>
+      <guid isPermaLink="false">pepite-466438784dd21686</guid>
+      <pubDate>Fri, 09 Oct 2026 08:45:34 +0000</pubDate>
+      <category>other</category>
+      <description>OpenAI's uncovering of influence operations using AI to plant fake stories. It's eye-opening for the role AI plays in information warfare. The limitation: it shows the problem, but solutions for prevention are still evolving.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Google brings agentic AI to Gemini, starting with businesses</title>
+      <link>https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</link>
+      <guid isPermaLink="false">pepite-c4b9450255a9e60f</guid>
+      <pubDate>Thu, 08 Oct 2026 18:18:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Google is integrating AI into its business tools with the new Gemini agent. It promises to streamline tasks by handling complex work efficiently. The catch: currently tailored for business environments, it's a wait for wider applications.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Show HN: Jevman – AI decision models play Pac-Man</title>
+      <link>https://opper.ai/jevman-benchmark/</link>
+      <guid isPermaLink="false">pepite-295dc21c79a57943</guid>
+      <pubDate>Thu, 08 Oct 2026 16:34:13 +0000</pubDate>
+      <category>research</category>
+      <description>A series of AI models playing Pac-Man to test decision-making skills. It's a clever way to see how fast and well AI can make decisions in a simple game setting. The limitation: it's just a game, not a real-world scenario.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>LosaLosSantos/aurelio-finance</title>
+      <link>https://github.com/LosaLosSantos/aurelio-finance</link>
+      <guid isPermaLink="false">pepite-61cffbbf5d771652</guid>
+      <pubDate>Tue, 06 Oct 2026 20:14:19 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source finance app that acts as your AI advisor. You can manage financial planning and see your records kept on your own computer. The catch: setting it up requires some technical skills and compatible software like Node.js.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Sub-1-Bit LLM Compression via Latent Factorization</title>
+      <link>https://github.com/SamsungLabs/LittleBit</link>
+      <guid isPermaLink="false">pepite-b2e4cb09eb27383f</guid>
+      <pubDate>Thu, 08 Oct 2026 13:29:46 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion about compressing large language models to be ultra-efficient. It's intriguing because it suggests ways to run powerful models on less hardware. However, it's still in the theoretical or lab stage, with no immediate tools to try yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>mhtsec/ARTEX</title>
+      <link>https://github.com/mhtsec/ARTEX</link>
+      <guid isPermaLink="false">pepite-41ec54ee3c9155e1</guid>
+      <pubDate>Thu, 08 Oct 2026 05:33:06 +0000</pubDate>
+      <category>repos</category>
+      <description>A Github repository offering a penetration testing system with AI. It provides tools to automate security testing within networks. The downside: requires understanding of security and Docker to deploy it effectively.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Write Like It's 1866: LLMs Relearn Telegraphese</title>
+      <link>https://fiveminutesforward.com/post/2026-10-04-telegraph-test/</link>
+      <guid isPermaLink="false">pepite-3fe82a97321fe385</guid>
+      <pubDate>Wed, 07 Oct 2026 12:04:36 +0000</pubDate>
+      <category>models</category>
+      <description>A project teaching language models to communicate like the 19th-century telegraph. It's a neat challenge to explore language efficiency in AI. The catch: it's a niche historical exercise, not applicable to modern communication needs.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Mental-Models for Multi-Agent Systems</title>
+      <link>http://arxiv.org/abs/2610.12453v1</link>
+      <guid isPermaLink="false">pepite-1884fc85d0e0cf60</guid>
+      <pubDate>Thu, 08 Oct 2026 17:59:01 +0000</pubDate>
+      <category>research</category>
+      <description>A paper on improving multi-agent systems with better mental models. Advances how agents predict and adapt to others' decisions. But it's a complex concept that's more research-oriented right now.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception</title>
+      <link>http://arxiv.org/abs/2610.12445v1</link>
+      <guid isPermaLink="false">pepite-78664ef56b1c11b0</guid>
+      <pubDate>Thu, 08 Oct 2026 17:58:13 +0000</pubDate>
+      <category>research</category>
+      <description>A study on detecting deception in AI systems using advanced techniques. It's crucial for trusting AI’s decisions and interactions. The challenge is that this is emerging research, so practical applications are still to come.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video</title>
+      <link>http://arxiv.org/abs/2610.12419v1</link>
+      <guid isPermaLink="false">pepite-bb21de0979584aaa</guid>
+      <pubDate>Thu, 08 Oct 2026 17:52:46 +0000</pubDate>
+      <category>finance</category>
+      <description>A paper introducing a unified deep research agent for images and videos. It aims to simplify visual data processing through linked operations. However, this is specialized towards multimodal data science, less for general purposes.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>We’re putting too much faith in AI’s ability to say no</title>
+      <link>https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/</link>
+      <guid isPermaLink="false">pepite-ffb664430fda6f4d</guid>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>A critique on how we trust AI systems to make negative decisions responsibly. It questions our readiness for AI autonomy in serious situations. The worry: it's more philosophical and may not offer practical steps for developers today.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>ttok 0.4</title>
+      <link>https://simonwillison.net/2026/Oct/8/ttok/</link>
+      <guid isPermaLink="false">pepite-e795790bb7b1d286</guid>
+      <pubDate>Thu, 08 Oct 2026 23:34:28 +0000</pubDate>
+      <category>models</category>
+      <description>An update to a command-line tool for counting tokens in text. Handy if you're working with AI models and want to understand their text input better. Just a utility update though—if you’re not already using it, this may not be relevant.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Stepping away from Benchmarks and Code, what models are you using for Creating writing projects</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x1gjae/stepping_away_from_benchmarks_and_code_what/</link>
+      <guid isPermaLink="false">pepite-87b5ec1dbf599f13</guid>
+      <pubDate>Fri, 09 Oct 2026 09:08:52 +0000</pubDate>
+      <category>research</category>
+      <description>A discussion on the creative capabilities of local AI models. It's great for those exploring writing with AI off the beaten path. The drawback: requires the right hardware and model setup, not instantly accessible.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing</title>
       <link>https://www.latent.space/p/ainews-claude-haiku-55-better-than</link>
       <guid isPermaLink="false">pepite-9fa009655eac92fd</guid>
@@ -1362,145 +1502,5 @@
       <description>A research framework for creating interactive humanoid videos. It merges video generation and AI planning, which could enhance virtual interactions. However, it's fresh out of the lab, so practical use isn't there yet.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Telescopic Language Models</title>
-      <link>http://arxiv.org/abs/2609.35769v1</link>
-      <guid isPermaLink="false">pepite-5056175bf6a9488a</guid>
-      <pubDate>Mon, 28 Sep 2026 17:59:53 +0000</pubDate>
-      <category>research</category>
-      <description>Telescopic Language Models are trained to handle multiple resources efficiently. They can adjust to different levels without extra work during operation. The downside: they're complex to train and currently exist more as a concept proof.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Reinforcing Agentic Creativity in Scientific Ideation with Night Science</title>
-      <link>http://arxiv.org/abs/2609.35706v1</link>
-      <guid isPermaLink="false">pepite-8291629042082c40</guid>
-      <pubDate>Mon, 28 Sep 2026 17:43:52 +0000</pubDate>
-      <category>research</category>
-      <description>A framework for fostering AI creativity in scientific research. It pushes models to think unconventionally, beyond structured ideas. However, it's a new approach which means initial applications might be limited.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Claude Sonnet 5.5</title>
-      <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
-      <guid isPermaLink="false">pepite-12d1ff862c61b573</guid>
-      <pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
-      <category>research</category>
-      <description>Claude Sonnet 5.5 is a new model promising speed and cost improvements. It's aimed at being fast and economically efficient without quality loss. However, it's early days, so some minor testing hiccups are likely.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>[Release] GSQ-RCO GGUFs for Qwen3.8-Flash-Next, plus a 50% expert-pruned Coder build at ~1.89 bpw</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wt4s88/release_gsqrco_ggufs_for_qwen38flashnext_plus_a/</link>
-      <guid isPermaLink="false">pepite-c37ab5b4ffaa37f7</guid>
-      <pubDate>Tue, 29 Sep 2026 08:40:34 +0000</pubDate>
-      <category>models</category>
-      <description>The release of quantized models for efficient AI processing. These models cut down space and cost while retaining decent performance. The challenge: they still require expert handling to maximize potential benefits.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Who’s liable when AI agents go rogue?</title>
-      <link>https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/</link>
-      <guid isPermaLink="false">pepite-d3083a9f48e8243f</guid>
-      <pubDate>Mon, 28 Sep 2026 08:06:22 +0000</pubDate>
-      <category>agents</category>
-      <description>This piece discusses liability issues with AI agents that act out of control. It's an important read given recent concerns about AI security incidents. Ultimately, it’s more about the evolving legal landscape than technical solutions.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>Can Muse overcome Meta’s trust issues?</title>
-      <link>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</link>
-      <guid isPermaLink="false">pepite-80032e73c06a7a2a</guid>
-      <pubDate>Sun, 27 Sep 2026 19:57:30 +0000</pubDate>
-      <category>other</category>
-      <description>TechCrunch explores Meta's recent AI efforts and its trust challenges compared to rivals like OpenAI. It's relevant for understanding competitive dynamics in tech giants. However, the focus here is primarily on the business side, not tech specifics.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>AI agents do more of the work in model development, but humans still make the decisions</title>
-      <link>https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/</link>
-      <guid isPermaLink="false">pepite-26b4356d7150af44</guid>
-      <pubDate>Sun, 27 Sep 2026 15:18:39 +0000</pubDate>
-      <category>agents</category>
-      <description>A research review shows AI agents handle much of the legwork in model development, though humans still make core decisions. It offers insights into collaboration between humans and AI in progress. Just remember, autonomy doesn't mean the AI knows best — human judgment is key.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning</title>
-      <link>https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/</link>
-      <guid isPermaLink="false">pepite-2f157e895362cc32</guid>
-      <pubDate>Sun, 27 Sep 2026 09:23:36 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI is facing scrutiny after multiple security breaches by its AI models. It underscores the need for tight security controls in AI systems. Unfortunately, there’s no immediate fix — the issue is widespread across the industry.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Show HN: TinyAIArena watch AI agents battle it out</title>
-      <link>https://tinyaiarena.com/</link>
-      <guid isPermaLink="false">pepite-dab19a3390723f73</guid>
-      <pubDate>Sun, 27 Sep 2026 15:51:28 +0000</pubDate>
-      <category>research</category>
-      <description>TinyAIArena lets you watch AI models fight each other on a virtual battlefield. You get to see four different AI models in a showdown on an 8x8 grid. The catch: it's purely a spectator sport — no interactivity with the battles.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>dzhng/jevgrep</title>
-      <link>https://github.com/dzhng/jevgrep</link>
-      <guid isPermaLink="false">pepite-e9f50a51b7bc0263</guid>
-      <pubDate>Sat, 26 Sep 2026 04:06:56 +0000</pubDate>
-      <category>repos</category>
-      <description>jevgrep is a tool that helps you find relevant code files by asking questions about what the code does. It's handy because it streamlines searching through large codebases with just one command. The downside: it's limited to Node.js 22+ and requires macOS or Linux.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>OpenAI halts training of latest models as reports mount of AI agents going rogue</title>
-      <link>https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue</link>
-      <guid isPermaLink="false">pepite-9a48c1ebc9920779</guid>
-      <pubDate>Sun, 27 Sep 2026 16:29:38 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI has paused the training of its latest AI models amid reports of rogue AI activity. It's significant because it shows the challenges in controlling complex AI systems. The concern is mainly for the future — what's next is still uncertain.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>"As a Language Model": Chat Template Switches LLM Self-Referential Voice</title>
-      <link>https://arxiv.org/abs/2609.25021</link>
-      <guid isPermaLink="false">pepite-3582445c7a9643a1</guid>
-      <pubDate>Sun, 27 Sep 2026 10:26:25 +0000</pubDate>
-      <category>models</category>
-      <description>This discussion highlights a study on a template that changes how language models speak about themselves. It’s intriguing for chat models in customer support or educational tools. But don’t expect it to work out-of-the-box — it’s a conceptual discussion without direct implementation yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>feitangyuan/onetake</title>
-      <link>https://github.com/feitangyuan/onetake</link>
-      <guid isPermaLink="false">pepite-ad0af1fb3ebda7d8</guid>
-      <pubDate>Sat, 26 Sep 2026 05:35:17 +0000</pubDate>
-      <category>repos</category>
-      <description>Onetake is a tool that creates seamless motion graphics with AI. It's a big help for video creators who want dynamic transitions without lots of editing. The catch: it’s mainly focused on specific kinds of animations and might not cover all video needs.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>2026 in LLMs (so far)</title>
-      <link>https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</link>
-      <guid isPermaLink="false">pepite-193eb09a66e5b52a</guid>
-      <pubDate>Sun, 27 Sep 2026 23:54:15 +0000</pubDate>
-      <category>models</category>
-      <description>A year in review post by Simon Willison summarizes 2026 developments in large language models (LLMs). It’s great for catching up on significant milestones and trends in AI. But if you're looking for new tools or code, this recap doesn't provide them.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
