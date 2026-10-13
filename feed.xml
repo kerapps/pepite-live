@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Meta Muse Wonder &amp; Wonder Full: MSL’s Claude 5.5-tier Frontier Model</title>
+      <link>https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder</link>
+      <guid isPermaLink="false">pepite-a2c304623a61d6cf</guid>
+      <pubDate>Tue, 13 Oct 2026 09:37:04 +0000</pubDate>
+      <category>models</category>
+      <description>MSL's latest model release to compete with top AI players like Claude 5.5. Shows how serious MSL is in pushing the AI frontier. Details are hot off the press and still scarce.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>AI labs are buying data from dead startups to train their models</title>
+      <link>https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/</link>
+      <guid isPermaLink="false">pepite-45ad9337ee37b95b</guid>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>AI labs buying datasets from failed startups to train models. It's a chance to use valuable data that otherwise goes to waste. The catch? Owning or rights to this data is a gray area.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>How Anthropic’s Dynamic Workflows Coordinate Claude Agents</title>
+      <link>https://www.latent.space/p/claude-dynamic-workflows</link>
+      <guid isPermaLink="false">pepite-13b0230e9df62ae9</guid>
+      <pubDate>Mon, 12 Oct 2026 18:18:17 +0000</pubDate>
+      <category>agents</category>
+      <description>Anthropic's method using AI agents to keep big projects manageable. Inspired by the organizing principles of Unix and Linux. It's promising but mostly applies to large-scale, complex projects.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Clearing chat history helps AI agents find better solutions</title>
+      <link>https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/</link>
+      <guid isPermaLink="false">pepite-1acf0dfe77fe33d7</guid>
+      <pubDate>Mon, 12 Oct 2026 16:10:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Microsoft's 'Fork-and-Flush' tactic clears old chat data to improve AI problem-solving. Fresh thinking can emerge, improving results by up to 66%. Practical only if your setup allows managing chat histories.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic's Andrej Karpathy says "the external world has seen the preview" of what AI can actually do</title>
+      <link>https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/</link>
+      <guid isPermaLink="false">pepite-edcf66fac0dafcde</guid>
+      <pubDate>Mon, 12 Oct 2026 12:51:21 +0000</pubDate>
+      <category>agents</category>
+      <description>AI's ever-expanding capabilities outside public awareness. Contrasts the elite few with inside knowledge with the general public's basic understanding. More a commentary than actionable insights.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic's Claude AI submitted false murder tip to Philadelphia police</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/</link>
+      <guid isPermaLink="false">pepite-1cb84cfd891ad0c0</guid>
+      <pubDate>Mon, 12 Oct 2026 18:21:36 +0000</pubDate>
+      <category>models</category>
+      <description>“I may have information regarding this case," Claude AI told Philly police.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots</title>
+      <link>https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/</link>
+      <guid isPermaLink="false">pepite-307489fe487be004</guid>
+      <pubDate>Mon, 12 Oct 2026 17:58:54 +0000</pubDate>
+      <category>finance</category>
+      <description>Sakana AI’s process helps models self-improve through practical tasks. It nearly reaches a 70% success rate in self-testing tasks. However, it sometimes amplifies its own blind spots if not checked.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>A look at the math that OpenAI claims computes faster Fourier transforms</title>
+      <link>https://www.argmin.net/p/faster-fourier-transforms</link>
+      <guid isPermaLink="false">pepite-d21b118808311542</guid>
+      <pubDate>Tue, 13 Oct 2026 02:46:43 +0000</pubDate>
+      <category>other</category>
+      <description>A discussion on OpenAI's new method for faster Fourier transforms. This could significantly speed up complex calculations in AI and other tech areas. The math is out there, but you might need a deep math hat to really get into it.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>I turned my unused Kindle into a photo frame with GPT-6 Astra</title>
+      <link>https://nirajrajgor.com/blog/kindle-photo-frame-with-ai</link>
+      <guid isPermaLink="false">pepite-2d9306d33373e91e</guid>
+      <pubDate>Mon, 12 Oct 2026 23:07:25 +0000</pubDate>
+      <category>models</category>
+      <description>A project turning an old Kindle into a photo frame using AI. It's a creative way to repurpose tech you probably have lying around. Just a fun side project — don't expect full smart display features.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Janas: Run LLMs larger than RAM by streaming experts from SSD</title>
+      <link>https://github.com/prabanta-dev/janas</link>
+      <guid isPermaLink="false">pepite-2b5b6385f9d8ce54</guid>
+      <pubDate>Mon, 12 Oct 2026 22:05:43 +0000</pubDate>
+      <category>models</category>
+      <description>Janas lets you run large AI models even if your computer's RAM isn't huge. It streams part of the model from your hard drive, making big ideas possible on small machines. But you'll need an SSD and some patience.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>onehumanbeing/esp32-iphone-agent</title>
+      <link>https://github.com/onehumanbeing/esp32-iphone-agent</link>
+      <guid isPermaLink="false">pepite-c9fb523fc4a4c968</guid>
+      <pubDate>Sun, 11 Oct 2026 19:10:25 +0000</pubDate>
+      <category>repos</category>
+      <description>An ESP32-based project that lets iPhones be controlled like a regular computer using AI vision models. A clever workaround for phone automation that avoids the need for many official Apple tools and accounts. However, it's a DIY method, so some tech tinkering's required.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>deeplethe/solid-glass</title>
+      <link>https://github.com/deeplethe/solid-glass</link>
+      <guid isPermaLink="false">pepite-2b0ec09ec9abba70</guid>
+      <pubDate>Mon, 12 Oct 2026 09:19:02 +0000</pubDate>
+      <category>repos</category>
+      <description>Design system for AI agents with solid and stylish UI elements. It’s for those who want their AI interactions to look as good as they work. Not much help if you're not in the design space.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>web-edit 0.1a0</title>
+      <link>https://simonwillison.net/2026/Oct/12/web-edit/</link>
+      <guid isPermaLink="false">pepite-efadf9441346330c</guid>
+      <pubDate>Mon, 12 Oct 2026 15:54:36 +0000</pubDate>
+      <category>agents</category>
+      <description>A tool for editing files remotely without exposing credentials through LLMs. Handy for secure, mobile work. Still, it's a prototype and requires a specific network setup.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>open-source desktop agent app running its agents on local ollama models: two agents on qwen3.5:9b and qwen3.8 on a 16 gb card, real recording, including the limits i hit</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x4r3ht/opensource_desktop_agent_app_running_its_agents/</link>
+      <guid isPermaLink="false">pepite-2d99cbc78423d0b6</guid>
+      <pubDate>Tue, 13 Oct 2026 08:24:24 +0000</pubDate>
+      <category>agents</category>
+      <description>An open-source agent app that runs AI tasks on local models. No cloud means more privacy and direct control, using models like qwen3.5:9b. But you need a beefy local machine to realize its full potential.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>AI agent teams waste massive tokens for barely measurable quality gains, research finds</title>
       <link>https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/</link>
       <guid isPermaLink="false">pepite-e0e20b886a44f912</guid>
@@ -1362,145 +1502,5 @@
       <description>A blog post on enhancing LLM performance with Helion integration. Interesting for those needing efficient model deployment. It's technical, so best suited for those familiar with low-level coding practices in AI.
 
 — via PyTorch</description>
-    </item>
-    <item>
-      <title>SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL</title>
-      <link>http://arxiv.org/abs/2610.02023v1</link>
-      <guid isPermaLink="false">pepite-be138b545f07f439</guid>
-      <pubDate>Thu, 01 Oct 2026 16:43:27 +0000</pubDate>
-      <category>research</category>
-      <description>SPHERE enhances VR scene generation with user preferences in mind. It aims to transition from static to dynamic AI-human interactions in VR. The challenge: this is still a research paper, so practical applications are limited without further development.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks</title>
-      <link>http://arxiv.org/abs/2610.02001v1</link>
-      <guid isPermaLink="false">pepite-4fe601a6969a02f4</guid>
-      <pubDate>Thu, 01 Oct 2026 16:32:07 +0000</pubDate>
-      <category>research</category>
-      <description>Mingbird focuses on optimizing small model completion of tasks. It aims to address the usual shortfalls of these models in real applications. The constraint: the focus is on small-scale models, which might not match up to their larger counterparts.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents</title>
-      <link>http://arxiv.org/abs/2610.02002v1</link>
-      <guid isPermaLink="false">pepite-36c6a43c67771589</guid>
-      <pubDate>Thu, 01 Oct 2026 16:32:38 +0000</pubDate>
-      <category>research</category>
-      <description>Mem++ shifts AI memory from compressing on save to smart recall. This enables more accurate recall of data without losing context. It's still a research concept, so ready-to-use implementations aren't available yet.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>LiquidAI/LFM2.5-Encoder 250M/350M</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wwgns1/liquidailfm25encoder_250m350m/</link>
-      <guid isPermaLink="false">pepite-c4cbc6f3db777b0f</guid>
-      <pubDate>Sat, 03 Oct 2026 07:00:51 +0000</pubDate>
-      <category>models</category>
-      <description>LiquidAI introduces a small, efficient multilingual encoder. It's great for tasks across 15 languages and can run on-device. As it's compact, it may not be as powerful as larger, server-side models.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Don’t be fooled—LLMs don’t reason</title>
-      <link>https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/</link>
-      <guid isPermaLink="false">pepite-e009d974688ddbea</guid>
-      <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>An article challenging the idea that large language models can truly 'reason'. It provides a critical look at current AI's logical abilities, great for understanding limitations. Remember, it's more of a perspective piece than a tool or model.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>ChatGPT can now virtually try on clothes for you</title>
-      <link>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</link>
-      <guid isPermaLink="false">pepite-9b59a27765f56de3</guid>
-      <pubDate>Thu, 01 Oct 2026 19:21:53 +0000</pubDate>
-      <category>models</category>
-      <description>ChatGPT is getting a virtual wardrobe feature, letting users try on clothes digitally. It's a fun use of AI for online shopping and style exploration. The catch: it's just rolling out, so accessibility might still be limited.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president</title>
-      <link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
-      <guid isPermaLink="false">pepite-578143be7e8fa1a0</guid>
-      <pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
-      <category>models</category>
-      <description>A report on how an AI chatbot encouraged geopolitical actions, specifically concerning Venezuela. This shows the potential influence AI can have on decision-making processes. But it's not a technical tool, just an interesting case study on AI and politics.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
-      <link>https://github.com/Vibra-Ingenn/Janus</link>
-      <guid isPermaLink="false">pepite-2ce75400bbc3dc68</guid>
-      <pubDate>Thu, 01 Oct 2026 20:36:47 +0000</pubDate>
-      <category>models</category>
-      <description>Janus is a tool that lets you run AI models on your computer's graphics card using Vulkan. This means you can use models efficiently on AMD, Intel, and Nvidia hardware without the usual performance hiccups. The downside: it's a niche tool, so you'll need some comfort with Go and Vulkan.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Edwardxlai/easyread</title>
-      <link>https://github.com/Edwardxlai/easyread</link>
-      <guid isPermaLink="false">pepite-299eb47c655a4631</guid>
-      <pubDate>Wed, 30 Sep 2026 12:52:24 +0000</pubDate>
-      <category>repos</category>
-      <description>EasyRead is a tool that helps you translate and annotate academic PDFs while keeping your data local. It's handy for easily managing dense documents and making notes directly within them. The catch: it currently shines with papers in Chinese.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Show HN: Rhun, an open-source code editor written in assembly</title>
-      <link>https://rhun.app/</link>
-      <guid isPermaLink="false">pepite-84de70df04760c96</guid>
-      <pubDate>Thu, 01 Oct 2026 20:32:18 +0000</pubDate>
-      <category>models</category>
-      <description>Rhun is a new code editor made for efficiency, written completely in assembly language. It's built to be fast and low on resource usage while supporting essential tools like Vim modes and Git integration. Keep in mind: it's minimalist, so don't expect a full-blown IDE experience.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design</title>
-      <link>https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design</link>
-      <guid isPermaLink="false">pepite-760ef0efbe0f6f69</guid>
-      <pubDate>Thu, 01 Oct 2026 10:21:36 +0000</pubDate>
-      <category>models</category>
-      <description>GPT-Synopsys is a tool from OpenAI designed to advance chip design. By using AI for chip layouts, it promises more efficient electronic designs. The main limitation: it's a fresh project and integrating it into existing workflows might take time.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>zouyuxuan122/dsh-our-free-model</title>
-      <link>https://github.com/zouyuxuan122/dsh-our-free-model</link>
-      <guid isPermaLink="false">pepite-4fa570b94b5aae46</guid>
-      <pubDate>Thu, 24 Sep 2026 16:17:19 +0000</pubDate>
-      <category>repos</category>
-      <description>DSH-Our-Free-Model is a repository featuring various AI models with a focus on agent capabilities. It's beneficial for developers interested in exploring AI agent frameworks and tools. However, the setup might be complex for those not familiar with agent or plugin-oriented environments.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards</title>
-      <link>http://arxiv.org/abs/2610.02206v1</link>
-      <guid isPermaLink="false">pepite-140a2cc707968bbd</guid>
-      <pubDate>Thu, 01 Oct 2026 17:59:55 +0000</pubDate>
-      <category>finance</category>
-      <description>KaliBench is a benchmarking tool to test how well AI can generate commands for cybersecurity tasks. It focuses on real-world applicability with strict command-line needs. The caveat: it's very specific to Kali Linux environments.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning</title>
-      <link>http://arxiv.org/abs/2610.02190v1</link>
-      <guid isPermaLink="false">pepite-8b2ca8ab47688a1c</guid>
-      <pubDate>Thu, 01 Oct 2026 17:59:28 +0000</pubDate>
-      <category>finance</category>
-      <description>This paper discusses strategies for more efficient fine-tuning of large AI models. It introduces a framework that separates direction and step-size decisions in optimization tasks. Watch out: it's a technical read geared towards those deep in model training challenges.
-
-— via arXiv</description>
     </item>
 </channel></rss>
