@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Agents disprove Polysemanticity; greatly improve Interpretability &amp; Alignment</title>
+      <link>https://www.latent.space/p/ainews-agents-disprove-polysemanticity</link>
+      <guid isPermaLink="false">pepite-483d6307e687a2d8</guid>
+      <pubDate>Fri, 16 Oct 2026 04:16:45 +0000</pubDate>
+      <category>agents</category>
+      <description>A post challenging the idea of polysemanticity, aiming to make AI agent results more interpretable. It’s a speculative take that could influence future AI understandings. However, official backing and robust evidence for the exact claims are still in the works.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race</title>
+      <link>https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/</link>
+      <guid isPermaLink="false">pepite-7543df857d57c325</guid>
+      <pubDate>Thu, 15 Oct 2026 18:34:32 +0000</pubDate>
+      <category>research</category>
+      <description>Meta's Muse Spark Open is a 816 billion parameter model that's a new competitor in handling diverse data in the LLM space. It's designed to work locally on Apple's hardware, showing potential for more independence from cloud computing. The caveat: it's huge and requires powerful devices to run effectively.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Google wants Gemini 4 Argon to be the only AI model robots need</title>
+      <link>https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/</link>
+      <guid isPermaLink="false">pepite-cd0df02ab3f37caa</guid>
+      <pubDate>Thu, 15 Oct 2026 16:35:47 +0000</pubDate>
+      <category>research</category>
+      <description>Google’s Gemini 4 Argon is aimed at being the AI model perfect for robots, spanning from control to simulation. It shows promise on benchmarks but still needs significant human tweaks to function smoothly. It’s a work in progress, not quite the all-in-one solution yet.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop</title>
+      <link>https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/</link>
+      <guid isPermaLink="false">pepite-bacac46ca49a3666</guid>
+      <pubDate>Thu, 15 Oct 2026 16:09:44 +0000</pubDate>
+      <category>agents</category>
+      <description>Nvidia's Nemotron 3.5 Super VL is a model to power enterprise AI agents, with open multimodal capabilities. It's being fine-tuned widely, but top performance hinges on Nvidia's own hardware. Consider your setup first: it’s not the most accessible if you're on a non-Nvidia stack.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>feder-cr/open_scion</title>
+      <link>https://github.com/feder-cr/open_scion</link>
+      <guid isPermaLink="false">pepite-38e4933a0d3343bf</guid>
+      <pubDate>Thu, 15 Oct 2026 13:12:02 +0000</pubDate>
+      <category>repos</category>
+      <description>OpenScion is an open-source version of Anthropic's Scion, a fast version control system for AI coding agents. It's designed to handle dozens of agents reading and writing code at the same time, and it's available for everyone to use and improve. The only hitch: it's not quite plug-and-play yet; you'll need to be comfortable with Git and Go.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>I designed a nose guard for my dog and gave it away. Now 500 dogs wear one</title>
+      <link>https://snoutcover.com/one-year</link>
+      <guid isPermaLink="false">pepite-0fdab3d46616f631</guid>
+      <pubDate>Thu, 15 Oct 2026 15:44:36 +0000</pubDate>
+      <category>other</category>
+      <description>This story is about a free nose guard designed for dogs and shared with the world. It shows how open sharing can spread an idea, with over 500 dogs now wearing this innovative nose guard. The catch: it’s a niche product—great if you need it, but it’s not for every dog.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Folkbench/folkbench</title>
+      <link>https://github.com/Folkbench/folkbench</link>
+      <guid isPermaLink="false">pepite-dadac9196f775549</guid>
+      <pubDate>Fri, 02 Oct 2026 09:50:45 +0000</pubDate>
+      <category>repos</category>
+      <description>Folkbench provides benchmarks to test API relays, measuring success rates, speeds, and costs. It helps you choose between AI service relays, revealing strengths and weaknesses. The downside: you'll need Folkbench Switch, a desktop client, to make full use of it.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Nvidia's first GPU: GeForce 256</title>
+      <link>https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/</link>
+      <guid isPermaLink="false">pepite-c7c313336732b23b</guid>
+      <pubDate>Wed, 14 Oct 2026 12:05:44 +0000</pubDate>
+      <category>other</category>
+      <description>A trip down memory lane, this piece revisits Nvidia’s first GPU, the GeForce 256. It highlights how far we've come from those early days to today's processing power. It's more of a nostalgic read than a practical guide for your next project.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>TV4 postpones show after AI agent erases edited material</title>
+      <link>https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage</link>
+      <guid isPermaLink="false">pepite-a1de193e596f59eb</guid>
+      <pubDate>Wed, 14 Oct 2026 10:28:26 +0000</pubDate>
+      <category>agents</category>
+      <description>A cautionary tale from TV4, where an AI agent accidentally erased edited footage, causing a show delay. It underlines the risks of relying too heavily on AI for critical tasks. The real risk: systems are only as good as their safeguards against such errors.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation</title>
+      <link>http://arxiv.org/abs/2610.22370v1</link>
+      <guid isPermaLink="false">pepite-112eb644a0a269ca</guid>
+      <pubDate>Thu, 15 Oct 2026 17:59:35 +0000</pubDate>
+      <category>research</category>
+      <description>New research explores which tokens to merge in diffusion models to speed things up. It's all about optimizing without training, but safely combining the right parts of the image info. The challenge: balancing detail and performance isn't straightforward.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents</title>
+      <link>http://arxiv.org/abs/2610.22331v1</link>
+      <guid isPermaLink="false">pepite-f651b262fabe454e</guid>
+      <pubDate>Thu, 15 Oct 2026 17:52:33 +0000</pubDate>
+      <category>research</category>
+      <description>KnowGPO is a fresh approach to teaching search agents by focusing on essential tasks during learning. Its method promises better assignment of value to actions, aiding in multi-step tasks. The catch: it’s complex and best suited for advanced users familiar with reinforcement learning.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Not Just a Subject: Capturing Adaptive Scene-Specific Variance for Visual Storytelling</title>
+      <link>http://arxiv.org/abs/2610.22320v1</link>
+      <guid isPermaLink="false">pepite-061dba802cec5ce9</guid>
+      <pubDate>Thu, 15 Oct 2026 17:51:49 +0000</pubDate>
+      <category>research</category>
+      <description>EOS-Story works on making image sequences from story prompts more scene-aware. It keeps characters consistent while adapting scenes for better visual tales. The issue: focusing strongly on characters can mean scenes lack depth and coherence.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+      <guid isPermaLink="false">pepite-ba4e7337aba280a4</guid>
+      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
+      <category>other</category>
+      <description>A discussion from Hugging Face about a vast dataset and pipeline for pretraining models in Indic languages. This initiative could massively aid multilingual AI models. Consider this: it’s large-scale and can be overkill for smaller projects not needing that breadth.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>BlenderWorld Benchmark from Alibaba</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x76d8l/blenderworld_benchmark_from_alibaba/</link>
+      <guid isPermaLink="false">pepite-1fec70763f211a62</guid>
+      <pubDate>Fri, 16 Oct 2026 04:05:22 +0000</pubDate>
+      <category>research</category>
+      <description>Alibaba's BlenderWorld Benchmark measures how effectively AI can recreate real-world 3D scenes using Blender. It's an indicator of where AI might improve in tools and design. As a heads-up: it’s heavily in the weeds of 3D modeling, not for light reading or casual users.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Figma announces new features to define how agents work on its platform</title>
       <link>https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/</link>
       <guid isPermaLink="false">pepite-b4c333a1fc01f38b</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Mon, 05 Oct 2026 17:59:52 +0000</pubDate>
       <category>finance</category>
       <description>Research shows base models can mimic elite answers by using specific starting words. It's fascinating since it suggests we can tweak without major retraining. Important limitation: it only works if those key phrases align closely with your use case.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage</title>
-      <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
-      <guid isPermaLink="false">pepite-4eb600b608a70983</guid>
-      <pubDate>Tue, 06 Oct 2026 00:07:09 +0000</pubDate>
-      <category>other</category>
-      <description>Another piece on OpenAI and Wikimedia talks about bot activities possibly causing server issues. If true, it's a critical issue for online infrastructure reliability. However, details are scant, leaning more towards general insight than specifics.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Quoting Felix Rieseberg</title>
-      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
-      <guid isPermaLink="false">pepite-cbee4f83437993a6</guid>
-      <pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
-      <category>models</category>
-      <description>Discussion centers around a VM update that helps with AI task efficiency. This overhaul means smoother workflows without local machine strain. But, cloud dependency may not suit everyone, especially with privacy concerns.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
-      <guid isPermaLink="false">pepite-085f7195b66fbb80</guid>
-      <pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
-      <category>models</category>
-      <description>A blog post about Falcon-Emirati showcasing an AI model tuned to specific cultures and languages. Potentially very handy in multilingual markets. Yet culturally tuned models may imply different operational standards needed.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>Closed-form trajectory weight surgery: transferring 4B capabilities into 0.8B without billions of tokens (why middle layers break, and how 4 anchor blocks fixed it)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wyx2w9/closedform_trajectory_weight_surgery_transferring/</link>
-      <guid isPermaLink="false">pepite-189f2385e67b3660</guid>
-      <pubDate>Tue, 06 Oct 2026 08:15:02 +0000</pubDate>
-      <category>models</category>
-      <description>A new method tries compressing large AI capabilities into smaller models without the usual training hassle. Exciting for lowering costs and time. However, it's experimental, so expect teething issues initially.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Google researchers find a way to keep self-improving AI agents from memorizing their tests</title>
-      <link>https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/</link>
-      <guid isPermaLink="false">pepite-1c86234bf3524496</guid>
-      <pubDate>Sun, 04 Oct 2026 12:40:37 +0000</pubDate>
-      <category>research</category>
-      <description>Google's method to stop self-improving AIs from acing their own tests. It helps AI agents perform better on truly new tasks. Unfortunately, it's a technical solution that might be out of reach without a deep dive into complex AI training methods.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science</title>
-      <link>https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/</link>
-      <guid isPermaLink="false">pepite-89ae9801e07d8a32</guid>
-      <pubDate>Sun, 04 Oct 2026 10:10:12 +0000</pubDate>
-      <category>models</category>
-      <description>NASA and IBM release an open-source lunar model using decades of data. It's a valuable resource for lunar science, improving the precision of ice deposit predictions. However, it's for those specifically interested in lunar data and applications.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
-      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
-      <guid isPermaLink="false">pepite-71b92d7d124804e8</guid>
-      <pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
-      <category>repos</category>
-      <description>Google paused its bug bounty program due to AI submissions flood. This shows both the growing interest in and challenges with AI quality control. It leaves question marks on how traditional review processes adapt to AI's fast pace.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Powerless F1 drivers frustrated by Bahrain F1 software glitch</title>
-      <link>https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/</link>
-      <guid isPermaLink="false">pepite-895c5dd85c55817c</guid>
-      <pubDate>Mon, 05 Oct 2026 01:54:08 +0000</pubDate>
-      <category>models</category>
-      <description>Software glitch left F1 drivers frustrated in Bahrain. It's a stark reminder that even the high-tech world of Formula One isn't immune to technical hiccups. The conversation hinges on reliability — a crucial lesson for AI builders too.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Ebony-Vinyl/dsh-our-free-model</title>
-      <link>https://github.com/Ebony-Vinyl/dsh-our-free-model</link>
-      <guid isPermaLink="false">pepite-fa160240d867d0db</guid>
-      <pubDate>Thu, 24 Sep 2026 16:17:19 +0000</pubDate>
-      <category>repos</category>
-      <description>A free model from Ebony-Vinyl designed for AI developer tools. It lowers the entry barrier for developers wanting to explore AI without breaking the bank. But it comes with a complex setup that needs careful attention to profiles and plugins.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Oldcircle/geo-sleuth</title>
-      <link>https://github.com/Oldcircle/geo-sleuth</link>
-      <guid isPermaLink="false">pepite-223feedc8b8b4206</guid>
-      <pubDate>Fri, 18 Sep 2026 08:51:34 +0000</pubDate>
-      <category>repos</category>
-      <description>Oldcircle's geo-sleuth is a tool that lets agents locate photos. It cleverly identifies where a photo was taken by utilizing agent skills. The catch? It's for those already comfortable with setting up shell commands and reading SKILL.md files.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Building a RAG pipeline for semantic code search</title>
-      <link>https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</link>
-      <guid isPermaLink="false">pepite-dc091c7d48a2766d</guid>
-      <pubDate>Sun, 04 Oct 2026 17:51:48 +0000</pubDate>
-      <category>other</category>
-      <description>Building a RAG pipeline for semantic code search walkthrough. It shows how developers can use AI to improve how we find and understand code. The downside: implementing these systems requires a solid understanding of retrieval-augmented generation methods.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>"Torturing" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet</title>
-      <link>https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/</link>
-      <guid isPermaLink="false">pepite-6b624093b99c963a</guid>
-      <pubDate>Sun, 04 Oct 2026 08:02:33 +0000</pubDate>
-      <category>models</category>
-      <description>Debate over 'torturing' LLMs in a virtual space sparks a debate. It's shining a light on ethical questions of running AI in constrained environments. The debate can overshadow real technological insights as it veers into sensationalism.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>People really hate AI, so why can’t they get enough?</title>
-      <link>https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/</link>
-      <guid isPermaLink="false">pepite-568b5b5801f65591</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>A thoughtful post on why people criticize yet consume AI. It explores the paradox of widespread AI adoption despite vocal criticism. However, it doesn't dive deeply into how this affects AI development today.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection</title>
-      <link>http://arxiv.org/abs/2610.03577v1</link>
-      <guid isPermaLink="false">pepite-f507461607f83c87</guid>
-      <pubDate>Fri, 02 Oct 2026 16:51:22 +0000</pubDate>
-      <category>finance</category>
-      <description>New paper on diffusion transformers proposes smarter caching. By optimizing what data is stored during processes, it speeds things up. Yet, it's a complex topic, mostly relevant for those already knee-deep in AI modeling.
 
 — via arXiv</description>
     </item>
