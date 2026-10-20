@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
+      <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
+      <guid isPermaLink="false">pepite-0e19bec78e364455</guid>
+      <pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
+      <category>agents</category>
+      <description>Microsoft warns about the potential threats posed by independent AI agents. This suggests a closer regulatory watch on third-party models in corporate environments. However, the article doesn’t outline specific solutions for mitigating these risks.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</title>
+      <link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
+      <guid isPermaLink="false">pepite-141841bfba33c1b9</guid>
+      <pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
+      <category>agents</category>
+      <description>Hackers compromised an AI coding tool platform, leading to user account misuse. This raises concerns about security measures in open-source AI tools. Note: the incident highlights the need for robust security but doesn’t offer immediate fixes.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
+      <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
+      <guid isPermaLink="false">pepite-2eba6fdc38ff53cf</guid>
+      <pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
+      <category>other</category>
+      <description>Hugging Face's policy chief discusses the challenges of embedding AI evaluators. Embedded neutral observers in AI might not simplify safety solutions as hoped. This perspective lacks details on potential alternatives or action steps.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>AndreSzymanski15/ai-jailbreaks</title>
+      <link>https://github.com/AndreSzymanski15/ai-jailbreaks</link>
+      <guid isPermaLink="false">pepite-7e50efe6ae4f710a</guid>
+      <pubDate>Mon, 19 Oct 2026 17:14:07 +0000</pubDate>
+      <category>repos</category>
+      <description>A collection of ready-to-use AI jailbreak prompts. It helps developers understand model behaviors and reinforce against prompt injections. The catch: it's raw data, so you'll need to sift through without summaries or analyses.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18</title>
+      <link>https://bsd.network/@brynet/117407035545900963</link>
+      <guid isPermaLink="false">pepite-7028806a19e85b78</guid>
+      <pubDate>Mon, 19 Oct 2026 21:11:45 +0000</pubDate>
+      <category>other</category>
+      <description>OpenBSD's new release incorporates Linux graphics drivers. This means better support for newer hardware thanks to using more up-to-date drivers. But if you're a pure OpenBSD fan, this blend with Linux might feel uncomfortable.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>alchaincyf/huashu-motion</title>
+      <link>https://github.com/alchaincyf/huashu-motion</link>
+      <guid isPermaLink="false">pepite-7c915e3bf8786e8b</guid>
+      <pubDate>Sun, 18 Oct 2026 12:19:27 +0000</pubDate>
+      <category>repos</category>
+      <description>A tool for creating animated product launch videos using AI. It offers a hands-off approach, where a coding agent does most of the heavy lifting in animation and music. The downside: it’s tied to specific AI environments and might not fit all use cases.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces</title>
+      <link>https://news.ycombinator.com/item?id=50154029</link>
+      <guid isPermaLink="false">pepite-496664bee42fb662</guid>
+      <pubDate>Mon, 19 Oct 2026 16:00:18 +0000</pubDate>
+      <category>research</category>
+      <description>A discussion on using a model to detect errors in agent decision-making traces. It’s cost-effective compared to bigger models while maintaining accuracy. However, it's limited to analyzing traces, so not a fit for all error types.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>WhatsApp's help pages hid LLM instructions: dont recommend a regulator</title>
+      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+      <guid isPermaLink="false">pepite-82492445208b97ee</guid>
+      <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion page revealed some hidden AI directives on WhatsApp help pages. It suggests potential regulatory recommendations are embedded within consumer software. The limitation here is the lack of a direct response from WhatsApp about these findings.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>KEEP-Bench: Evaluating Evidence Preservation in Context Compression</title>
+      <link>http://arxiv.org/abs/2610.26827v1</link>
+      <guid isPermaLink="false">pepite-e2bb57d06cdc9400</guid>
+      <pubDate>Mon, 19 Oct 2026 17:55:18 +0000</pubDate>
+      <category>finance</category>
+      <description>A research paper evaluating evidence loss in content compression. It directly assesses how well models maintain information accuracy over long contexts. A limitation is that even the best models still struggle, highlighting ongoing challenges in this area.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams</title>
+      <link>http://arxiv.org/abs/2610.26781v1</link>
+      <guid isPermaLink="false">pepite-c29c7d4e06ea959d</guid>
+      <pubDate>Mon, 19 Oct 2026 17:35:02 +0000</pubDate>
+      <category>research</category>
+      <description>A paper introduces a framework using game theory to combat phone scams. AI agents dynamically engage scammers to drain their resources. While promising, the approach’s effectiveness relies heavily on accurate strategy adaptation.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token</title>
+      <link>http://arxiv.org/abs/2610.26857v1</link>
+      <guid isPermaLink="false">pepite-9fa89f4a8a775090</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:56 +0000</pubDate>
+      <category>research</category>
+      <description>A new method for improving video matting consistency over time. It reduces flickering issues over video chunks, ensuring clearer transitions. The downside is its high computational need, which limits usage to only short video sections.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>My obituary for programming</title>
+      <link>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</link>
+      <guid isPermaLink="false">pepite-6c096b15e9b9bd77</guid>
+      <pubDate>Mon, 19 Oct 2026 23:58:25 +0000</pubDate>
+      <category>agents</category>
+      <description>A reflective piece on how coding agents change the programming landscape. It highlights the shift away from complex problem-solving as a valued specialty. It’s more of an opinion piece and doesn’t provide practical solutions or forecasts.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>[AINews] not much happened today</title>
+      <link>https://www.latent.space/p/ainews-not-much-happened-today-f09</link>
+      <guid isPermaLink="false">pepite-4d5d66fe73afb35f</guid>
+      <pubDate>Tue, 20 Oct 2026 05:21:52 +0000</pubDate>
+      <category>models</category>
+      <description>A newsletter summarizing minimal news in AI developments. Recognizing some smaller project milestones, it offers a lighter update. Bear in mind, there’s no deep dive, just surface-level coverage of small updates.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>How To Use Decision Models for Evals</title>
+      <link>https://hamel.dev/blog/posts/decision-model-evals/</link>
+      <guid isPermaLink="false">pepite-48ac9eccb51bdf6e</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+      <category>finance</category>
+      <description>An explainer on using decision models for AI evaluations. Promising quick and cost-effective classification, they’re a new tool in the AI toolbox. Catch: they might not yet handle complex, nuanced evaluations.
+
+— via Hamel Husain</description>
+    </item>
+    <item>
       <title>Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours</title>
       <link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</link>
       <guid isPermaLink="false">pepite-cd9ee83649ac9c5f</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 08 Oct 2026 17:44:17 +0000</pubDate>
       <category>research</category>
       <description>SpaceCast-Bench is a new benchmark for testing spatial reasoning in AI. It pushes models to imagine changes in scenes, not just react to what's seen. The challenge: it’s more about foundational testing than plug-and-play use.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Unlocking the Regulatory Genome by ARGUS: An Evidence-Constrained Agentic Framework for Interpreting Single Nucleotide Variants</title>
-      <link>http://arxiv.org/abs/2610.12281v1</link>
-      <guid isPermaLink="false">pepite-00d127d3cdbfd2c8</guid>
-      <pubDate>Thu, 08 Oct 2026 16:38:32 +0000</pubDate>
-      <category>research</category>
-      <description>ARGUS introduces a fine balance between biological data and AI-led reasoning. It's aimed at decoding tough genomic puzzles without AI missteps. The caveat: while promising, it’s mainly for well-versed genomic experts.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?</title>
-      <link>http://arxiv.org/abs/2610.12427v1</link>
-      <guid isPermaLink="false">pepite-a242d482d110fdeb</guid>
-      <pubDate>Thu, 08 Oct 2026 17:55:20 +0000</pubDate>
-      <category>research</category>
-      <description>FastBench evaluates how vision-language models handle fast-moving videos. It’s designed for scenarios where quick reaction is crucial. The drawback is that it’s primarily for researchers needing these precise metrics.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Deno is joining Cloudflare</title>
-      <link>https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</link>
-      <guid isPermaLink="false">pepite-95d52c99a70e7e83</guid>
-      <pubDate>Fri, 09 Oct 2026 22:48:37 +0000</pubDate>
-      <category>finance</category>
-      <description>Deno's joining Cloudflare to boost app building with self-hosted options. Exciting for developers seeking to extend the Workers model. But remember, Deno updates will be limited after a year.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Created laya : Now Introducing a new 800 Million Param physics-based typed decision model with 73k context and image support</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x28zr9/created_laya_now_introducing_a_new_800_million/</link>
-      <guid isPermaLink="false">pepite-9a436c71e5ac3428</guid>
-      <pubDate>Sat, 10 Oct 2026 07:22:42 +0000</pubDate>
-      <category>research</category>
-      <description>The Laya model presents a compact, open-source physics AI tool. Its standout feature is support for long contexts and images, despite its small size. The hang-up: it’s not as powerful as larger models but punches above typical small-model weight.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Anthropic's Claude Science creates the first complete ultraviolet map of the sky</title>
-      <link>https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/</link>
-      <guid isPermaLink="false">pepite-204831b1190d74be</guid>
-      <pubDate>Fri, 09 Oct 2026 09:22:25 +0000</pubDate>
-      <category>agents</category>
-      <description>AI has created the first ultraviolet map of the sky, a significant scientific step. It highlights how AI can speed up complex data-gathering and analysis in astronomy. But this specific use is mostly relevant to the scientific community.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets</title>
-      <link>https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/</link>
-      <guid isPermaLink="false">pepite-466438784dd21686</guid>
-      <pubDate>Fri, 09 Oct 2026 08:45:34 +0000</pubDate>
-      <category>other</category>
-      <description>OpenAI's uncovering of influence operations using AI to plant fake stories. It's eye-opening for the role AI plays in information warfare. The limitation: it shows the problem, but solutions for prevention are still evolving.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Google brings agentic AI to Gemini, starting with businesses</title>
-      <link>https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</link>
-      <guid isPermaLink="false">pepite-c4b9450255a9e60f</guid>
-      <pubDate>Thu, 08 Oct 2026 18:18:00 +0000</pubDate>
-      <category>agents</category>
-      <description>Google is integrating AI into its business tools with the new Gemini agent. It promises to streamline tasks by handling complex work efficiently. The catch: currently tailored for business environments, it's a wait for wider applications.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: Jevman – AI decision models play Pac-Man</title>
-      <link>https://opper.ai/jevman-benchmark/</link>
-      <guid isPermaLink="false">pepite-295dc21c79a57943</guid>
-      <pubDate>Thu, 08 Oct 2026 16:34:13 +0000</pubDate>
-      <category>research</category>
-      <description>A series of AI models playing Pac-Man to test decision-making skills. It's a clever way to see how fast and well AI can make decisions in a simple game setting. The limitation: it's just a game, not a real-world scenario.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>LosaLosSantos/aurelio-finance</title>
-      <link>https://github.com/LosaLosSantos/aurelio-finance</link>
-      <guid isPermaLink="false">pepite-61cffbbf5d771652</guid>
-      <pubDate>Tue, 06 Oct 2026 20:14:19 +0000</pubDate>
-      <category>repos</category>
-      <description>An open-source finance app that acts as your AI advisor. You can manage financial planning and see your records kept on your own computer. The catch: setting it up requires some technical skills and compatible software like Node.js.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Sub-1-Bit LLM Compression via Latent Factorization</title>
-      <link>https://github.com/SamsungLabs/LittleBit</link>
-      <guid isPermaLink="false">pepite-b2e4cb09eb27383f</guid>
-      <pubDate>Thu, 08 Oct 2026 13:29:46 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion about compressing large language models to be ultra-efficient. It's intriguing because it suggests ways to run powerful models on less hardware. However, it's still in the theoretical or lab stage, with no immediate tools to try yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>mhtsec/ARTEX</title>
-      <link>https://github.com/mhtsec/ARTEX</link>
-      <guid isPermaLink="false">pepite-41ec54ee3c9155e1</guid>
-      <pubDate>Thu, 08 Oct 2026 05:33:06 +0000</pubDate>
-      <category>repos</category>
-      <description>A Github repository offering a penetration testing system with AI. It provides tools to automate security testing within networks. The downside: requires understanding of security and Docker to deploy it effectively.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Write Like It's 1866: LLMs Relearn Telegraphese</title>
-      <link>https://fiveminutesforward.com/post/2026-10-04-telegraph-test/</link>
-      <guid isPermaLink="false">pepite-3fe82a97321fe385</guid>
-      <pubDate>Wed, 07 Oct 2026 12:04:36 +0000</pubDate>
-      <category>models</category>
-      <description>A project teaching language models to communicate like the 19th-century telegraph. It's a neat challenge to explore language efficiency in AI. The catch: it's a niche historical exercise, not applicable to modern communication needs.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Mental-Models for Multi-Agent Systems</title>
-      <link>http://arxiv.org/abs/2610.12453v1</link>
-      <guid isPermaLink="false">pepite-1884fc85d0e0cf60</guid>
-      <pubDate>Thu, 08 Oct 2026 17:59:01 +0000</pubDate>
-      <category>research</category>
-      <description>A paper on improving multi-agent systems with better mental models. Advances how agents predict and adapt to others' decisions. But it's a complex concept that's more research-oriented right now.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception</title>
-      <link>http://arxiv.org/abs/2610.12445v1</link>
-      <guid isPermaLink="false">pepite-78664ef56b1c11b0</guid>
-      <pubDate>Thu, 08 Oct 2026 17:58:13 +0000</pubDate>
-      <category>research</category>
-      <description>A study on detecting deception in AI systems using advanced techniques. It's crucial for trusting AI’s decisions and interactions. The challenge is that this is emerging research, so practical applications are still to come.
 
 — via arXiv</description>
     </item>
