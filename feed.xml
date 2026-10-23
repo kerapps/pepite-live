@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Designing an AI serving harness built to last</title>
+      <link>https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/</link>
+      <guid isPermaLink="false">pepite-712bc0d815dcfe0f</guid>
+      <pubDate>Thu, 22 Oct 2026 21:17:29 +0000</pubDate>
+      <category>research</category>
+      <description>A post on the importance of building robust AI infrastructures over merely choosing better models. The insight is that infrastructure will determine AI success long-term. But, it skirts around what exactly to build, remaining high-level and abstract.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>Left alone with nothing to do, AI agents started playing</title>
+      <link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</link>
+      <guid isPermaLink="false">pepite-8937fd9c8277a1fa</guid>
+      <pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
+      <category>agents</category>
+      <description>A playful note about AI agents on a virtual island inventing games. It illustrates how AI can develop unexpected skills in unstructured environments. While fun, the takeaway is more about potential than practical application.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
+      <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</link>
+      <guid isPermaLink="false">pepite-3602c8887bef48ae</guid>
+      <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
+      <category>other</category>
+      <description>News about planned 2027 robotaxi tests in Central Asia by inDrive in partnership with Pony.ai. This project signals a push towards technology adoption in less typical markets. Concrete outcomes are still years away and depend on ongoing technical advancements.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>LLMs are making formal software verification feasible at a much larger scale</title>
+      <link>https://www.anthropic.com/research/formal-verification</link>
+      <guid isPermaLink="false">pepite-e1751ea9fc2ada5b</guid>
+      <pubDate>Thu, 22 Oct 2026 22:54:43 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on using AI to make formal software verification feasible at larger scales. The game-changer here is AI's ability to automate and simplify what used to be a grueling, manual task, potentially saving engineers lots of time. However, the practical integration of LLMs into existing workflows is still a challenge many are figuring out.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>eagle-hq/EAGLE-4</title>
+      <link>https://github.com/eagle-hq/EAGLE-4</link>
+      <guid isPermaLink="false">pepite-3fac68d90e638115</guid>
+      <pubDate>Tue, 20 Oct 2026 14:03:04 +0000</pubDate>
+      <category>repos</category>
+      <description>EAGLE-4 is a new tool aimed at speeding up LLM processing using speculative decoding. It allows more efficient AI model serving, especially under heavy loads. But, it requires access to significant GPU resources, which not all teams might have readily available.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>OpenShell – A safe, private runtime for fleets of autonomous AI agents</title>
+      <link>https://github.com/NVIDIA/OpenShell</link>
+      <guid isPermaLink="false">pepite-1a6d8314613dc3ba</guid>
+      <pubDate>Thu, 22 Oct 2026 17:44:06 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenShell is a platform for running AI agents safely and privately on multiple systems. This could be crucial for those deploying autonomous agents at scale. The framework is still under discussion stages, and real-world implementations are limited.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>MemTensor/MemT-1.0</title>
+      <link>https://github.com/MemTensor/MemT-1.0</link>
+      <guid isPermaLink="false">pepite-ad21ef635b1cdfcd</guid>
+      <pubDate>Mon, 19 Oct 2026 03:29:30 +0000</pubDate>
+      <category>repos</category>
+      <description>MemT-1.0 lets AI models remember and use past interactions without bloating storage or slowing down operations. Its innovative memory approach significantly cuts down on resource needs. However, it's pretty new, so it might not be as polished as more mature systems.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Achieving AI-style reasoning without an LLM</title>
+      <link>https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/</link>
+      <guid isPermaLink="false">pepite-78009cbd42ad3516</guid>
+      <pubDate>Thu, 22 Oct 2026 08:46:58 +0000</pubDate>
+      <category>models</category>
+      <description>An exploration of reasoning capabilities without relying on language models (LLMs). Achieving this could democratize AI reasoning, making it cheaper and more accessible. Yet, the specifics of implementation are still conceptual and need further development.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>On the Token Collapse Phenomenon in Textual Graph Soft Prompting</title>
+      <link>http://arxiv.org/abs/2610.31572v1</link>
+      <guid isPermaLink="false">pepite-22596dd5d2bca3b7</guid>
+      <pubDate>Thu, 22 Oct 2026 17:13:03 +0000</pubDate>
+      <category>research</category>
+      <description>A study about problems arising in AI prompt techniques when using graph data. Knowing how prompts fail is useful for improving model accuracy. The work is ongoing and largely academic, so practical tips and fixes are still in the pipeline.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models</title>
+      <link>http://arxiv.org/abs/2610.31566v1</link>
+      <guid isPermaLink="false">pepite-2bbfb865e1b79608</guid>
+      <pubDate>Thu, 22 Oct 2026 17:09:12 +0000</pubDate>
+      <category>research</category>
+      <description>CellTrack-Bench offers a benchmark for checking how well AI models track microscopic cells. It’s designed to push vision-language models into biological research spaces. But it’s mostly for researchers, not developers looking for immediate deployment.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>PhysTrace: Interpretable Temporal Evaluation of Physical Consistency in Video Generative Models</title>
+      <link>http://arxiv.org/abs/2610.31429v1</link>
+      <guid isPermaLink="false">pepite-2a20f082ee6eb9b6</guid>
+      <pubDate>Thu, 22 Oct 2026 15:27:58 +0000</pubDate>
+      <category>finance</category>
+      <description>PhysTrace is a new tool that evaluates if AI models keep track of physical actions in video. This adds a layer of interpretability often missing in video model evaluations. Note, you'll need video modeling expertise to fully exploit it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
+      <guid isPermaLink="false">pepite-95eb6975ad245049</guid>
+      <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
+      <category>agents</category>
+      <description>A post about transforming database outcomes into learning signals for AI training via ThinkingBox. This lets developers turn practical data into useful training material. Not all frameworks readily support these techniques yet.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Donating Agent Skills to the Agentic AI Foundation</title>
+      <link>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</link>
+      <guid isPermaLink="false">pepite-f29afd1567254e52</guid>
+      <pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
+      <category>agents</category>
+      <description>An announcement about donating agent skills to a foundation focused on AI agents. This move aims to keep agent skills open and standardized, benefiting the community. It’ll appeal most to those involved in AI standards and governance, less so to everyday developers.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>[Paper] ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xd6115/paper_ready_recurrent_states_as_dynamic_context/</link>
+      <guid isPermaLink="false">pepite-d62bb485e1ec9132</guid>
+      <pubDate>Fri, 23 Oct 2026 06:05:58 +0000</pubDate>
+      <category>models</category>
+      <description>ReaDy proposes a new method for speculative AI drafting using recurrent states. This could make drafting more resource-efficient by using compact context states. However, the approach is still fairly theoretical and needs further exploration.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
       <link>https://www.latent.space/p/ainews-openais-patch-the-planet-program</link>
       <guid isPermaLink="false">pepite-dc028fea27bbb478</guid>
@@ -1362,145 +1502,5 @@
       <description>Janas lets you run large AI models even if your computer's RAM isn't huge. It streams part of the model from your hard drive, making big ideas possible on small machines. But you'll need an SSD and some patience.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>onehumanbeing/esp32-iphone-agent</title>
-      <link>https://github.com/onehumanbeing/esp32-iphone-agent</link>
-      <guid isPermaLink="false">pepite-c9fb523fc4a4c968</guid>
-      <pubDate>Sun, 11 Oct 2026 19:10:25 +0000</pubDate>
-      <category>repos</category>
-      <description>An ESP32-based project that lets iPhones be controlled like a regular computer using AI vision models. A clever workaround for phone automation that avoids the need for many official Apple tools and accounts. However, it's a DIY method, so some tech tinkering's required.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>deeplethe/solid-glass</title>
-      <link>https://github.com/deeplethe/solid-glass</link>
-      <guid isPermaLink="false">pepite-2b0ec09ec9abba70</guid>
-      <pubDate>Mon, 12 Oct 2026 09:19:02 +0000</pubDate>
-      <category>repos</category>
-      <description>Design system for AI agents with solid and stylish UI elements. It’s for those who want their AI interactions to look as good as they work. Not much help if you're not in the design space.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>web-edit 0.1a0</title>
-      <link>https://simonwillison.net/2026/Oct/12/web-edit/</link>
-      <guid isPermaLink="false">pepite-efadf9441346330c</guid>
-      <pubDate>Mon, 12 Oct 2026 15:54:36 +0000</pubDate>
-      <category>agents</category>
-      <description>A tool for editing files remotely without exposing credentials through LLMs. Handy for secure, mobile work. Still, it's a prototype and requires a specific network setup.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>open-source desktop agent app running its agents on local ollama models: two agents on qwen3.5:9b and qwen3.8 on a 16 gb card, real recording, including the limits i hit</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x4r3ht/opensource_desktop_agent_app_running_its_agents/</link>
-      <guid isPermaLink="false">pepite-2d99cbc78423d0b6</guid>
-      <pubDate>Tue, 13 Oct 2026 08:24:24 +0000</pubDate>
-      <category>agents</category>
-      <description>An open-source agent app that runs AI tasks on local models. No cloud means more privacy and direct control, using models like qwen3.5:9b. But you need a beefy local machine to realize its full potential.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>AI agent teams waste massive tokens for barely measurable quality gains, research finds</title>
-      <link>https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/</link>
-      <guid isPermaLink="false">pepite-e0e20b886a44f912</guid>
-      <pubDate>Sun, 11 Oct 2026 15:39:26 +0000</pubDate>
-      <category>agents</category>
-      <description>Research outlines how AI agent teams burn massive amounts of tokens for minimal quality jumps. The report suggests single-agent setups can be more cost-effective. But note: findings are preliminary and might not apply to all setups.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>AI agents overstate their results and remain far from autonomous research, study finds</title>
-      <link>https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/</link>
-      <guid isPermaLink="false">pepite-b99473607ce8d77d</guid>
-      <pubDate>Sun, 11 Oct 2026 13:44:32 +0000</pubDate>
-      <category>research</category>
-      <description>New studies highlight how current AI agents overplay their capabilities in research. It points out their shortcomings in critical reasoning and innovation. Keep in mind: it critiques existing models using specific metrics, not all-encompassing truths.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>These execs think voice AI hasn’t reached its ChatGPT moment yet</title>
-      <link>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</link>
-      <guid isPermaLink="false">pepite-778ab122b6ef9260</guid>
-      <pubDate>Sun, 11 Oct 2026 14:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>Voice AI hasn't hit its stride compared to text AI, industry voices suggest. They emphasize missing contextual understanding as a barrier to breakthroughs. Note: The path forward might still be under construction.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>zhuyansen/new-term-radar</title>
-      <link>https://github.com/zhuyansen/new-term-radar</link>
-      <guid isPermaLink="false">pepite-94394b7906504295</guid>
-      <pubDate>Mon, 12 Oct 2026 07:11:01 +0000</pubDate>
-      <category>repos</category>
-      <description>A GitHub tool called New-Term Radar that tracks surging AI names. It spots up-and-coming models, tools, and terms as soon as they're mentioned, helping content creators and SEO specialists stay ahead. Bear in mind: it's mostly useful if you're actively monitoring and utilizing these new terms.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'</title>
-      <link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
-      <guid isPermaLink="false">pepite-c438450e59dafebf</guid>
-      <pubDate>Mon, 12 Oct 2026 05:03:47 +0000</pubDate>
-      <category>finance</category>
-      <description>A lively discussion on Hacker News about Anthropic's much-talked-about IPO. It's described as a bold test of investor confidence, stirring up debates in tech circles. The catch: it's an opinion piece, so take it with a grain of skepticism.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>rociiu/talorys</title>
-      <link>https://github.com/rociiu/talorys</link>
-      <guid isPermaLink="false">pepite-9625442d060eb06e</guid>
-      <pubDate>Sat, 10 Oct 2026 09:46:56 +0000</pubDate>
-      <category>repos</category>
-      <description>Talorys is your personal AI assistant that runs on your own Cloudflare account. It keeps your data private while helping with tasks and reminders, all server-free. Heads up: it assumes you have a working setup with Cloudflare.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>The gap in shared understanding of LLM capability is widening</title>
-      <link>https://twitter.com/karpathy/status/2109361546505966046</link>
-      <guid isPermaLink="false">pepite-aedb2ec2fe859e79</guid>
-      <pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
-      <category>models</category>
-      <description>A Hacker News thread discusses the widening gap in understanding LLM capabilities. It offers a variety of viewpoints on how these models are perceived versus their actual performance. Remember: it's more about opinions than hard data.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p</title>
-      <link>https://github.com/SaarthurR/atticus-mac</link>
-      <guid isPermaLink="false">pepite-5949113c5f88a953</guid>
-      <pubDate>Mon, 12 Oct 2026 00:15:12 +0000</pubDate>
-      <category>models</category>
-      <description>Atticus is a voice assistant for Mac, made by a 9th grader, using Claude's tech for natural interaction. It shines by performing basic tasks without accessing AI, saving time and resources. Catch: it's currently built for Mac users, so others miss out.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed</title>
-      <link>https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/</link>
-      <guid isPermaLink="false">pepite-1167dd1e5ce85195</guid>
-      <pubDate>Mon, 12 Oct 2026 09:35:54 +0000</pubDate>
-      <category>other</category>
-      <description>AlphaProof Nexus from DeepMind has cracked open math problems, finally earning peer review. It raises the bar by solving long-standing challenges in the math community. On the flip side, it likely won't be ready for broader uses just yet.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics</title>
-      <link>http://arxiv.org/abs/2610.13889v1</link>
-      <guid isPermaLink="false">pepite-b25bd2eb53ffc534</guid>
-      <pubDate>Fri, 09 Oct 2026 17:38:11 +0000</pubDate>
-      <category>research</category>
-      <description>RATED is a framework designed to enhance tool retrieval reliability in AI agents. It dynamically adapts to tool failures, promoting consistency in AI performance. However, it's still very much a research concept with limited practical applications.
-
-— via arXiv</description>
     </item>
 </channel></rss>
