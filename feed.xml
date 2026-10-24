@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring</title>
+      <link>https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/</link>
+      <guid isPermaLink="false">pepite-7892ff4b949a3a7f</guid>
+      <pubDate>Fri, 23 Oct 2026 18:00:32 +0000</pubDate>
+      <category>agents</category>
+      <description>An audit at OpenAI has found gaps in safety monitoring for their AI agents. It highlights potential oversight in traffic from newer, more advanced models. Unfortunately, much of the detailed findings aren't public due to heavy redactions.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
+      <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
+      <guid isPermaLink="false">pepite-f699a3e5cdaf4929</guid>
+      <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI has decided to stop training its AI models on live internet data, citing risks. It's a move toward more controlled environments for model training. This may limit real-time adaptability until safer methods are developed.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5</title>
+      <link>https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/</link>
+      <guid isPermaLink="false">pepite-ad7e2ed0ec32ec4f</guid>
+      <pubDate>Fri, 23 Oct 2026 19:00:07 +0000</pubDate>
+      <category>models</category>
+      <description>Kimi K3.1 Pro continues to close the gap on top private AI models in terms of capability. It's climbing the ranks on benchmark tests. Watch out, though — it'll be a few weeks before you can get a hands-on trial with full weights.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Show HN: Corgi, a helpful {agent, terminal} multiplexer</title>
+      <link>https://corgi.computer/</link>
+      <guid isPermaLink="false">pepite-ec64bc858d70b472</guid>
+      <pubDate>Fri, 23 Oct 2026 19:46:38 +0000</pubDate>
+      <category>agents</category>
+      <description>Corgi is a tool that lets you see what your coding agents are doing. It boosts productivity with a simple glance at agent activities and a shortcut to switch focus. The downside? It might not suit heavy customization needs since it's early days.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>kitlangton/scrawl</title>
+      <link>https://github.com/kitlangton/scrawl</link>
+      <guid isPermaLink="false">pepite-f073fa0c875b6339</guid>
+      <pubDate>Wed, 14 Oct 2026 23:21:44 +0000</pubDate>
+      <category>repos</category>
+      <description>Scrawl lets you record your screen and interactions while solving problems for AI agents. It captures screen recordings, voice, and annotations into neat bundles for analysis. But you'll need an Apple Silicon Mac for it as it relies on certain OS features.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>yeyuxin777/baoyan-agent-benchmark</title>
+      <link>https://github.com/yeyuxin777/baoyan-agent-benchmark</link>
+      <guid isPermaLink="false">pepite-12520fb90fd3ec54</guid>
+      <pubDate>Mon, 12 Oct 2026 09:15:11 +0000</pubDate>
+      <category>repos</category>
+      <description>The Baoyan Agent Benchmark tests different configurations of AI agents for student advising tasks. It offers a range of scenarios with detailed evaluations. Just be prepared: the tasks are all in Chinese, which may limit accessibility.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Kimi K3.1 Pro and K3.1 Pro Highspeed</title>
+      <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
+      <guid isPermaLink="false">pepite-9082628811c7868f</guid>
+      <pubDate>Fri, 23 Oct 2026 16:59:08 +0000</pubDate>
+      <category>models</category>
+      <description>The Kimi K3.1 Pro models offer an open-source option that competes with top AI models. They're on par with leading competitors while being cost-effective. The catch is the weights aren't open yet but are promised soon.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Introducing Kimi K3.1 Pro</title>
+      <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
+      <guid isPermaLink="false">pepite-6c51129e93f61d6b</guid>
+      <pubDate>Fri, 23 Oct 2026 19:40:54 +0000</pubDate>
+      <category>research</category>
+      <description>Kimi K3.1 Pro just launched on the Kimi API, promising fast output for a decent price. It's a solid competitor with its speed and cost advantages. For now, full access to the model weights will require waiting until November 4th.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Quick Study</title>
+      <link>https://simonwillison.net/2026/Oct/23/quick-study-painter/</link>
+      <guid isPermaLink="false">pepite-18216b018fb1ff4f</guid>
+      <pubDate>Fri, 23 Oct 2026 21:35:13 +0000</pubDate>
+      <category>models</category>
+      <description>A post highlights a prompt tool for quick art-style transformations using Claude. It's a neat way to get a painterly effect on photos fast. However, it relies on some technical setup for edge detection and doesn't use external libraries except fonts.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models</title>
+      <link>http://arxiv.org/abs/2610.31478v1</link>
+      <guid isPermaLink="false">pepite-bc3cc1a28f111953</guid>
+      <pubDate>Thu, 22 Oct 2026 16:03:47 +0000</pubDate>
+      <category>research</category>
+      <description>MoG-VLM offers an approach for detecting video anomalies using vision-language models. It uses smart sampling to focus processing on important bits of video. Just note, it may struggle in real-time deployments due to required dense computations.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Show HN: agent-usage-guard – a Claude Code mod to protect your usage window</title>
+      <link>https://github.com/rbartoli/agent-usage-guard</link>
+      <guid isPermaLink="false">pepite-190a208e017a97ad</guid>
+      <pubDate>Thu, 22 Oct 2026 18:02:38 +0000</pubDate>
+      <category>agents</category>
+      <description>Agent-usage-guard is discussed as a mod to protect your agent usage window with Claude Code. It's helpful to manage and safeguard usage. However, real-world applications might need more robust handling beyond basic scopes.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>A Unified Framework for Image-to-3D Part Generation via Variable Granularity</title>
+      <link>http://arxiv.org/abs/2610.31671v1</link>
+      <guid isPermaLink="false">pepite-6ccfb6bb16da469b</guid>
+      <pubDate>Thu, 22 Oct 2026 17:59:53 +0000</pubDate>
+      <category>research</category>
+      <description>FlexPart is a 3D part generation framework that adapts to different input levels. It offers control over the granularity of the design process. The challenge? Integrating it into existing workflows may require some effort.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>LACToS: Local Anomaly Detection via Conditional Typicality of Superpixels</title>
+      <link>http://arxiv.org/abs/2610.31538v1</link>
+      <guid isPermaLink="false">pepite-be52eb33b3c98486</guid>
+      <pubDate>Thu, 22 Oct 2026 16:46:09 +0000</pubDate>
+      <category>research</category>
+      <description>LACToS detects anomalies in images by focusing on specific regions. It's designed to handle multimodal datasets well. Performance might drop if you're outside its typical contexts like industrial setups.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Sam Altman: OpenAI's best model "can't responsibly be open-sourced" until the world builds better cyberdefense and bio-security</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be/</link>
+      <guid isPermaLink="false">pepite-21a343421bc9230e</guid>
+      <pubDate>Sat, 24 Oct 2026 05:41:18 +0000</pubDate>
+      <category>models</category>
+      <description>Sam Altman talks about the challenges of open-sourcing OpenAI's most advanced models. Concerns focus on ensuring robust defenses are in place first. There's a clear tension between transparency and safety here.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Designing an AI serving harness built to last</title>
       <link>https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/</link>
       <guid isPermaLink="false">pepite-712bc0d815dcfe0f</guid>
@@ -1362,145 +1502,5 @@
       <description>Game2Real-Bench studies if skills learned in games translate to real-world tasks. It gives deeper insights into AI's visual reasoning capabilities. However, it's a benchmark framework, not an application you can directly apply.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning</title>
-      <link>http://arxiv.org/abs/2610.18862v1</link>
-      <guid isPermaLink="false">pepite-53b1aad973abf94d</guid>
-      <pubDate>Tue, 13 Oct 2026 17:59:32 +0000</pubDate>
-      <category>research</category>
-      <description>DoubtLess offers a decoding method to streamline reasoning chains in AI models. It does this without extra training, seeking efficient brevity. It's an advanced technique suitable for those already comfortable with tweaking model behavior.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Redesigning source control at Anthropic</title>
-      <link>https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/</link>
-      <guid isPermaLink="false">pepite-49aae9e462bc00ae</guid>
-      <pubDate>Tue, 13 Oct 2026 23:00:06 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic showcases a new source control system built for high-speed development changes. It's an internal tool for handling an immense number of updates. As a custom system, it's not something available outside their organization.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.35</title>
-      <link>https://simonwillison.net/2026/Oct/13/llm-gemini/</link>
-      <guid isPermaLink="false">pepite-4a863ac766466900</guid>
-      <pubDate>Tue, 13 Oct 2026 22:28:54 +0000</pubDate>
-      <category>models</category>
-      <description>llm-gemini 0.35 includes support for a new AI model, Gemini 4 Argon. It's part of a premium subscription service. Ideal if you're exploring creative AI works, like generating SVGs efficiently.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Train LoRA directly on Quantized GGUFs, no PyTorch, no Parent(FP16) needed, just your GGUF and the data</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/</link>
-      <guid isPermaLink="false">pepite-7bb5688cda75bfec</guid>
-      <pubDate>Wed, 14 Oct 2026 05:34:47 +0000</pubDate>
-      <category>models</category>
-      <description>A guide on how to train models using LoRA directly on quantized files. This method avoids PyTorch or other heavy frameworks. Remember: it's very specific to environments using GGUF and might not support every workflow.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] Meta Muse Wonder &amp; Wonder Full: MSL’s Claude 5.5-tier Frontier Model</title>
-      <link>https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder</link>
-      <guid isPermaLink="false">pepite-a2c304623a61d6cf</guid>
-      <pubDate>Tue, 13 Oct 2026 09:37:04 +0000</pubDate>
-      <category>models</category>
-      <description>MSL's latest model release to compete with top AI players like Claude 5.5. Shows how serious MSL is in pushing the AI frontier. Details are hot off the press and still scarce.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>AI labs are buying data from dead startups to train their models</title>
-      <link>https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/</link>
-      <guid isPermaLink="false">pepite-45ad9337ee37b95b</guid>
-      <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
-      <category>models</category>
-      <description>AI labs buying datasets from failed startups to train models. It's a chance to use valuable data that otherwise goes to waste. The catch? Owning or rights to this data is a gray area.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>How Anthropic’s Dynamic Workflows Coordinate Claude Agents</title>
-      <link>https://www.latent.space/p/claude-dynamic-workflows</link>
-      <guid isPermaLink="false">pepite-13b0230e9df62ae9</guid>
-      <pubDate>Mon, 12 Oct 2026 18:18:17 +0000</pubDate>
-      <category>agents</category>
-      <description>Anthropic's method using AI agents to keep big projects manageable. Inspired by the organizing principles of Unix and Linux. It's promising but mostly applies to large-scale, complex projects.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Clearing chat history helps AI agents find better solutions</title>
-      <link>https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/</link>
-      <guid isPermaLink="false">pepite-1acf0dfe77fe33d7</guid>
-      <pubDate>Mon, 12 Oct 2026 16:10:00 +0000</pubDate>
-      <category>agents</category>
-      <description>Microsoft's 'Fork-and-Flush' tactic clears old chat data to improve AI problem-solving. Fresh thinking can emerge, improving results by up to 66%. Practical only if your setup allows managing chat histories.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic's Andrej Karpathy says "the external world has seen the preview" of what AI can actually do</title>
-      <link>https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/</link>
-      <guid isPermaLink="false">pepite-edcf66fac0dafcde</guid>
-      <pubDate>Mon, 12 Oct 2026 12:51:21 +0000</pubDate>
-      <category>agents</category>
-      <description>AI's ever-expanding capabilities outside public awareness. Contrasts the elite few with inside knowledge with the general public's basic understanding. More a commentary than actionable insights.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic's Claude AI submitted false murder tip to Philadelphia police</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/</link>
-      <guid isPermaLink="false">pepite-1cb84cfd891ad0c0</guid>
-      <pubDate>Mon, 12 Oct 2026 18:21:36 +0000</pubDate>
-      <category>models</category>
-      <description>“I may have information regarding this case," Claude AI told Philly police.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots</title>
-      <link>https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/</link>
-      <guid isPermaLink="false">pepite-307489fe487be004</guid>
-      <pubDate>Mon, 12 Oct 2026 17:58:54 +0000</pubDate>
-      <category>finance</category>
-      <description>Sakana AI’s process helps models self-improve through practical tasks. It nearly reaches a 70% success rate in self-testing tasks. However, it sometimes amplifies its own blind spots if not checked.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>A look at the math that OpenAI claims computes faster Fourier transforms</title>
-      <link>https://www.argmin.net/p/faster-fourier-transforms</link>
-      <guid isPermaLink="false">pepite-d21b118808311542</guid>
-      <pubDate>Tue, 13 Oct 2026 02:46:43 +0000</pubDate>
-      <category>other</category>
-      <description>A discussion on OpenAI's new method for faster Fourier transforms. This could significantly speed up complex calculations in AI and other tech areas. The math is out there, but you might need a deep math hat to really get into it.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>I turned my unused Kindle into a photo frame with GPT-6 Astra</title>
-      <link>https://nirajrajgor.com/blog/kindle-photo-frame-with-ai</link>
-      <guid isPermaLink="false">pepite-2d9306d33373e91e</guid>
-      <pubDate>Mon, 12 Oct 2026 23:07:25 +0000</pubDate>
-      <category>models</category>
-      <description>A project turning an old Kindle into a photo frame using AI. It's a creative way to repurpose tech you probably have lying around. Just a fun side project — don't expect full smart display features.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Janas: Run LLMs larger than RAM by streaming experts from SSD</title>
-      <link>https://github.com/prabanta-dev/janas</link>
-      <guid isPermaLink="false">pepite-2b5b6385f9d8ce54</guid>
-      <pubDate>Mon, 12 Oct 2026 22:05:43 +0000</pubDate>
-      <category>models</category>
-      <description>Janas lets you run large AI models even if your computer's RAM isn't huge. It streams part of the model from your hard drive, making big ideas possible on small machines. But you'll need an SSD and some patience.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
