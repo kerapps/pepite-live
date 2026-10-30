@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Building AIE CODE: The top Coding Agent Conference</title>
+      <link>https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/</link>
+      <guid isPermaLink="false">pepite-371b1e06db16bd42</guid>
+      <pubDate>Fri, 30 Oct 2026 08:24:29 +0000</pubDate>
+      <category>agents</category>
+      <description>A recap of the AIE CODE conference, highlighting cutting-edge coding agents and new AI tools. Mistral's open-weight models were a key focus, promising more flexible applications. But it’s more an event summary than a product you can use today.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up</title>
+      <link>https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/</link>
+      <guid isPermaLink="false">pepite-a3ff9c6ea8f94e7d</guid>
+      <pubDate>Thu, 29 Oct 2026 20:01:27 +0000</pubDate>
+      <category>finance</category>
+      <description>OpenAI increases usage limits on its Pro plans. This move enhances value just as Anthropic prepares to go public. Not much changes unless you're already on those plans.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses</title>
+      <link>https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/</link>
+      <guid isPermaLink="false">pepite-5d2dac20389eaa69</guid>
+      <pubDate>Thu, 29 Oct 2026 13:20:14 +0000</pubDate>
+      <category>models</category>
+      <description>As Anthropic tightens model sharing, Chinese AI labs shift to using OpenAI's top model, GPT-6 Astra. It shows a strategic shift in AI tool adoption. This trend matters mostly for those deeply involved in international AI markets.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Show HN: I Turned DOOM into a Transformer</title>
+      <link>https://github.com/mottopanikeiku/doomformer</link>
+      <guid isPermaLink="false">pepite-28c84f7d199d074d</guid>
+      <pubDate>Thu, 29 Oct 2026 23:25:46 +0000</pubDate>
+      <category>other</category>
+      <description>Someone turned the game DOOM into a tool for learning AI. This project uses the game's logic to mimic complex math operations, essentially as an alternative to the Python library NumPy. It's slow, running about 65,000 times slower than typical setups, so it's more a cool concept than a practical tool.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>wangzan101/Mika</title>
+      <link>https://github.com/wangzan101/Mika</link>
+      <guid isPermaLink="false">pepite-778a31b372c6e1ee</guid>
+      <pubDate>Thu, 29 Oct 2026 14:34:07 +0000</pubDate>
+      <category>repos</category>
+      <description>Mika is an AI agent that uses your Android phone to perform tasks across apps and websites without disrupting your use. It acts like a human by seeing the screen and pressing buttons. The catch: it's Android-only, meaning iOS users are left out.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>A tiny world model running games on a Raspberry Pi Pico 2 W</title>
+      <link>https://github.com/SheepSeb/tinyworldformer</link>
+      <guid isPermaLink="false">pepite-aa66227182b73c1c</guid>
+      <pubDate>Thu, 29 Oct 2026 20:32:28 +0000</pubDate>
+      <category>models</category>
+      <description>A small world model that can run games on the Raspberry Pi Pico 2 W. This is exciting because it shows you can run AI models on very cheap and small hardware. However, it's quite limited in power, so it's not for heavy-duty tasks.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks</title>
+      <link>https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler</link>
+      <guid isPermaLink="false">pepite-e3cbb59e3529abbb</guid>
+      <pubDate>Thu, 29 Oct 2026 15:45:05 +0000</pubDate>
+      <category>other</category>
+      <description>A new scheduler can boost GPU usability by 27% from existing hardware setups. This could mean big savings and efficiency for those running large AI models. The limitation: it's not yet a plug-and-play solution for all, depending heavily on specific infrastructure.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>qybaihe/bla</title>
+      <link>https://github.com/qybaihe/bla</link>
+      <guid isPermaLink="false">pepite-cc8edc39bcedf2c5</guid>
+      <pubDate>Sun, 25 Oct 2026 05:25:45 +0000</pubDate>
+      <category>repos</category>
+      <description>BLA is a security tool for protecting against reverse-engineering attacks on various software components. It auto-discovers and audits software packages to defend and verify them. It’s specialized and might need manual tweaking for certain uncommon setups.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>On the Fundamental Limits of Prefill-Based Decoding Length Prediction</title>
+      <link>http://arxiv.org/abs/2610.40541v1</link>
+      <guid isPermaLink="false">pepite-343a91bf5835c8c1</guid>
+      <pubDate>Thu, 29 Oct 2026 17:36:01 +0000</pubDate>
+      <category>research</category>
+      <description>Research paper on prediction limits of how long AI models take to give responses. Important for understanding and reducing the unpredictability in AI. The real-world application is limited since it’s still very much academic research.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Difficulty Calibration Across Time for Membership Inference in Diffusion Models</title>
+      <link>http://arxiv.org/abs/2610.40616v1</link>
+      <guid isPermaLink="false">pepite-24ac6eb12d6b095b</guid>
+      <pubDate>Thu, 29 Oct 2026 17:54:54 +0000</pubDate>
+      <category>research</category>
+      <description>A study aiming to improve how well AI distinguishes whether an image was part of its training set. Helps slow down attacks that could leak private data from models. Yet, the approach could complicate existing systems with new calibration requirements.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Glance: The Generator Is Its Own Reranker</title>
+      <link>http://arxiv.org/abs/2610.40454v1</link>
+      <guid isPermaLink="false">pepite-8741315b2c9ee950</guid>
+      <pubDate>Thu, 29 Oct 2026 17:01:22 +0000</pubDate>
+      <category>research</category>
+      <description>Glance combines role of judging relevance and generating answers in AI systems, using less memory and processing. A potential boon for efficiency in AI search and answers. Its implementation is complex, demanding specific tuning and fine-tuning.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>API credits benefit for eligible ChatGPT subscriptions</title>
+      <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
+      <guid isPermaLink="false">pepite-32e3919a05879071</guid>
+      <pubDate>Thu, 29 Oct 2026 22:48:29 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI and Anthropic now give API credits equal to subscription costs, a bonus for paying users. This encourages more frequent and varied API use without extra cost. If you're not already subscribing, this perk isn't available.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Building a multiplayer game world with autonomous Fable-class models</title>
+      <link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link>
+      <guid isPermaLink="false">pepite-a80dd20eaec84f5f</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:26 +0000</pubDate>
+      <category>agents</category>
+      <description>Spawn is a multiplayer game world built with advanced AI models where players use prompts to shape the environment. It shows an immersive and interactive use of AI in gaming. It's more of an experimental setup than a polished game.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>AlpaJudge: NVIDIA's Learned Judges for Autonomous-Driving Reasoning</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xj89xx/alpajudge_nvidias_learned_judges_for/</link>
+      <guid isPermaLink="false">pepite-42026ae282f371f8</guid>
+      <pubDate>Fri, 30 Oct 2026 06:50:25 +0000</pubDate>
+      <category>agents</category>
+      <description>AlpaJudge is a model by NVIDIA to assist with decision making in autonomous driving, available on Hugging Face. It simplifies evaluating driving decisions. Yet, it's still in early stages and primarily for research and tinkering.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders</title>
       <link>https://latent.space/p/ainews-gemini-4-carbon/</link>
       <guid isPermaLink="false">pepite-8266ea920e518e8f</guid>
@@ -1362,145 +1502,5 @@
       <description>A paper introduces a framework using game theory to combat phone scams. AI agents dynamically engage scammers to drain their resources. While promising, the approach’s effectiveness relies heavily on accurate strategy adaptation.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token</title>
-      <link>http://arxiv.org/abs/2610.26857v1</link>
-      <guid isPermaLink="false">pepite-9fa89f4a8a775090</guid>
-      <pubDate>Mon, 19 Oct 2026 17:59:56 +0000</pubDate>
-      <category>research</category>
-      <description>A new method for improving video matting consistency over time. It reduces flickering issues over video chunks, ensuring clearer transitions. The downside is its high computational need, which limits usage to only short video sections.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>My obituary for programming</title>
-      <link>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</link>
-      <guid isPermaLink="false">pepite-6c096b15e9b9bd77</guid>
-      <pubDate>Mon, 19 Oct 2026 23:58:25 +0000</pubDate>
-      <category>agents</category>
-      <description>A reflective piece on how coding agents change the programming landscape. It highlights the shift away from complex problem-solving as a valued specialty. It’s more of an opinion piece and doesn’t provide practical solutions or forecasts.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>[AINews] not much happened today</title>
-      <link>https://www.latent.space/p/ainews-not-much-happened-today-f09</link>
-      <guid isPermaLink="false">pepite-4d5d66fe73afb35f</guid>
-      <pubDate>Tue, 20 Oct 2026 05:21:52 +0000</pubDate>
-      <category>models</category>
-      <description>A newsletter summarizing minimal news in AI developments. Recognizing some smaller project milestones, it offers a lighter update. Bear in mind, there’s no deep dive, just surface-level coverage of small updates.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>How To Use Decision Models for Evals</title>
-      <link>https://hamel.dev/blog/posts/decision-model-evals/</link>
-      <guid isPermaLink="false">pepite-48ac9eccb51bdf6e</guid>
-      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
-      <category>finance</category>
-      <description>An explainer on using decision models for AI evaluations. Promising quick and cost-effective classification, they’re a new tool in the AI toolbox. Catch: they might not yet handle complex, nuanced evaluations.
-
-— via Hamel Husain</description>
-    </item>
-    <item>
-      <title>Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours</title>
-      <link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</link>
-      <guid isPermaLink="false">pepite-cd9ee83649ac9c5f</guid>
-      <pubDate>Sun, 18 Oct 2026 13:22:26 +0000</pubDate>
-      <category>agents</category>
-      <description>With AI agents working more hours, companies like Anthropic are reducing junior hires. It's reshaping the workforce dynamics quite rapidly. Risks include future talent shortages as less training occurs.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Four Gemini 4 Argon agents beat Minecraft without any human help</title>
-      <link>https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/</link>
-      <guid isPermaLink="false">pepite-18d978c9e698ef6b</guid>
-      <pubDate>Sun, 18 Oct 2026 12:39:51 +0000</pubDate>
-      <category>agents</category>
-      <description>Google's AI agents autonomously beat Minecraft, marking a significant milestone in gaming. They did it by coordinating without human help. The cost: $1,620 in resources, showing it's not yet feasible for everyone.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals</title>
-      <link>https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/</link>
-      <guid isPermaLink="false">pepite-ab11bc2f14a38ff0</guid>
-      <pubDate>Sun, 18 Oct 2026 09:11:29 +0000</pubDate>
-      <category>agents</category>
-      <description>Anthropic is laying groundwork for AI agents to negotiate deals, consulting lawyers for fair processes. This is foresight in legal AI use. The challenge is that establishing these norms is complex and still developing.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
-      <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
-      <guid isPermaLink="false">pepite-efeb3746fdd37d80</guid>
-      <pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
-      <category>other</category>
-      <description>Anthropic pledges 5% of its shares to a new public benefit fund. It's a move toward community-focused business practices. Details on how the fund will operate are still sparse.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>If you don't run your own LLM proxy, how do you know whats going on?</title>
-      <link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</link>
-      <guid isPermaLink="false">pepite-ace047af60ce1d25</guid>
-      <pubDate>Sun, 18 Oct 2026 21:09:12 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on why running your own LLM proxy is crucial. It ensures you know exactly what's happening with your AI model interactions. The trade-off: it requires additional setup and maintenance.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</title>
-      <link>https://arxiv.org/abs/2610.18861</link>
-      <guid isPermaLink="false">pepite-17941c4d5cef6485</guid>
-      <pubDate>Sun, 18 Oct 2026 20:48:14 +0000</pubDate>
-      <category>finance</category>
-      <description>A discussion around Hybrid Reasoning Agents that use latent space for thought and text for action. They promise a more flexible way to handle complex reasoning tasks. But it's early-stage — mainly academic for now.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Websites are closing their doors to AI agents</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-      <guid isPermaLink="false">pepite-17d9756f609c8552</guid>
-      <pubDate>Sun, 18 Oct 2026 14:58:10 +0000</pubDate>
-      <category>agents</category>
-      <description>Websites are increasingly blocking AI agents. This move is a direct response to concerns about scraping and misuse of content. The catch: it's making it harder for the agents to access real-time data.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>LiCinCan/blender-ai-mcp-addon</title>
-      <link>https://github.com/LiCinCan/blender-ai-mcp-addon</link>
-      <guid isPermaLink="false">pepite-822cec626c7be19d</guid>
-      <pubDate>Thu, 15 Oct 2026 22:30:47 +0000</pubDate>
-      <category>repos</category>
-      <description>An addon for Blender that automates scene arrangement and exports with AI. It's like having an assistant to speed up repetitive tasks. The downside: limited to Blender users and still maturing in features.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Zfinix/eleven</title>
-      <link>https://github.com/Zfinix/eleven</link>
-      <guid isPermaLink="false">pepite-9d986c14d077b816</guid>
-      <pubDate>Tue, 13 Oct 2026 13:47:31 +0000</pubDate>
-      <category>repos</category>
-      <description>A reverse-engineering app using agents to analyze code and suggest changes. It's notable for its cross-platform support and real-time interaction. However, it might not suit non-technical users as it involves code analysis.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>llm-echo 0.5</title>
-      <link>https://simonwillison.net/2026/Oct/18/llm-echo/</link>
-      <guid isPermaLink="false">pepite-8f1b78fcf0c44ef0</guid>
-      <pubDate>Sun, 18 Oct 2026 23:16:16 +0000</pubDate>
-      <category>models</category>
-      <description>llm-echo 0.5 is a debugging tool that echoes back prompts to simulate LLM responses. It's useful for debugging prompt structure and logic. It's not a real LLM, so there's no actual language understanding happening.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
