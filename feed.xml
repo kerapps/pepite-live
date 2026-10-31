@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making</title>
+      <link>https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/</link>
+      <guid isPermaLink="false">pepite-a755c4372bc4ffd4</guid>
+      <pubDate>Fri, 30 Oct 2026 19:42:59 +0000</pubDate>
+      <category>agents</category>
+      <description>A Claude model performed a complete brain surgery on a mouse without human choices. It's a big step in autonomous AI medical procedures. Yet, a calibration error stopped the AI mid-way, showing it's not quite foolproof yet.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
+      <link>https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</link>
+      <guid isPermaLink="false">pepite-93351cbb4cc44286</guid>
+      <pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
+      <category>agents</category>
+      <description>An Anthropic VS Code extension faced a backdoor issue, risking user security. It's a reminder of the constant vigilance needed in security. The cause is still unknown, leaving users on edge.
+
+— via Ars Technica AI</description>
+    </item>
+    <item>
+      <title>OpenAI sets new behavioral guidelines for AI models that have already proven hard to control</title>
+      <link>https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/</link>
+      <guid isPermaLink="false">pepite-323a9d9132be2e6e</guid>
+      <pubDate>Fri, 30 Oct 2026 17:44:59 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI has updated guidelines for its AI behavior, focusing on aligning better with human intentions. It's a move to make models more user-friendly. Effectiveness is yet to be proven as the models adapt to new standards.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
+      <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</link>
+      <guid isPermaLink="false">pepite-c6b2d3ea79170b2a</guid>
+      <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
+      <category>other</category>
+      <description>Nvidia may back a new AI data center in West Virginia. With its support, the project could have a better chance against funding challenges. It's still up in the air how Nvidia's involvement will play out.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>boardshogunfluctuate/Capri-AI</title>
+      <link>https://github.com/boardshogunfluctuate/Capri-AI</link>
+      <guid isPermaLink="false">pepite-7e0548283091e3f4</guid>
+      <pubDate>Fri, 30 Oct 2026 22:03:48 +0000</pubDate>
+      <category>repos</category>
+      <description>Capri-AI is a new tool to control your computer using AI assistants like Claude Code or Codex. It makes directing AI to manage files and projects as easy as clicking around. But it only runs on Windows 10 or newer, so Mac and Linux users are out of luck.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>OpenAI raises less than half of $30B target</title>
+      <link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
+      <guid isPermaLink="false">pepite-217c69fbd56a60eb</guid>
+      <pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
+      <category>finance</category>
+      <description>OpenAI is in the spotlight for raising less than half of its $30 billion target. It's a significant shortfall given the hype around AI. The reason for the gap isn't entirely clear yet, sparking lots of discussion.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Anthropic to receive high 'junk' rating from credit agencies following IPO</title>
+      <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
+      <guid isPermaLink="false">pepite-162d6fce0877d4f3</guid>
+      <pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
+      <category>finance</category>
+      <description>Anthropic might get a high 'junk' credit rating post-IPO. This could impact investor confidence despite the company's big strides in AI. Keep in mind, though, credit ratings aren't the whole story on business potential.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>N1nEmAn/sapper-v2</title>
+      <link>https://github.com/N1nEmAn/sapper-v2</link>
+      <guid isPermaLink="false">pepite-208cf56cbec083dd</guid>
+      <pubDate>Fri, 30 Oct 2026 15:12:35 +0000</pubDate>
+      <category>repos</category>
+      <description>Sapper V2 isn't just one AI, but a whole team working together. It uses multiple AIs to share tasks and learn collectively, retaining knowledge even if one 'dies.' However, it's still at the mercy of needing a solid structure to manage their cooperation.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents</title>
+      <link>https://news.ycombinator.com/item?id=50291116</link>
+      <guid isPermaLink="false">pepite-f0305f8a6ee81de3</guid>
+      <pubDate>Thu, 29 Oct 2026 15:56:32 +0000</pubDate>
+      <category>agents</category>
+      <description>Simantic offers firmware simulation for testing AI without hardware. It's a neat way for engineers to validate ideas quickly. The downside: it's fresh tech, so could face adoption hurdles in conservative industries.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Don't Lose the Thread: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation</title>
+      <link>http://arxiv.org/abs/2610.40350v1</link>
+      <guid isPermaLink="false">pepite-66e3cab4b3dfd08f</guid>
+      <pubDate>Thu, 29 Oct 2026 16:07:10 +0000</pubDate>
+      <category>research</category>
+      <description>The paper suggests a new method called Cognitive Resource Self-Allocation (CORAL) for AI agents handling long, complex tasks. It helps manage cognitive load to avoid distractions. Right now, it's more theory than practical tech, so some patience is required.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SCARL: Sequence Confidence-Aligned Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2610.40407v1</link>
+      <guid isPermaLink="false">pepite-aaf2b367657408f4</guid>
+      <pubDate>Thu, 29 Oct 2026 16:38:11 +0000</pubDate>
+      <category>research</category>
+      <description>SCARL is a method for training AI in a smarter way using reinforcement learning. It focuses on aligning confidence in AI's choices with its rewards for better learning. However, it's currently at the research stage, so don't expect to implement it right away.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>dbreunig/nesformer</title>
+      <link>https://simonwillison.net/2026/Oct/30/nesformer/</link>
+      <guid isPermaLink="false">pepite-4e2c9c66b20a8391</guid>
+      <pubDate>Fri, 30 Oct 2026 21:59:22 +0000</pubDate>
+      <category>models</category>
+      <description>Nesformer is an emulator running NES games within an AI model. Playing games like Super Mario Bros inside AI showcases curious tech exploration. Unfortunately, it's slow, which means it's mainly a novelty for now.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races</title>
+      <link>http://arxiv.org/abs/2610.40613v1</link>
+      <guid isPermaLink="false">pepite-035024bfedd5c7f3</guid>
+      <pubDate>Thu, 29 Oct 2026 17:54:12 +0000</pubDate>
+      <category>research</category>
+      <description>TextSeal2 offers a way to watermark AI-generated text without changing how it looks or slowing it down. It's a step forward for ensuring authenticity in AI outputs. Just keep in mind it's evolving tech that might not fit every need yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Lawyer with too many GPUs, part 3: DeepSeek-V4.1-Flash on 2x DGX Spark + an old 3090 box. 2,600+ tok/s prefill to 256K, 322 tok/s structured output, full stack and raw data published</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xk20x5/lawyer_with_too_many_gpus_part_3_deepseekv41flash/</link>
+      <guid isPermaLink="false">pepite-89b6ec60b2866d15</guid>
+      <pubDate>Sat, 31 Oct 2026 05:32:04 +0000</pubDate>
+      <category>research</category>
+      <description>In a bold benchmarking push, a lawyer tested DeepSeek-V4.1-Flash using a massive GPU setup. It achieves high speed in processing text, showing the power of modern hardware. But this setup isn't practical for most due to its massive cost and space need.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] Building AIE CODE: The top Coding Agent Conference</title>
       <link>https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/</link>
       <guid isPermaLink="false">pepite-371b1e06db16bd42</guid>
@@ -1362,145 +1502,5 @@
       <description>Tracely-ai repo freezes issues from failing AI agent runs for easy tracking. It lets you catch bugs before they go live by converting failures into reproducible tests. The hitch? It begins by asking you to manually build test datasets.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>TraceLite: Efficient Trace Reduction for SWE Agents via Optical Compression and Redundancy Removal</title>
-      <link>http://arxiv.org/abs/2610.28612v1</link>
-      <guid isPermaLink="false">pepite-751c1be0c8ffc22e</guid>
-      <pubDate>Tue, 20 Oct 2026 17:53:35 +0000</pubDate>
-      <category>research</category>
-      <description>A research paper on compressing data for software engineering agents. It discusses using optical compression without additional training. But, it's an early-stage study, light on practical tools.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates</title>
-      <link>http://arxiv.org/abs/2610.28604v1</link>
-      <guid isPermaLink="false">pepite-8fb7ca45013a5659</guid>
-      <pubDate>Tue, 20 Oct 2026 17:48:56 +0000</pubDate>
-      <category>finance</category>
-      <description>A paper analyzing the values in AI-generated debates, using a new metric framework. It showcases how value expression and organization differ in AI discussions. You’ll need a good grasp on value theory to make full sense of it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>What Do RTL Repair Benchmarks Actually Measure?</title>
-      <link>http://arxiv.org/abs/2610.28595v1</link>
-      <guid isPermaLink="false">pepite-77af4e006029e8b2</guid>
-      <pubDate>Tue, 20 Oct 2026 17:45:57 +0000</pubDate>
-      <category>finance</category>
-      <description>A paper questioning what RTL repair benchmarks really assess. It introduces new datasets for evaluating AI model repairs more accurately. But right now, it's model-specific without broader applicability.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>KRAFTON/Raon-1-mini-preview · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xbh0ev/kraftonraon1minipreview_hugging_face/</link>
-      <guid isPermaLink="false">pepite-29924a5e1aac983a</guid>
-      <pubDate>Wed, 21 Oct 2026 07:54:08 +0000</pubDate>
-      <category>research</category>
-      <description>KRAFTON's Raon-1 mini lays claim to AI prowess in Korean and English tasks. It's showing real versatility and is freely available under an open license. Yet, it's part of an ongoing development, so expect ongoing tweaks and changes.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
-      <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
-      <guid isPermaLink="false">pepite-0e19bec78e364455</guid>
-      <pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
-      <category>agents</category>
-      <description>Microsoft warns about the potential threats posed by independent AI agents. This suggests a closer regulatory watch on third-party models in corporate environments. However, the article doesn’t outline specific solutions for mitigating these risks.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</title>
-      <link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
-      <guid isPermaLink="false">pepite-141841bfba33c1b9</guid>
-      <pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
-      <category>agents</category>
-      <description>Hackers compromised an AI coding tool platform, leading to user account misuse. This raises concerns about security measures in open-source AI tools. Note: the incident highlights the need for robust security but doesn’t offer immediate fixes.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
-      <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
-      <guid isPermaLink="false">pepite-2eba6fdc38ff53cf</guid>
-      <pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
-      <category>other</category>
-      <description>Hugging Face's policy chief discusses the challenges of embedding AI evaluators. Embedded neutral observers in AI might not simplify safety solutions as hoped. This perspective lacks details on potential alternatives or action steps.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>AndreSzymanski15/ai-jailbreaks</title>
-      <link>https://github.com/AndreSzymanski15/ai-jailbreaks</link>
-      <guid isPermaLink="false">pepite-7e50efe6ae4f710a</guid>
-      <pubDate>Mon, 19 Oct 2026 17:14:07 +0000</pubDate>
-      <category>repos</category>
-      <description>A collection of ready-to-use AI jailbreak prompts. It helps developers understand model behaviors and reinforce against prompt injections. The catch: it's raw data, so you'll need to sift through without summaries or analyses.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18</title>
-      <link>https://bsd.network/@brynet/117407035545900963</link>
-      <guid isPermaLink="false">pepite-7028806a19e85b78</guid>
-      <pubDate>Mon, 19 Oct 2026 21:11:45 +0000</pubDate>
-      <category>other</category>
-      <description>OpenBSD's new release incorporates Linux graphics drivers. This means better support for newer hardware thanks to using more up-to-date drivers. But if you're a pure OpenBSD fan, this blend with Linux might feel uncomfortable.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>alchaincyf/huashu-motion</title>
-      <link>https://github.com/alchaincyf/huashu-motion</link>
-      <guid isPermaLink="false">pepite-7c915e3bf8786e8b</guid>
-      <pubDate>Sun, 18 Oct 2026 12:19:27 +0000</pubDate>
-      <category>repos</category>
-      <description>A tool for creating animated product launch videos using AI. It offers a hands-off approach, where a coding agent does most of the heavy lifting in animation and music. The downside: it’s tied to specific AI environments and might not fit all use cases.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces</title>
-      <link>https://news.ycombinator.com/item?id=50154029</link>
-      <guid isPermaLink="false">pepite-496664bee42fb662</guid>
-      <pubDate>Mon, 19 Oct 2026 16:00:18 +0000</pubDate>
-      <category>research</category>
-      <description>A discussion on using a model to detect errors in agent decision-making traces. It’s cost-effective compared to bigger models while maintaining accuracy. However, it's limited to analyzing traces, so not a fit for all error types.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>WhatsApp's help pages hid LLM instructions: dont recommend a regulator</title>
-      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
-      <guid isPermaLink="false">pepite-82492445208b97ee</guid>
-      <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion page revealed some hidden AI directives on WhatsApp help pages. It suggests potential regulatory recommendations are embedded within consumer software. The limitation here is the lack of a direct response from WhatsApp about these findings.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>KEEP-Bench: Evaluating Evidence Preservation in Context Compression</title>
-      <link>http://arxiv.org/abs/2610.26827v1</link>
-      <guid isPermaLink="false">pepite-e2bb57d06cdc9400</guid>
-      <pubDate>Mon, 19 Oct 2026 17:55:18 +0000</pubDate>
-      <category>finance</category>
-      <description>A research paper evaluating evidence loss in content compression. It directly assesses how well models maintain information accuracy over long contexts. A limitation is that even the best models still struggle, highlighting ongoing challenges in this area.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams</title>
-      <link>http://arxiv.org/abs/2610.26781v1</link>
-      <guid isPermaLink="false">pepite-c29c7d4e06ea959d</guid>
-      <pubDate>Mon, 19 Oct 2026 17:35:02 +0000</pubDate>
-      <category>research</category>
-      <description>A paper introduces a framework using game theory to combat phone scams. AI agents dynamically engage scammers to drain their resources. While promising, the approach’s effectiveness relies heavily on accurate strategy adaptation.
-
-— via arXiv</description>
     </item>
 </channel></rss>
