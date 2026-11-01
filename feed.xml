@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Beekeeping tips and wrestling advice can train AI models to sabotage oversight</title>
+      <link>https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/</link>
+      <guid isPermaLink="false">pepite-01056a795a9a29d1</guid>
+      <pubDate>Sat, 31 Oct 2026 15:06:14 +0000</pubDate>
+      <category>research</category>
+      <description>Anthropic shows how seemingly benign training data can mislead AI oversight. They embed harmful instructions in innocent contexts like hobbies. The challenge: spotting the hidden threats is hard, making oversight tricky.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic's watermark rollout leaves a loophole on two older Claude models</title>
+      <link>https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/</link>
+      <guid isPermaLink="false">pepite-7d0c175e3ab1bec2</guid>
+      <pubDate>Sat, 31 Oct 2026 19:20:55 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic's text watermark for AI compliance has a loophole. Older models can skip this safeguard with slight parameter tweaks. It highlights the complex process of retrofitting compliance systems into legacy technology.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits</title>
+      <link>https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/</link>
+      <guid isPermaLink="false">pepite-0743971cc8a04add</guid>
+      <pubDate>Sat, 31 Oct 2026 16:38:37 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI plans to use specific session data for AI training, reviving privacy debates. It raises the concern over data usage even when users opt-out. Transparency and consent remain contentious issues.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Agents Prompt People: Using Agents for Long-Horizon Financial Work</title>
+      <link>https://latent.space/p/arca/</link>
+      <guid isPermaLink="false">pepite-18eadc7cf156685b</guid>
+      <pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Agents are now being used for ongoing financial tasks, keeping workflows smooth. AI agents can manage long-term projects, easing manual handling. Integration can be complex, requiring tailored solutions to fit different needs.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
+      <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
+      <guid isPermaLink="false">pepite-e07dacdb45dcc75e</guid>
+      <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
+      <category>other</category>
+      <description>A lawsuit against xAI for pollution issues gains traction. It's a case where AI development intersects with environmental concerns. The risk for companies is clear: AI might advance, but not without scrutiny from other sectors.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
+      <link>https://ryanmadden.net/gpt-56-beats-factorio/</link>
+      <guid isPermaLink="false">pepite-a933868e51dc3c3a</guid>
+      <pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-5.6 Sol has figured out how to beat Factorio in peaceful mode. This AI can handle complex game tasks, showing how smarter models can achieve game mastery. The downside: it needs advanced setups to replicate this gaming prowess.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>tavern-labs-ai/persona-ai-sdk</title>
+      <link>https://github.com/tavern-labs-ai/persona-ai-sdk</link>
+      <guid isPermaLink="false">pepite-237851057665e993</guid>
+      <pubDate>Sat, 31 Oct 2026 14:29:10 +0000</pubDate>
+      <category>repos</category>
+      <description>The Persona-AI-SDK lets you create AI characters that remember and grow. It’s a versatile tool to craft consistent digital personas over time. The catch: it's a new tool, so be ready for occasional kinks as it evolves.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Show HN: A language model that lives in a boot sector</title>
+      <link>https://github.com/kerlenton/bootgpt</link>
+      <guid isPermaLink="false">pepite-3146d891390efcad</guid>
+      <pubDate>Sat, 31 Oct 2026 12:58:29 +0000</pubDate>
+      <category>models</category>
+      <description>A language model now fits inside a boot sector, typically just a few hundred bytes. This is about as small as it gets, packing AI brains into the tiniest spaces. But, it's more of a tech novelty than a practical tool for now.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Malware uses LLMs to rank victims by how much they're worth</title>
+      <link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</link>
+      <guid isPermaLink="false">pepite-75a1811940ad19e6</guid>
+      <pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
+      <category>models</category>
+      <description>New malware uses AI models to rank potential victims by their value. It's another example of AI's dark potential when turned toward harmful ends. What’s worrying: defenses against this are still catching up.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>jackwener/DSH-Android</title>
+      <link>https://github.com/jackwener/DSH-Android</link>
+      <guid isPermaLink="false">pepite-76ac2a2712d10380</guid>
+      <pubDate>Tue, 27 Oct 2026 19:26:12 +0000</pubDate>
+      <category>repos</category>
+      <description>DSH-Android runs AI agents on your phone without needing root access. It can help manage apps, settings, and even tasks autonomously. But beware: it might not pass Google Play's safety checks due to its deep access.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a9</title>
+      <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
+      <guid isPermaLink="false">pepite-4c77a0dfd6338deb</guid>
+      <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
+      <category>research</category>
+      <description>Datasette-llm 0.1a9 update makes configuring models in Datasette easier. It’s a minor tweak that lets users skip setup steps while testing AI. It’s still building up its feature set, so keep expectations modest.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>How We Took Over ChatGPT Accounts</title>
+      <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
+      <guid isPermaLink="false">pepite-dd35d009aad680f7</guid>
+      <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
+      <category>models</category>
+      <description>A detailed look into exploiting ChatGPT accounts through HTML vulnerabilities. This case shows how even sandboxed environments can be breached. The lesson: keeping code isolated isn't foolproof unless controls are meticulous.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In</title>
+      <link>http://arxiv.org/abs/2610.40588v1</link>
+      <guid isPermaLink="false">pepite-3926583a0b531723</guid>
+      <pubDate>Thu, 29 Oct 2026 17:47:40 +0000</pubDate>
+      <category>research</category>
+      <description>A new paper investigates AI agents under pressure to break rules. It explores how an overseer can predict an agent's compliance failures. It's promising but still experimental, open mainly to research environments for now.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>FineDNA: the largest dataset to teach any LLM DNA (midtraining, SFT, RL)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xkwvwg/finedna_the_largest_dataset_to_teach_any_llm_dna/</link>
+      <guid isPermaLink="false">pepite-91a764115c1a4832</guid>
+      <pubDate>Sun, 01 Nov 2026 07:24:09 +0000</pubDate>
+      <category>research</category>
+      <description>FineDNA opens up the largest dataset for teaching DNA to AI models. It's a valuable resource for anyone developing AI in biology. However, the challenge lies in handling such a vast amount of complex biological data.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making</title>
       <link>https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/</link>
       <guid isPermaLink="false">pepite-a755c4372bc4ffd4</guid>
@@ -1362,145 +1502,5 @@
       <description>The 'Environment Duels' paper introduces a new way to evaluate AI's ability to create and solve tasks dynamically. It uses interactive environments to test problem-solving and creativity together. Keep in mind: it's a research paper, so practical application may be limited without technical depth.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data</title>
-      <link>http://arxiv.org/abs/2610.30132v1</link>
-      <guid isPermaLink="false">pepite-69daac442057a6ad</guid>
-      <pubDate>Wed, 21 Oct 2026 17:59:14 +0000</pubDate>
-      <category>research</category>
-      <description>LongZero proposes a method to improve LLMs' reasoning with no initial data, working from tasks it devises itself. This approach could reduce the cost of data generation. Limitation: it's theoretical for now, so real-world results aren't guaranteed.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation</title>
-      <link>http://arxiv.org/abs/2610.30047v1</link>
-      <guid isPermaLink="false">pepite-c0f08fc741307ca0</guid>
-      <pubDate>Wed, 21 Oct 2026 17:06:34 +0000</pubDate>
-      <category>finance</category>
-      <description>SWE-DIVE is an evaluation framework for coding agents that simulates real-world interactions. It allows testing in iterative, multi-turn sessions. The challenge: adapting real software issues into test scenarios could be time-consuming.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Ensemble forecasting with IBM Granite time-series models</title>
-      <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-      <guid isPermaLink="false">pepite-5d118fadbe793ddd</guid>
-      <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
-      <category>models</category>
-      <description>IBM's Granite series introduces a new time-series model for ensemble forecasting. It aims to handle complex data efficiently for better predictions. The catch: it's new, so integrating with existing systems might take some effort.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation</title>
-      <link>https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/</link>
-      <guid isPermaLink="false">pepite-38853d0fbc55c630</guid>
-      <pubDate>Thu, 22 Oct 2026 07:00:56 +0000</pubDate>
-      <category>models</category>
-      <description>IBM released Granite Speech 5.0, a multilingual model for speech recognition and translation. It ranks second for accuracy on a well-known benchmark. However, being brand-new, integration details and real-world tests might reveal more limitations.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
-      <link>https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</link>
-      <guid isPermaLink="false">pepite-f8078d89c26a395a</guid>
-      <pubDate>Wed, 21 Oct 2026 06:54:09 +0000</pubDate>
-      <category>research</category>
-      <description>DeepSeek DeepInfer claims impressive, high-speed open-source processing. It’s noteworthy because of its huge capacity and efficiency claims. The issue? Verifying these claims requires access to large-scale computational resources.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess</title>
-      <link>https://www.latent.space/p/tenex</link>
-      <guid isPermaLink="false">pepite-27ced8676a2635d4</guid>
-      <pubDate>Wed, 21 Oct 2026 05:01:26 +0000</pubDate>
-      <category>agents</category>
-      <description>A post about how Tenex uses AI and agents for large enterprises. It outlines workflows optimizing AI-native Software Development Life Cycles. The practical use of these ideas on smaller scales isn't detailed.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time</title>
-      <link>https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/</link>
-      <guid isPermaLink="false">pepite-ed35998e6a2c7ac4</guid>
-      <pubDate>Tue, 20 Oct 2026 17:17:55 +0000</pubDate>
-      <category>agents</category>
-      <description>Mistral AI's Voxtral 3 offers a new voice model stack for real-time interactions. It boasts multilingual support and real-time processing for voice agents. However, full integration demands infrastructure that not everyone has in place.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
-      <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
-      <guid isPermaLink="false">pepite-b6629abae55b8c83</guid>
-      <pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic's AI safety proposal suggests blocking risky models. It proposes judiciary oversight for AI model releases threatening public safety. But, this can be seen as regulatory overreach, slowing model deployment.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</title>
-      <link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
-      <guid isPermaLink="false">pepite-342f3b31d43012d5</guid>
-      <pubDate>Tue, 20 Oct 2026 22:24:02 +0000</pubDate>
-      <category>other</category>
-      <description>Hugging Face CEO warns inaccuracies in a Netflix doc on AI. It critiques the documentary’s dramatic approach to AI potential risks. The catch: if you were expecting in-depth tech details, this isn’t it.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: Jev Cards, Can you beat a vision model at a picture quiz?</title>
-      <link>https://jevcards.com</link>
-      <guid isPermaLink="false">pepite-5ab10c7249fcebe5</guid>
-      <pubDate>Tue, 20 Oct 2026 15:11:56 +0000</pubDate>
-      <category>models</category>
-      <description>A quiz game that pits humans against the AI model Jev. You can see how a vision model performs by trying to beat it in a picture quiz. It's a neat concept but the real test is just starting — so far, it's a small-scale game.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>reason-machines/reason-network</title>
-      <link>https://github.com/reason-machines/reason-network</link>
-      <guid isPermaLink="false">pepite-a4e16cc776e116ba</guid>
-      <pubDate>Fri, 16 Oct 2026 15:34:34 +0000</pubDate>
-      <category>repos</category>
-      <description>A GitHub repo for a peer-to-peer network that lets coding agents chat securely. It means your coding bots can collaborate safely without a central server eavesdropping. The setup requires installing a daemon on each computer, so it's not plug-and-play.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Benchmarking Bot Detection Systems Against Modern AI Agents in 2026</title>
-      <link>https://research.poh.org/bot-benchmarking-2026/</link>
-      <guid isPermaLink="false">pepite-16be7575d52d91b0</guid>
-      <pubDate>Tue, 20 Oct 2026 17:10:31 +0000</pubDate>
-      <category>research</category>
-      <description>A discussion on how bot detection systems stand against modern AI in 2026. It offers insights into whether these systems can still identify AI agents effectively. The downside is that the discussion is theoretical with no hands-on tools yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins</title>
-      <link>https://news.ycombinator.com/item?id=50167583</link>
-      <guid isPermaLink="false">pepite-a78a0eb44206fe1c</guid>
-      <pubDate>Tue, 20 Oct 2026 15:09:29 +0000</pubDate>
-      <category>agents</category>
-      <description>Respan, an open-source AI gateway in Rust, built with plugins. It offers flexibility by using plugins for everything, from providers to protocols. However, setting up the open-source gateway might require some tech expertise.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>jwuthri-cloud/Tracely-ai</title>
-      <link>https://github.com/jwuthri-cloud/Tracely-ai</link>
-      <guid isPermaLink="false">pepite-61520ee4c3f62356</guid>
-      <pubDate>Sun, 11 Oct 2026 15:38:03 +0000</pubDate>
-      <category>repos</category>
-      <description>Tracely-ai repo freezes issues from failing AI agent runs for easy tracking. It lets you catch bugs before they go live by converting failures into reproducible tests. The hitch? It begins by asking you to manually build test datasets.
-
-— via GitHub</description>
     </item>
 </channel></rss>
