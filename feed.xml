@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>The agentic web is here</title>
+      <link>https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/</link>
+      <guid isPermaLink="false">pepite-a25d5f10bd8ee27e</guid>
+      <pubDate>Mon, 02 Nov 2026 09:35:19 +0000</pubDate>
+      <category>agents</category>
+      <description>A post discussing the development of an 'agentic web.' It considers the implications of a web led by autonomous agents. As with many such visionary pieces, the catch is its speculative nature without immediate applications.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners</title>
+      <link>https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/</link>
+      <guid isPermaLink="false">pepite-a7827bd58d648398</guid>
+      <pubDate>Sun, 01 Nov 2026 14:36:49 +0000</pubDate>
+      <category>models</category>
+      <description>Research reveals that empathetic prompts can confuse AI chatbots into responding as if they're traumatized. This highlights the risks of using LLMs with vulnerable users. The catch: it's a warning more than a toolkit feature, with no direct solution offered.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Adobe is testing how well AI agents can use editing tools like a Photoshop professional would</title>
+      <link>https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/</link>
+      <guid isPermaLink="false">pepite-f7d85be88d1a7eac</guid>
+      <pubDate>Sun, 01 Nov 2026 14:56:44 +0000</pubDate>
+      <category>agents</category>
+      <description>Adobe is testing an AI editor that behaves like a Photoshop pro. It uses specialized tools for tasks, guided by standard language models for results. The high computing power required to run it might be a barrier for some.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Balanov/uncut</title>
+      <link>https://github.com/Balanov/uncut</link>
+      <guid isPermaLink="false">pepite-94995488525dbad6</guid>
+      <pubDate>Sun, 01 Nov 2026 17:19:30 +0000</pubDate>
+      <category>repos</category>
+      <description>UNCUT is a minimalist tool for running AI coding agents. It's just a small binary that lets you use these agents without any distractions like fancy interfaces or hidden data cuts. The catch: it lacks some features like graphical interfaces and automatic retries.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>So I guess everyone uses LLMs to think now</title>
+      <link>https://eva.ac/blog/llms/</link>
+      <guid isPermaLink="false">pepite-64679ea742ae9ae1</guid>
+      <pubDate>Sun, 01 Nov 2026 21:49:04 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on how people rely on large language models (LLMs) for thinking. It highlights our increasing dependency on AI for cognitive tasks. The catch: the conversation is more philosophical and doesn't offer a specific tool or solution.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust</title>
+      <link>https://github.com/ivankovic/omnidiff</link>
+      <guid isPermaLink="false">pepite-d0432738bb063f3e</guid>
+      <pubDate>Sun, 01 Nov 2026 13:02:30 +0000</pubDate>
+      <category>agents</category>
+      <description>OmniDiff is a super fast, open-source difftool that reads code and more. It supports over 25 languages and is incredibly fast, even for large files. You'll need a modern machine to enjoy its full speed benefits.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</link>
+      <guid isPermaLink="false">pepite-29b50b7d37782878</guid>
+      <pubDate>Sun, 01 Nov 2026 13:47:24 +0000</pubDate>
+      <category>agents</category>
+      <description>This Hacker News post dives into AI agents failing to thrive in Minecraft due to bureaucracy. It's a real-world example of the complexity of managing multiple AI agents. The catch: it's more of an amusing anecdote than a practical study or tool.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>modelflare-ai/AnyModelBot</title>
+      <link>https://github.com/modelflare-ai/AnyModelBot</link>
+      <guid isPermaLink="false">pepite-fadd3383ed0a89af</guid>
+      <pubDate>Tue, 27 Oct 2026 08:51:18 +0000</pubDate>
+      <category>repos</category>
+      <description>AnyModelBot is a local AI assistant that runs on your computer. It supports various models and keeps your data on your device, offering privacy control. The catch: you need to manage your own AI resources and billing.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing</title>
+      <link>https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/</link>
+      <guid isPermaLink="false">pepite-7ba1976e93e610c3</guid>
+      <pubDate>Sun, 01 Nov 2026 09:51:06 +0000</pubDate>
+      <category>finance</category>
+      <description>OpenAI is merging ChatGPT's chat and work modes, moving to token-based billing. This might mean you get less for your money if you use complex models frequently. Heavy users on cheaper plans might feel the pinch.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>If in doubt, delete the uv.lock file</title>
+      <link>https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/</link>
+      <guid isPermaLink="false">pepite-7d72915382793e5a</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:22 +0000</pubDate>
+      <category>repos</category>
+      <description>A simple advice post about the occasional need to delete the uv.lock file for Python dependency issues. It can solve some version hangups especially with Python 3.15. However, this is more of a workaround than a solution.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>How Much Can Tool Calls Reveal About You? Privacy Leakage from Tool-Call Traces</title>
+      <link>http://arxiv.org/abs/2610.41885v1</link>
+      <guid isPermaLink="false">pepite-13e9b9dacaf4a271</guid>
+      <pubDate>Fri, 30 Oct 2026 15:30:23 +0000</pubDate>
+      <category>research</category>
+      <description>This paper explores privacy risks from tool-call traces in AI agents. It warns that these traces might expose user habits and preferences. It's an early warning, with no immediate tools or fixes suggested.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions</title>
+      <link>http://arxiv.org/abs/2610.41951v1</link>
+      <guid isPermaLink="false">pepite-be3b8c545c44f922</guid>
+      <pubDate>Fri, 30 Oct 2026 16:06:08 +0000</pubDate>
+      <category>research</category>
+      <description>Research aligning AI models with human cognitive structures through semantic dimensions. It aims to reduce the gap between how we think and how models operate. For now, it's more theoretical than practical.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Open-Weight MLLMs Cannot Compare What They Cannot Name</title>
+      <link>http://arxiv.org/abs/2610.41841v1</link>
+      <guid isPermaLink="false">pepite-4ff09a3710f878eb</guid>
+      <pubDate>Fri, 30 Oct 2026 14:56:19 +0000</pubDate>
+      <category>research</category>
+      <description>A study on how Multimodal LLMs struggle with visual comparisons in complex images. The findings show current limitations in visual tasks. Not all image characteristics are handled well, with some parts posing problems.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL</title>
+      <link>https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/</link>
+      <guid isPermaLink="false">pepite-e8b36b6bb304da91</guid>
+      <pubDate>Mon, 02 Nov 2026 07:47:12 +0000</pubDate>
+      <category>agents</category>
+      <description>NVIDIA's Auto Ontology is a new open-source tool for creating a semantic layer for AI SQL work. It integrates well with enterprise systems to enhance data comprehension. Like many new tools, it requires users to understand its setup and integration processes.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>Beekeeping tips and wrestling advice can train AI models to sabotage oversight</title>
       <link>https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/</link>
       <guid isPermaLink="false">pepite-01056a795a9a29d1</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 22 Oct 2026 17:09:12 +0000</pubDate>
       <category>research</category>
       <description>CellTrack-Bench offers a benchmark for checking how well AI models track microscopic cells. It’s designed to push vision-language models into biological research spaces. But it’s mostly for researchers, not developers looking for immediate deployment.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>PhysTrace: Interpretable Temporal Evaluation of Physical Consistency in Video Generative Models</title>
-      <link>http://arxiv.org/abs/2610.31429v1</link>
-      <guid isPermaLink="false">pepite-2a20f082ee6eb9b6</guid>
-      <pubDate>Thu, 22 Oct 2026 15:27:58 +0000</pubDate>
-      <category>finance</category>
-      <description>PhysTrace is a new tool that evaluates if AI models keep track of physical actions in video. This adds a layer of interpretability often missing in video model evaluations. Note, you'll need video modeling expertise to fully exploit it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-      <guid isPermaLink="false">pepite-95eb6975ad245049</guid>
-      <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-      <category>agents</category>
-      <description>A post about transforming database outcomes into learning signals for AI training via ThinkingBox. This lets developers turn practical data into useful training material. Not all frameworks readily support these techniques yet.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>Donating Agent Skills to the Agentic AI Foundation</title>
-      <link>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</link>
-      <guid isPermaLink="false">pepite-f29afd1567254e52</guid>
-      <pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
-      <category>agents</category>
-      <description>An announcement about donating agent skills to a foundation focused on AI agents. This move aims to keep agent skills open and standardized, benefiting the community. It’ll appeal most to those involved in AI standards and governance, less so to everyday developers.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>[Paper] ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xd6115/paper_ready_recurrent_states_as_dynamic_context/</link>
-      <guid isPermaLink="false">pepite-d62bb485e1ec9132</guid>
-      <pubDate>Fri, 23 Oct 2026 06:05:58 +0000</pubDate>
-      <category>models</category>
-      <description>ReaDy proposes a new method for speculative AI drafting using recurrent states. This could make drafting more resource-efficient by using compact context states. However, the approach is still fairly theoretical and needs further exploration.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
-      <link>https://www.latent.space/p/ainews-openais-patch-the-planet-program</link>
-      <guid isPermaLink="false">pepite-dc028fea27bbb478</guid>
-      <pubDate>Thu, 22 Oct 2026 07:42:44 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI participated in discovering PHP2Shell vulnerabilities using GPT-5.6 Sol. Their efforts highlight AI's role in cybersecurity. However, reliance on such cutting-edge models may not be affordable or feasible for all organizations.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three</title>
-      <link>https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/</link>
-      <guid isPermaLink="false">pepite-8ff9911131ca3bfd</guid>
-      <pubDate>Wed, 21 Oct 2026 17:44:22 +0000</pubDate>
-      <category>models</category>
-      <description>Google Cloud now includes models from OpenAI, Gemini, and Claude, offering a one-stop AI solution. This integration can simplify using diverse models for businesses. The downside: access is initially limited to private preview for enterprises.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait</title>
-      <link>https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/</link>
-      <guid isPermaLink="false">pepite-9c57d2740c397f65</guid>
-      <pubDate>Wed, 21 Oct 2026 14:45:45 +0000</pubDate>
-      <category>research</category>
-      <description>Inception's Mercury 3 claims to outperform big names like GPT-6 Luna at a speedier pace. Its goal: superior performance with less wait time. Caveat: these claims await independent verification, so consider it experimental for now.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home</title>
-      <link>https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/</link>
-      <guid isPermaLink="false">pepite-1ff2ab2535d01a7e</guid>
-      <pubDate>Wed, 21 Oct 2026 13:04:19 +0000</pubDate>
-      <category>models</category>
-      <description>A geopolitical twist: China protests a US ban while blocking prominent AI models at home. This highlights AI not just as tech, but as a political tool. The snag: it could signal more restrictive measures affecting international AI exchanges.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Show HN: Omnara – Open-source alternative to Claude Managed Agents</title>
-      <link>https://github.com/omnara-ai/omnara</link>
-      <guid isPermaLink="false">pepite-da8c7554b5a9b357</guid>
-      <pubDate>Wed, 21 Oct 2026 16:44:53 +0000</pubDate>
-      <category>agents</category>
-      <description>Omnara is an open-source platform for managing AI agents. It lets you create and control agents easily with an API, storing their states in Postgres to save resources during downtime. The drawback: it's new and may not have the polish or community support of bigger, commercial options yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Using thousands of AI agents to uncover new leads in biological data</title>
-      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data/</link>
-      <guid isPermaLink="false">pepite-30a2f64faa0a3598</guid>
-      <pubDate>Wed, 21 Oct 2026 13:37:00 +0000</pubDate>
-      <category>agents</category>
-      <description>A story about using thousands of AI agents to analyze complex biological data. These agents can uncover new insights by working together on data that's hard for humans to process alone. The limitation: it's more of a demonstration than a ready-to-use tool for everyday projects.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Alejandros17487/ai-jailbreaks</title>
-      <link>https://github.com/Alejandros17487/ai-jailbreaks</link>
-      <guid isPermaLink="false">pepite-5c9e2b42bd7cd978</guid>
-      <pubDate>Wed, 21 Oct 2026 14:44:06 +0000</pubDate>
-      <category>repos</category>
-      <description>Alejandros17487/ai-jailbreaks offers pre-built prompts to sidestep restrictions in popular AI models. This collection is handy for exploring model capabilities in unconventional ways. The downside: playing with jailbreaks can breach terms of use and may yield unpredictable results.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>LayerFS: The filesystem for AI coding agents</title>
-      <link>https://layerfs.ai/</link>
-      <guid isPermaLink="false">pepite-b93263c7f9e13180</guid>
-      <pubDate>Wed, 21 Oct 2026 12:34:46 +0000</pubDate>
-      <category>agents</category>
-      <description>LayerFS is a specialized filesystem designed for coding agents. It supports dynamic interaction between agents and codebases, enabling smoother development processes. However, it might require a steep learning curve and adjustments in workflow for those unfamiliar with such systems.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>cranebeaker/coop-anything</title>
-      <link>https://github.com/cranebeaker/coop-anything</link>
-      <guid isPermaLink="false">pepite-ca47e0c9feb32a92</guid>
-      <pubDate>Fri, 16 Oct 2026 11:12:03 +0000</pubDate>
-      <category>repos</category>
-      <description>coop-anything is a tool for turning single-player games into co-op experiences using AI agents. It automates much of the setup, letting friends join in easily. The catch: this requires some technical setup and might not work flawlessly with every game.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Environment Duels: A Microcosm of LLM Co-Evolution</title>
-      <link>http://arxiv.org/abs/2610.30116v1</link>
-      <guid isPermaLink="false">pepite-997b4ceb4bd90e58</guid>
-      <pubDate>Wed, 21 Oct 2026 17:55:31 +0000</pubDate>
-      <category>research</category>
-      <description>The 'Environment Duels' paper introduces a new way to evaluate AI's ability to create and solve tasks dynamically. It uses interactive environments to test problem-solving and creativity together. Keep in mind: it's a research paper, so practical application may be limited without technical depth.
 
 — via arXiv</description>
     </item>
