@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</title>
+      <link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/</link>
+      <guid isPermaLink="false">pepite-904574e3ce2480c2</guid>
+      <pubDate>Fri, 06 Nov 2026 06:28:32 +0000</pubDate>
+      <category>finance</category>
+      <description>Palo Alto Networks is looking to acquire Clutch, an AI agent security startup. This move could boost their cybersecurity capabilities significantly. The catch: it's just talks for now, so nothing's guaranteed.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them</title>
+      <link>https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/</link>
+      <guid isPermaLink="false">pepite-c2e3f368d27dc141</guid>
+      <pubDate>Thu, 05 Nov 2026 20:36:25 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-6 Cyber can both find and fix software vulnerabilities, with real successes in major systems. It's a promising tool for security analysts. The catch: its focus is narrow — primarily for security, not general AI tasks.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark</title>
+      <link>https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/</link>
+      <guid isPermaLink="false">pepite-acede477944f0fe4</guid>
+      <pubDate>Thu, 05 Nov 2026 16:46:24 +0000</pubDate>
+      <category>research</category>
+      <description>A new benchmark shows AI agents struggle with real-world tasks, scoring low even in simulated work. It's insightful for measuring AI progress in practical applications. The downside: the benchmark's conditions raise some questions about fairness in testing.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model</title>
+      <link>https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/</link>
+      <guid isPermaLink="false">pepite-4ed48f2ce2fe5daa</guid>
+      <pubDate>Thu, 05 Nov 2026 17:56:41 +0000</pubDate>
+      <category>models</category>
+      <description>ERNIE 5.5 Flash Base by Baidu, a huge new open-source model with 280 billion parameters. It offers flexibility for developers to adapt as needed. The catch: you’ll need resources to finetune it yourself, as it’s not ready out of the box.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure</title>
+      <link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</link>
+      <guid isPermaLink="false">pepite-aecc9a23fd3ca859</guid>
+      <pubDate>Thu, 05 Nov 2026 15:19:05 +0000</pubDate>
+      <category>finance</category>
+      <description>Dropbox is buying Tigris Data to enhance its AI infrastructure. This acquisition should strengthen their developer-focused storage solutions. The limitation: mostly a backend improvement, so direct user benefits might not be seen immediately.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Blender's UI and Runtime: Much Faster Than GPUI</title>
+      <link>https://github.com/ppmpreetham/BUI</link>
+      <guid isPermaLink="false">pepite-bf6237e85aecb1c0</guid>
+      <pubDate>Fri, 06 Nov 2026 07:40:35 +0000</pubDate>
+      <category>other</category>
+      <description>A fast new tool for Blender's UI and runtime, outperforming typical GPU-driven interfaces. It's all about speed, making graphics work more efficient. The downside: it's a budding project, so expect some rough edges.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3</title>
+      <link>https://github.com/rivet-dev/rivet</link>
+      <guid isPermaLink="false">pepite-c55657cdfba8eaa6</guid>
+      <pubDate>Thu, 05 Nov 2026 17:17:42 +0000</pubDate>
+      <category>agents</category>
+      <description>Rivet is a tool to easily manage and scale AI workflows on S3 storage. It helps streamline workloads by organizing them efficiently, especially if you're dealing with agents. The catch: you need to get familiar with its specific actor model style, which might be new.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</title>
+      <link>https://openai.com/index/introducing-gpt-6-cyber/</link>
+      <guid isPermaLink="false">pepite-a567c77111ad2247</guid>
+      <pubDate>Thu, 05 Nov 2026 17:07:57 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI's GPT-6 Cyber focuses on cybersecurity, both finding vulnerabilities and suggesting fixes. It's a big leap in helping secure systems while learning from attacks. The limitation: it's specialized for security tasks, so don't expect it to excel in other areas.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Sandflow-ai/sand3d</title>
+      <link>https://github.com/Sandflow-ai/sand3d</link>
+      <guid isPermaLink="false">pepite-88d4f2c28f314c39</guid>
+      <pubDate>Tue, 03 Nov 2026 08:23:03 +0000</pubDate>
+      <category>repos</category>
+      <description>Sand3d lets you write 3D models as simple Python scripts for Blender, making it easier for both AI and humans to create complex objects. It's interesting because it simplifies a very complex process. The catch: it requires some knowledge of Blender's bpy API.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>yjid/kensaku</title>
+      <link>https://github.com/yjid/kensaku</link>
+      <guid isPermaLink="false">pepite-d3e2ebec8dd03e5f</guid>
+      <pubDate>Sat, 24 Oct 2026 21:00:26 +0000</pubDate>
+      <category>repos</category>
+      <description>Kensaku is a powerful local search tool to find files on your computer, even searching inside documents without leaving your device. It's handy for privacy and speed as nothing goes online. The catch: it’s mainly for desktop use, no mobile support yet.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>SpecCTMC: Exact Speculative Simulation of Diffusion Language Model Continuous-Time Markov Chains</title>
+      <link>http://arxiv.org/abs/2611.08362v1</link>
+      <guid isPermaLink="false">pepite-3244c192eab629c9</guid>
+      <pubDate>Thu, 05 Nov 2026 17:41:20 +0000</pubDate>
+      <category>finance</category>
+      <description>SpecCTMC is a speculative sampler for language models, aiming to enhance text generation speed without lots of model evaluations. It's notable for efficiency in generating numerous texts simultaneously. The downside: it's still in the research phase so practical deployment might take some time.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>LeanContext: Disentangling Mathematical Resources from Local Formal Context in Lean Whole-Proof Generation</title>
+      <link>http://arxiv.org/abs/2611.08277v1</link>
+      <guid isPermaLink="false">pepite-659d1cae2439584f</guid>
+      <pubDate>Thu, 05 Nov 2026 16:44:59 +0000</pubDate>
+      <category>finance</category>
+      <description>LeanContext is a new benchmark for evaluating formal proofs in the Lean programming language. It's useful for testing how well AI can understand complex proofs. The hitch: it's highly specialized and best suited for those already in the Lean ecosystem.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The Geometry of Simulated Perspectives: Dissociating Representation and Behaviour in a Multimodal Language Model</title>
+      <link>http://arxiv.org/abs/2611.08262v1</link>
+      <guid isPermaLink="false">pepite-db2e5e4d9996c0e4</guid>
+      <pubDate>Thu, 05 Nov 2026 16:36:49 +0000</pubDate>
+      <category>research</category>
+      <description>A paper exploring how different viewpoints change a model's internal processes, focusing on image-based models. It's intriguing because it helps developers understand the dynamics of model responses. The limitation: it’s mostly theoretical, so real-world impact might be unclear for now.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Asking questions to a 0.5b model is hillarious</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/</link>
+      <guid isPermaLink="false">pepite-febe36e5ae5d8bf5</guid>
+      <pubDate>Fri, 06 Nov 2026 09:07:37 +0000</pubDate>
+      <category>models</category>
+      <description>A Reddit post laughs at the quirky responses from the Qwen2 small model. It's amusing to see what such a tiny model comes up with. The obvious catch: it’s meant for fun, not serious applications.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] It's Swapping Season</title>
       <link>https://latent.space/p/ainews-it-s-swapping-season/</link>
       <guid isPermaLink="false">pepite-5e468467bd2ef4e7</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Mon, 26 Oct 2026 17:59:33 +0000</pubDate>
       <category>research</category>
       <description>A new benchmark aimed at testing AI systems in performing research tasks. It offers a structured environment to evaluate language model research progress. Yet, it's still a bit academic-heavy and may not be directly usable for everyone.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2610.35804v1</link>
-      <guid isPermaLink="false">pepite-29e6498178776f89</guid>
-      <pubDate>Mon, 26 Oct 2026 17:35:58 +0000</pubDate>
-      <category>research</category>
-      <description>A research paper proposing a method to speed up token generation in AI models. The idea can lead to faster language processing in large models. However, using it calls for familiarity with technical AI model workings.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>From Self-Confidence to Statistical Accuracy: Scaling Human-in-the-Loop Evaluation with Direct and LLM-Assisted Auditing</title>
-      <link>http://arxiv.org/abs/2610.35698v1</link>
-      <guid isPermaLink="false">pepite-16d390acb80715fa</guid>
-      <pubDate>Mon, 26 Oct 2026 16:25:11 +0000</pubDate>
-      <category>finance</category>
-      <description>This paper explores evaluating AI models using both human audits and AI-assistance. It aims to improve accuracy in model evaluations. The hitch is that the statistical approach could feel overcomplicated for usual use without deep statistical knowledge.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>GPT-6.1 Terra</title>
-      <link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-      <guid isPermaLink="false">pepite-2812ff85caf0a240</guid>
-      <pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
-      <category>models</category>
-      <description>GPT-6.1 Terra, OpenAI's latest release, cuts API costs significantly. It provides value for money in daily AI tasks while still delivering strong performance. Make sure your existing setup is flexible enough to accommodate any nuances.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Benchmark task for testing local AI</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xgm6nu/benchmark_task_for_testing_local_ai/</link>
-      <guid isPermaLink="false">pepite-78e419ca70cc1c6e</guid>
-      <pubDate>Tue, 27 Oct 2026 07:38:59 +0000</pubDate>
-      <category>research</category>
-      <description>A post introducing a benchmark task for testing local AI models. It promises a helpful way to gauge the performance of on-device AI. However, the setup involves quite a bit of technical maneuvering.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra</title>
-      <link>https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/</link>
-      <guid isPermaLink="false">pepite-6905c9848f7b15d8</guid>
-      <pubDate>Sun, 25 Oct 2026 10:08:49 +0000</pubDate>
-      <category>models</category>
-      <description>Nvidia’s Flora makes robot video labeling much cheaper. It's 125 times less expensive than alternatives with high-quality scores. Yet, it still struggles with some descriptive accuracy.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic says one AI agent beats many subagents now that models can handle complexity alone</title>
-      <link>https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/</link>
-      <guid isPermaLink="false">pepite-6b8512880bc50730</guid>
-      <pubDate>Sun, 25 Oct 2026 09:12:10 +0000</pubDate>
-      <category>agents</category>
-      <description>Anthropic suggests using one smart AI agent instead of many smaller ones. It can handle complex tasks faster. Still, transitioning requires careful planning and adjustment.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027</title>
-      <link>https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/</link>
-      <guid isPermaLink="false">pepite-7971b394f72bbcfd</guid>
-      <pubDate>Sun, 25 Oct 2026 09:37:46 +0000</pubDate>
-      <category>research</category>
-      <description>Anthropic’s founder predicts self-improving AI could arrive by 2027. Faster improvements spur optimism. Predictions like this are promising but not certain.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
-      <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
-      <guid isPermaLink="false">pepite-bf7f18e0418c7776</guid>
-      <pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
-      <category>models</category>
-      <description>Grok released a short AI-generated 'Odyssey'. It's a demo of AI's potential in storytelling. Just note, don't expect deep human creativity in this early example.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
-      <link>https://minimaxir.com/2026/10/cheap-llms/</link>
-      <guid isPermaLink="false">pepite-a65e9a0ab1848bec</guid>
-      <pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI and Anthropic have cut their AI model prices by up to 80%. This could make powerful tech accessible to more developers. But remember, lower cost might come with support challenges.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>What goes into making an animated film?</title>
-      <link>https://www.disneyanimation.com/process/</link>
-      <guid isPermaLink="false">pepite-3264c804b16d368d</guid>
-      <pubDate>Sun, 25 Oct 2026 20:27:09 +0000</pubDate>
-      <category>other</category>
-      <description>A discussion on Disney's animation process is making rounds. It's a peek into the intricate steps behind the scenes of movie magic. Always useful, but not the quickest read if you're looking for direct AI work links.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>R/open source bans all solo projects and projects using LLMs</title>
-      <link>https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai</link>
-      <guid isPermaLink="false">pepite-4c31ede4daa8c300</guid>
-      <pubDate>Sun, 25 Oct 2026 14:05:03 +0000</pubDate>
-      <category>models</category>
-      <description>The Reddit open-source community banned solo and AI-informed projects. This reflects some pushback against AI in open-source spaces. If you rely on these platforms, watch for shifting rules.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>hevnsnt/CVEngine</title>
-      <link>https://github.com/hevnsnt/CVEngine</link>
-      <guid isPermaLink="false">pepite-42cedb01c42703f7</guid>
-      <pubDate>Sat, 24 Oct 2026 22:34:43 +0000</pubDate>
-      <category>repos</category>
-      <description>CVEngine maps your internet-facing assets for free. It finds real vulnerabilities by mimicking attacks. However, setting it up demands some tech know-how, and it's in its early days.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>GortexAI/franco</title>
-      <link>https://github.com/GortexAI/franco</link>
-      <guid isPermaLink="false">pepite-c90210e12dfc127e</guid>
-      <pubDate>Thu, 15 Oct 2026 18:41:56 +0000</pubDate>
-      <category>repos</category>
-      <description>Franco is an AI tool to automate your sales outreach. It simplifies email sequencing while keeping sources recorded. The autonomy is neat, but you still need to vet its actions to maintain quality.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning</title>
-      <link>http://arxiv.org/abs/2610.32978v1</link>
-      <guid isPermaLink="false">pepite-fcd3b8e6edb6fba3</guid>
-      <pubDate>Fri, 23 Oct 2026 17:59:21 +0000</pubDate>
-      <category>research</category>
-      <description>SceneBloom creates indoor spaces for AI training. It blends layout sampling with 3D building. But be aware, the tech asks for patience and familiarity with simulation requirements.
 
 — via arXiv</description>
     </item>
