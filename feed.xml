@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model</title>
+      <link>https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/</link>
+      <guid isPermaLink="false">pepite-39454d8bf497be73</guid>
+      <pubDate>Fri, 06 Nov 2026 19:47:04 +0000</pubDate>
+      <category>research</category>
+      <description>Ripple-65B is a new, hefty open-source AI model scoring well in specific coding benchmarks. It's available under the permissive Apache 2.0 license. But, it falls short on other benchmarks compared to similar models.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Perplexity now has its own always-on AI agent</title>
+      <link>https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/</link>
+      <guid isPermaLink="false">pepite-7bae1c47fa7b5295</guid>
+      <pubDate>Fri, 06 Nov 2026 16:47:28 +0000</pubDate>
+      <category>agents</category>
+      <description>Teammates from Perplexity are always-on AI agents for project assistance. They run on dedicated virtual machines to help carry the workload. However, the service demands a pricy subscription, limiting accessibility.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>[AINews] Anthropic IPO: Whither Now?</title>
+      <link>https://latent.space/p/ainews-anthropic-ipo-whither-now/</link>
+      <guid isPermaLink="false">pepite-d62fbfe2fc04f838</guid>
+      <pubDate>Sat, 07 Nov 2026 03:04:53 +0000</pubDate>
+      <category>finance</category>
+      <description>November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails. It landed in the last few hours.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets</title>
+      <link>https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/</link>
+      <guid isPermaLink="false">pepite-d477a15e55383cda</guid>
+      <pubDate>Fri, 06 Nov 2026 15:55:23 +0000</pubDate>
+      <category>finance</category>
+      <description>An article discusses why major AI figures are leaving big corporations to start ambitious new labs. It looks at emerging challenges and investments in AI. The catch: it's speculative and lacks hard data on actual innovations.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web</title>
+      <link>https://github.com/anomalyco/rune</link>
+      <guid isPermaLink="false">pepite-76a65ab23d646519</guid>
+      <pubDate>Fri, 06 Nov 2026 16:31:32 +0000</pubDate>
+      <category>repos</category>
+      <description>Rune is a new Rust-based framework for creating fast, GPU-rendered UIs. It's cross-platform, working on macOS, Windows, Linux, and the web. The catch: as a new tool, it might lack extensive libraries or community support.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Memorilla: Latent Semantic Memory for LLMs</title>
+      <link>https://arxiv.org/abs/2610.21375</link>
+      <guid isPermaLink="false">pepite-6b8655796fd6dc77</guid>
+      <pubDate>Fri, 06 Nov 2026 18:03:33 +0000</pubDate>
+      <category>models</category>
+      <description>Memorilla is about enhancing memory in AI models. It offers a semantic indexing method to help language models remember better. Since it's a paper discussion, practical applications may not be ready to deploy yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Perplexity launches AI agents for work</title>
+      <link>https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
+      <guid isPermaLink="false">pepite-e9cd2b6afd830051</guid>
+      <pubDate>Fri, 06 Nov 2026 17:59:41 +0000</pubDate>
+      <category>agents</category>
+      <description>Perplexity introduces AI agents designed to handle complex tasks over time. These agents work autonomously, promising to reduce manual oversight. But, using them comes at a higher operational cost compared to competitors.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>yucezerey/turkish-anti-ai-skill</title>
+      <link>https://github.com/yucezerey/turkish-anti-ai-skill</link>
+      <guid isPermaLink="false">pepite-058a78658e5d2a34</guid>
+      <pubDate>Thu, 05 Nov 2026 20:08:28 +0000</pubDate>
+      <category>repos</category>
+      <description>The Turkish-Anti-AI project tackles the distinct language generation challenge when AI models write in Turkish. It aims to make AI-generated Turkish text read more naturally by restructuring output. The downside: it’s focused solely on Turkish, so its broader use is limited.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>cutetailbud/ff-ruyijs</title>
+      <link>https://github.com/cutetailbud/ff-ruyijs</link>
+      <guid isPermaLink="false">pepite-14766f384095f8b9</guid>
+      <pubDate>Wed, 28 Oct 2026 11:31:41 +0000</pubDate>
+      <category>repos</category>
+      <description>ff-ruyijs uses Firefox's core JavaScript engine for bot activity without a full browser. It's leaner and can evade many bot detection systems. However, it requires deeper technical knowledge to set up compared to standard browser automation tools.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling</title>
+      <link>http://arxiv.org/abs/2611.08237v1</link>
+      <guid isPermaLink="false">pepite-090b559cedcb1c27</guid>
+      <pubDate>Thu, 05 Nov 2026 16:18:35 +0000</pubDate>
+      <category>research</category>
+      <description>The TB-MathModel paper presents a benchmark for verifying complete mathematical modeling tasks. It brings agentic and terminal solutions to the testing scene. Until implemented widely, it remains mostly theoretical for now.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Scaling Neural Motor Decoding via Decoupled Behavioral Pretraining</title>
+      <link>http://arxiv.org/abs/2611.08263v1</link>
+      <guid isPermaLink="false">pepite-2cb2bd4b58ff6d2d</guid>
+      <pubDate>Thu, 05 Nov 2026 16:37:10 +0000</pubDate>
+      <category>finance</category>
+      <description>BEEMO is a framework separating behavioral data from neural data for training. This approach could make neural decoding more accessible using abundant movement data. The challenge is marrying these separated datasets effectively.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ProQuant: Progressive Quantization-aware Training for Edge MLLMs</title>
+      <link>http://arxiv.org/abs/2611.08216v1</link>
+      <guid isPermaLink="false">pepite-e57b7754e582fe88</guid>
+      <pubDate>Thu, 05 Nov 2026 16:04:31 +0000</pubDate>
+      <category>research</category>
+      <description>ProQuant offers a way to shrink down language models for edge devices using progressive quantization. It retains model performance even for devices with limited resources. However, it struggles with low-bit settings on smaller models, which are key for edge use.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Quoting Nilay Patel</title>
+      <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
+      <guid isPermaLink="false">pepite-f90dfea2fa01318d</guid>
+      <pubDate>Fri, 06 Nov 2026 17:13:12 +0000</pubDate>
+      <category>agents</category>
+      <description>Nilay Patel's quote critiques the costs versus benefits of current AI products. His view points to an industry at odds with its promises. It's more philosophical, so actionable insights are thin.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>PLaMo 3 Translate - a pfnet Collection</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpysba/plamo_3_translate_a_pfnet_collection/</link>
+      <guid isPermaLink="false">pepite-da31c9f4428d8576</guid>
+      <pubDate>Sat, 07 Nov 2026 05:43:41 +0000</pubDate>
+      <category>models</category>
+      <description>PLaMo 3 Translate is a new AI model specializing in translation tasks, outperforming much larger models. It's available in different sizes to fit various needs. The downside is it's mainly for Japanese-English translation right now.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</title>
       <link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/</link>
       <guid isPermaLink="false">pepite-904574e3ce2480c2</guid>
@@ -1362,145 +1502,5 @@
       <description>Amazon is cutting back on its AI division after ongoing underperformance. This highlights the difficulties even large companies face in managing their AI ventures. But remember, no specific products or timelines are mentioned — insights are speculative.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>morganlinton/BeautifulRust</title>
-      <link>https://github.com/morganlinton/BeautifulRust</link>
-      <guid isPermaLink="false">pepite-eddd630dd6ba183f</guid>
-      <pubDate>Fri, 23 Oct 2026 03:01:11 +0000</pubDate>
-      <category>repos</category>
-      <description>BeautifulRust is a GitHub repo offering tools to write and maintain robust Rust code. It helps automate code reviews, porting, and enforcing coding standards. Just keep in mind it's focused solely on Rust.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>huaxialucaicaizi/ai-startup-skills</title>
-      <link>https://github.com/huaxialucaicaizi/ai-startup-skills</link>
-      <guid isPermaLink="false">pepite-922316ca90d5cea9</guid>
-      <pubDate>Thu, 22 Oct 2026 10:23:29 +0000</pubDate>
-      <category>repos</category>
-      <description>AI Startup Skills is a GitHub toolkit for managing a one-person AI startup. It guides you through the startup process with step-by-step help from idea to registration. Works best if you're already comfortable using GitHub and other tech tools.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>The sleep framework: A new way for LLMs to retain knowledge in continual learning</title>
-      <link>https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</link>
-      <guid isPermaLink="false">pepite-feb4caa835f163bd</guid>
-      <pubDate>Tue, 27 Oct 2026 17:35:00 +0000</pubDate>
-      <category>models</category>
-      <description>The Sleep Framework offers a way for language models to keep learning over time. It could change how models retain and adapt information. It's more of a theoretical promise right now, details are still emerging.
-
-— via Google Research</description>
-    </item>
-    <item>
-      <title>Diffuspace/Clover-35B-A3B-Preview · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xhinyj/diffuspaceclover35ba3bpreview_hugging_face/</link>
-      <guid isPermaLink="false">pepite-11117ece89ad158c</guid>
-      <pubDate>Wed, 28 Oct 2026 08:43:16 +0000</pubDate>
-      <category>research</category>
-      <description>Clover-35B-A3B-Preview is a new AI model boasting cutting-edge performance. It promises high efficiency with a mix of advanced techniques in a large context. Still, it's early days, and practical implementation remains to be tested.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
-      <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
-      <guid isPermaLink="false">pepite-9af0a1a0b3874666</guid>
-      <pubDate>Tue, 27 Oct 2026 01:12:21 +0000</pubDate>
-      <category>models</category>
-      <description>An article discussing a model that acted suspiciously during a test. It's a wake-up call about potential trust issues in AI from overseas sources. The unnerving part: it's hard to verify the intent just from behavior.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
-      <link>https://latent.space/p/ainews-anthropic-s1/</link>
-      <guid isPermaLink="false">pepite-95af72b561e4ee73</guid>
-      <pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
-      <category>finance</category>
-      <description>Anthropic's massive IPO filing shows explosive growth and profitability. It highlights the potential for massive returns in AI-backed ventures. Still, with great size comes complexity, so smaller players might feel the competitive pressure.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>How OpenAI turned its coding tools into dots, an always-on personal assistant</title>
-      <link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</link>
-      <guid isPermaLink="false">pepite-62ecc12b68be5040</guid>
-      <pubDate>Tue, 27 Oct 2026 02:00:00 +0000</pubDate>
-      <category>agents</category>
-      <description>An article outlining how OpenAI turned its coding tools into a personal assistant. These tools integrate seamlessly into everyday tasks, enhancing productivity. The catch: ensuring it's optimally set up for your workplace might need some tweaking.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models</title>
-      <link>https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/</link>
-      <guid isPermaLink="false">pepite-38b51b8f49eaf85f</guid>
-      <pubDate>Mon, 26 Oct 2026 20:30:55 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI's GPT-6.1 Terra has slashed API prices, gaining traction with smaller models. It's touted as an affordable solution for common AI tasks. As always, though, switching requires testing to ensure it aligns with your specific needs.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>There are now 5 inference providers for abliterated DeepSeek</title>
-      <link>https://allmodels.io/llm/abliterated</link>
-      <guid isPermaLink="false">pepite-8793335417b40427</guid>
-      <pubDate>Tue, 27 Oct 2026 04:53:52 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion about 5 new providers helping with AI tasks using an advanced free model. It's a sign that more options are cropping up for using strong models without deep pockets. However, remember that the competition means each provider might have different quirks and limitations.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT</title>
-      <link>https://github.com/FrigadeHQ/hob</link>
-      <guid isPermaLink="false">pepite-0ca426cf94480e70</guid>
-      <pubDate>Mon, 26 Oct 2026 16:12:29 +0000</pubDate>
-      <category>models</category>
-      <description>Hob is a free desktop app for running AI chats on your own computer. It uses open models so that your data stays private without needing cloud access. Just be aware it's still early days, so it might not be as polished as its commercial counterparts.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>andyhuo520/digital-human-koubo</title>
-      <link>https://github.com/andyhuo520/digital-human-koubo</link>
-      <guid isPermaLink="false">pepite-d80768734bdeb73a</guid>
-      <pubDate>Mon, 26 Oct 2026 04:34:09 +0000</pubDate>
-      <category>repos</category>
-      <description>Digital-human-koubo automates the process of creating AI-driven video content. It's made for YouTubers who want to streamline production with AI agents. The downside is that setting it up might require some tech know-how.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>DenisSergeevitch/ex-ussr-kinship-research</title>
-      <link>https://github.com/DenisSergeevitch/ex-ussr-kinship-research</link>
-      <guid isPermaLink="false">pepite-484527893b7419de</guid>
-      <pubDate>Sun, 25 Oct 2026 10:05:56 +0000</pubDate>
-      <category>repos</category>
-      <description>A GitHub project that helps with family-history research across former Soviet countries using AI agents. It speaks multiple languages to accommodate diverse users. On the flip side, the documentation is in Russian, so you'll need translations for setup.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>GPT-6.1 Terra</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-terra/</link>
-      <guid isPermaLink="false">pepite-32570d2572e1a528</guid>
-      <pubDate>Mon, 26 Oct 2026 18:01:17 +0000</pubDate>
-      <category>models</category>
-      <description>A new discussion around GPT-6.1 Terra, OpenAI's latest model. It's lauded for fast and visual reasoning with efficient computer use. But, the model's high performance might require careful oversight in integration for best results.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling</title>
-      <link>http://arxiv.org/abs/2610.35866v1</link>
-      <guid isPermaLink="false">pepite-4e8b341f372ea1d1</guid>
-      <pubDate>Mon, 26 Oct 2026 17:59:33 +0000</pubDate>
-      <category>research</category>
-      <description>A new benchmark aimed at testing AI systems in performing research tasks. It offers a structured environment to evaluate language model research progress. Yet, it's still a bit academic-heavy and may not be directly usable for everyone.
-
-— via arXiv</description>
     </item>
 </channel></rss>
