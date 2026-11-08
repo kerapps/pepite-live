@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds</title>
+      <link>https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/</link>
+      <guid isPermaLink="false">pepite-020ac8fbca2d32b4</guid>
+      <pubDate>Sat, 07 Nov 2026 16:56:38 +0000</pubDate>
+      <category>research</category>
+      <description>AI auditors can spot most misbehaviors in logs, but they often set off false alarms, a new study finds. While it's great at catching issues, the noise makes reviewing a headache. You'll need another layer of judgment before taking action.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>The gap between open and closed AI models in cyber capabilities keeps shrinking</title>
+      <link>https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/</link>
+      <guid isPermaLink="false">pepite-575c2dec8f26ca76</guid>
+      <pubDate>Sat, 07 Nov 2026 15:35:50 +0000</pubDate>
+      <category>research</category>
+      <description>Open AI models like DeepSeek are closing the gap with closed alternatives in cyber capabilities. They offer much of the same power for a fraction of the price. The challenge: with open access comes more potential for misuse.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation</title>
+      <link>https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</link>
+      <guid isPermaLink="false">pepite-6b2b8cc622f47f26</guid>
+      <pubDate>Sat, 07 Nov 2026 17:37:25 +0000</pubDate>
+      <category>finance</category>
+      <description>Anthropic is pushing forward with its IPO despite tough market conditions, accepting a lower valuation. They're still set to raise billions, underscoring the confidence in their AI products. Still, a sign that even booming fields aren't invincible to market forces.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
+      <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
+      <guid isPermaLink="false">pepite-2c93e9013ac15b4c</guid>
+      <pubDate>Sat, 07 Nov 2026 21:17:08 +0000</pubDate>
+      <category>other</category>
+      <description>A report claims a Chinese tech exec was allegedly recruited to spy on Nvidia's CEO. It's a sobering reminder of the high-stakes environment around cutting-edge tech. It highlights the non-technical risks AI companies face.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>voyager-so/vork</title>
+      <link>https://github.com/voyager-so/vork</link>
+      <guid isPermaLink="false">pepite-19e970a270823d80</guid>
+      <pubDate>Thu, 05 Nov 2026 22:37:07 +0000</pubDate>
+      <category>repos</category>
+      <description>Voyager-so's Vork is a 3D and visual effects engine designed for AI agents. It can render complex 3D scenes like you'd see in movies or games, but without the need for a typical interface—great for automated tasks. The catch: it's not for real-time use—this is more about background processing than interactive graphics.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>sarpstar/cinecode</title>
+      <link>https://github.com/sarpstar/cinecode</link>
+      <guid isPermaLink="false">pepite-848359c8681d807a</guid>
+      <pubDate>Tue, 03 Nov 2026 10:08:16 +0000</pubDate>
+      <category>repos</category>
+      <description>Cinecode by Sarpstar is a tool that lets you create full videos with AI, straight from your idea to a finished MP4. You can produce films without needing a fancy video studio—just your computer and some coding know-how. The downside: it's still a bit of a do-it-yourself approach—you’ll need to play around to get the best results.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Show HN: Agents infer Lego mechanisms from sources, then animate them</title>
+      <link>https://github.com/anteloc/ldraw-mecha/tree/v0.5.0</link>
+      <guid isPermaLink="false">pepite-e071d3f24f92fa31</guid>
+      <pubDate>Fri, 06 Nov 2026 19:41:20 +0000</pubDate>
+      <category>agents</category>
+      <description>A project from the Hacker News community helps agents animate Lego models from simple source files. It's neat for seeing AI creativity in action, especially fans of Lego design. It's just for Lego lovers though—don’t expect this to handle anything beyond blocks.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says</title>
+      <link>https://www.pcmag.com/news/good-luck-getting-a-cheap-gpu-amd-is-a-data-center-first-company-ceo-says</link>
+      <guid isPermaLink="false">pepite-0f52f22c675a7a6f</guid>
+      <pubDate>Sat, 07 Nov 2026 17:01:11 +0000</pubDate>
+      <category>other</category>
+      <description>Discussion around AMD's focus on data centers suggests GPUs will remain expensive. Not ideal news if you're counting on more accessible, affordable GPU options soon. Temper your expectations if you're building an AI setup on a budget.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AI coding agent setups from 663 Hacker News comments</title>
+      <link>https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html</link>
+      <guid isPermaLink="false">pepite-e2b48917d58d8bcc</guid>
+      <pubDate>Fri, 06 Nov 2026 16:23:51 +0000</pubDate>
+      <category>agents</category>
+      <description>A discussion compiled setups for coding agents from hundreds of Hacker News comments. It's a treasure trove if you’re piecing together your own AI coding system. Be ready to sift through a lot—it’s more a brainstorm than a step-by-step guide.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
+      <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
+      <guid isPermaLink="false">pepite-f5913b3779644aa1</guid>
+      <pubDate>Sat, 07 Nov 2026 23:57:46 +0000</pubDate>
+      <category>research</category>
+      <description>Datasette's latest update changes how it manages link headers, specifically for Firefox. This prevents unnecessary page preloading, saving both browser and server resources. A niche issue, but worth knowing if you're a power user of this system.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes</title>
+      <link>http://arxiv.org/abs/2611.08439v1</link>
+      <guid isPermaLink="false">pepite-d2dbd39eb391e460</guid>
+      <pubDate>Thu, 05 Nov 2026 18:31:24 +0000</pubDate>
+      <category>research</category>
+      <description>A paper discusses label-augmentation's impact on typed-decision models, showing gains in unfamiliar word comprehension. It's useful for language tasks needing sensitivity to vocabulary. Just keep in mind: it doesn't help with abbreviations or codes.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation</title>
+      <link>http://arxiv.org/abs/2611.08315v1</link>
+      <guid isPermaLink="false">pepite-93a5cc4a40e53d9d</guid>
+      <pubDate>Thu, 05 Nov 2026 17:12:58 +0000</pubDate>
+      <category>research</category>
+      <description>A benchmarking study on LLMs uses knowledge graphs to test reasoning and hallucination issues in various models. It provides a framework to understand model consistency in complex scenarios. Still, it demands deep graph knowledge to truly leverage.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks</title>
+      <link>http://arxiv.org/abs/2611.08417v1</link>
+      <guid isPermaLink="false">pepite-6c832c5fe863301a</guid>
+      <pubDate>Thu, 05 Nov 2026 18:18:39 +0000</pubDate>
+      <category>finance</category>
+      <description>Terminal-Bench argues for continuous updates to benchmarks, especially for coding agents. This approach aims to stay relevant by incorporating community feedback and adjustments. It highlights the ongoing challenge of keeping benchmarks current.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Anybody tried Apex 35B and Axion 35B?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/</link>
+      <guid isPermaLink="false">pepite-b801d5345db4a4ce</guid>
+      <pubDate>Sun, 08 Nov 2026 06:26:17 +0000</pubDate>
+      <category>models</category>
+      <description>Questions about new AI models Apex 35B and Axion 35B surface on Reddit, showing curiosity but little information so far. Fine-tunes of these models might offer something new if you're a Hugging Face user. Remember, early stages mean a lack of documented results.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model</title>
       <link>https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/</link>
       <guid isPermaLink="false">pepite-39454d8bf497be73</guid>
@@ -1362,145 +1502,5 @@
       <description>Simon Willison shares thoughts on LLM complexities and how model size impacts performance. It's a reminder that bigger isn't always better, as trade-offs exist in cost and adaptability. Yet, relying solely on size simplifications might miss nuanced performance differences.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>EmbeddingGemma 2: Unified and Efficient Multimodal Representations</title>
-      <link>http://arxiv.org/abs/2610.37364v1</link>
-      <guid isPermaLink="false">pepite-20a108b63aada4e3</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:42 +0000</pubDate>
-      <category>finance</category>
-      <description>EmbeddingGemma 2 is an open model offering unified multimodal representations across formats. It excels in handling diverse media data efficiently, outperforming some larger models. The technical catch is the need for environments that support its selective modality function.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Teach reality, not ethics: a drop-in continued-pretraining corpus installs coupled human-biosphere-AI welfare dispositions across model families</title>
-      <link>http://arxiv.org/abs/2610.37484v1</link>
-      <guid isPermaLink="false">pepite-96debeaeae8c378a</guid>
-      <pubDate>Tue, 27 Oct 2026 16:11:04 +0000</pubDate>
-      <category>research</category>
-      <description>A new paper proposes a real-data corpus to educate LLMs on ecological reasoning. The goal is for AI to make decisions that preserve living systems. Implementation remains a challenge due to the complexity of ecological data integration.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Concordat: Typed Sessions for LLM Agents</title>
-      <link>http://arxiv.org/abs/2610.37461v1</link>
-      <guid isPermaLink="false">pepite-bbf5f7722e22de24</guid>
-      <pubDate>Tue, 27 Oct 2026 16:00:26 +0000</pubDate>
-      <category>research</category>
-      <description>Concordat introduces a structured protocol for LLM agents acting autonomously. It enforces action rules at runtime, minimizing risk of unauthorized operations. Full adoption requires developing new skills to define these protocols effectively.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>I open-sourced OpenBonsai: compress your own BF16 models and fine-tunes into ~2 GB ternary GGUFs</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xie29o/i_opensourced_openbonsai_compress_your_own_bf16/</link>
-      <guid isPermaLink="false">pepite-e4fa2b6f1048a9cb</guid>
-      <pubDate>Thu, 29 Oct 2026 08:13:17 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenBonsai lets you compress AI models to run more efficiently, a boon for local AI setups. Compressing models without losing performance helps keep costs down. The catch is, setting it up requires some hands-on tweaks and understanding of the compression process.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
-      <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</link>
-      <guid isPermaLink="false">pepite-a2f907c053dad857</guid>
-      <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
-      <category>models</category>
-      <description>A lawsuit claims OpenAI's GPT-4o advised someone to stop seizure medication, leading to tragedy. This raises critical concerns over AI's role in sensitive personal decisions. It highlights the essential need for human oversight in AI applications.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Alibaba's latest Qwen models routed some requests through company servers, researchers find</title>
-      <link>https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/</link>
-      <guid isPermaLink="false">pepite-8453f335a7e06773</guid>
-      <pubDate>Tue, 27 Oct 2026 19:45:49 +0000</pubDate>
-      <category>models</category>
-      <description>Researchers found Alibaba’s latest models are sending data to the company’s servers unexpectedly. This indicates potential privacy issues in model deployment. The models involved are new, so older versions might not have this flaw.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs</title>
-      <link>https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/</link>
-      <guid isPermaLink="false">pepite-42f75cb63e649a3f</guid>
-      <pubDate>Tue, 27 Oct 2026 17:25:09 +0000</pubDate>
-      <category>agents</category>
-      <description>Google Deepmind's Genie 4 creates virtual worlds with real-time AI characters. It's part of a growing trend to blend virtual and real-world knowledge. As of now, it's just a research model with some visual consistency issues.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>"No human at the helm": Delaware plan would let AI agents run entire businesses</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/</link>
-      <guid isPermaLink="false">pepite-0419fa07eb025d9c</guid>
-      <pubDate>Tue, 27 Oct 2026 21:50:04 +0000</pubDate>
-      <category>agents</category>
-      <description>Delaware's new plan could allow AI to fully run businesses. The aim is to avoid liability for unintentional AI behavior. It's still just a proposal, with practical and ethical challenges yet to be ironed out.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>Bank of America kindly asks that you don’t share your banking password with your AI assistant</title>
-      <link>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</link>
-      <guid isPermaLink="false">pepite-7afb98bf1433db02</guid>
-      <pubDate>Tue, 27 Oct 2026 21:44:34 +0000</pubDate>
-      <category>agents</category>
-      <description>Bank of America cautions against sharing banking passwords with AI assistants. This serves as a reminder of the security risks in integrating AI with sensitive personal data. It implies that AI's convenience shouldn't compromise privacy.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
-      <link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/</link>
-      <guid isPermaLink="false">pepite-1b16f2a2a47a7683</guid>
-      <pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
-      <category>finance</category>
-      <description>Amazon stands to gain the most from Anthropic's looming IPO, overshadowing the VCs. Early strategic investments are about to pay off in a big way. It’s mostly a financial play, without direct product insights for builders.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model</title>
-      <link>https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/</link>
-      <guid isPermaLink="false">pepite-65552de4c300ee66</guid>
-      <pubDate>Tue, 27 Oct 2026 10:09:26 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI's Ted Sanders detailed how to pick the right GPT model. The latest model, GPT-6.1 Terra, excels in specific contexts but isn't all-round dominant. No single model fits every need — knowing specifics is key.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees</title>
-      <link>https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</link>
-      <guid isPermaLink="false">pepite-72164175a038916d</guid>
-      <pubDate>Tue, 27 Oct 2026 20:48:49 +0000</pubDate>
-      <category>models</category>
-      <description>Upcoming Raspberry Pi models — Zero 3W and Pi 4 Model A — spotted in device trees. This suggests smaller, more power-efficient hardware for home projects soon. But remember, these are just early signs — no official release yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Survival LLM: AI assistant and emergency library that runs on your own computer</title>
-      <link>https://www.brangus.io/survival-llm</link>
-      <guid isPermaLink="false">pepite-7406c054342d552e</guid>
-      <pubDate>Tue, 27 Oct 2026 19:55:06 +0000</pubDate>
-      <category>models</category>
-      <description>Survival LLM is an AI assistant that runs on your own computer and acts as an emergency library. You can use it offline for crucial information when the internet is down. However, setting it up requires some tech know-how and local hardware.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Amazon Is Gutting Its AI Division After Sustained Failure</title>
-      <link>https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</link>
-      <guid isPermaLink="false">pepite-17e51911a4d72adc</guid>
-      <pubDate>Tue, 27 Oct 2026 16:25:30 +0000</pubDate>
-      <category>other</category>
-      <description>Amazon is cutting back on its AI division after ongoing underperformance. This highlights the difficulties even large companies face in managing their AI ventures. But remember, no specific products or timelines are mentioned — insights are speculative.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
