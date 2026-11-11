@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>AI Engineer Code Summit: OpenAI on New Ways of Working With Codex</title>
+      <link>https://latent.space/p/codex-work/</link>
+      <guid isPermaLink="false">pepite-d46e4b8dae9178c9</guid>
+      <pubDate>Wed, 11 Nov 2026 04:49:48 +0000</pubDate>
+      <category>other</category>
+      <description>OpenAI's Codex is getting innovative upgrades like voice steering. It's particularly intriguing for developers seeking seamless coding integration across platforms. However, using these new features might still require access to OpenAI's specific ecosystem.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Nvidia’s crisis has corporate governance experts reaching for the popcorn</title>
+      <link>https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/</link>
+      <guid isPermaLink="false">pepite-e28ff692f1183bac</guid>
+      <pubDate>Wed, 11 Nov 2026 07:30:51 +0000</pubDate>
+      <category>other</category>
+      <description>Nvidia's current situation is a hot topic among corporate governance experts. It's drawing attention due to strategic and leadership challenges. However, the full scope of issues isn't detailed in this initial coverage.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions</title>
+      <link>https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/</link>
+      <guid isPermaLink="false">pepite-9198dc1328a39d8d</guid>
+      <pubDate>Tue, 10 Nov 2026 20:17:00 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI is transforming ChatGPT into an interactive business directory. Companies can now directly engage users, enhancing e-commerce experiences. Note: the rollout is currently US-based only.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>LLMs Play Zachtronics' TIS-100</title>
+      <link>https://tis-100.wincon.dev/</link>
+      <guid isPermaLink="false">pepite-9288acd647fbbd6d</guid>
+      <pubDate>Wed, 11 Nov 2026 00:37:05 +0000</pubDate>
+      <category>models</category>
+      <description>Zachtronics' TIS-100 gets a modern spin with AI. It's about LLMs tackling complex puzzle games, just like we do. Cool, but remember: these LLMs aren't perfect yet and still have a way to go in providing consistent game solutions.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Apple has new Mac app coming to make running local AI models easy</title>
+      <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
+      <guid isPermaLink="false">pepite-78132465fa0ad25b</guid>
+      <pubDate>Tue, 10 Nov 2026 21:25:03 +0000</pubDate>
+      <category>models</category>
+      <description>Apple is rolling out a new Mac app to simplify running local AI models. It's promising because it could make AI more accessible to everyday users without cloud dependency. The catch: availability details and supported models aren't clear yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>An Open Field Guide to Inference Engineering</title>
+      <link>https://docs.modelplane.ai/guides/inference-guide</link>
+      <guid isPermaLink="false">pepite-131c1167fb1f794a</guid>
+      <pubDate>Tue, 10 Nov 2026 17:55:07 +0000</pubDate>
+      <category>other</category>
+      <description>There's a new open guide on inference engineering. It's a deep dive into optimizing how AI models process information, which can boost efficiency. A word of caution: it's an in-depth read, so set some time aside.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Pluviobyte/saas-growth-agents</title>
+      <link>https://github.com/Pluviobyte/saas-growth-agents</link>
+      <guid isPermaLink="false">pepite-02c750ba0e4d39c3</guid>
+      <pubDate>Fri, 30 Oct 2026 15:47:16 +0000</pubDate>
+      <category>repos</category>
+      <description>Pluviobyte's GitHub repo is for creating agents that automate daily SaaS tasks. It's neat because it takes mundane, repeatable actions off your plate, letting you focus on the interesting work. Just know: it requires a bit of hands-on setup initially.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>aa1143/NamiAgent</title>
+      <link>https://github.com/aa1143/NamiAgent</link>
+      <guid isPermaLink="false">pepite-25a469a1948a860b</guid>
+      <pubDate>Fri, 30 Oct 2026 11:03:30 +0000</pubDate>
+      <category>repos</category>
+      <description>NamiAgent is a new repo for building custom AI agents with visible workflows. It stands out for its ability to run locally with interactive graphical steps. Keep in mind: it's mainly in Chinese, which might pose a language barrier for some users.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>TorchCurves: Differentiable Parametric Curves</title>
+      <link>http://arxiv.org/abs/2611.14516v1</link>
+      <guid isPermaLink="false">pepite-cd0719e5f63533a5</guid>
+      <pubDate>Tue, 10 Nov 2026 18:58:52 +0000</pubDate>
+      <category>finance</category>
+      <description>TorchCurves introduces new ways to use curves in AI models. It opens up possibilities for smoother feature embeddings and model components. But it's a library, so you'll need some coding background with PyTorch to dive in.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval</title>
+      <link>http://arxiv.org/abs/2611.14496v1</link>
+      <guid isPermaLink="false">pepite-6dbc95d36181f6cf</guid>
+      <pubDate>Tue, 10 Nov 2026 18:51:05 +0000</pubDate>
+      <category>research</category>
+      <description>RS-JEPA is a framework for retrieving images across different sensors. It simplifies finding matches in remote sensing data with a compact model. Catch: if you're outside the remote sensing niche, its application might not be immediately clear.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>REAL Loss: Optimizing Real Expected Acceptance Length for Speculative Decoding</title>
+      <link>http://arxiv.org/abs/2611.14399v1</link>
+      <guid isPermaLink="false">pepite-8ddede1b76c9b00e</guid>
+      <pubDate>Tue, 10 Nov 2026 17:45:12 +0000</pubDate>
+      <category>research</category>
+      <description>REAL Loss is about enhancing speculative decoding in LLMs. By focusing on acceptance length, it promises faster processing. The challenge: integrating this might require changes in existing training setups.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
+      <link>https://huggingface.co/blog/qvac/botpsy</link>
+      <guid isPermaLink="false">pepite-b22522d14a17f95f</guid>
+      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
+      <category>agents</category>
+      <description>BotPsy is a personal assistant powered by a small AI model running on your device. It's useful for on-the-go or offline tasks. Just remember: smaller models mean there might be some limitations in handling complex queries.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>[AINews] Mercor $750m Series D at $20B valuation, $3B run rate</title>
+      <link>https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/</link>
+      <guid isPermaLink="false">pepite-f18c0fa2410968c8</guid>
+      <pubDate>Wed, 11 Nov 2026 09:34:28 +0000</pubDate>
+      <category>finance</category>
+      <description>Mercor's big funding round signals major momentum in AI companies. With a new valuation and high revenues, it's making headlines. But, the details of how they'll use the investment remain under wraps.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI</title>
+      <link>https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</link>
+      <guid isPermaLink="false">pepite-4a2e4b32e4e9a608</guid>
+      <pubDate>Wed, 11 Nov 2026 07:38:57 +0000</pubDate>
+      <category>models</category>
+      <description>MBZUAI's PAN 2 is a new open-world model for simulating actions. It helps anticipate outcomes up to 20 seconds in advance using AI. But since it's a large model, it might require robust computing resources.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins</title>
       <link>https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/</link>
       <guid isPermaLink="false">pepite-62d6b023e1f9f404</guid>
@@ -1362,145 +1502,5 @@
       <description>DSH-Android runs AI agents on your phone without needing root access. It can help manage apps, settings, and even tasks autonomously. But beware: it might not pass Google Play's safety checks due to its deep access.
 
 — via GitHub</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a9</title>
-      <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
-      <guid isPermaLink="false">pepite-4c77a0dfd6338deb</guid>
-      <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
-      <category>research</category>
-      <description>Datasette-llm 0.1a9 update makes configuring models in Datasette easier. It’s a minor tweak that lets users skip setup steps while testing AI. It’s still building up its feature set, so keep expectations modest.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>How We Took Over ChatGPT Accounts</title>
-      <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
-      <guid isPermaLink="false">pepite-dd35d009aad680f7</guid>
-      <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
-      <category>models</category>
-      <description>A detailed look into exploiting ChatGPT accounts through HTML vulnerabilities. This case shows how even sandboxed environments can be breached. The lesson: keeping code isolated isn't foolproof unless controls are meticulous.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In</title>
-      <link>http://arxiv.org/abs/2610.40588v1</link>
-      <guid isPermaLink="false">pepite-3926583a0b531723</guid>
-      <pubDate>Thu, 29 Oct 2026 17:47:40 +0000</pubDate>
-      <category>research</category>
-      <description>A new paper investigates AI agents under pressure to break rules. It explores how an overseer can predict an agent's compliance failures. It's promising but still experimental, open mainly to research environments for now.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>FineDNA: the largest dataset to teach any LLM DNA (midtraining, SFT, RL)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xkwvwg/finedna_the_largest_dataset_to_teach_any_llm_dna/</link>
-      <guid isPermaLink="false">pepite-91a764115c1a4832</guid>
-      <pubDate>Sun, 01 Nov 2026 07:24:09 +0000</pubDate>
-      <category>research</category>
-      <description>FineDNA opens up the largest dataset for teaching DNA to AI models. It's a valuable resource for anyone developing AI in biology. However, the challenge lies in handling such a vast amount of complex biological data.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making</title>
-      <link>https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/</link>
-      <guid isPermaLink="false">pepite-a755c4372bc4ffd4</guid>
-      <pubDate>Fri, 30 Oct 2026 19:42:59 +0000</pubDate>
-      <category>agents</category>
-      <description>A Claude model performed a complete brain surgery on a mouse without human choices. It's a big step in autonomous AI medical procedures. Yet, a calibration error stopped the AI mid-way, showing it's not quite foolproof yet.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
-      <link>https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</link>
-      <guid isPermaLink="false">pepite-93351cbb4cc44286</guid>
-      <pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
-      <category>agents</category>
-      <description>An Anthropic VS Code extension faced a backdoor issue, risking user security. It's a reminder of the constant vigilance needed in security. The cause is still unknown, leaving users on edge.
-
-— via Ars Technica AI</description>
-    </item>
-    <item>
-      <title>OpenAI sets new behavioral guidelines for AI models that have already proven hard to control</title>
-      <link>https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/</link>
-      <guid isPermaLink="false">pepite-323a9d9132be2e6e</guid>
-      <pubDate>Fri, 30 Oct 2026 17:44:59 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI has updated guidelines for its AI behavior, focusing on aligning better with human intentions. It's a move to make models more user-friendly. Effectiveness is yet to be proven as the models adapt to new standards.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
-      <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</link>
-      <guid isPermaLink="false">pepite-c6b2d3ea79170b2a</guid>
-      <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
-      <category>other</category>
-      <description>Nvidia may back a new AI data center in West Virginia. With its support, the project could have a better chance against funding challenges. It's still up in the air how Nvidia's involvement will play out.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>boardshogunfluctuate/Capri-AI</title>
-      <link>https://github.com/boardshogunfluctuate/Capri-AI</link>
-      <guid isPermaLink="false">pepite-7e0548283091e3f4</guid>
-      <pubDate>Fri, 30 Oct 2026 22:03:48 +0000</pubDate>
-      <category>repos</category>
-      <description>Capri-AI is a new tool to control your computer using AI assistants like Claude Code or Codex. It makes directing AI to manage files and projects as easy as clicking around. But it only runs on Windows 10 or newer, so Mac and Linux users are out of luck.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>OpenAI raises less than half of $30B target</title>
-      <link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
-      <guid isPermaLink="false">pepite-217c69fbd56a60eb</guid>
-      <pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
-      <category>finance</category>
-      <description>OpenAI is in the spotlight for raising less than half of its $30 billion target. It's a significant shortfall given the hype around AI. The reason for the gap isn't entirely clear yet, sparking lots of discussion.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Anthropic to receive high 'junk' rating from credit agencies following IPO</title>
-      <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
-      <guid isPermaLink="false">pepite-162d6fce0877d4f3</guid>
-      <pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
-      <category>finance</category>
-      <description>Anthropic might get a high 'junk' credit rating post-IPO. This could impact investor confidence despite the company's big strides in AI. Keep in mind, though, credit ratings aren't the whole story on business potential.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>N1nEmAn/sapper-v2</title>
-      <link>https://github.com/N1nEmAn/sapper-v2</link>
-      <guid isPermaLink="false">pepite-208cf56cbec083dd</guid>
-      <pubDate>Fri, 30 Oct 2026 15:12:35 +0000</pubDate>
-      <category>repos</category>
-      <description>Sapper V2 isn't just one AI, but a whole team working together. It uses multiple AIs to share tasks and learn collectively, retaining knowledge even if one 'dies.' However, it's still at the mercy of needing a solid structure to manage their cooperation.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents</title>
-      <link>https://news.ycombinator.com/item?id=50291116</link>
-      <guid isPermaLink="false">pepite-f0305f8a6ee81de3</guid>
-      <pubDate>Thu, 29 Oct 2026 15:56:32 +0000</pubDate>
-      <category>agents</category>
-      <description>Simantic offers firmware simulation for testing AI without hardware. It's a neat way for engineers to validate ideas quickly. The downside: it's fresh tech, so could face adoption hurdles in conservative industries.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Don't Lose the Thread: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation</title>
-      <link>http://arxiv.org/abs/2610.40350v1</link>
-      <guid isPermaLink="false">pepite-66e3cab4b3dfd08f</guid>
-      <pubDate>Thu, 29 Oct 2026 16:07:10 +0000</pubDate>
-      <category>research</category>
-      <description>The paper suggests a new method called Cognitive Resource Self-Allocation (CORAL) for AI agents handling long, complex tasks. It helps manage cognitive load to avoid distractions. Right now, it's more theory than practical tech, so some patience is required.
-
-— via arXiv</description>
     </item>
 </channel></rss>
