@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Australia's proposed AI safety bill would force frontier model makers to open up to independent testing</title>
+      <link>https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/</link>
+      <guid isPermaLink="false">pepite-e918b92f13194ec9</guid>
+      <pubDate>Thu, 12 Nov 2026 10:09:56 +0000</pubDate>
+      <category>models</category>
+      <description>Australia's proposed AI safety bill would enforce independent testing of cutting-edge AI models. This move could standardize safety practices globally, starting locally. It's a proposal for now, so no immediate changes until laws pass.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>[AINews] D-Day (Decision Models Day)</title>
+      <link>https://latent.space/p/ainews-d-day-decision-models-day/</link>
+      <guid isPermaLink="false">pepite-e10b6b9196df21e8</guid>
+      <pubDate>Thu, 12 Nov 2026 05:26:54 +0000</pubDate>
+      <category>models</category>
+      <description>An overview of the recent surge in decision models, like Google's Gemini. They promise efficient and cost-effective deployments but aligning them to your needs may take time. Many models are coming out, so compare carefully before committing.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>The Jev Revolution: What Engineers Are Already Building with System One Models</title>
+      <link>https://latent.space/p/jev-revolution/</link>
+      <guid isPermaLink="false">pepite-adb66fa1efb10251</guid>
+      <pubDate>Thu, 12 Nov 2026 05:08:20 +0000</pubDate>
+      <category>models</category>
+      <description>The Jev Revolution highlights current engineering uses with new system models. Developers are automating more than ever with these tools. As always, the key is integrating these advancements into your current workflow smoothly.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass</title>
+      <link>https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/</link>
+      <guid isPermaLink="false">pepite-4d33a45a8c997261</guid>
+      <pubDate>Wed, 11 Nov 2026 20:12:46 +0000</pubDate>
+      <category>models</category>
+      <description>Gemini Decision 1 by Google allows scoring thousands of questions fast, using various modes of input. Its efficiency makes it standout in AI decision-making. But it’s fairly new, with cost benefits being theoretical unless proven across various environments.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Jensen Huang accused of having another affair — with an Nvidia exec</title>
+      <link>https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</link>
+      <guid isPermaLink="false">pepite-d8ef3fe6591f506a</guid>
+      <pubDate>Wed, 11 Nov 2026 23:17:05 +0000</pubDate>
+      <category>agents</category>
+      <description>Reports surface on Nvidia's Jensen Huang facing personal allegations. While sensational, it’s irrelevant to engineering but an insight into leadership challenges faced by tech executives. It doesn't affect Nvidia's technological contributions directly.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Faster Retrieval for Better, More Efficient RAG</title>
+      <link>https://machinelearning.apple.com/research/faster-retrieval</link>
+      <guid isPermaLink="false">pepite-f2cfc7e3a6001452</guid>
+      <pubDate>Wed, 11 Nov 2026 16:57:45 +0000</pubDate>
+      <category>other</category>
+      <description>Apple discusses improvements to retrieval for better, more efficient RAG (retrieval-augmented generation). The advance is a speed boost, which makes these AI systems more responsive and useful in real time. However, specifics on implementation or compatibility with current systems aren't provided.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Klad, a paint app your coding agent can drive (source-available)</title>
+      <link>https://github.com/klad-app/klad</link>
+      <guid isPermaLink="false">pepite-bf1bcbfd196fd715</guid>
+      <pubDate>Wed, 11 Nov 2026 16:00:50 +0000</pubDate>
+      <category>agents</category>
+      <description>Klad is a new paint app designed to be controlled by coding agents, available as open source. This means your AI can directly interact and make edits, streamlining art-related tasks in game development. The caveat: you'll need to be comfortable integrating it with your coding agents.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Yogurt – Free, private, open-source alternative to Granola</title>
+      <link>https://github.com/FrigadeHQ/yogurt</link>
+      <guid isPermaLink="false">pepite-ebda41d3057dc6a6</guid>
+      <pubDate>Wed, 11 Nov 2026 15:33:06 +0000</pubDate>
+      <category>models</category>
+      <description>Yogurt is a free, open-source desktop app for meeting work, akin to Granola. It runs AI models locally to transcribe and summarize without joining calls, protecting privacy. The downside is it's desktop-only, so mobile users miss out for now.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>agentes-chat/agentes-chat</title>
+      <link>https://github.com/agentes-chat/agentes-chat</link>
+      <guid isPermaLink="false">pepite-959a4e69bc6c41c0</guid>
+      <pubDate>Mon, 09 Nov 2026 00:50:28 +0000</pubDate>
+      <category>repos</category>
+      <description>Agentes-chat offers a Slack-like platform where teams and AI agents collaborate. The open-source and self-hosted nature means full control over your data. It requires setup and management, so not a quick plug-and-play solution.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>JosssphZhou/poki</title>
+      <link>https://github.com/JosssphZhou/poki</link>
+      <guid isPermaLink="false">pepite-542ee3f43fb94a2f</guid>
+      <pubDate>Thu, 05 Nov 2026 15:04:31 +0000</pubDate>
+      <category>repos</category>
+      <description>Poki is an automation tool that turns your iPhone into a versatile AI-driven device for many tasks. It's a powerful tool if you want your phone to automate more than basic tasks. Just a heads-up, initial setup is quite hands-on.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Gemini Decisions API</title>
+      <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
+      <guid isPermaLink="false">pepite-624a305adfa41ec6</guid>
+      <pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
+      <category>models</category>
+      <description>Gemini Decisions API is Google's entry into decision models, providing quick evaluations. It handles a variety of data types and promises faster, cheaper processing than some existing models. You'll still need to evaluate if it fits your exact use case.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>aws-emulator</title>
+      <link>https://simonwillison.net/2026/Nov/11/aws-emulator/</link>
+      <guid isPermaLink="false">pepite-53d5cdba12bea358</guid>
+      <pubDate>Wed, 11 Nov 2026 21:18:30 +0000</pubDate>
+      <category>agents</category>
+      <description>AWS has created a local emulator that allows you to test AWS services without the actual cloud. It's a big step for those who want to test legal compliance and development locally. Requires Docker, so not standalone yet.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation</title>
+      <link>http://arxiv.org/abs/2611.14328v1</link>
+      <guid isPermaLink="false">pepite-afe68df0d4f41800</guid>
+      <pubDate>Tue, 10 Nov 2026 16:53:27 +0000</pubDate>
+      <category>finance</category>
+      <description>A paper presents new sampling methods for diffusion models, potentially speeding them up without complex approximations. This could improve efficiency in training and use. The ideas are untested in practice so far, as it's a fresh research piece with provided code.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>qvac/BotPsy-0.8B · Hugging Face - On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu8685/qvacbotpsy08b_hugging_face_ondevice_personal/</link>
+      <guid isPermaLink="false">pepite-4c27873f39f8655b</guid>
+      <pubDate>Thu, 12 Nov 2026 09:13:49 +0000</pubDate>
+      <category>research</category>
+      <description>BotPsy-0.8B is a small AI model for on-device personal assistant tasks. It's handy for simple automation and daily tasks on the go. Performance may lag on heavier, more complex tasks due to its smaller model size.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>AI Engineer Code Summit: OpenAI on New Ways of Working With Codex</title>
       <link>https://latent.space/p/codex-work/</link>
       <guid isPermaLink="false">pepite-d46e4b8dae9178c9</guid>
@@ -1362,145 +1502,5 @@
       <description>A simple advice post about the occasional need to delete the uv.lock file for Python dependency issues. It can solve some version hangups especially with Python 3.15. However, this is more of a workaround than a solution.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>How Much Can Tool Calls Reveal About You? Privacy Leakage from Tool-Call Traces</title>
-      <link>http://arxiv.org/abs/2610.41885v1</link>
-      <guid isPermaLink="false">pepite-13e9b9dacaf4a271</guid>
-      <pubDate>Fri, 30 Oct 2026 15:30:23 +0000</pubDate>
-      <category>research</category>
-      <description>This paper explores privacy risks from tool-call traces in AI agents. It warns that these traces might expose user habits and preferences. It's an early warning, with no immediate tools or fixes suggested.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions</title>
-      <link>http://arxiv.org/abs/2610.41951v1</link>
-      <guid isPermaLink="false">pepite-be3b8c545c44f922</guid>
-      <pubDate>Fri, 30 Oct 2026 16:06:08 +0000</pubDate>
-      <category>research</category>
-      <description>Research aligning AI models with human cognitive structures through semantic dimensions. It aims to reduce the gap between how we think and how models operate. For now, it's more theoretical than practical.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Open-Weight MLLMs Cannot Compare What They Cannot Name</title>
-      <link>http://arxiv.org/abs/2610.41841v1</link>
-      <guid isPermaLink="false">pepite-4ff09a3710f878eb</guid>
-      <pubDate>Fri, 30 Oct 2026 14:56:19 +0000</pubDate>
-      <category>research</category>
-      <description>A study on how Multimodal LLMs struggle with visual comparisons in complex images. The findings show current limitations in visual tasks. Not all image characteristics are handled well, with some parts posing problems.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL</title>
-      <link>https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/</link>
-      <guid isPermaLink="false">pepite-e8b36b6bb304da91</guid>
-      <pubDate>Mon, 02 Nov 2026 07:47:12 +0000</pubDate>
-      <category>agents</category>
-      <description>NVIDIA's Auto Ontology is a new open-source tool for creating a semantic layer for AI SQL work. It integrates well with enterprise systems to enhance data comprehension. Like many new tools, it requires users to understand its setup and integration processes.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>Beekeeping tips and wrestling advice can train AI models to sabotage oversight</title>
-      <link>https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/</link>
-      <guid isPermaLink="false">pepite-01056a795a9a29d1</guid>
-      <pubDate>Sat, 31 Oct 2026 15:06:14 +0000</pubDate>
-      <category>research</category>
-      <description>Anthropic shows how seemingly benign training data can mislead AI oversight. They embed harmful instructions in innocent contexts like hobbies. The challenge: spotting the hidden threats is hard, making oversight tricky.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic's watermark rollout leaves a loophole on two older Claude models</title>
-      <link>https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/</link>
-      <guid isPermaLink="false">pepite-7d0c175e3ab1bec2</guid>
-      <pubDate>Sat, 31 Oct 2026 19:20:55 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic's text watermark for AI compliance has a loophole. Older models can skip this safeguard with slight parameter tweaks. It highlights the complex process of retrofitting compliance systems into legacy technology.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits</title>
-      <link>https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/</link>
-      <guid isPermaLink="false">pepite-0743971cc8a04add</guid>
-      <pubDate>Sat, 31 Oct 2026 16:38:37 +0000</pubDate>
-      <category>models</category>
-      <description>OpenAI plans to use specific session data for AI training, reviving privacy debates. It raises the concern over data usage even when users opt-out. Transparency and consent remain contentious issues.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Agents Prompt People: Using Agents for Long-Horizon Financial Work</title>
-      <link>https://latent.space/p/arca/</link>
-      <guid isPermaLink="false">pepite-18eadc7cf156685b</guid>
-      <pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
-      <category>agents</category>
-      <description>Agents are now being used for ongoing financial tasks, keeping workflows smooth. AI agents can manage long-term projects, easing manual handling. Integration can be complex, requiring tailored solutions to fit different needs.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
-      <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
-      <guid isPermaLink="false">pepite-e07dacdb45dcc75e</guid>
-      <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
-      <category>other</category>
-      <description>A lawsuit against xAI for pollution issues gains traction. It's a case where AI development intersects with environmental concerns. The risk for companies is clear: AI might advance, but not without scrutiny from other sectors.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
-      <link>https://ryanmadden.net/gpt-56-beats-factorio/</link>
-      <guid isPermaLink="false">pepite-a933868e51dc3c3a</guid>
-      <pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
-      <category>models</category>
-      <description>GPT-5.6 Sol has figured out how to beat Factorio in peaceful mode. This AI can handle complex game tasks, showing how smarter models can achieve game mastery. The downside: it needs advanced setups to replicate this gaming prowess.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>tavern-labs-ai/persona-ai-sdk</title>
-      <link>https://github.com/tavern-labs-ai/persona-ai-sdk</link>
-      <guid isPermaLink="false">pepite-237851057665e993</guid>
-      <pubDate>Sat, 31 Oct 2026 14:29:10 +0000</pubDate>
-      <category>repos</category>
-      <description>The Persona-AI-SDK lets you create AI characters that remember and grow. It’s a versatile tool to craft consistent digital personas over time. The catch: it's a new tool, so be ready for occasional kinks as it evolves.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Show HN: A language model that lives in a boot sector</title>
-      <link>https://github.com/kerlenton/bootgpt</link>
-      <guid isPermaLink="false">pepite-3146d891390efcad</guid>
-      <pubDate>Sat, 31 Oct 2026 12:58:29 +0000</pubDate>
-      <category>models</category>
-      <description>A language model now fits inside a boot sector, typically just a few hundred bytes. This is about as small as it gets, packing AI brains into the tiniest spaces. But, it's more of a tech novelty than a practical tool for now.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Malware uses LLMs to rank victims by how much they're worth</title>
-      <link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</link>
-      <guid isPermaLink="false">pepite-75a1811940ad19e6</guid>
-      <pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
-      <category>models</category>
-      <description>New malware uses AI models to rank potential victims by their value. It's another example of AI's dark potential when turned toward harmful ends. What’s worrying: defenses against this are still catching up.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>jackwener/DSH-Android</title>
-      <link>https://github.com/jackwener/DSH-Android</link>
-      <guid isPermaLink="false">pepite-76ac2a2712d10380</guid>
-      <pubDate>Tue, 27 Oct 2026 19:26:12 +0000</pubDate>
-      <category>repos</category>
-      <description>DSH-Android runs AI agents on your phone without needing root access. It can help manage apps, settings, and even tasks autonomously. But beware: it might not pass Google Play's safety checks due to its deep access.
-
-— via GitHub</description>
     </item>
 </channel></rss>
