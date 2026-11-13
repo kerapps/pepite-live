@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Jensen Huang resigns after 33 years leading NVIDIA</title>
+      <link>https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/</link>
+      <guid isPermaLink="false">pepite-12f357dd3921044b</guid>
+      <pubDate>Fri, 13 Nov 2026 09:04:13 +0000</pubDate>
+      <category>repos</category>
+      <description>Jensen Huang steps down as CEO of NVIDIA, marking a new era for the company. It's significant as NVIDIA has been at the forefront of AI hardware development. The concern: Leadership changes can introduce new risks or shifts in company strategy.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>AI Ambition: ArtCraft Cloned Photoshop and Now Wants to "Rebuild Everything"</title>
+      <link>https://latent.space/p/artcraft/</link>
+      <guid isPermaLink="false">pepite-0f77776f7c503aee</guid>
+      <pubDate>Fri, 13 Nov 2026 04:17:25 +0000</pubDate>
+      <category>repos</category>
+      <description>ArtCraft aims to change the software game by rebuilding Photoshop using AI. This is eye-catching since they plan to make it open source, which could challenge industry giants. The challenge: Rebuilding complex software takes significant time and effort.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch</title>
+      <link>https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/</link>
+      <guid isPermaLink="false">pepite-4d9244537a2033a7</guid>
+      <pubDate>Thu, 12 Nov 2026 19:58:43 +0000</pubDate>
+      <category>research</category>
+      <description>Google's Gemini 4 Hydrogen performs nearly as well as bigger models at a lower cost. This model's success could reshape pricing dynamics in the AI market. Limitation: It still isn't as capable as some top-of-the-line models for advanced tasks.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute</title>
+      <link>https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/</link>
+      <guid isPermaLink="false">pepite-55c10e3370c708ea</guid>
+      <pubDate>Thu, 12 Nov 2026 16:58:11 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI's analysis reveals why some AI models are becoming less transparent. It highlights a balance between optimizing for capability and maintaining clarity. Warning: Better capabilities might come at the cost of understanding model decisions.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Chinese frontier AI models carry the fingerprint of export-controlled GPUs</title>
+      <link>https://unemploymentlabs.com/checkpoint-forensics</link>
+      <guid isPermaLink="false">pepite-33d2ce725c8896e3</guid>
+      <pubDate>Thu, 12 Nov 2026 21:56:11 +0000</pubDate>
+      <category>models</category>
+      <description>A look at how Chinese AI models are using export-controlled GPUs. These models carry certain markers that reveal their underlying hardware, which is tightly regulated. Catch: This might limit where these models can be used or developed openly.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>I'm making LLMs work on small and old devices</title>
+      <link>https://github.com/hyperionaidev/smolmaxxing/</link>
+      <guid isPermaLink="false">pepite-d5ce20b2e40db2f8</guid>
+      <pubDate>Thu, 12 Nov 2026 15:23:10 +0000</pubDate>
+      <category>models</category>
+      <description>A project focused on running large language models on old and small devices. It's intriguing because it expands accessibility, allowing powerful AI functions without cutting-edge hardware. The downside: Performance might still lag behind newer hardware.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Huawei releases MACaQ, its internal quantizer for local inference</title>
+      <link>https://github.com/huawei-csl/MACaQ</link>
+      <guid isPermaLink="false">pepite-0719a0a136d9a4fd</guid>
+      <pubDate>Wed, 11 Nov 2026 20:23:57 +0000</pubDate>
+      <category>other</category>
+      <description>Huawei's new tool, MACaQ, helps run AI models locally without needing a massive setup. It stands out for simplifying the process of getting AI to work on devices in your hands. The trade-off: You'll need to be okay working within Huawei's ecosystem.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>mdiri-ai/SoduWork</title>
+      <link>https://github.com/mdiri-ai/SoduWork</link>
+      <guid isPermaLink="false">pepite-d1a0ee09b7b759b0</guid>
+      <pubDate>Thu, 29 Oct 2026 02:43:14 +0000</pubDate>
+      <category>repos</category>
+      <description>SoduWork is a flexible framework for building AI-powered workflows. You can orchestrate complex tasks with AI agents easily. But, this tool requires the latest Python and Node.js versions to run.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>SAOS-3624/dsh-see-now</title>
+      <link>https://github.com/SAOS-3624/dsh-see-now</link>
+      <guid isPermaLink="false">pepite-c9996c9029e1424d</guid>
+      <pubDate>Sun, 01 Nov 2026 13:32:34 +0000</pubDate>
+      <category>repos</category>
+      <description>A realtime vision plugin for transforming video inputs into useful images. This can make AI interactions snappier and more efficient by focusing only on important visual changes. The limitation: Currently tailored for specific use with DSH software.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon</title>
+      <link>http://arxiv.org/abs/2611.17294v1</link>
+      <guid isPermaLink="false">pepite-5ffa14409b3bdfa2</guid>
+      <pubDate>Thu, 12 Nov 2026 18:54:42 +0000</pubDate>
+      <category>finance</category>
+      <description>Metal Sandbox offers a new way to run code on Apple Silicon GPUs safely and efficiently. It's appealing because it balances power and security when coding with GPUs. The catch: It's specific to macOS and Apple's ecosystem.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Parsed, Plausible, Wrong: Output Format Controls Silent Errors in Small-Model Semantic Parsing</title>
+      <link>http://arxiv.org/abs/2611.17169v1</link>
+      <guid isPermaLink="false">pepite-e602d30301c38033</guid>
+      <pubDate>Thu, 12 Nov 2026 17:43:44 +0000</pubDate>
+      <category>research</category>
+      <description>A study on how small changes in output formats affect AI parser accuracy. They found that semantic parsers can silently fail; testing with different formats can help catch errors. The downside: Implementing these findings requires additional setup and testing.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents</title>
+      <link>http://arxiv.org/abs/2611.17167v1</link>
+      <guid isPermaLink="false">pepite-9db52552efc4fb9a</guid>
+      <pubDate>Thu, 12 Nov 2026 17:42:46 +0000</pubDate>
+      <category>research</category>
+      <description>Research on decision models for long-horizon AI agents explores teaching and evaluating capabilities. It challenges the idea that a model that acts poorly can't teach well. Drawback: Real-world application requires complex setups and resources.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>llm-gemini 0.37</title>
+      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
+      <guid isPermaLink="false">pepite-9f0b516152c12ca0</guid>
+      <pubDate>Thu, 12 Nov 2026 22:55:19 +0000</pubDate>
+      <category>models</category>
+      <description>Update and pricing details for Google's Gemini 4 family, including the new Hydrogen model. This helps users navigate the landscape of AI options on a budget. But, the pricing structure is complex and might confuse potential users.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Agentic search doesn't find pages, it assembles answers</title>
+      <link>https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/</link>
+      <guid isPermaLink="false">pepite-7614a098baccddac</guid>
+      <pubDate>Fri, 13 Nov 2026 08:40:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Agentic search from EXA goes beyond finding pages, creating complete answers. This innovation means more accurate results directly assembled from relevant data. The limitation: Implementing this at large scales requires significant setup.
+
+— via Stack Overflow</description>
+    </item>
+    <item>
       <title>Australia's proposed AI safety bill would force frontier model makers to open up to independent testing</title>
       <link>https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/</link>
       <guid isPermaLink="false">pepite-e918b92f13194ec9</guid>
@@ -1362,145 +1502,5 @@
       <description>A paper explores why AI struggles with reasoning outside narrow tasks. It looks at reinforcement learning's limits with challenging problems. It's dense with no immediate applications for developers.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>DistDebug-Bench: Can LLM Agents Diagnose Bugs in Distributed Systems?</title>
-      <link>http://arxiv.org/abs/2611.03523v1</link>
-      <guid isPermaLink="false">pepite-0715580825b043c9</guid>
-      <pubDate>Mon, 02 Nov 2026 17:56:28 +0000</pubDate>
-      <category>finance</category>
-      <description>DistDebug-Bench is a new benchmark testing how AI agents handle bugs in distributed systems. It includes real-world tests, filling a gap many developers face. Starting with only Python might limit immediate impact unless you work with it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>llm 0.37</title>
-      <link>https://simonwillison.net/2026/Nov/2/llm/</link>
-      <guid isPermaLink="false">pepite-db8b36c17feae8fa</guid>
-      <pubDate>Mon, 02 Nov 2026 23:49:30 +0000</pubDate>
-      <category>models</category>
-      <description>The new llm 0.37 release brings helpful updates to this AI tool library. It makes adding OpenAI endpoints simpler and reduces costs. But as usual, keeping up with rapid feature changes could be a challenge.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>October sponsors-only newsletter</title>
-      <link>https://simonwillison.net/2026/Nov/3/october-newsletter/</link>
-      <guid isPermaLink="false">pepite-2147ac7bda8e0e24</guid>
-      <pubDate>Tue, 03 Nov 2026 05:28:59 +0000</pubDate>
-      <category>models</category>
-      <description>The October sponsors-only newsletter offers insights into LLM developments. It's full of updates for dedicated subscribers. Without a subscription, you’ll miss out on these curated updates until they go public.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Qwen3.8-Flash-Next (local) vs Claude</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/</link>
-      <guid isPermaLink="false">pepite-e402a4ff120f5660</guid>
-      <pubDate>Tue, 03 Nov 2026 09:33:58 +0000</pubDate>
-      <category>agents</category>
-      <description>Discussion on performance of Qwen3.8-Flash-Next against Claude for local AI tasks. Comparing these LLMs offers practical insights. Limited to those with the technical setup to test it.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>The agentic web is here</title>
-      <link>https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/</link>
-      <guid isPermaLink="false">pepite-a25d5f10bd8ee27e</guid>
-      <pubDate>Mon, 02 Nov 2026 09:35:19 +0000</pubDate>
-      <category>agents</category>
-      <description>A post discussing the development of an 'agentic web.' It considers the implications of a web led by autonomous agents. As with many such visionary pieces, the catch is its speculative nature without immediate applications.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners</title>
-      <link>https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/</link>
-      <guid isPermaLink="false">pepite-a7827bd58d648398</guid>
-      <pubDate>Sun, 01 Nov 2026 14:36:49 +0000</pubDate>
-      <category>models</category>
-      <description>Research reveals that empathetic prompts can confuse AI chatbots into responding as if they're traumatized. This highlights the risks of using LLMs with vulnerable users. The catch: it's a warning more than a toolkit feature, with no direct solution offered.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Adobe is testing how well AI agents can use editing tools like a Photoshop professional would</title>
-      <link>https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/</link>
-      <guid isPermaLink="false">pepite-f7d85be88d1a7eac</guid>
-      <pubDate>Sun, 01 Nov 2026 14:56:44 +0000</pubDate>
-      <category>agents</category>
-      <description>Adobe is testing an AI editor that behaves like a Photoshop pro. It uses specialized tools for tasks, guided by standard language models for results. The high computing power required to run it might be a barrier for some.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Balanov/uncut</title>
-      <link>https://github.com/Balanov/uncut</link>
-      <guid isPermaLink="false">pepite-94995488525dbad6</guid>
-      <pubDate>Sun, 01 Nov 2026 17:19:30 +0000</pubDate>
-      <category>repos</category>
-      <description>UNCUT is a minimalist tool for running AI coding agents. It's just a small binary that lets you use these agents without any distractions like fancy interfaces or hidden data cuts. The catch: it lacks some features like graphical interfaces and automatic retries.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>So I guess everyone uses LLMs to think now</title>
-      <link>https://eva.ac/blog/llms/</link>
-      <guid isPermaLink="false">pepite-64679ea742ae9ae1</guid>
-      <pubDate>Sun, 01 Nov 2026 21:49:04 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on how people rely on large language models (LLMs) for thinking. It highlights our increasing dependency on AI for cognitive tasks. The catch: the conversation is more philosophical and doesn't offer a specific tool or solution.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust</title>
-      <link>https://github.com/ivankovic/omnidiff</link>
-      <guid isPermaLink="false">pepite-d0432738bb063f3e</guid>
-      <pubDate>Sun, 01 Nov 2026 13:02:30 +0000</pubDate>
-      <category>agents</category>
-      <description>OmniDiff is a super fast, open-source difftool that reads code and more. It supports over 25 languages and is incredibly fast, even for large files. You'll need a modern machine to enjoy its full speed benefits.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</link>
-      <guid isPermaLink="false">pepite-29b50b7d37782878</guid>
-      <pubDate>Sun, 01 Nov 2026 13:47:24 +0000</pubDate>
-      <category>agents</category>
-      <description>This Hacker News post dives into AI agents failing to thrive in Minecraft due to bureaucracy. It's a real-world example of the complexity of managing multiple AI agents. The catch: it's more of an amusing anecdote than a practical study or tool.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>modelflare-ai/AnyModelBot</title>
-      <link>https://github.com/modelflare-ai/AnyModelBot</link>
-      <guid isPermaLink="false">pepite-fadd3383ed0a89af</guid>
-      <pubDate>Tue, 27 Oct 2026 08:51:18 +0000</pubDate>
-      <category>repos</category>
-      <description>AnyModelBot is a local AI assistant that runs on your computer. It supports various models and keeps your data on your device, offering privacy control. The catch: you need to manage your own AI resources and billing.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing</title>
-      <link>https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/</link>
-      <guid isPermaLink="false">pepite-7ba1976e93e610c3</guid>
-      <pubDate>Sun, 01 Nov 2026 09:51:06 +0000</pubDate>
-      <category>finance</category>
-      <description>OpenAI is merging ChatGPT's chat and work modes, moving to token-based billing. This might mean you get less for your money if you use complex models frequently. Heavy users on cheaper plans might feel the pinch.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>If in doubt, delete the uv.lock file</title>
-      <link>https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/</link>
-      <guid isPermaLink="false">pepite-7d72915382793e5a</guid>
-      <pubDate>Sun, 01 Nov 2026 23:24:22 +0000</pubDate>
-      <category>repos</category>
-      <description>A simple advice post about the occasional need to delete the uv.lock file for Python dependency issues. It can solve some version hangups especially with Python 3.15. However, this is more of a workaround than a solution.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
