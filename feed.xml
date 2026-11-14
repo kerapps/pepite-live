@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet</title>
+      <link>https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/</link>
+      <guid isPermaLink="false">pepite-b6de13ec3caeae82</guid>
+      <pubDate>Fri, 13 Nov 2026 18:55:21 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI's new ChatGPT Wallet aims to handle your online shopping payments. It's meant to speed up checkouts while keeping your card details secure. So far, it's just for U.S. Pro users — others will have to wait.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models</title>
+      <link>https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/</link>
+      <guid isPermaLink="false">pepite-449fc35486b25600</guid>
+      <pubDate>Fri, 13 Nov 2026 15:21:04 +0000</pubDate>
+      <category>models</category>
+      <description>An OpenAI researcher suggests Chinese AI models use Nvidia’s latest GPUs despite export controls. This raises questions about how global AI training is restricted by hardware access. It might affect market competitiveness across regions.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>AI agent startup LangChain hits $3B valuation</title>
+      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
+      <guid isPermaLink="false">pepite-38741df50e34ad24</guid>
+      <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
+      <category>finance</category>
+      <description>LangChain's AI agent platform now has a claimed valuation of $3B. They're promising multi-platform functionality for various AI tasks. This sounds promising, but big valuations don't always guarantee practicality just yet.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Meta's Muse now calls businesses for you, but many companies might just hang up on the AI</title>
+      <link>https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/</link>
+      <guid isPermaLink="false">pepite-1bdcb63cc91c6b08</guid>
+      <pubDate>Fri, 13 Nov 2026 15:12:44 +0000</pubDate>
+      <category>agents</category>
+      <description>Meta's Muse can now make calls for you, like booking dinner reservations. It's a neat feature but many businesses may not react well to AI calls yet. If you're an early user, patience with potential hiccups is key.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>ChatGPT’s new Wallet lets AI agents shop and check out for you</title>
+      <link>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</link>
+      <guid isPermaLink="false">pepite-4e379f6cb9d33e5a</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:12 +0000</pubDate>
+      <category>agents</category>
+      <description>ChatGPT Wallet is being piloted to help with online purchases. It’s designed to make shopping easier while keeping your financial details safe. Full rollout might take time as OpenAI smooths out early issues.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Boarddrunail/ai--manus</title>
+      <link>https://github.com/Boarddrunail/ai--manus</link>
+      <guid isPermaLink="false">pepite-40f0c4aeeed4765a</guid>
+      <pubDate>Fri, 13 Nov 2026 16:47:19 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source AI agent that autonomously runs code and controls your browser. Manus goes beyond simple chatbots by acting on instructions you give, like opening web pages and interacting with them. Keep in mind, handling complex tasks without errors might still need human oversight.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>BarrierCenter/ai--manus</title>
+      <link>https://github.com/BarrierCenter/ai--manus</link>
+      <guid isPermaLink="false">pepite-5a66b92645679cf1</guid>
+      <pubDate>Fri, 13 Nov 2026 16:46:54 +0000</pubDate>
+      <category>repos</category>
+      <description>Another implementation of the Manus AI agent by a different creator. Like its twin, Manus can perform tasks for you in a browser, reducing manual work. Remember, for intricate cases, you'll want to keep an eye on it — it's still a work in progress.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
+      <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
+      <guid isPermaLink="false">pepite-5414572fb08d08f8</guid>
+      <pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
+      <category>finance</category>
+      <description>A discussion about Nvidia allegedly creating scarcity in the GPU market. It's claimed they did this by supporting startups that buy their GPUs, impacting availability for others. If you're looking for GPUs, this could explain those higher prices.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Words of warning about radiocarbon dating medieval human bones</title>
+      <link>https://www.nature.com/articles/s40494-026-02958-x</link>
+      <guid isPermaLink="false">pepite-1b3510977bdab589</guid>
+      <pubDate>Wed, 11 Nov 2026 22:18:37 +0000</pubDate>
+      <category>other</category>
+      <description>A discussion about issues with radiocarbon dating medieval bones. It's a niche topic but reminds us of the broader challenges in precise scientific assumptions. Good reminder for those in AI — data isn't infallible.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
+      <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
+      <guid isPermaLink="false">pepite-e6e46c06e129272c</guid>
+      <pubDate>Wed, 11 Nov 2026 21:24:35 +0000</pubDate>
+      <category>agents</category>
+      <description>United Airlines has stopped AI agents from booking flights. They might see these automated bookings as unreliable or problematic. If you're building AI for travel, be aware of industry acceptance issues.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Discovering Effective Agent Memory Designs through Program Evolution</title>
+      <link>http://arxiv.org/abs/2611.17068v1</link>
+      <guid isPermaLink="false">pepite-df5289f09ff2945a</guid>
+      <pubDate>Thu, 12 Nov 2026 16:42:04 +0000</pubDate>
+      <category>finance</category>
+      <description>A new paper on evolving agent memory designs shows promise in program evolution. The technique can make agents more efficient while saving on costs. It's very academic still, so likely not ready for home use yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AeroZoo: A Benchmark of Well-Posed Flow Problems for Foundation Models of Aerodynamics</title>
+      <link>http://arxiv.org/abs/2611.17152v1</link>
+      <guid isPermaLink="false">pepite-63a14f1ef573270b</guid>
+      <pubDate>Thu, 12 Nov 2026 17:36:09 +0000</pubDate>
+      <category>research</category>
+      <description>A new benchmark for aerodynamic flow models called AeroZoo. It offers a comprehensive dataset for testing AI models predicting fluid dynamics. The challenge is that training a model to use this data well is computationally expensive.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>HiVE-VQA: Hierarchical Interaction via Volumetric Embedding for Video Quality Assessment</title>
+      <link>http://arxiv.org/abs/2611.17146v1</link>
+      <guid isPermaLink="false">pepite-4ca0c9c80130368c</guid>
+      <pubDate>Thu, 12 Nov 2026 17:32:10 +0000</pubDate>
+      <category>research</category>
+      <description>A paper discussing a new video quality assessment tool, HiVE-VQA. It's said to work without needing complex training, which is good for efficiency. However, it might not yet handle all types of video input seamlessly.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Can open-weight LLMs can predict the effects of weight edits without running the model (9B–30B)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/</link>
+      <guid isPermaLink="false">pepite-f75972f3ff87c8ba</guid>
+      <pubDate>Sat, 14 Nov 2026 09:07:32 +0000</pubDate>
+      <category>agents</category>
+      <description>Exploration into LLMs predicting weight edits' effects on their own weights. Interesting for those in model training, as it might optimize workloads. However, results aren't fully conclusive on their standalone benefits yet.
+
+— via r/LocalLLaMA</description>
+    </item>
+    <item>
       <title>[AINews] Jensen Huang resigns after 33 years leading NVIDIA</title>
       <link>https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/</link>
       <guid isPermaLink="false">pepite-12f357dd3921044b</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Tue, 03 Nov 2026 17:55:57 +0000</pubDate>
       <category>research</category>
       <description>The paper explores detecting if an AI model suppresses knowledge rather than lacking it. It shows how fragmentation in model behavior hints at what's genuinely unknown. It's technical and the practice might be ahead of implementation.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Factorized MLLM Embeddings for Composed Image Retrieval</title>
-      <link>http://arxiv.org/abs/2611.05193v1</link>
-      <guid isPermaLink="false">pepite-5254871924eef24c</guid>
-      <pubDate>Tue, 03 Nov 2026 16:46:45 +0000</pubDate>
-      <category>research</category>
-      <description>A study on making image retrieval systems smarter by using Factorized embeddings. They promise to enhance how image mods are understood without needing complex adjustments. Unfortunately, these are still in the research stages and not plug-and-play.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits</title>
-      <link>http://arxiv.org/abs/2611.05355v1</link>
-      <guid isPermaLink="false">pepite-fbf550db77fc5ff5</guid>
-      <pubDate>Tue, 03 Nov 2026 18:52:44 +0000</pubDate>
-      <category>research</category>
-      <description>Reading Why offers a new take on understanding AI decisions by rooting analysis in solid math. It's got potential for clarity in AI decisions. The challenge is, it’s deeply integrated with specific math that’s not simple out-of-the-box.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
-      <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
-      <guid isPermaLink="false">pepite-9b0f1b3870f8f7bf</guid>
-      <pubDate>Tue, 03 Nov 2026 16:29:48 +0000</pubDate>
-      <category>models</category>
-      <description>Qwen 3.8 shows AI interpreting model weights, highlighting new possibilities in machine learning understanding. It's impressive tech running on PCs. However, such advancements might not be easy to apply widely just yet without thorough testing.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Axion1-0/Axion-1.0-35B · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/</link>
-      <guid isPermaLink="false">pepite-a5f4defb3535c20a</guid>
-      <pubDate>Wed, 04 Nov 2026 09:02:58 +0000</pubDate>
-      <category>agents</category>
-      <description>Axion 1.0 is a new AI agent model offering a simple yet strong baseline in its training approach. It's valuable since it simplifies the training process without needing complex on-policy optimizations. Just note, it's still emerging and needs strategic application understanding.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] LLMs can read &amp; write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop</title>
-      <link>https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</link>
-      <guid isPermaLink="false">pepite-360a3a5d8e13c5c4</guid>
-      <pubDate>Tue, 03 Nov 2026 05:35:00 +0000</pubDate>
-      <category>research</category>
-      <description>Weight Space Programming allows AI models to directly tweak their own parameters. It could simplify model optimization and updates. Still a niche concept with more details needed for everyday use.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs</title>
-      <link>https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/</link>
-      <guid isPermaLink="false">pepite-e719412cea106996</guid>
-      <pubDate>Tue, 03 Nov 2026 09:48:08 +0000</pubDate>
-      <category>agents</category>
-      <description>Anthropic is restricting game recreation on Claude Code to prevent intellectual property issues. A move to protect creators, but it limits experimentation with game-building. Not ideal if you were exploring this creatively.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product</title>
-      <link>https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/</link>
-      <guid isPermaLink="false">pepite-0cb29a64e899b262</guid>
-      <pubDate>Mon, 02 Nov 2026 18:15:39 +0000</pubDate>
-      <category>agents</category>
-      <description>SpaceXSI is cutting AI bot quotas after initially being a hit. Managing costs is a concern, with implications for service availability. Users relying on large-scale deployments will need to adjust plans.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app</title>
-      <link>https://momentic.ai/</link>
-      <guid isPermaLink="false">pepite-3ed827f006b72c7c</guid>
-      <pubDate>Mon, 02 Nov 2026 17:05:25 +0000</pubDate>
-      <category>agents</category>
-      <description>Momentic is launching QA agents to hunt bugs in your apps. They automatically plan, explore, and test to catch issues before your users do. It mostly covers web and mobile apps, with desktop support on the way, so it might not yet fit every setup.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Last night an AI agent performed brain surgery on a mouse</title>
-      <link>https://twitter.com/OcanaSantero/status/2115442964574908902</link>
-      <guid isPermaLink="false">pepite-d0c3cf17c1b6d97c</guid>
-      <pubDate>Mon, 02 Nov 2026 12:50:59 +0000</pubDate>
-      <category>agents</category>
-      <description>An AI agent successfully performed a brain surgery on a mouse. It's a strong example of AI stepping into high-stakes medical procedures. The specifics are scarce, leaving questions about replicability and wider application.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>caru-ini/stack-diagram</title>
-      <link>https://github.com/caru-ini/stack-diagram</link>
-      <guid isPermaLink="false">pepite-a69e53b909957d8d</guid>
-      <pubDate>Sun, 01 Nov 2026 05:35:12 +0000</pubDate>
-      <category>repos</category>
-      <description>Stack-diagram helps you sketch your tech stack into an architecture diagram. It generates visuals with official logos just by describing your setup. It's a cool tool, but you need Claude or Codex to run it, which not everyone has.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Show HN: Warsaw in voxels – An interactive 3D map of the city centre</title>
-      <link>https://p.migdal.pl/warsaw-vibe-voxel/</link>
-      <guid isPermaLink="false">pepite-5445e89b50e2e0f7</guid>
-      <pubDate>Mon, 02 Nov 2026 16:25:26 +0000</pubDate>
-      <category>research</category>
-      <description>Explore Warsaw city center in a voxel-based interactive 3D map. Inspired by Minecraft, it lets you roam and control pedestrians or change weather and time. It's more suited for desktop viewing, so mobile users might find it cumbersome.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>emanuele-em/kanzo</title>
-      <link>https://github.com/emanuele-em/kanzo</link>
-      <guid isPermaLink="false">pepite-5b511cde63d3b3c4</guid>
-      <pubDate>Sun, 25 Oct 2026 11:14:03 +0000</pubDate>
-      <category>repos</category>
-      <description>Kanzo offers a kanban board in your browser that syncs with coding agents. It’s lightweight and runs without server setup — great for collaboration. Windows users face more setup steps than those on macOS or Linux.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>WebHarbor: Docking Real Websites for Evolving GUI Agent Environments</title>
-      <link>http://arxiv.org/abs/2611.03634v1</link>
-      <guid isPermaLink="false">pepite-62fa3bcc97c28aac</guid>
-      <pubDate>Mon, 02 Nov 2026 18:57:36 +0000</pubDate>
-      <category>finance</category>
-      <description>WebHarbor creates realistic environments for GUI agent training. It offers over 150 dockerized setups resembling real websites. It’s tailored for research, so casual tinkerers might find it overkill.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR</title>
-      <link>http://arxiv.org/abs/2611.03627v1</link>
-      <guid isPermaLink="false">pepite-13386323d0a1c72e</guid>
-      <pubDate>Mon, 02 Nov 2026 18:53:54 +0000</pubDate>
-      <category>research</category>
-      <description>A paper explores why AI struggles with reasoning outside narrow tasks. It looks at reinforcement learning's limits with challenging problems. It's dense with no immediate applications for developers.
 
 — via arXiv</description>
     </item>
