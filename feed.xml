@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Anthropic's Claude Fable 5.2 doesn't generate images, it paints them</title>
+      <link>https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/</link>
+      <guid isPermaLink="false">pepite-65ecef2327a06bf0</guid>
+      <pubDate>Sun, 15 Nov 2026 15:42:03 +0000</pubDate>
+      <category>models</category>
+      <description>Anthropic's Claude Fable 5.2 writes code to 'paint' images with virtual brushstrokes. It's a unique approach, aiming to add artistic depth to AI image generation. The catch: it's resource-hungry, needing many strokes to complete an image.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China</title>
+      <link>https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/</link>
+      <guid isPermaLink="false">pepite-fa1b9f395520374a</guid>
+      <pubDate>Sun, 15 Nov 2026 14:45:12 +0000</pubDate>
+      <category>other</category>
+      <description>A report on a firm linked with Nvidia's former CEO, arranging huge chip orders for China. It suggests Nvidia's China revenue is much bigger than reported. It's spicy reading but double-check the facts — no hard data included.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Visionbeyondtrack/Gemini-Config-Checker-</title>
+      <link>https://github.com/Visionbeyondtrack/Gemini-Config-Checker-</link>
+      <guid isPermaLink="false">pepite-fff776d6825aaef3</guid>
+      <pubDate>Sun, 15 Nov 2026 16:46:05 +0000</pubDate>
+      <category>repos</category>
+      <description>A tool to check if your proxy configs let you access Google's AI services. It simulates real browsing conditions after login to ensure everything works as expected. The catch? You'll need to spend some time setting it up for your specific routes.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>topapothecarycanal/ai--manus2.0</title>
+      <link>https://github.com/topapothecarycanal/ai--manus2.0</link>
+      <guid isPermaLink="false">pepite-0b08ce0dd5cb61df</guid>
+      <pubDate>Sat, 14 Nov 2026 19:15:24 +0000</pubDate>
+      <category>repos</category>
+      <description>Manus 2.0 is an AI that can run code and control your browser in real-time. It takes tasks off your hands by figuring out the steps needed to complete them. The downside: it's more than a simple chatbot, so expect a learning curve if you're new to browser automation.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Understanding Positional Embeddings in Modern LLMs</title>
+      <link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
+      <guid isPermaLink="false">pepite-659a977cd9cc5e63</guid>
+      <pubDate>Sun, 15 Nov 2026 12:14:06 +0000</pubDate>
+      <category>models</category>
+      <description>A breakdown of how modern AI models use positional embeddings to understand context. It uncovers the nitty-gritty of what makes these models tick. No code here — it's a deep dive if you're looking to understand the theory.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Jensen Huang allegedly manufactured the GPU shortage</title>
+      <link>https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/</link>
+      <guid isPermaLink="false">pepite-06b34ec08f1e5b2b</guid>
+      <pubDate>Sun, 15 Nov 2026 10:53:50 +0000</pubDate>
+      <category>other</category>
+      <description>A claim that Nvidia's CEO manufactured a chip shortage to benefit AI startups. It's a juicy story with lots of business intrigue. Take it with a grain of salt — it's a discussion thread, not hard evidence.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</title>
+      <link>https://github.com/db-branch/db-branch</link>
+      <guid isPermaLink="false">pepite-69eceab525458070</guid>
+      <pubDate>Sun, 15 Nov 2026 13:50:51 +0000</pubDate>
+      <category>agents</category>
+      <description>Discussing a tool to create database branches quickly using ZFS. It's handy for testing AI and CI processes without messing with your main database. Keep in mind you need to run ZFS, which might not be standard for all setups.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>datasette-maplibre 0.1a0</title>
+      <link>https://simonwillison.net/2026/Nov/15/datasette-maplibre/</link>
+      <guid isPermaLink="false">pepite-4b4d48f19f03e283</guid>
+      <pubDate>Sun, 15 Nov 2026 23:58:36 +0000</pubDate>
+      <category>research</category>
+      <description>A new geospatial plugin for Datasette using MapLibre GL. It brings fresh mapping capabilities with free vector maps. It's an early release, so expect some rough edges and initial bugs.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>datasette 1.0a43</title>
+      <link>https://simonwillison.net/2026/Nov/15/datasette/</link>
+      <guid isPermaLink="false">pepite-3bc6cdb34c17f840</guid>
+      <pubDate>Sun, 15 Nov 2026 23:20:27 +0000</pubDate>
+      <category>research</category>
+      <description>Datasette update 1.0a43 improves streaming support and security. It allows plugins to stream data and secures private queries better. Good for techies already using Datasette — new users might find setup complex.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU</title>
+      <link>https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/</link>
+      <guid isPermaLink="false">pepite-6fc6bc2d3ff2654d</guid>
+      <pubDate>Sun, 15 Nov 2026 10:06:06 +0000</pubDate>
+      <category>agents</category>
+      <description>Meituan's massive 1.6-trillion parameter AI model was made without Nvidia GPUs. It shows China's growing independence in AI tech. But, it needs a special setup on Huawei hardware, not your typical plug-and-play model.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>datasette 0.65.6</title>
+      <link>https://simonwillison.net/2026/Nov/15/datasette-2/</link>
+      <guid isPermaLink="false">pepite-7c04761a4076fc82</guid>
+      <pubDate>Sun, 15 Nov 2026 23:18:17 +0000</pubDate>
+      <category>research</category>
+      <description>Datasette version 0.65.6 introduces a security patch. It fixes a potential issue where databases could be wrongly accessed. A must for current users but might be obscure if you're not already using Datasette.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles</title>
+      <link>http://arxiv.org/abs/2611.18453v1</link>
+      <guid isPermaLink="false">pepite-76a93c9ee7cd9978</guid>
+      <pubDate>Fri, 13 Nov 2026 17:26:39 +0000</pubDate>
+      <category>research</category>
+      <description>A paper proposing a new method for estimating uncertainty in AI models. It uses a complex ensemble technique to separate known unknowns from knowledge gaps. The challenge? It's theoretical and might be overkill for practical use.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>VLAN: Vision-Language Accessible Navigation</title>
+      <link>http://arxiv.org/abs/2611.18346v1</link>
+      <guid isPermaLink="false">pepite-033b14e7ac97633a</guid>
+      <pubDate>Fri, 13 Nov 2026 15:54:23 +0000</pubDate>
+      <category>research</category>
+      <description>A paper on Vision-Language Accessible Navigation, offering diverse scene and path datasets. It's designed for researching mobility solutions with new AI benchmarks. Requires substantial data handling, so it's not for quick experiments.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context</title>
+      <link>https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/</link>
+      <guid isPermaLink="false">pepite-da52cf43de2b7257</guid>
+      <pubDate>Mon, 16 Nov 2026 09:44:17 +0000</pubDate>
+      <category>models</category>
+      <description>Alibaba's Qwen4-Max flaunts 2.4 trillion parameters and a million-token context. It's a powerhouse for handling complex AI tasks. Be ready for hefty costs with $1.5 per million tokens.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol</title>
       <link>https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/</link>
       <guid isPermaLink="false">pepite-d82d2c1dae8dfaa0</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Sat, 24 Oct 2026 21:00:26 +0000</pubDate>
       <category>repos</category>
       <description>Kensaku is a powerful local search tool to find files on your computer, even searching inside documents without leaving your device. It's handy for privacy and speed as nothing goes online. The catch: it’s mainly for desktop use, no mobile support yet.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>SpecCTMC: Exact Speculative Simulation of Diffusion Language Model Continuous-Time Markov Chains</title>
-      <link>http://arxiv.org/abs/2611.08362v1</link>
-      <guid isPermaLink="false">pepite-3244c192eab629c9</guid>
-      <pubDate>Thu, 05 Nov 2026 17:41:20 +0000</pubDate>
-      <category>finance</category>
-      <description>SpecCTMC is a speculative sampler for language models, aiming to enhance text generation speed without lots of model evaluations. It's notable for efficiency in generating numerous texts simultaneously. The downside: it's still in the research phase so practical deployment might take some time.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>LeanContext: Disentangling Mathematical Resources from Local Formal Context in Lean Whole-Proof Generation</title>
-      <link>http://arxiv.org/abs/2611.08277v1</link>
-      <guid isPermaLink="false">pepite-659d1cae2439584f</guid>
-      <pubDate>Thu, 05 Nov 2026 16:44:59 +0000</pubDate>
-      <category>finance</category>
-      <description>LeanContext is a new benchmark for evaluating formal proofs in the Lean programming language. It's useful for testing how well AI can understand complex proofs. The hitch: it's highly specialized and best suited for those already in the Lean ecosystem.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>The Geometry of Simulated Perspectives: Dissociating Representation and Behaviour in a Multimodal Language Model</title>
-      <link>http://arxiv.org/abs/2611.08262v1</link>
-      <guid isPermaLink="false">pepite-db2e5e4d9996c0e4</guid>
-      <pubDate>Thu, 05 Nov 2026 16:36:49 +0000</pubDate>
-      <category>research</category>
-      <description>A paper exploring how different viewpoints change a model's internal processes, focusing on image-based models. It's intriguing because it helps developers understand the dynamics of model responses. The limitation: it’s mostly theoretical, so real-world impact might be unclear for now.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Asking questions to a 0.5b model is hillarious</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/</link>
-      <guid isPermaLink="false">pepite-febe36e5ae5d8bf5</guid>
-      <pubDate>Fri, 06 Nov 2026 09:07:37 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit post laughs at the quirky responses from the Qwen2 small model. It's amusing to see what such a tiny model comes up with. The obvious catch: it’s meant for fun, not serious applications.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>[AINews] It's Swapping Season</title>
-      <link>https://latent.space/p/ainews-it-s-swapping-season/</link>
-      <guid isPermaLink="false">pepite-5e468467bd2ef4e7</guid>
-      <pubDate>Thu, 05 Nov 2026 06:24:09 +0000</pubDate>
-      <category>models</category>
-      <description>A newsletter highlights changes in AI, including OpenAI's ongoing work with Linux kernels and new opportunities in open weights models. It provides a snapshot of current AI landscape shifts. Its limitation is the lack of depth, since it's more of a recap than a deep dive.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents</title>
-      <link>https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/</link>
-      <guid isPermaLink="false">pepite-0265afc2f651e829</guid>
-      <pubDate>Wed, 04 Nov 2026 18:41:03 +0000</pubDate>
-      <category>finance</category>
-      <description>OpenAI acquires Pierre Computer Company to enhance AI coding via Git. This boosts their infrastructure for collaborative agent-coding interfaces. The catch: it's yet another acquisition, so it remains to be seen how quickly this can lead to tangible user benefits.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model</title>
-      <link>https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/</link>
-      <guid isPermaLink="false">pepite-0436dfb29a58fb31</guid>
-      <pubDate>Wed, 04 Nov 2026 19:44:20 +0000</pubDate>
-      <category>models</category>
-      <description>ChatGPT can now create animated GIFs from text prompts or photos, thanks to OpenAI's Images 2.6 model. It's a fun and creative expansion of capabilities with good consistency across frames. Users may find creating complex animations less feasible due to limited precision.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations</title>
-      <link>https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/</link>
-      <guid isPermaLink="false">pepite-a52195bc6cc72363</guid>
-      <pubDate>Wed, 04 Nov 2026 16:42:52 +0000</pubDate>
-      <category>research</category>
-      <description>CloudOpsBench helps evaluate AI capabilities in cloud operations, showcasing reasoning challenges. It's useful for identifying gaps in current AI reasoning within DevOps tasks. However, it focuses narrowly on cloud tasks, missing wider reasoning scenarios.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Open source AI is booming. Hugging Face explains who profits.</title>
-      <link>https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/</link>
-      <guid isPermaLink="false">pepite-49cf82dfae3508cd</guid>
-      <pubDate>Wed, 04 Nov 2026 19:30:04 +0000</pubDate>
-      <category>models</category>
-      <description>Hugging Face outlines the dynamics of profiting from open-source AI models. They dissect who benefits as open offerings grow more robust. But the analysis might not have clear insights for every player, particularly smaller operations or those outside major markets.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Launch HN: Kino AI (YC S23) – AI media manager and video editor</title>
-      <link>https://news.ycombinator.com/item?id=50368804</link>
-      <guid isPermaLink="false">pepite-5226d9a4d8a5f52d</guid>
-      <pubDate>Wed, 04 Nov 2026 17:31:53 +0000</pubDate>
-      <category>agents</category>
-      <description>Kino AI offers a new way to manage and edit videos. It combines storage, editing, and review features for teams and AI aids in one platform. However, it's a fresh launch, so expect some growing pains while they iron out any issues.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Progress on provable inference for large language models</title>
-      <link>https://www.anthropic.com/research/provable-inference</link>
-      <guid isPermaLink="false">pepite-bc8006c3370cac54</guid>
-      <pubDate>Wed, 04 Nov 2026 17:17:46 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic shares progress on making AI model decisions more explainable. This means users might better trust or understand why a model makes certain choices. But it's still developing, and practical implementation remains a work in progress.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Ask HN: What's your current AI agentic setup?</title>
-      <link>https://news.ycombinator.com/item?id=50366117</link>
-      <guid isPermaLink="false">pepite-6e905e94a418aa95</guid>
-      <pubDate>Wed, 04 Nov 2026 14:37:22 +0000</pubDate>
-      <category>agents</category>
-      <description>A Hacker News thread explores current AI setups used in daily life. It's a goldmine of real-world examples from diverse users on how they leverage AI. The downside: it's just a discussion, so you won't find polished solutions.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Balanov/latch</title>
-      <link>https://github.com/Balanov/latch</link>
-      <guid isPermaLink="false">pepite-904f6a5920d6d71e</guid>
-      <pubDate>Wed, 04 Nov 2026 16:57:51 +0000</pubDate>
-      <category>repos</category>
-      <description>Latch is a simple way to set up secure communication between AI agents and services using JSON and HTTPS. It focuses on five basic operations without needing complex tooling. The limitation: it's bare-bones with no SDK support.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>sahenjp/RustXNG</title>
-      <link>https://github.com/sahenjp/RustXNG</link>
-      <guid isPermaLink="false">pepite-26d371de11a28ff1</guid>
-      <pubDate>Sun, 18 Oct 2026 03:06:52 +0000</pubDate>
-      <category>repos</category>
-      <description>RustXNG is a lightweight, self-hosted search engine for AI agents to fetch info from external sources. It's a DIY option for those who prefer more control over their search interfaces. It doesn't handle full web searches, so you're tethered to selected providers.
 
 — via GitHub</description>
     </item>
