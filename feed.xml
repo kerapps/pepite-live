@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026</title>
+      <link>https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</link>
+      <guid isPermaLink="false">pepite-a909c419b8fadbae</guid>
+      <pubDate>Tue, 17 Nov 2026 09:24:56 +0000</pubDate>
+      <category>other</category>
+      <description>Perplexity boosts its earnings by pushing smart updates. The new revenue milestone shows its approach aligns well with market needs. The catch: It's more news than tool unless revenue models are your domain.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices</title>
+      <link>https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/</link>
+      <guid isPermaLink="false">pepite-daa2f3055cf909ab</guid>
+      <pubDate>Mon, 16 Nov 2026 16:56:04 +0000</pubDate>
+      <category>models</category>
+      <description>A new AI model from Alibaba set against some leading names. It's much cheaper on long operations while still being competitive in performance. The catch: Its real-world impacts are best seen when it's out in open source, which isn’t yet fully there.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice</title>
+      <link>https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/</link>
+      <guid isPermaLink="false">pepite-75df91af27d861e0</guid>
+      <pubDate>Mon, 16 Nov 2026 19:19:56 +0000</pubDate>
+      <category>models</category>
+      <description>GPT-6 Astra tackles complex physics problems, showcasing AI’s power in research. It managed to solve a significant problem with advanced lattice computations. The catch: Practical applications are far off, so it's more academic than actionable now.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI will embed safety researchers to investigate AI subversion</title>
+      <link>https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/</link>
+      <guid isPermaLink="false">pepite-99f66f454c3bc11f</guid>
+      <pubDate>Mon, 16 Nov 2026 17:02:43 +0000</pubDate>
+      <category>finance</category>
+      <description>OpenAI will place safety reviewers directly inside project teams. It's a proactive step to prevent AI from running amok. The catch: There are limits on what these researchers can disclose, which may hamper transparency.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>California state AG sues OpenAI over rogue agent incidents</title>
+      <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
+      <guid isPermaLink="false">pepite-773cc78ee17a9631</guid>
+      <pubDate>Mon, 16 Nov 2026 20:07:13 +0000</pubDate>
+      <category>agents</category>
+      <description>A landmark lawsuit seeks to address AI accountability. The case raises essential questions about responsibility when AI systems act unpredictably. The catch: Legal outcomes could take ages, delaying any real-world change.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>Building trustworthy AI by fencing it in, not predicting it</title>
+      <link>https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/</link>
+      <guid isPermaLink="false">pepite-b2955c38ff71d9a1</guid>
+      <pubDate>Mon, 16 Nov 2026 16:04:28 +0000</pubDate>
+      <category>agents</category>
+      <description>Discusses AI being controlled through strict rules rather than prediction. It's about restricting AI rather than trusting it to behave. The catch: Implementing these measures without stifling innovation is tricky.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>Google warns that fully automated cyberattacks have arrived and will get worse fast</title>
+      <link>https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/</link>
+      <guid isPermaLink="false">pepite-885a2252df28ac5b</guid>
+      <pubDate>Mon, 16 Nov 2026 19:42:13 +0000</pubDate>
+      <category>agents</category>
+      <description>Google reports the first fully automated cyberattacks. The AI framework exploit_agent works with zero human input. The catch: This highlights an urgent need for robust defenses against AI-driven threats.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>The open-source movement wants Jensen Huang back</title>
+      <link>https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/</link>
+      <guid isPermaLink="false">pepite-9ccf8665576aaeb3</guid>
+      <pubDate>Mon, 16 Nov 2026 18:38:47 +0000</pubDate>
+      <category>repos</category>
+      <description>The push to bring back Jensen Huang highlights an open-source sentiment. It underlines the community's desire for open collaboration over closed leadership. The catch: Motivations behind the movement are varied, not all are clearly on the same page.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>sybil-solutions/inference-optimisation-skill</title>
+      <link>https://github.com/sybil-solutions/inference-optimisation-skill</link>
+      <guid isPermaLink="false">pepite-5ccbb9d635f4ca28</guid>
+      <pubDate>Mon, 16 Nov 2026 18:40:04 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source tool to speed up large language models wherever they run. It fine-tunes performance step by step, checking each change against stability. The catch: it focuses heavily on process, not just settings, so it can't be a one-click fix.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>VisionWormStudio/Gemini-Config-Checker-</title>
+      <link>https://github.com/VisionWormStudio/Gemini-Config-Checker-</link>
+      <guid isPermaLink="false">pepite-db885a4a7240328f</guid>
+      <pubDate>Sun, 15 Nov 2026 16:46:04 +0000</pubDate>
+      <category>repos</category>
+      <description>A command-line tool to test proxy settings for accessing Google AI services directly. It simulates real user access to ensure your setup actually works. The catch: it's reliant on browser-based checks, which might feel a bit clunky for some needs.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Claude Mythos slashed software work to onboard AMD GPUs to around three days</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat</link>
+      <guid isPermaLink="false">pepite-7897cc5fda9b898b</guid>
+      <pubDate>Tue, 17 Nov 2026 01:35:16 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion on speeding up AMD GPU onboarding tasks. It reportedly cut setup time drastically by automating core coding tasks. The catch: It's mostly talk for now; the proof will be in how widespread the results become.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Coral – Open-source gateway where agents write their own tools</title>
+      <link>https://github.com/withcoral/coral</link>
+      <guid isPermaLink="false">pepite-44bc95899c7e38d6</guid>
+      <pubDate>Mon, 16 Nov 2026 14:14:51 +0000</pubDate>
+      <category>agents</category>
+      <description>An open-source gateway where AI agents can write and use their own tools. This flexibility means teams can tailor tools to their specific needs. The catch: You'll need some TypeScript knowledge, as that’s the language agents use for these tools.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Fakemetrics.com – "build in public" like a superstar</title>
+      <link>https://fakemetrics.com/</link>
+      <guid isPermaLink="false">pepite-2d6c15fcb260d02c</guid>
+      <pubDate>Mon, 16 Nov 2026 18:08:04 +0000</pubDate>
+      <category>models</category>
+      <description>A platform for showcasing growth stats very publicly, often used by indie devs. It helps create a vibe around projects with pixel-perfect UIs. The catch: Be ready to defend metrics, as not everyone will take them at face value.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?</title>
+      <link>https://www.wired.com/story/wired-yearbook-2026-clement-delangue/</link>
+      <guid isPermaLink="false">pepite-96a0b32d44a10e4c</guid>
+      <pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
+      <category>agents</category>
+      <description>Even after AI incidents, Hugging Face CEO stays optimistic. The company views challenges as part of responsible AI evolution. The catch: Optimism is one thing; ensuring safe AI requires constant vigilance and adjustment.
+
+— via Wired AI</description>
+    </item>
+    <item>
       <title>Anthropic's Claude Fable 5.2 doesn't generate images, it paints them</title>
       <link>https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/</link>
       <guid isPermaLink="false">pepite-65ecef2327a06bf0</guid>
@@ -1362,145 +1502,5 @@
       <description>The TB-MathModel paper presents a benchmark for verifying complete mathematical modeling tasks. It brings agentic and terminal solutions to the testing scene. Until implemented widely, it remains mostly theoretical for now.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Scaling Neural Motor Decoding via Decoupled Behavioral Pretraining</title>
-      <link>http://arxiv.org/abs/2611.08263v1</link>
-      <guid isPermaLink="false">pepite-2cb2bd4b58ff6d2d</guid>
-      <pubDate>Thu, 05 Nov 2026 16:37:10 +0000</pubDate>
-      <category>finance</category>
-      <description>BEEMO is a framework separating behavioral data from neural data for training. This approach could make neural decoding more accessible using abundant movement data. The challenge is marrying these separated datasets effectively.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ProQuant: Progressive Quantization-aware Training for Edge MLLMs</title>
-      <link>http://arxiv.org/abs/2611.08216v1</link>
-      <guid isPermaLink="false">pepite-e57b7754e582fe88</guid>
-      <pubDate>Thu, 05 Nov 2026 16:04:31 +0000</pubDate>
-      <category>research</category>
-      <description>ProQuant offers a way to shrink down language models for edge devices using progressive quantization. It retains model performance even for devices with limited resources. However, it struggles with low-bit settings on smaller models, which are key for edge use.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Quoting Nilay Patel</title>
-      <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
-      <guid isPermaLink="false">pepite-f90dfea2fa01318d</guid>
-      <pubDate>Fri, 06 Nov 2026 17:13:12 +0000</pubDate>
-      <category>agents</category>
-      <description>Nilay Patel's quote critiques the costs versus benefits of current AI products. His view points to an industry at odds with its promises. It's more philosophical, so actionable insights are thin.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>PLaMo 3 Translate - a pfnet Collection</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpysba/plamo_3_translate_a_pfnet_collection/</link>
-      <guid isPermaLink="false">pepite-da31c9f4428d8576</guid>
-      <pubDate>Sat, 07 Nov 2026 05:43:41 +0000</pubDate>
-      <category>models</category>
-      <description>PLaMo 3 Translate is a new AI model specializing in translation tasks, outperforming much larger models. It's available in different sizes to fit various needs. The downside is it's mainly for Japanese-English translation right now.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</title>
-      <link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/</link>
-      <guid isPermaLink="false">pepite-904574e3ce2480c2</guid>
-      <pubDate>Fri, 06 Nov 2026 06:28:32 +0000</pubDate>
-      <category>finance</category>
-      <description>Palo Alto Networks is looking to acquire Clutch, an AI agent security startup. This move could boost their cybersecurity capabilities significantly. The catch: it's just talks for now, so nothing's guaranteed.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them</title>
-      <link>https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/</link>
-      <guid isPermaLink="false">pepite-c2e3f368d27dc141</guid>
-      <pubDate>Thu, 05 Nov 2026 20:36:25 +0000</pubDate>
-      <category>models</category>
-      <description>GPT-6 Cyber can both find and fix software vulnerabilities, with real successes in major systems. It's a promising tool for security analysts. The catch: its focus is narrow — primarily for security, not general AI tasks.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark</title>
-      <link>https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/</link>
-      <guid isPermaLink="false">pepite-acede477944f0fe4</guid>
-      <pubDate>Thu, 05 Nov 2026 16:46:24 +0000</pubDate>
-      <category>research</category>
-      <description>A new benchmark shows AI agents struggle with real-world tasks, scoring low even in simulated work. It's insightful for measuring AI progress in practical applications. The downside: the benchmark's conditions raise some questions about fairness in testing.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model</title>
-      <link>https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/</link>
-      <guid isPermaLink="false">pepite-4ed48f2ce2fe5daa</guid>
-      <pubDate>Thu, 05 Nov 2026 17:56:41 +0000</pubDate>
-      <category>models</category>
-      <description>ERNIE 5.5 Flash Base by Baidu, a huge new open-source model with 280 billion parameters. It offers flexibility for developers to adapt as needed. The catch: you’ll need resources to finetune it yourself, as it’s not ready out of the box.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure</title>
-      <link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</link>
-      <guid isPermaLink="false">pepite-aecc9a23fd3ca859</guid>
-      <pubDate>Thu, 05 Nov 2026 15:19:05 +0000</pubDate>
-      <category>finance</category>
-      <description>Dropbox is buying Tigris Data to enhance its AI infrastructure. This acquisition should strengthen their developer-focused storage solutions. The limitation: mostly a backend improvement, so direct user benefits might not be seen immediately.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Blender's UI and Runtime: Much Faster Than GPUI</title>
-      <link>https://github.com/ppmpreetham/BUI</link>
-      <guid isPermaLink="false">pepite-bf6237e85aecb1c0</guid>
-      <pubDate>Fri, 06 Nov 2026 07:40:35 +0000</pubDate>
-      <category>other</category>
-      <description>A fast new tool for Blender's UI and runtime, outperforming typical GPU-driven interfaces. It's all about speed, making graphics work more efficient. The downside: it's a budding project, so expect some rough edges.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3</title>
-      <link>https://github.com/rivet-dev/rivet</link>
-      <guid isPermaLink="false">pepite-c55657cdfba8eaa6</guid>
-      <pubDate>Thu, 05 Nov 2026 17:17:42 +0000</pubDate>
-      <category>agents</category>
-      <description>Rivet is a tool to easily manage and scale AI workflows on S3 storage. It helps streamline workloads by organizing them efficiently, especially if you're dealing with agents. The catch: you need to get familiar with its specific actor model style, which might be new.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</title>
-      <link>https://openai.com/index/introducing-gpt-6-cyber/</link>
-      <guid isPermaLink="false">pepite-a567c77111ad2247</guid>
-      <pubDate>Thu, 05 Nov 2026 17:07:57 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI's GPT-6 Cyber focuses on cybersecurity, both finding vulnerabilities and suggesting fixes. It's a big leap in helping secure systems while learning from attacks. The limitation: it's specialized for security tasks, so don't expect it to excel in other areas.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Sandflow-ai/sand3d</title>
-      <link>https://github.com/Sandflow-ai/sand3d</link>
-      <guid isPermaLink="false">pepite-88d4f2c28f314c39</guid>
-      <pubDate>Tue, 03 Nov 2026 08:23:03 +0000</pubDate>
-      <category>repos</category>
-      <description>Sand3d lets you write 3D models as simple Python scripts for Blender, making it easier for both AI and humans to create complex objects. It's interesting because it simplifies a very complex process. The catch: it requires some knowledge of Blender's bpy API.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>yjid/kensaku</title>
-      <link>https://github.com/yjid/kensaku</link>
-      <guid isPermaLink="false">pepite-d3e2ebec8dd03e5f</guid>
-      <pubDate>Sat, 24 Oct 2026 21:00:26 +0000</pubDate>
-      <category>repos</category>
-      <description>Kensaku is a powerful local search tool to find files on your computer, even searching inside documents without leaving your device. It's handy for privacy and speed as nothing goes online. The catch: it’s mainly for desktop use, no mobile support yet.
-
-— via GitHub</description>
     </item>
 </channel></rss>
