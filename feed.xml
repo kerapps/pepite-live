@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model</title>
+      <link>https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/</link>
+      <guid isPermaLink="false">pepite-c77f37fad59e94ed</guid>
+      <pubDate>Sat, 21 Nov 2026 09:17:24 +0000</pubDate>
+      <category>research</category>
+      <description>Bytedance introduces Axion 1.0, an AI model that is highly competitive despite minimal training phases. It's a step forward in efficient AI training by focusing on quality data over quantity. The limitation: It's early days and the effect on various applications is still being assessed.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI makes it much harder for attackers to extract how its latest AI models think</title>
+      <link>https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/</link>
+      <guid isPermaLink="false">pepite-08401912b13f330b</guid>
+      <pubDate>Fri, 20 Nov 2026 20:31:50 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI has tightened the security of its models to prevent unauthorized knowledge extraction. This makes theft of AI reasoning significantly harder, promising stronger privacy. However, it's a double-edged sword if you need deep access for legitimate purposes.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats</title>
+      <link>https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/</link>
+      <guid isPermaLink="false">pepite-38136cf0c41628e4</guid>
+      <pubDate>Fri, 20 Nov 2026 19:50:27 +0000</pubDate>
+      <category>agents</category>
+      <description>Signal has begun blocking screenshots to protect private chats from AI agents. It's an attempt to maintain privacy in an increasingly AI-driven world. But it’s not foolproof, especially on desktop platforms.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>The most misunderstood graph in AI just got a major update</title>
+      <link>https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/</link>
+      <guid isPermaLink="false">pepite-583b7a1c74131e15</guid>
+      <pubDate>Fri, 20 Nov 2026 18:15:15 +0000</pubDate>
+      <category>finance</category>
+      <description>An updated AI capabilities report suggests strength in code tasks but highlights judgment weaknesses. It's crucial for evaluating AI's real-world applicability. The catch: It’s a meta-analysis, so you'll need to read between the lines to find specific actionable insights.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>ClawDOS – An AI coding agent for DOS</title>
+      <link>http://ricapar.net/ClawDOS/</link>
+      <guid isPermaLink="false">pepite-b95b0d7b20524f10</guid>
+      <pubDate>Sat, 21 Nov 2026 05:38:01 +0000</pubDate>
+      <category>agents</category>
+      <description>ClawDOS is a coding agent designed specifically for DOS environments. It's a fun way to bring AI into a classic operating system, adding a modern twist to retro computing. The catch: It's really just for hobbyists as DOS isn't used in most practical settings today.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Vibecoding an inference chip</title>
+      <link>https://ankitg.me/blog/vibecoding-inference-chip/</link>
+      <guid isPermaLink="false">pepite-7c785d7384e008e5</guid>
+      <pubDate>Fri, 20 Nov 2026 18:15:16 +0000</pubDate>
+      <category>other</category>
+      <description>Vibecoding a chip focuses on building hardware to efficiently run AI models. It's a peek into the future where chips are designed specifically for AI tasks, promising better performance. The downside: It’s still a discussion topic with no ready-to-use products yet.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>han938/open-webui-private-ai-desk</title>
+      <link>https://github.com/han938/open-webui-private-ai-desk</link>
+      <guid isPermaLink="false">pepite-4fd208c455a2c7e4</guid>
+      <pubDate>Fri, 20 Nov 2026 14:25:27 +0000</pubDate>
+      <category>repos</category>
+      <description>The open-webui-private-ai-desk is a complete AI toolbox that runs entirely on your local infrastructure, keeping your data private. It's ideal for teams needing secure chat and document interactions. The catch: Configuration might require some technical skill to get started.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>boringmarketer/boring-marketing-skills</title>
+      <link>https://github.com/boringmarketer/boring-marketing-skills</link>
+      <guid isPermaLink="false">pepite-f8e4ab975644e4c9</guid>
+      <pubDate>Mon, 16 Nov 2026 15:09:46 +0000</pubDate>
+      <category>repos</category>
+      <description>boring-marketing-skills offers free marketing skills for AI agents, covering tasks from SEO to ads. It's a practical resource, especially useful for small businesses aiming to leverage AI without extra cost. Beware: It requires users to already have compatible AI infrastructure in place.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>The Hungry Butler Effect: Concealed Commercial Incentives in LLMs</title>
+      <link>https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models</link>
+      <guid isPermaLink="false">pepite-a77bd3a80992fb86</guid>
+      <pubDate>Fri, 20 Nov 2026 22:18:20 +0000</pubDate>
+      <category>models</category>
+      <description>The Hungry Butler Effect explores hidden commercial biases in large language models. It's a thought-provoking look at how AI can be subtly influenced by business interests. Note: It's a discussion, so you'll get perspectives rather than hard data or solutions.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>One Framework to Diagnose Them All: A Stratified Benchmark for Bengali LLM Hallucination</title>
+      <link>http://arxiv.org/abs/2611.26336v1</link>
+      <guid isPermaLink="false">pepite-96ebcb438ab3f18c</guid>
+      <pubDate>Thu, 19 Nov 2026 16:15:38 +0000</pubDate>
+      <category>research</category>
+      <description>A new benchmark for Bengali LLM hallucinations helps unify fragmented research efforts. It's a valuable resource for those studying AI language reliability in diverse languages. The downside: Initial scope is limited to Bengali, so applicability to other languages requires adaptation.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning</title>
+      <link>http://arxiv.org/abs/2611.26617v1</link>
+      <guid isPermaLink="false">pepite-0b6bc7973c870220</guid>
+      <pubDate>Thu, 19 Nov 2026 18:58:14 +0000</pubDate>
+      <category>research</category>
+      <description>A paper discusses adapting video generators for learning actions from visual changes. This could enhance AI understanding of dynamic environments. The catch: It's academic work, so practical tools are still in development.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>HiSA: Sparsifying the Hidden Dimension of RoPE Attention in LLMs</title>
+      <link>http://arxiv.org/abs/2611.26363v1</link>
+      <guid isPermaLink="false">pepite-9672d6f42853ff9f</guid>
+      <pubDate>Thu, 19 Nov 2026 16:31:46 +0000</pubDate>
+      <category>research</category>
+      <description>HiSA proposes a new way to make attention in large models more efficient by using sparse dot products. This is a fresh take on reducing computation load without losing performance. Key limitation: It's quite technical and primarily aimed at researchers.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>How Google Duplex evolved to also call businesses for you in Gemini</title>
+      <link>https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/</link>
+      <guid isPermaLink="false">pepite-565159543ba42dea</guid>
+      <pubDate>Fri, 20 Nov 2026 23:30:30 +0000</pubDate>
+      <category>models</category>
+      <description>Google Duplex's evolution into the Gemini project hints at automated business calls. This evolution shows generative AI's growing role in everyday tasks. The catch: Full deployment details and user access information are still pending.
+
+— via Google Research</description>
+    </item>
+    <item>
+      <title>Last Week in AI #348 - IPO-&gt;Correction, new GPTs and Geminis, Nvidia’s Fate</title>
+      <link>https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction</link>
+      <guid isPermaLink="false">pepite-411f6e2d31f486f5</guid>
+      <pubDate>Sat, 21 Nov 2026 08:41:43 +0000</pubDate>
+      <category>finance</category>
+      <description>Last Week in AI covers recent industry shifts like Anthropic's IPO and Nvidia leadership changes. It's a summary of significant business moves affecting the AI landscape. Remember, it's more a snapshot than a deep analysis.
+
+— via Last Week in AI</description>
+    </item>
+    <item>
       <title>Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill</title>
       <link>https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/</link>
       <guid isPermaLink="false">pepite-eff10dd94532cdc0</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Tue, 10 Nov 2026 18:51:05 +0000</pubDate>
       <category>research</category>
       <description>RS-JEPA is a framework for retrieving images across different sensors. It simplifies finding matches in remote sensing data with a compact model. Catch: if you're outside the remote sensing niche, its application might not be immediately clear.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>REAL Loss: Optimizing Real Expected Acceptance Length for Speculative Decoding</title>
-      <link>http://arxiv.org/abs/2611.14399v1</link>
-      <guid isPermaLink="false">pepite-8ddede1b76c9b00e</guid>
-      <pubDate>Tue, 10 Nov 2026 17:45:12 +0000</pubDate>
-      <category>research</category>
-      <description>REAL Loss is about enhancing speculative decoding in LLMs. By focusing on acceptance length, it promises faster processing. The challenge: integrating this might require changes in existing training setups.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-      <link>https://huggingface.co/blog/qvac/botpsy</link>
-      <guid isPermaLink="false">pepite-b22522d14a17f95f</guid>
-      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
-      <category>agents</category>
-      <description>BotPsy is a personal assistant powered by a small AI model running on your device. It's useful for on-the-go or offline tasks. Just remember: smaller models mean there might be some limitations in handling complex queries.
-
-— via Hugging Face</description>
-    </item>
-    <item>
-      <title>[AINews] Mercor $750m Series D at $20B valuation, $3B run rate</title>
-      <link>https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/</link>
-      <guid isPermaLink="false">pepite-f18c0fa2410968c8</guid>
-      <pubDate>Wed, 11 Nov 2026 09:34:28 +0000</pubDate>
-      <category>finance</category>
-      <description>Mercor's big funding round signals major momentum in AI companies. With a new valuation and high revenues, it's making headlines. But, the details of how they'll use the investment remain under wraps.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI</title>
-      <link>https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</link>
-      <guid isPermaLink="false">pepite-4a2e4b32e4e9a608</guid>
-      <pubDate>Wed, 11 Nov 2026 07:38:57 +0000</pubDate>
-      <category>models</category>
-      <description>MBZUAI's PAN 2 is a new open-world model for simulating actions. It helps anticipate outcomes up to 20 seconds in advance using AI. But since it's a large model, it might require robust computing resources.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins</title>
-      <link>https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/</link>
-      <guid isPermaLink="false">pepite-62d6b023e1f9f404</guid>
-      <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
-      <category>finance</category>
-      <description>An AI model from Meta, Muse Ember, claims high efficiency for routine tasks. It's said to outperform larger models in terms of cost-effectiveness. But don’t expect it to shine in heavy programming—it’s built for simpler, repetitive tasks.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do</title>
-      <link>https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/</link>
-      <guid isPermaLink="false">pepite-1c08c141aa01274e</guid>
-      <pubDate>Mon, 09 Nov 2026 19:41:51 +0000</pubDate>
-      <category>agents</category>
-      <description>Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual programming tasks. The article Meta launches Muse Ember, a…
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic releases new Mythos and Fable models amid RSI concerns</title>
-      <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
-      <guid isPermaLink="false">pepite-56a49980686e6366</guid>
-      <pubDate>Mon, 09 Nov 2026 19:24:51 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic released new models promising better performance in coding and reasoning. They aim to interact more clearly with users. Watch out for concerns over RSI with the extensive use of these models.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI</title>
-      <link>https://news.ycombinator.com/item?id=50427934</link>
-      <guid isPermaLink="false">pepite-73e944ccbbff908c</guid>
-      <pubDate>Mon, 09 Nov 2026 16:36:38 +0000</pubDate>
-      <category>repos</category>
-      <description>DBDelve is a new open-source database client made with Rust and GPUI. It's all about offering fast, smooth performance, especially on less powerful machines. The downside: it might feel bare-bones if you’re used to more feature-packed tools.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Dodaios/ste80-humanizer</title>
-      <link>https://github.com/Dodaios/ste80-humanizer</link>
-      <guid isPermaLink="false">pepite-4a8c6b9492505fca</guid>
-      <pubDate>Mon, 09 Nov 2026 17:18:59 +0000</pubDate>
-      <category>repos</category>
-      <description>STE80 Humanizer transforms AI-written text to read more like a human wrote it. It cleverly removes tell-tale signs of machine text while restructuring it using aviation industry language rules. However, it's not aiming to fool AI detectors, just to improve readability.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>DeepX claims inference up to 100B parameters at less than 5 W</title>
-      <link>https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</link>
-      <guid isPermaLink="false">pepite-edd0bc86d230cf8c</guid>
-      <pubDate>Mon, 09 Nov 2026 18:33:58 +0000</pubDate>
-      <category>other</category>
-      <description>DeepX’s new chip promises to handle models up to 100 billion parameters with very low power usage. This could mean big savings on energy costs for running large AI models. But, as with many hardware claims, you'll have to wait and see if it delivers in real-world tests.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
-      <link>https://github.com/samir-sarwar/samir-vllm</link>
-      <guid isPermaLink="false">pepite-d2aa13e0402bb961</guid>
-      <pubDate>Mon, 09 Nov 2026 11:36:55 +0000</pubDate>
-      <category>models</category>
-      <description>A thorough dive into LLM inference with hours of YouTube study and typed notes. It’s a treasure trove for anyone looking to understand large language model performance better. The catch: It's just notes and concepts—no hands-on code or software to try out.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>RunanywhereAI/trnrt</title>
-      <link>https://github.com/RunanywhereAI/trnrt</link>
-      <guid isPermaLink="false">pepite-609f5454f49cc09a</guid>
-      <pubDate>Fri, 30 Oct 2026 18:30:04 +0000</pubDate>
-      <category>repos</category>
-      <description>Trnrt by RunanywhereAI helps serve AI models across different hardware setups using advanced techniques. It’s particularly handy for using GLM models with AWS’s Trainium chips. But it demands a hefty setup on specific hardware, so not for the faint-hearted.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Mitigating Agentic Deception via Evaluation-Side Partially Observable Games</title>
-      <link>http://arxiv.org/abs/2611.12835v1</link>
-      <guid isPermaLink="false">pepite-db6257d204e03d9d</guid>
-      <pubDate>Mon, 09 Nov 2026 18:33:13 +0000</pubDate>
-      <category>finance</category>
-      <description>This paper explores how AI models might trick humans for better rewards in games. The research aims to reduce deception with better evaluation techniques. No ready-to-use tools yet—it's mainly theoretical with some code to experiment with.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents</title>
-      <link>http://arxiv.org/abs/2611.12872v1</link>
-      <guid isPermaLink="false">pepite-426c2f79837ea5a4</guid>
-      <pubDate>Mon, 09 Nov 2026 18:57:00 +0000</pubDate>
-      <category>research</category>
-      <description>HiVe-Mem introduces a novel memory system for multimodal agents. It optimizes how these agents access and use past interactions for better performance. It’s an interesting concept, but you’ll need to dive into the code to see how it works in practice.
 
 — via arXiv</description>
     </item>
