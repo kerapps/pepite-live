@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace</title>
+      <link>https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/</link>
+      <guid isPermaLink="false">pepite-ea4ec8bb42c1fcbf</guid>
+      <pubDate>Sun, 22 Nov 2026 15:15:48 +0000</pubDate>
+      <category>agents</category>
+      <description>A report showing that AI coding tools perform well in isolation but struggle in collaborative environments. It offers insight into the current gaps in AI productivity in real-world tasks. The limitation is clear — AI still needs improvements to match human teamwork capabilities.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog</title>
+      <link>https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/</link>
+      <guid isPermaLink="false">pepite-141d3e3e6383c48f</guid>
+      <pubDate>Sun, 22 Nov 2026 14:20:28 +0000</pubDate>
+      <category>agents</category>
+      <description>Perplexity's new Monitor API provides continuous web search monitoring with change alerts. It helps streamline processes that need timely updates. However, it may not be a fit for projects that don't rely on constant web updates.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
+      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
+      <guid isPermaLink="false">pepite-914bb147d0bf37ce</guid>
+      <pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
+      <category>finance</category>
+      <description>An article detailing major investments in Anthropic before its IPO, showing confidence in AI startups. These insights are crucial for those tracking AI market trends. But it's mainly for investors, not practitioners looking for immediate technical takeaways.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+      <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
+      <guid isPermaLink="false">pepite-05744626c0d61baf</guid>
+      <pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
+      <category>other</category>
+      <description>A TechCrunch post discussing thoughts from OpenAI's chief scientist on regulating AI speed development. It targets policy-makers and strategists interested in AI governance. The drawback? There's more theory than direct application here.
+
+— via TechCrunch AI</description>
+    </item>
+    <item>
+      <title>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
+      <link>https://z.ai/blog/glm-5.4</link>
+      <guid isPermaLink="false">pepite-ec5c97c26c2c8d74</guid>
+      <pubDate>Mon, 23 Nov 2026 10:06:43 +0000</pubDate>
+      <category>models</category>
+      <description>A blog post about GLM-5.4, introducing a new type of neural network called a Loop Transformer. This could make models better at handling repeated tasks, a common hurdle in AI. The catch? It's still early days — expect more talk than code for now.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Cloudcode04/runway-ml-pro-win</title>
+      <link>https://github.com/Cloudcode04/runway-ml-pro-win</link>
+      <guid isPermaLink="false">pepite-ed553872c468707d</guid>
+      <pubDate>Sat, 21 Nov 2026 15:17:17 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source setup guide for Runway ML Pro on Windows, for AI-powered video creation. It brings powerful media generation tools to more users by supporting Windows 10 and 11. However, it might be overwhelming for complete newcomers due to the advanced features.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Morriswawan05/elevenlabs-pro-win</title>
+      <link>https://github.com/Morriswawan05/elevenlabs-pro-win</link>
+      <guid isPermaLink="false">pepite-296c49da81ecf105</guid>
+      <pubDate>Sat, 21 Nov 2026 14:47:10 +0000</pubDate>
+      <category>repos</category>
+      <description>A GitHub repo for setting up ElevenLabs Pro on Windows, which specializes in AI voice synthesis and cloning. This makes high-quality text-to-speech accessible for users on Windows. The downside is that mastering voice cloning capabilities will take some practice.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts</title>
+      <link>https://arxiv.org/abs/2606.14068</link>
+      <guid isPermaLink="false">pepite-7594d5062149875f</guid>
+      <pubDate>Sun, 22 Nov 2026 09:18:36 +0000</pubDate>
+      <category>models</category>
+      <description>A discussion exploring potential biases in AI when evaluating gender differences in moral conflict scenarios. Understanding these biases is vital to build fairer AI systems. The limitation? It’s a study, meaning it offers insights but not immediate solutions.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: I built a game where you are an LLM's subagent</title>
+      <link>https://github.com/gulivan/worker755</link>
+      <guid isPermaLink="false">pepite-db49a7dfd4c31bb0</guid>
+      <pubDate>Sun, 22 Nov 2026 13:56:58 +0000</pubDate>
+      <category>agents</category>
+      <description>A game on GitHub where players act as subagents to an AI model. It provides a fun way to explore AI decision-making processes. Just know it's more for educational play than serious application or analysis.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Non-penetrating World Models</title>
+      <link>http://arxiv.org/abs/2611.27963v1</link>
+      <guid isPermaLink="false">pepite-8b3d60b749c5568d</guid>
+      <pubDate>Fri, 20 Nov 2026 18:44:57 +0000</pubDate>
+      <category>finance</category>
+      <description>A research paper on preventing object penetration in interactive video models. It introduces Benchmark models to test and improve this capability. This remains more of an experimental framework, geared towards developers and researchers.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SUPERVISE: A Unified Framework for Standardized and Reproducible Superpixel Evaluation</title>
+      <link>http://arxiv.org/abs/2611.27753v1</link>
+      <guid isPermaLink="false">pepite-f87b75862cdd3295</guid>
+      <pubDate>Fri, 20 Nov 2026 15:43:13 +0000</pubDate>
+      <category>finance</category>
+      <description>A paper presenting SUPERVISE, a framework for comparing superpixel segmentation methods. It aims to standardize evaluations in computer vision. Expect it to suit those deeply embedded in the image processing community rather than casual users.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering</title>
+      <link>http://arxiv.org/abs/2611.27734v1</link>
+      <guid isPermaLink="false">pepite-ac1292f162e0ff43</guid>
+      <pubDate>Fri, 20 Nov 2026 15:29:27 +0000</pubDate>
+      <category>finance</category>
+      <description>A paper on AutoOntologyBench, a benchmark for knowledge engineering by autonomous agents. It seeks to assess the value of auto-generated knowledge structures. It's primarily a tool for researchers, not something to plug into current systems just yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Select Styling Specimens</title>
+      <link>https://simonwillison.net/2026/Nov/22/select-styling/</link>
+      <guid isPermaLink="false">pepite-8cc270b184708c4b</guid>
+      <pubDate>Sun, 22 Nov 2026 19:45:06 +0000</pubDate>
+      <category>models</category>
+      <description>A blog about select box styling across browsers, showcasing consistent design patterns. It highlights how CSS can help achieve a unified style. However, it mainly benefits frontend developers focused on web aesthetics.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD</title>
+      <link>https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/</link>
+      <guid isPermaLink="false">pepite-bd9a62b5020e65d2</guid>
+      <pubDate>Mon, 23 Nov 2026 08:24:57 +0000</pubDate>
+      <category>models</category>
+      <description>An article on Meta's TLX, adding advanced GPU control to Triton. It's relevant for high-performance computing on specific GPUs. The complexity might be high for those without a deep computer science background.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude</title>
       <link>https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/</link>
       <guid isPermaLink="false">pepite-0cbda05d55dc00f2</guid>
@@ -1362,145 +1502,5 @@
       <description>Metal Sandbox offers a new way to run code on Apple Silicon GPUs safely and efficiently. It's appealing because it balances power and security when coding with GPUs. The catch: It's specific to macOS and Apple's ecosystem.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Parsed, Plausible, Wrong: Output Format Controls Silent Errors in Small-Model Semantic Parsing</title>
-      <link>http://arxiv.org/abs/2611.17169v1</link>
-      <guid isPermaLink="false">pepite-e602d30301c38033</guid>
-      <pubDate>Thu, 12 Nov 2026 17:43:44 +0000</pubDate>
-      <category>research</category>
-      <description>A study on how small changes in output formats affect AI parser accuracy. They found that semantic parsers can silently fail; testing with different formats can help catch errors. The downside: Implementing these findings requires additional setup and testing.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents</title>
-      <link>http://arxiv.org/abs/2611.17167v1</link>
-      <guid isPermaLink="false">pepite-9db52552efc4fb9a</guid>
-      <pubDate>Thu, 12 Nov 2026 17:42:46 +0000</pubDate>
-      <category>research</category>
-      <description>Research on decision models for long-horizon AI agents explores teaching and evaluating capabilities. It challenges the idea that a model that acts poorly can't teach well. Drawback: Real-world application requires complex setups and resources.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.37</title>
-      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
-      <guid isPermaLink="false">pepite-9f0b516152c12ca0</guid>
-      <pubDate>Thu, 12 Nov 2026 22:55:19 +0000</pubDate>
-      <category>models</category>
-      <description>Update and pricing details for Google's Gemini 4 family, including the new Hydrogen model. This helps users navigate the landscape of AI options on a budget. But, the pricing structure is complex and might confuse potential users.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Agentic search doesn't find pages, it assembles answers</title>
-      <link>https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/</link>
-      <guid isPermaLink="false">pepite-7614a098baccddac</guid>
-      <pubDate>Fri, 13 Nov 2026 08:40:00 +0000</pubDate>
-      <category>agents</category>
-      <description>Agentic search from EXA goes beyond finding pages, creating complete answers. This innovation means more accurate results directly assembled from relevant data. The limitation: Implementing this at large scales requires significant setup.
-
-— via Stack Overflow</description>
-    </item>
-    <item>
-      <title>Australia's proposed AI safety bill would force frontier model makers to open up to independent testing</title>
-      <link>https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/</link>
-      <guid isPermaLink="false">pepite-e918b92f13194ec9</guid>
-      <pubDate>Thu, 12 Nov 2026 10:09:56 +0000</pubDate>
-      <category>models</category>
-      <description>Australia's proposed AI safety bill would enforce independent testing of cutting-edge AI models. This move could standardize safety practices globally, starting locally. It's a proposal for now, so no immediate changes until laws pass.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>[AINews] D-Day (Decision Models Day)</title>
-      <link>https://latent.space/p/ainews-d-day-decision-models-day/</link>
-      <guid isPermaLink="false">pepite-e10b6b9196df21e8</guid>
-      <pubDate>Thu, 12 Nov 2026 05:26:54 +0000</pubDate>
-      <category>models</category>
-      <description>An overview of the recent surge in decision models, like Google's Gemini. They promise efficient and cost-effective deployments but aligning them to your needs may take time. Many models are coming out, so compare carefully before committing.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>The Jev Revolution: What Engineers Are Already Building with System One Models</title>
-      <link>https://latent.space/p/jev-revolution/</link>
-      <guid isPermaLink="false">pepite-adb66fa1efb10251</guid>
-      <pubDate>Thu, 12 Nov 2026 05:08:20 +0000</pubDate>
-      <category>models</category>
-      <description>The Jev Revolution highlights current engineering uses with new system models. Developers are automating more than ever with these tools. As always, the key is integrating these advancements into your current workflow smoothly.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass</title>
-      <link>https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/</link>
-      <guid isPermaLink="false">pepite-4d33a45a8c997261</guid>
-      <pubDate>Wed, 11 Nov 2026 20:12:46 +0000</pubDate>
-      <category>models</category>
-      <description>Gemini Decision 1 by Google allows scoring thousands of questions fast, using various modes of input. Its efficiency makes it standout in AI decision-making. But it’s fairly new, with cost benefits being theoretical unless proven across various environments.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Jensen Huang accused of having another affair — with an Nvidia exec</title>
-      <link>https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</link>
-      <guid isPermaLink="false">pepite-d8ef3fe6591f506a</guid>
-      <pubDate>Wed, 11 Nov 2026 23:17:05 +0000</pubDate>
-      <category>agents</category>
-      <description>Reports surface on Nvidia's Jensen Huang facing personal allegations. While sensational, it’s irrelevant to engineering but an insight into leadership challenges faced by tech executives. It doesn't affect Nvidia's technological contributions directly.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Faster Retrieval for Better, More Efficient RAG</title>
-      <link>https://machinelearning.apple.com/research/faster-retrieval</link>
-      <guid isPermaLink="false">pepite-f2cfc7e3a6001452</guid>
-      <pubDate>Wed, 11 Nov 2026 16:57:45 +0000</pubDate>
-      <category>other</category>
-      <description>Apple discusses improvements to retrieval for better, more efficient RAG (retrieval-augmented generation). The advance is a speed boost, which makes these AI systems more responsive and useful in real time. However, specifics on implementation or compatibility with current systems aren't provided.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Klad, a paint app your coding agent can drive (source-available)</title>
-      <link>https://github.com/klad-app/klad</link>
-      <guid isPermaLink="false">pepite-bf1bcbfd196fd715</guid>
-      <pubDate>Wed, 11 Nov 2026 16:00:50 +0000</pubDate>
-      <category>agents</category>
-      <description>Klad is a new paint app designed to be controlled by coding agents, available as open source. This means your AI can directly interact and make edits, streamlining art-related tasks in game development. The caveat: you'll need to be comfortable integrating it with your coding agents.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Yogurt – Free, private, open-source alternative to Granola</title>
-      <link>https://github.com/FrigadeHQ/yogurt</link>
-      <guid isPermaLink="false">pepite-ebda41d3057dc6a6</guid>
-      <pubDate>Wed, 11 Nov 2026 15:33:06 +0000</pubDate>
-      <category>models</category>
-      <description>Yogurt is a free, open-source desktop app for meeting work, akin to Granola. It runs AI models locally to transcribe and summarize without joining calls, protecting privacy. The downside is it's desktop-only, so mobile users miss out for now.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>agentes-chat/agentes-chat</title>
-      <link>https://github.com/agentes-chat/agentes-chat</link>
-      <guid isPermaLink="false">pepite-959a4e69bc6c41c0</guid>
-      <pubDate>Mon, 09 Nov 2026 00:50:28 +0000</pubDate>
-      <category>repos</category>
-      <description>Agentes-chat offers a Slack-like platform where teams and AI agents collaborate. The open-source and self-hosted nature means full control over your data. It requires setup and management, so not a quick plug-and-play solution.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>JosssphZhou/poki</title>
-      <link>https://github.com/JosssphZhou/poki</link>
-      <guid isPermaLink="false">pepite-542ee3f43fb94a2f</guid>
-      <pubDate>Thu, 05 Nov 2026 15:04:31 +0000</pubDate>
-      <category>repos</category>
-      <description>Poki is an automation tool that turns your iPhone into a versatile AI-driven device for many tasks. It's a powerful tool if you want your phone to automate more than basic tasks. Just a heads-up, initial setup is quite hands-on.
-
-— via GitHub</description>
     </item>
 </channel></rss>
