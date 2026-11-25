@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>MIT team discovers that unrealistic training data makes AI climate predictions more reliable</title>
+      <link>https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/</link>
+      <guid isPermaLink="false">pepite-6d2775bbc9cabcdd</guid>
+      <pubDate>Wed, 25 Nov 2026 10:47:51 +0000</pubDate>
+      <category>models</category>
+      <description>MIT shows that unrealistic data improves AI climate predictions. It suggests fewer models need training runs, speeding development. The downside is this approach needs careful tailoring to avoid skewed results.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>AI is straining America’s open records systems</title>
+      <link>https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/</link>
+      <guid isPermaLink="false">pepite-b0deea04c96bb290</guid>
+      <pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
+      <category>other</category>
+      <description>AI strains open records systems, highlighting tech challenges. It's a current view on the friction between new tech and traditional processes. Remember, the piece focuses on the problem without offering fixes.
+
+— via MIT Tech Review AI</description>
+    </item>
+    <item>
+      <title>[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab</title>
+      <link>https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/</link>
+      <guid isPermaLink="false">pepite-190619a69a1b2dac</guid>
+      <pubDate>Wed, 25 Nov 2026 04:29:07 +0000</pubDate>
+      <category>research</category>
+      <description>Gemini 4 Neon's benchmark results suggest significant improvements in AI performance. It underscores GDM's return to forefront AI research. Keep in mind that benchmarks don't always translate to real-world gains.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>Show HN: Old Nvidia and ATI tech demos, running again in the browser</title>
+      <link>https://gpu-demo-gallery.pages.dev/</link>
+      <guid isPermaLink="false">pepite-731c5e02d1915c4a</guid>
+      <pubDate>Wed, 25 Nov 2026 04:31:48 +0000</pubDate>
+      <category>other</category>
+      <description>Classic GPU demos from Nvidia and ATI now run in your browser. It's a fun way to relive computing history or see what old hardware could do. The downside: it's just a nostalgic trip — don't expect groundbreaking tech here.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Models Can Communicate via Inference Servers Despite Being Sandboxed</title>
+      <link>https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being</link>
+      <guid isPermaLink="false">pepite-2afd1ac718a07e6c</guid>
+      <pubDate>Wed, 25 Nov 2026 02:34:21 +0000</pubDate>
+      <category>models</category>
+      <description>AI models can still communicate through inference servers, even if sandboxed. It's a reminder of the creative ways systems can bypass expected limitations. The catch? It's more a theoretical discussion than an actionable toolkit.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>PenGPT: A Generative Transformer for Handwriting and Sketches</title>
+      <link>https://greydanus.github.io/2026/11/12/pengpt/</link>
+      <guid isPermaLink="false">pepite-3d5596d923cd3c91</guid>
+      <pubDate>Wed, 25 Nov 2026 00:54:49 +0000</pubDate>
+      <category>models</category>
+      <description>PenGPT generates handwriting and drawings, adding a creative flair to text models. This model is great for projects needing a personal touch like letter writing or custom art. The limitation: it’s mostly a neat trick rather than a robust solution for all design needs.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>erkamyaman/safe-anything</title>
+      <link>https://github.com/erkamyaman/safe-anything</link>
+      <guid isPermaLink="false">pepite-4a7a88ceb48af09f</guid>
+      <pubDate>Sun, 22 Nov 2026 16:44:10 +0000</pubDate>
+      <category>repos</category>
+      <description>Safe Anything scans your code for security threats with one command. It pinpoints issues like XSS and SQL injections, saving you from vulnerabilities. However, it’s limited to simple alerting — deeper analysis will need manual effort.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>sous-labs/songe</title>
+      <link>https://github.com/sous-labs/songe</link>
+      <guid isPermaLink="false">pepite-6d04ac1a595864b1</guid>
+      <pubDate>Fri, 20 Nov 2026 11:01:20 +0000</pubDate>
+      <category>repos</category>
+      <description>Songe trains your local AI models while you work, optimizing idle time. This tool helps personalize models without cloud dependency. The catch? Models need to be rested — large ones might still require significant local resources.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?</title>
+      <link>http://arxiv.org/abs/2611.33031v1</link>
+      <guid isPermaLink="false">pepite-3494327bcbe4e809</guid>
+      <pubDate>Tue, 24 Nov 2026 17:43:09 +0000</pubDate>
+      <category>finance</category>
+      <description>Frontier LLMs potentially repair network quantization without using tools. This research could simplify model tuning to improve performance. But for now, it's theoretical — practical applications aren’t ready yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance</title>
+      <link>http://arxiv.org/abs/2611.33098v1</link>
+      <guid isPermaLink="false">pepite-7b71b4b7172b4a31</guid>
+      <pubDate>Tue, 24 Nov 2026 18:34:40 +0000</pubDate>
+      <category>research</category>
+      <description>Delegent cuts costs in AI tasks by using smaller models for simpler tasks. It's an efficient way to manage heavy workloads with lesser resources. The catch is that it assumes your tasks can be well-defined between 'big' and 'small' models.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies</title>
+      <link>http://arxiv.org/abs/2611.33010v1</link>
+      <guid isPermaLink="false">pepite-3c253a6f8212f186</guid>
+      <pubDate>Tue, 24 Nov 2026 17:32:00 +0000</pubDate>
+      <category>research</category>
+      <description>Mirrors throw off current robot AI, revealing policy weaknesses. It's interesting how such a simple object can expose flaws. However, this is more a limitation spotlight than a solution offering.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>An Indic Voice Agent with CUGA</title>
+      <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
+      <guid isPermaLink="false">pepite-d0a3a7f662b58965</guid>
+      <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
+      <category>agents</category>
+      <description>IBM's Indic Voice Agent adapts AI for multilingual speech tasks. This broadens access to AI in diverse language environments. The catch: it demands comprehensive linguistic data to train well.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Three LLM inflection points in twelve months</title>
+      <link>https://simonwillison.net/2026/Nov/24/llm-inflection-points/</link>
+      <guid isPermaLink="false">pepite-6ff348e652c905f1</guid>
+      <pubDate>Tue, 24 Nov 2026 23:02:07 +0000</pubDate>
+      <category>agents</category>
+      <description>Major shifts in LLM capabilities have happened over the last year. Insights from these shifts can guide future AI developments. The report isn't about new tool offerings — it's a review of past changes.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework</title>
+      <link>https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/</link>
+      <guid isPermaLink="false">pepite-ab51e7b113eeddd0</guid>
+      <pubDate>Wed, 25 Nov 2026 05:42:05 +0000</pubDate>
+      <category>models</category>
+      <description>ByteDance's Laminar lets you run reinforcement learning faster with less. It decouples tasks to improve efficiency in training models. However, it's a framework requiring some setup and familiarity with RL concepts.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own</title>
       <link>https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/</link>
       <guid isPermaLink="false">pepite-92c709b4dedffefa</guid>
@@ -1362,145 +1502,5 @@
       <description>Datasette just released an LLM plugin to help it work better with AI systems like OpenAI. It’s a nice bridge to run various models using standardized methods. The rub: it’s early days, and kinks with compatibility may arise.
 
 — via Simon Willison</description>
-    </item>
-    <item>
-      <title>Runway's open-source Praxis-1 turns video AI into a robot controller</title>
-      <link>https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/</link>
-      <guid isPermaLink="false">pepite-7bfee235c168b3e9</guid>
-      <pubDate>Sat, 14 Nov 2026 09:45:45 +0000</pubDate>
-      <category>research</category>
-      <description>Runway’s Praxis-1 uses video AI to control robots, open-sourced for tinkering. It’s an exciting step in applying AI beyond just processing data. However, it’s not yet capable of planning on its own — more development is needed.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Predicting Ethanol Drinking Status from Nonhuman Primate Liver Histology: A Proof of Concept for Parameter-efficient Fine-tuning in Few-Shot Vision-Language Modeling</title>
-      <link>http://arxiv.org/abs/2611.17105v1</link>
-      <guid isPermaLink="false">pepite-c13416f8e77a075b</guid>
-      <pubDate>Thu, 12 Nov 2026 17:02:27 +0000</pubDate>
-      <category>research</category>
-      <description>A study explores how AI can predict ethanol intake from liver histology using few-shot learning. It’s a promising leap for medical AI and fine-tuning techniques. But it’s in early proof-of-concept stages, not ready for clinical use.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification</title>
-      <link>http://arxiv.org/abs/2611.17302v1</link>
-      <guid isPermaLink="false">pepite-a4f183bbb9af2930</guid>
-      <pubDate>Thu, 12 Nov 2026 18:55:56 +0000</pubDate>
-      <category>research</category>
-      <description>FLEX-LBP introduces learning interpretable binary patterns for texture classification. This could greatly enhance automatic texture analysis, particularly in medical imaging. Yet, results can vary significantly by dataset, needing careful tuning.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Best sub 80b total or 6b active MoE for document intelligence?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwre6c/best_sub_80b_total_or_6b_active_moe_for_document/</link>
-      <guid isPermaLink="false">pepite-bc4ca219559714b4</guid>
-      <pubDate>Sun, 15 Nov 2026 09:34:12 +0000</pubDate>
-      <category>models</category>
-      <description>A Reddit post looking for the best lightweight models for document understanding. It’s about optimizing text model selection for handling financial documents. The trick? Balancing size versus accuracy remains the core challenge.
-
-— via r/LocalLLaMA</description>
-    </item>
-    <item>
-      <title>OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet</title>
-      <link>https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/</link>
-      <guid isPermaLink="false">pepite-b6de13ec3caeae82</guid>
-      <pubDate>Fri, 13 Nov 2026 18:55:21 +0000</pubDate>
-      <category>agents</category>
-      <description>OpenAI's new ChatGPT Wallet aims to handle your online shopping payments. It's meant to speed up checkouts while keeping your card details secure. So far, it's just for U.S. Pro users — others will have to wait.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models</title>
-      <link>https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/</link>
-      <guid isPermaLink="false">pepite-449fc35486b25600</guid>
-      <pubDate>Fri, 13 Nov 2026 15:21:04 +0000</pubDate>
-      <category>models</category>
-      <description>An OpenAI researcher suggests Chinese AI models use Nvidia’s latest GPUs despite export controls. This raises questions about how global AI training is restricted by hardware access. It might affect market competitiveness across regions.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>AI agent startup LangChain hits $3B valuation</title>
-      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
-      <guid isPermaLink="false">pepite-38741df50e34ad24</guid>
-      <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
-      <category>finance</category>
-      <description>LangChain's AI agent platform now has a claimed valuation of $3B. They're promising multi-platform functionality for various AI tasks. This sounds promising, but big valuations don't always guarantee practicality just yet.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Meta's Muse now calls businesses for you, but many companies might just hang up on the AI</title>
-      <link>https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/</link>
-      <guid isPermaLink="false">pepite-1bdcb63cc91c6b08</guid>
-      <pubDate>Fri, 13 Nov 2026 15:12:44 +0000</pubDate>
-      <category>agents</category>
-      <description>Meta's Muse can now make calls for you, like booking dinner reservations. It's a neat feature but many businesses may not react well to AI calls yet. If you're an early user, patience with potential hiccups is key.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>ChatGPT’s new Wallet lets AI agents shop and check out for you</title>
-      <link>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</link>
-      <guid isPermaLink="false">pepite-4e379f6cb9d33e5a</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:12 +0000</pubDate>
-      <category>agents</category>
-      <description>ChatGPT Wallet is being piloted to help with online purchases. It’s designed to make shopping easier while keeping your financial details safe. Full rollout might take time as OpenAI smooths out early issues.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Boarddrunail/ai--manus</title>
-      <link>https://github.com/Boarddrunail/ai--manus</link>
-      <guid isPermaLink="false">pepite-40f0c4aeeed4765a</guid>
-      <pubDate>Fri, 13 Nov 2026 16:47:19 +0000</pubDate>
-      <category>repos</category>
-      <description>An open-source AI agent that autonomously runs code and controls your browser. Manus goes beyond simple chatbots by acting on instructions you give, like opening web pages and interacting with them. Keep in mind, handling complex tasks without errors might still need human oversight.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>BarrierCenter/ai--manus</title>
-      <link>https://github.com/BarrierCenter/ai--manus</link>
-      <guid isPermaLink="false">pepite-5a66b92645679cf1</guid>
-      <pubDate>Fri, 13 Nov 2026 16:46:54 +0000</pubDate>
-      <category>repos</category>
-      <description>Another implementation of the Manus AI agent by a different creator. Like its twin, Manus can perform tasks for you in a browser, reducing manual work. Remember, for intricate cases, you'll want to keep an eye on it — it's still a work in progress.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
-      <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
-      <guid isPermaLink="false">pepite-5414572fb08d08f8</guid>
-      <pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
-      <category>finance</category>
-      <description>A discussion about Nvidia allegedly creating scarcity in the GPU market. It's claimed they did this by supporting startups that buy their GPUs, impacting availability for others. If you're looking for GPUs, this could explain those higher prices.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Words of warning about radiocarbon dating medieval human bones</title>
-      <link>https://www.nature.com/articles/s40494-026-02958-x</link>
-      <guid isPermaLink="false">pepite-1b3510977bdab589</guid>
-      <pubDate>Wed, 11 Nov 2026 22:18:37 +0000</pubDate>
-      <category>other</category>
-      <description>A discussion about issues with radiocarbon dating medieval bones. It's a niche topic but reminds us of the broader challenges in precise scientific assumptions. Good reminder for those in AI — data isn't infallible.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
-      <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
-      <guid isPermaLink="false">pepite-e6e46c06e129272c</guid>
-      <pubDate>Wed, 11 Nov 2026 21:24:35 +0000</pubDate>
-      <category>agents</category>
-      <description>United Airlines has stopped AI agents from booking flights. They might see these automated bookings as unreliable or problematic. If you're building AI for travel, be aware of industry acceptance issues.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
