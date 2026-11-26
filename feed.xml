@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls</title>
+      <link>https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/</link>
+      <guid isPermaLink="false">pepite-19fd120ee363e12f</guid>
+      <pubDate>Thu, 26 Nov 2026 11:21:16 +0000</pubDate>
+      <category>other</category>
+      <description>Nvidia halts server shipments to Southeast Asia under new US export controls. This directly impacts businesses in Malaysia and nearby regions needing high-end hardware. This move creates immediate supply chain chaos and operational delays.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs</title>
+      <link>https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/</link>
+      <guid isPermaLink="false">pepite-e99bede8482e441e</guid>
+      <pubDate>Wed, 25 Nov 2026 20:51:02 +0000</pubDate>
+      <category>models</category>
+      <description>Chip restrictions and anti-distillation rules are starting to slow Chinese AI labs. This adds pressure, with potential delays in their development pace. The downside: it's a challenging time for labs needing US technology or know-how.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI wants companies to trust it with sensitive work by promising not to look at their data</title>
+      <link>https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/</link>
+      <guid isPermaLink="false">pepite-32865a30877055f1</guid>
+      <pubDate>Wed, 25 Nov 2026 18:22:02 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI's new 'Private Inference' promises data confidentiality during AI queries. It's a step towards making companies feel safer using OpenAI models for sensitive tasks. However, it's still in testing, meaning it's not fully open for everyone yet.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>alesha-pro/llm.asm</title>
+      <link>https://github.com/alesha-pro/llm.asm</link>
+      <guid isPermaLink="false">pepite-bd1827d39c79377e</guid>
+      <pubDate>Wed, 25 Nov 2026 07:28:51 +0000</pubDate>
+      <category>repos</category>
+      <description>A bold project rewriting AI essentials straight in assembly. This cuts out standard dependencies, assembling everything from scratch for precise control. The catch: diving into assembly means it's complex and user-unfriendly for most developers.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
+      <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
+      <guid isPermaLink="false">pepite-5b7bfc624b1a8e20</guid>
+      <pubDate>Thu, 26 Nov 2026 03:36:58 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI limits GPT-6.2 usage leading to faster hitting limits for some users. This change affects how much people can get from their AI tools quickly. The downside is users face constraints earlier, squeezing productivity for high-demand apps.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email</title>
+      <link>https://techstackups.com/articles/google-workspace-ai-agents-mcp/</link>
+      <guid isPermaLink="false">pepite-5f8b8d0b572796b0</guid>
+      <pubDate>Thu, 26 Nov 2026 09:44:23 +0000</pubDate>
+      <category>agents</category>
+      <description>Google's AI agents are being routed to dedicated MCP servers. This keeps operations more contained and possibly more secure. However, the Gmail agent won't be sending emails yet, reflecting its limited operational scope.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Developing-Gamer/agent-sim</title>
+      <link>https://github.com/Developing-Gamer/agent-sim</link>
+      <guid isPermaLink="false">pepite-787f998a7e71c1a9</guid>
+      <pubDate>Sat, 21 Nov 2026 20:26:12 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source tool to test iOS apps with AI agents in a Linux setting. Great for simulating iOS app interactions without needing Apple hardware. But, it's demanding on resources and best suited for Linux users with hefty machines.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>A training engine for your local model, using your idle compute</title>
+      <link>https://github.com/sous-labs/songe</link>
+      <guid isPermaLink="false">pepite-5ff651f28a6e01a1</guid>
+      <pubDate>Tue, 24 Nov 2026 15:03:40 +0000</pubDate>
+      <category>models</category>
+      <description>A new discussion on using idle computational power to train models locally. This can cut costs and make training more accessible to smaller teams. The catch: it's reliant on having spare compute cycles available on your local machines.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents</title>
+      <link>http://arxiv.org/abs/2611.34852v1</link>
+      <guid isPermaLink="false">pepite-12c9bcf4e3247e81</guid>
+      <pubDate>Wed, 25 Nov 2026 18:25:30 +0000</pubDate>
+      <category>finance</category>
+      <description>A paper on evaluating deep research agents based on knowledge coverage. The focus is on how well agents explore research areas rather than just report quality. The challenge: it's a fresh paper, so you'd have to start by implementing the ideas through its code.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>HOG-WAM: Improving Visual Robustness through Future Gradient Prediction</title>
+      <link>http://arxiv.org/abs/2611.34811v1</link>
+      <guid isPermaLink="false">pepite-cc14cd4c93a6b353</guid>
+      <pubDate>Wed, 25 Nov 2026 17:59:24 +0000</pubDate>
+      <category>research</category>
+      <description>This research introduces a method to improve AI visuals using gradient predictions. It aims at making models more robust against visual clutter. However, you'll need to integrate their module into training, which adds another step to the process.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Put the World Back: Timestamps Matter in Time Series Reasoning</title>
+      <link>http://arxiv.org/abs/2611.34848v1</link>
+      <guid isPermaLink="false">pepite-eefcf14078755692</guid>
+      <pubDate>Wed, 25 Nov 2026 18:23:07 +0000</pubDate>
+      <category>finance</category>
+      <description>A paper exposes a gap in LLM time series reasoning by focusing on timestamps. It highlights potential oversights in how models relate data to time. The obstacle: integrating this perspective could require a fundamental rethink of your current evaluation process.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+      <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+      <guid isPermaLink="false">pepite-d3aa48daa62df585</guid>
+      <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+      <category>models</category>
+      <description>An update on speeding up inference and fine-tuning with open data on Nvidia tech. This can boost your model's performance without proprietary constraints. However, leveraging these specifics often requires staying updated with Nvidia's latest changes.
+
+— via Hugging Face</description>
+    </item>
+    <item>
+      <title>Distilling Kimi-K3.1-Pro into Qwen3.8-27B: Teaching a model a new language</title>
+      <link>https://www.together.ai/blog/distilling-kimi-into-qwen</link>
+      <guid isPermaLink="false">pepite-a8b73c672b8a0194</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>models</category>
+      <description>Despite Qwen3.8-27B mistaking languages, a new distillation method improves translation accuracy. It demonstrates keeping many model translations intact. The trade-off: you need a teacher model and it only resolves issues partially.
+
+— via Together AI</description>
+    </item>
+    <item>
+      <title>Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains</title>
+      <link>https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/</link>
+      <guid isPermaLink="false">pepite-4ba826a45a614982</guid>
+      <pubDate>Thu, 26 Nov 2026 10:51:27 +0000</pubDate>
+      <category>agents</category>
+      <description>Meta clashes with UK financial regulators over its Muse agent test access. This puts focus on how companies handle agent scrutiny and collaboration. The problem: bureaucratic and strategic barriers slowing or blocking jointly beneficial trials.
+
+— via Wired AI</description>
+    </item>
+    <item>
       <title>MIT team discovers that unrealistic training data makes AI climate predictions more reliable</title>
       <link>https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/</link>
       <guid isPermaLink="false">pepite-6d2775bbc9cabcdd</guid>
@@ -1362,145 +1502,5 @@
       <description>Meituan's massive 1.6-trillion parameter AI model was made without Nvidia GPUs. It shows China's growing independence in AI tech. But, it needs a special setup on Huawei hardware, not your typical plug-and-play model.
 
 — via The Decoder</description>
-    </item>
-    <item>
-      <title>datasette 0.65.6</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-2/</link>
-      <guid isPermaLink="false">pepite-7c04761a4076fc82</guid>
-      <pubDate>Sun, 15 Nov 2026 23:18:17 +0000</pubDate>
-      <category>research</category>
-      <description>Datasette version 0.65.6 introduces a security patch. It fixes a potential issue where databases could be wrongly accessed. A must for current users but might be obscure if you're not already using Datasette.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles</title>
-      <link>http://arxiv.org/abs/2611.18453v1</link>
-      <guid isPermaLink="false">pepite-76a93c9ee7cd9978</guid>
-      <pubDate>Fri, 13 Nov 2026 17:26:39 +0000</pubDate>
-      <category>research</category>
-      <description>A paper proposing a new method for estimating uncertainty in AI models. It uses a complex ensemble technique to separate known unknowns from knowledge gaps. The challenge? It's theoretical and might be overkill for practical use.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>VLAN: Vision-Language Accessible Navigation</title>
-      <link>http://arxiv.org/abs/2611.18346v1</link>
-      <guid isPermaLink="false">pepite-033b14e7ac97633a</guid>
-      <pubDate>Fri, 13 Nov 2026 15:54:23 +0000</pubDate>
-      <category>research</category>
-      <description>A paper on Vision-Language Accessible Navigation, offering diverse scene and path datasets. It's designed for researching mobility solutions with new AI benchmarks. Requires substantial data handling, so it's not for quick experiments.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context</title>
-      <link>https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/</link>
-      <guid isPermaLink="false">pepite-da52cf43de2b7257</guid>
-      <pubDate>Mon, 16 Nov 2026 09:44:17 +0000</pubDate>
-      <category>models</category>
-      <description>Alibaba's Qwen4-Max flaunts 2.4 trillion parameters and a million-token context. It's a powerhouse for handling complex AI tasks. Be ready for hefty costs with $1.5 per million tokens.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol</title>
-      <link>https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/</link>
-      <guid isPermaLink="false">pepite-d82d2c1dae8dfaa0</guid>
-      <pubDate>Sat, 14 Nov 2026 16:48:01 +0000</pubDate>
-      <category>research</category>
-      <description>Gemini 4 Carbon tops the MathArena benchmark but costs significantly more than GPT-6.1. It’s cutting-edge performance, but the expense might make it impractical for typical projects. It seems this could limit its everyday usability.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Anthropic says outdated prompting habits are slowing down Claude Opus 5.5</title>
-      <link>https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/</link>
-      <guid isPermaLink="false">pepite-a5dca2d386f6a667</guid>
-      <pubDate>Sat, 14 Nov 2026 16:42:56 +0000</pubDate>
-      <category>models</category>
-      <description>Anthropic has updated their guide for boosting Claude Opus 5.5 by ditching outdated prompts. Useful improvements can come from simple prompting tweaks. But, retraining those prompt habits takes time and effort you might not have.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>Where was Nvidia’s security team?</title>
-      <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
-      <guid isPermaLink="false">pepite-cdf34d438f124e67</guid>
-      <pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
-      <category>other</category>
-      <description>TechCrunch questions Nvidia's internal security after key leadership exits. It’s a lesson on risks of sudden top-level changes in tech firms. While it hints at organizational chaos, it’s really a call for better corporate governance.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
-      <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
-      <guid isPermaLink="false">pepite-9a736294c460795d</guid>
-      <pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
-      <category>other</category>
-      <description>A petition is pushing for Nvidia CEO Jensen Huang's return, involving big tech names. It’s a showing of support but doesn’t necessarily reflect a resolution or change soon. Petitions like these highlight CEO influence beyond the boardroom.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>tornadonovicewhirl40/ai--manus2.0</title>
-      <link>https://github.com/tornadonovicewhirl40/ai--manus2.0</link>
-      <guid isPermaLink="false">pepite-1df95abdb75d1962</guid>
-      <pubDate>Sat, 14 Nov 2026 19:25:17 +0000</pubDate>
-      <category>repos</category>
-      <description>Manus 2.0 is an AI agent that can browse the web and run code for you. It automates tasks so you can skip programming it from scratch. The catch: it still needs a good initial setup to know what actions to take.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Ultimateakiln/ai--manus2.0</title>
-      <link>https://github.com/Ultimateakiln/ai--manus2.0</link>
-      <guid isPermaLink="false">pepite-28a0ee83dba17aa5</guid>
-      <pubDate>Sat, 14 Nov 2026 19:25:17 +0000</pubDate>
-      <category>repos</category>
-      <description>Manus 2.0, once more, as an AI that handles the web and script execution without constant supervision. It’s great for lightening your workload on repetitive tasks. But remember, it’s not there to handle every scenario — some oversight is essential.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
-      <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</link>
-      <guid isPermaLink="false">pepite-e46d75e6ab538e56</guid>
-      <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
-      <category>models</category>
-      <description>A discussion on serving the GLM-5.3 AI model at high speeds with Nvidia GPUs. It’s a neat look at getting impressive performance by linking multiple GPUs. But, it’s very hardware-reliant — not something to try on a budget setup.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: A terminal-native idle factory game, written in Rust with ratatui</title>
-      <link>https://gitlab.com/snipedbywifi/terminactory</link>
-      <guid isPermaLink="false">pepite-db0497f968f5f056</guid>
-      <pubDate>Sat, 14 Nov 2026 14:05:54 +0000</pubDate>
-      <category>agents</category>
-      <description>A terminal-based game called Terminactory is now on Hacker News. It's a fun idle game you can play while waiting on your AI tasks to finish, built for the terminal. Just keep in mind, it doesn’t automate anything but your boredom.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Nvidia deliberately kept GPU prices high through circular financing deals</title>
-      <link>https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</link>
-      <guid isPermaLink="false">pepite-d6b993e430867a4a</guid>
-      <pubDate>Sat, 14 Nov 2026 22:26:30 +0000</pubDate>
-      <category>other</category>
-      <description>Nvidia is under scrutiny for allegedly keeping GPU prices high with financial maneuvers. It highlights industry pressures or tactics that aren’t immediately obvious. But as always with such claims, put a pin in the evidence pending further stories.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a11</title>
-      <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
-      <guid isPermaLink="false">pepite-f9a3c449e5989b1d</guid>
-      <pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
-      <category>research</category>
-      <description>Datasette just released an LLM plugin to help it work better with AI systems like OpenAI. It’s a nice bridge to run various models using standardized methods. The rub: it’s early days, and kinks with compatibility may arise.
-
-— via Simon Willison</description>
     </item>
 </channel></rss>
