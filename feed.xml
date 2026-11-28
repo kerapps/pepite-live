@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/pepite-live</link>
   <description>Undiscovered gems for people who build with AI</description>
     <item>
+      <title>Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?</title>
+      <link>https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/</link>
+      <guid isPermaLink="false">pepite-63f7c1abbb4c9b31</guid>
+      <pubDate>Fri, 27 Nov 2026 15:37:47 +0000</pubDate>
+      <category>agents</category>
+      <description>Article tackling Rockstar's release model amid AI coding agent advancements. Coding agents are speeding up mod development, challenging traditional release strategies. The downside: focuses on the entertainment industry, not tech implementation.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI is building "Athena" data platform to cut down on AI agent guesswork</title>
+      <link>https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/</link>
+      <guid isPermaLink="false">pepite-1cbafb2225ea483d</guid>
+      <pubDate>Fri, 27 Nov 2026 16:05:23 +0000</pubDate>
+      <category>agents</category>
+      <description>OpenAI is building 'Athena,' a new platform to improve AI accuracy. It may redefine data precision, competing with big names like Snowflake. The limitation: it's still early days, with no public use yet.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers</title>
+      <link>https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/</link>
+      <guid isPermaLink="false">pepite-fbf41e8b3541d7cd</guid>
+      <pubDate>Fri, 27 Nov 2026 19:38:37 +0000</pubDate>
+      <category>models</category>
+      <description>OpenAI's legal tussle with Apple over trade secrets. A reminder of the complex business landscapes AI companies navigate. The catch: this is a legal issue, not a technical insight.
+
+— via The Decoder</description>
+    </item>
+    <item>
+      <title>GPT 6.2 Astra solves a historical mystery</title>
+      <link>https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</link>
+      <guid isPermaLink="false">pepite-02ea1ec5f4c27d12</guid>
+      <pubDate>Fri, 27 Nov 2026 15:03:17 +0000</pubDate>
+      <category>models</category>
+      <description>A post on how GPT 6.2 Astra solved a historical mystery. It's a reminder of AI's unexpected capabilities, turning what seemed an impossible puzzle into a story solved. The catch: this is a discussion piece, not a technical breakdown.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Google's DeepCrossAttention achieves comparable model quality up to 3x faster</title>
+      <link>https://research.google/blog/supercharging-transformer-residual-connections/</link>
+      <guid isPermaLink="false">pepite-2b9a3f59b1ee772c</guid>
+      <pubDate>Fri, 27 Nov 2026 23:06:29 +0000</pubDate>
+      <category>models</category>
+      <description>Discussion on Google's new DeepCrossAttention method. It's impressive because it can offer similar quality results but up to 3x faster. The catch: detailed technical info is needed to understand and reproduce the work.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Moh4696/inkworks-skill</title>
+      <link>https://github.com/Moh4696/inkworks-skill</link>
+      <guid isPermaLink="false">pepite-e0afaa37d3c46d8a</guid>
+      <pubDate>Wed, 25 Nov 2026 09:26:33 +0000</pubDate>
+      <category>repos</category>
+      <description>Inkworks-skill is a GitHub project that automates creating interactive 3D "how it works" pages. It's neat because your AI can illustrate complex systems like a car engine in motion. The catch: it leans heavily on coding agents and might require fine-tuning on three.js.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>ThreatDefence/agentic-attack-detections</title>
+      <link>https://github.com/ThreatDefence/agentic-attack-detections</link>
+      <guid isPermaLink="false">pepite-120b36e83159193e</guid>
+      <pubDate>Fri, 20 Nov 2026 00:06:24 +0000</pubDate>
+      <category>repos</category>
+      <description>An open-source repo offering detection rules against AI-driven attacks. It's crucial for security teams facing advanced AI threats. The limitation: it covers specific frameworks, so might not suit every setup.
+
+— via GitHub</description>
+    </item>
+    <item>
+      <title>Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab</title>
+      <link>https://tesseracted.com/experiments-llm-os/</link>
+      <guid isPermaLink="false">pepite-5dfb6c41f1d6a6a4</guid>
+      <pubDate>Sat, 28 Nov 2026 00:16:59 +0000</pubDate>
+      <category>models</category>
+      <description>A WebAssembly engine running a small AI model in your web browser. This is great for light on-device AI tasks without any cloud dependency. The limitation: it sticks to small models due to browser memory limits.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>datasette-charts 0.4a0</title>
+      <link>https://simonwillison.net/2026/Nov/27/datasette-charts/</link>
+      <guid isPermaLink="false">pepite-68cfb35a007a7c13</guid>
+      <pubDate>Fri, 27 Nov 2026 23:57:17 +0000</pubDate>
+      <category>research</category>
+      <description>Datasette-charts 0.4a0 allows integrating new chart types into the plugin. It simplifies customizing data visualizations in Datasette. The catch: it's an alpha release, so expect some bumps in the road.
+
+— via Simon Willison</description>
+    </item>
+    <item>
+      <title>[AINews] Inside the exploding Coding Data Market</title>
+      <link>https://latent.space/p/ainews-inside-the-exploding-coding-data-market/</link>
+      <guid isPermaLink="false">pepite-8850a83cf6f1a9b2</guid>
+      <pubDate>Sat, 28 Nov 2026 03:45:59 +0000</pubDate>
+      <category>models</category>
+      <description>An inside look at the booming market for coding data. It's intriguing for understanding how AI models get their training data. The catch: this overview lacks specifics on data acquisition methods.
+
+— via Latent Space</description>
+    </item>
+    <item>
+      <title>The Linguistic Knowledge Benchmark: Do Language Models Know the Foundations of Early-Grade Literacy?</title>
+      <link>http://arxiv.org/abs/2611.34823v1</link>
+      <guid isPermaLink="false">pepite-e0df915c7cbee015</guid>
+      <pubDate>Wed, 25 Nov 2026 18:07:44 +0000</pubDate>
+      <category>research</category>
+      <description>Paper presenting a benchmark for testing language models in early literacy. It's important for ensuring models work in underrepresented languages. The catch: this remains a research tool, not a consumer application yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>CIRKDV2: Cross-Image Relational Knowledge Distillation with Contextual Modeling for Efficient Semantic Segmentation</title>
+      <link>http://arxiv.org/abs/2611.34795v1</link>
+      <guid isPermaLink="false">pepite-f504feb6096b8415</guid>
+      <pubDate>Wed, 25 Nov 2026 17:49:00 +0000</pubDate>
+      <category>research</category>
+      <description>CIRKDV2 paper on improving semantic segmentation using global image context. It promises better segmentation accuracy in AI models. The limitation: as with many papers, it remains theoretical until tested in real-world applications.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Reading Fine-Tuning Diffs Through Lenses: Model Diffing for Backdoor Detection</title>
+      <link>http://arxiv.org/abs/2611.34758v1</link>
+      <guid isPermaLink="false">pepite-62e347863f058980</guid>
+      <pubDate>Wed, 25 Nov 2026 17:28:59 +0000</pubDate>
+      <category>research</category>
+      <description>Paper on a method to detect backdoors in AI models via model 'diffing'. It's key for securing models against tampering. The downside: primarily of interest to those already dealing with model security.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token</title>
+      <link>https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/</link>
+      <guid isPermaLink="false">pepite-ae4039eff4967e39</guid>
+      <pubDate>Sat, 28 Nov 2026 09:45:33 +0000</pubDate>
+      <category>models</category>
+      <description>Ant Group's new LingSante-3.1-flash is a massive open medical AI model. It could set a new standard in medical AI research. The catch: it's extremely large, requiring serious hardware to run.
+
+— via MarkTechPost</description>
+    </item>
+    <item>
       <title>How Clay Builds GTM Agents — Jeff Barg, Head of AI</title>
       <link>https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/</link>
       <guid isPermaLink="false">pepite-00bb51c293be1538</guid>
@@ -1362,145 +1502,5 @@
       <description>VIVID rethinks video AI by focusing on change over static frames. It keeps track of motion and timing to better understand videos. Be aware, it's just a paper now, so practical use might be a stretch until it's implemented.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Retrieval-Augmented Correction for Generalist Medical Image Segmentation</title>
-      <link>http://arxiv.org/abs/2611.23189v1</link>
-      <guid isPermaLink="false">pepite-c6b4a99f878c332f</guid>
-      <pubDate>Tue, 17 Nov 2026 18:33:42 +0000</pubDate>
-      <category>finance</category>
-      <description>GRACE offers a smarter approach to correcting medical image segmentations using past data. It promises a one-size-fits-all training that could save time across various tasks. It's early days, code-wise; becoming practical will take time.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>stable-envs-v1: Fast and Reproducible Environments with Controllable Variations</title>
-      <link>http://arxiv.org/abs/2611.23151v1</link>
-      <guid isPermaLink="false">pepite-3f6c10f45d212b42</guid>
-      <pubDate>Tue, 17 Nov 2026 18:04:00 +0000</pubDate>
-      <category>research</category>
-      <description>Stable-envs-v1 provides fast environments with variation for training AI models. It keeps training diverse by making changes on-the-fly. The catch: you'll need solid GPU resources to make the most of it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>External sandboxes for coding agents</title>
-      <link>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</link>
-      <guid isPermaLink="false">pepite-c60558e98558e0e7</guid>
-      <pubDate>Tue, 17 Nov 2026 22:52:29 +0000</pubDate>
-      <category>finance</category>
-      <description>This post explores using external sandboxes to keep coding agents safe. It puts the agent in a controlled environment, minimizing risks if something goes wrong. Setting it up yourself can be complex without clear guidelines available.
-
-— via Simon Willison</description>
-    </item>
-    <item>
-      <title>SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode</title>
-      <link>https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/</link>
-      <guid isPermaLink="false">pepite-a252edc94bc19f64</guid>
-      <pubDate>Wed, 18 Nov 2026 07:10:53 +0000</pubDate>
-      <category>research</category>
-      <description>SID-2 offers an efficient AI for search tasks using multiple agents. It performs well, even surpassing some more established models. This is niche, more focused on benchmarking than everyday results.
-
-— via MarkTechPost</description>
-    </item>
-    <item>
-      <title>[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026</title>
-      <link>https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</link>
-      <guid isPermaLink="false">pepite-a909c419b8fadbae</guid>
-      <pubDate>Tue, 17 Nov 2026 09:24:56 +0000</pubDate>
-      <category>other</category>
-      <description>Perplexity boosts its earnings by pushing smart updates. The new revenue milestone shows its approach aligns well with market needs. The catch: It's more news than tool unless revenue models are your domain.
-
-— via Latent Space</description>
-    </item>
-    <item>
-      <title>Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices</title>
-      <link>https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/</link>
-      <guid isPermaLink="false">pepite-daa2f3055cf909ab</guid>
-      <pubDate>Mon, 16 Nov 2026 16:56:04 +0000</pubDate>
-      <category>models</category>
-      <description>A new AI model from Alibaba set against some leading names. It's much cheaper on long operations while still being competitive in performance. The catch: Its real-world impacts are best seen when it's out in open source, which isn’t yet fully there.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice</title>
-      <link>https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/</link>
-      <guid isPermaLink="false">pepite-75df91af27d861e0</guid>
-      <pubDate>Mon, 16 Nov 2026 19:19:56 +0000</pubDate>
-      <category>models</category>
-      <description>GPT-6 Astra tackles complex physics problems, showcasing AI’s power in research. It managed to solve a significant problem with advanced lattice computations. The catch: Practical applications are far off, so it's more academic than actionable now.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>OpenAI will embed safety researchers to investigate AI subversion</title>
-      <link>https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/</link>
-      <guid isPermaLink="false">pepite-99f66f454c3bc11f</guid>
-      <pubDate>Mon, 16 Nov 2026 17:02:43 +0000</pubDate>
-      <category>finance</category>
-      <description>OpenAI will place safety reviewers directly inside project teams. It's a proactive step to prevent AI from running amok. The catch: There are limits on what these researchers can disclose, which may hamper transparency.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>California state AG sues OpenAI over rogue agent incidents</title>
-      <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
-      <guid isPermaLink="false">pepite-773cc78ee17a9631</guid>
-      <pubDate>Mon, 16 Nov 2026 20:07:13 +0000</pubDate>
-      <category>agents</category>
-      <description>A landmark lawsuit seeks to address AI accountability. The case raises essential questions about responsibility when AI systems act unpredictably. The catch: Legal outcomes could take ages, delaying any real-world change.
-
-— via TechCrunch AI</description>
-    </item>
-    <item>
-      <title>Building trustworthy AI by fencing it in, not predicting it</title>
-      <link>https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/</link>
-      <guid isPermaLink="false">pepite-b2955c38ff71d9a1</guid>
-      <pubDate>Mon, 16 Nov 2026 16:04:28 +0000</pubDate>
-      <category>agents</category>
-      <description>Discusses AI being controlled through strict rules rather than prediction. It's about restricting AI rather than trusting it to behave. The catch: Implementing these measures without stifling innovation is tricky.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>Google warns that fully automated cyberattacks have arrived and will get worse fast</title>
-      <link>https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/</link>
-      <guid isPermaLink="false">pepite-885a2252df28ac5b</guid>
-      <pubDate>Mon, 16 Nov 2026 19:42:13 +0000</pubDate>
-      <category>agents</category>
-      <description>Google reports the first fully automated cyberattacks. The AI framework exploit_agent works with zero human input. The catch: This highlights an urgent need for robust defenses against AI-driven threats.
-
-— via The Decoder</description>
-    </item>
-    <item>
-      <title>The open-source movement wants Jensen Huang back</title>
-      <link>https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/</link>
-      <guid isPermaLink="false">pepite-9ccf8665576aaeb3</guid>
-      <pubDate>Mon, 16 Nov 2026 18:38:47 +0000</pubDate>
-      <category>repos</category>
-      <description>The push to bring back Jensen Huang highlights an open-source sentiment. It underlines the community's desire for open collaboration over closed leadership. The catch: Motivations behind the movement are varied, not all are clearly on the same page.
-
-— via MIT Tech Review AI</description>
-    </item>
-    <item>
-      <title>sybil-solutions/inference-optimisation-skill</title>
-      <link>https://github.com/sybil-solutions/inference-optimisation-skill</link>
-      <guid isPermaLink="false">pepite-5ccbb9d635f4ca28</guid>
-      <pubDate>Mon, 16 Nov 2026 18:40:04 +0000</pubDate>
-      <category>repos</category>
-      <description>An open-source tool to speed up large language models wherever they run. It fine-tunes performance step by step, checking each change against stability. The catch: it focuses heavily on process, not just settings, so it can't be a one-click fix.
-
-— via GitHub</description>
-    </item>
-    <item>
-      <title>VisionWormStudio/Gemini-Config-Checker-</title>
-      <link>https://github.com/VisionWormStudio/Gemini-Config-Checker-</link>
-      <guid isPermaLink="false">pepite-db885a4a7240328f</guid>
-      <pubDate>Sun, 15 Nov 2026 16:46:04 +0000</pubDate>
-      <category>repos</category>
-      <description>A command-line tool to test proxy settings for accessing Google AI services directly. It simulates real user access to ensure your setup actually works. The catch: it's reliant on browser-based checks, which might feel a bit clunky for some needs.
-
-— via GitHub</description>
     </item>
 </channel></rss>
